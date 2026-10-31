@@ -1,6 +1,6 @@
 /**
  * Renderizador Gráfico 2D (Canvas 60 FPS) — Engenharia da Estabilidade
- * Desenha o Tanque Hidráulico (Estoque/Fluxo), o Duto LFT, a Caldeira Termodinâmica
+ * Desenha o Tanque Hidráulico (Estoque/Fluxo), o Duto Tesouro Selic, a Caldeira Termodinâmica
  * e a Ponte Suspensa com Sacos de Desoneração e Pilares Sociais.
  */
 
@@ -27,26 +27,29 @@ window.CanvasRenderer = (function () {
 
   function draw(state) {
     const isLight = document.documentElement.classList.contains("light");
-    const fg = isLight ? "#0f172a" : "#f8fafc";
-    const muted = isLight ? "#475569" : "#94a3b8";
-    const bg = isLight ? "#f1f5f9" : "#0b1120";
-    const cardBg = isLight ? "#ffffff" : "#1e293b";
-    const borderCol = isLight ? "#cbd5e1" : "#334155";
+    
+    // Paleta de laboratório técnico / blueprint
+    const fg = isLight ? "#111422" : "#f0f2f8";
+    const muted = isLight ? "#5e6682" : "#8b92a8";
+    const bg = isLight ? "#f5f6fa" : "#06080e";
+    const cardBg = isLight ? "#ffffff" : "#11131c";
+    const borderCol = isLight ? "#d4d8e6" : "#222638";
+    const cyan = isLight ? "#0891b2" : "#06b6d4";
 
     ctx.clearRect(0, 0, canvas.width, canvas.height);
     ctx.fillStyle = bg;
     ctx.fillRect(0, 0, canvas.width, canvas.height);
 
-    // Grade sutil de blueprint de engenharia no fundo
-    ctx.strokeStyle = isLight ? "rgba(148, 163, 184, 0.18)" : "rgba(51, 65, 85, 0.35)";
+    // Grade técnica de engenharia no fundo
+    ctx.strokeStyle = isLight ? "rgba(212, 216, 230, 0.45)" : "rgba(34, 38, 56, 0.55)";
     ctx.lineWidth = 1;
-    for (let gx = 0; gx < canvas.width; gx += 32) {
+    for (let gx = 0; gx < canvas.width; gx += 28) {
       ctx.beginPath();
       ctx.moveTo(gx, 0);
       ctx.lineTo(gx, canvas.height);
       ctx.stroke();
     }
-    for (let gy = 0; gy < canvas.height; gy += 32) {
+    for (let gy = 0; gy < canvas.height; gy += 28) {
       ctx.beginPath();
       ctx.moveTo(0, gy);
       ctx.lineTo(canvas.width, gy);
@@ -71,19 +74,19 @@ window.CanvasRenderer = (function () {
     const tankH = tankBottom - tankTop;
 
     ctx.fillStyle = fg;
-    ctx.font = "bold 13px sans-serif";
+    ctx.font = "700 12px 'Plus Jakarta Sans', sans-serif";
     ctx.textAlign = "center";
     ctx.fillText("1. TANQUE DÍVIDA / PIB", tankCenterX, 26);
     ctx.fillStyle = muted;
-    ctx.font = "11px sans-serif";
-    ctx.fillText("Largura = PIB (Y) | Nível = Estoque", tankCenterX, 44);
+    ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
+    ctx.fillText("Largura = PIB (Y) | Nível = Estoque", tankCenterX, 42);
 
     // Nível de água proporcional à Dívida/PIB
     const fillRatio = Math.max(0.2, Math.min(0.96, (state.dividaProj - 60) / 36));
     const waterY = tankBottom - tankH * fillRatio;
 
     let waterColor = "rgba(16, 185, 129, 0.55)";
-    if (state.dividaProj >= 85.5) waterColor = "rgba(239, 68, 68, 0.65)";
+    if (state.dividaProj >= 85.5) waterColor = "rgba(244, 63, 94, 0.65)";
     else if (state.dividaProj >= 81.5) waterColor = "rgba(245, 158, 11, 0.60)";
 
     // Fluido com ondas senoidais
@@ -98,8 +101,8 @@ window.CanvasRenderer = (function () {
     ctx.closePath();
     ctx.fill();
 
-    // Linha de Alerta de Transbordamento (Rolagem curta de 3 anos)
-    ctx.strokeStyle = "#ef4444";
+    // Linha de Alerta de Transbordamento
+    ctx.strokeStyle = "#f43f5e";
     ctx.lineWidth = 1.5;
     ctx.setLineDash([5, 4]);
     ctx.beginPath();
@@ -110,17 +113,19 @@ window.CanvasRenderer = (function () {
 
     // Paredes Móveis do Tanque
     ctx.strokeStyle = borderCol;
-    ctx.lineWidth = 4;
+    ctx.lineWidth = 3;
     ctx.strokeRect(tankCenterX - tankHalfW, tankTop, tankHalfW * 2, tankH);
 
-    // Indicadores dentro do Tanque
+    // Indicadores dentro do Tanque (usando fonte mono para os números)
     ctx.fillStyle = fg;
-    ctx.font = "bold 20px sans-serif";
+    ctx.font = "700 21px 'JetBrains Mono', monospace";
     ctx.fillText(`${state.dividaProj.toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 38);
-    ctx.font = "bold 11px sans-serif";
-    ctx.fillStyle = muted;
+    ctx.font = "600 11px 'JetBrains Mono', monospace";
+    ctx.fillStyle = cyan;
     ctx.fillText(`PIB (Y): ${state.pibGrowth >= 0 ? "+" : ""}${state.pibGrowth.toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 18);
-    ctx.fillText(`Prazo Rolagem: ${state.matYears.toFixed(1).replace(".", ",")} anos`, tankCenterX, tankBottom + 20);
+    ctx.fillStyle = muted;
+    ctx.font = "11px 'JetBrains Mono', monospace";
+    ctx.fillText(`Rolagem: ${state.matYears.toFixed(1).replace(".", ",")} anos`, tankCenterX, tankBottom + 20);
 
     // =========================================================================
     // DUTO DE RECIRCULAÇÃO TESOURO SELIC (SELIC -> ESTOQUE DA DÍVIDA)
@@ -142,10 +147,11 @@ window.CanvasRenderer = (function () {
       ctx.arc(405 - offset, 145, 3.8, 0, Math.PI * 2);
       ctx.fill();
     }
-    ctx.font = "bold 11px sans-serif";
+    ctx.font = "600 11px 'Plus Jakarta Sans', sans-serif";
     ctx.fillStyle = muted;
-    ctx.fillText("Duto Tesouro Selic (Juros → Dívida)", 332, 130);
-    ctx.font = "11px sans-serif";
+    ctx.fillText("Duto Tesouro Selic", 332, 130);
+    ctx.font = "600 11px 'JetBrains Mono', monospace";
+    ctx.fillStyle = "#f59e0b";
     ctx.fillText(`Juros: ${state.jurosFluxo.toFixed(1).replace(".", ",")}% PIB`, 332, 165);
 
     // =========================================================================
@@ -156,14 +162,14 @@ window.CanvasRenderer = (function () {
     const boilerR = 64;
 
     ctx.fillStyle = fg;
-    ctx.font = "bold 13px sans-serif";
+    ctx.font = "700 12px 'Plus Jakarta Sans', sans-serif";
     ctx.fillText("2. CALDEIRA MONETÁRIA", boilerX, 26);
     ctx.fillStyle = muted;
-    ctx.font = "11px sans-serif";
-    ctx.fillText("Pressão = Inflação | Válvula = Selic", boilerX, 44);
+    ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
+    ctx.fillText("Pressão = Inflação | Válvula = Selic", boilerX, 42);
 
     let boilerColor = "#10b981";
-    if (state.inflacao > 5.5) boilerColor = "#ef4444";
+    if (state.inflacao > 5.5) boilerColor = "#f43f5e";
     else if (state.inflacao > 4.3) boilerColor = "#f59e0b";
 
     // Vapor escapando no topo da caldeira
@@ -182,7 +188,7 @@ window.CanvasRenderer = (function () {
     // Casco da Caldeira
     ctx.fillStyle = cardBg;
     ctx.strokeStyle = boilerColor;
-    ctx.lineWidth = 5;
+    ctx.lineWidth = 4;
     ctx.beginPath();
     ctx.arc(boilerX, boilerY, boilerR, 0, Math.PI * 2);
     ctx.fill();
@@ -190,12 +196,14 @@ window.CanvasRenderer = (function () {
 
     // Leituras da Caldeira
     ctx.fillStyle = fg;
-    ctx.font = "bold 19px sans-serif";
+    ctx.font = "700 19px 'JetBrains Mono', monospace";
     ctx.fillText(`${state.inflacao.toFixed(1).replace(".", ",")}% a.a.`, boilerX, boilerY - 6);
-    ctx.font = "11px sans-serif";
+    ctx.font = "600 11px 'JetBrains Mono', monospace";
     ctx.fillStyle = muted;
     ctx.fillText(`Selic: ${state.selic.toFixed(2).replace(".", ",")}%`, boilerX, boilerY + 14);
+    ctx.font = "10px 'Plus Jakarta Sans', sans-serif";
     ctx.fillText(state.reforma >= 60 ? "Meta 4% Crível" : "Meta 3% Sem Âncora", boilerX, boilerY + 32);
+    ctx.font = "600 11px 'JetBrains Mono', monospace";
     ctx.fillText(`Nominal: ${state.nominal.toFixed(1).replace(".", ",")}% PIB`, boilerX, tankBottom + 20);
 
     // =========================================================================
@@ -206,15 +214,15 @@ window.CanvasRenderer = (function () {
     const bridgeSpan = 126;
 
     ctx.fillStyle = fg;
-    ctx.font = "bold 13px sans-serif";
+    ctx.font = "700 12px 'Plus Jakarta Sans', sans-serif";
     ctx.fillText("3. PONTE SOCIAL & PRODUTIVA", bridgeCenterX, 26);
     ctx.fillStyle = muted;
-    ctx.font = "11px sans-serif";
-    ctx.fillText("Pesos = Desonerações | Pilares = Social", bridgeCenterX, 44);
+    ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
+    ctx.fillText("Pesos = Desonerações | Pilares = Social", bridgeCenterX, 42);
 
-    // Espessura dos Pilares Sociais (afinados pelo Tesouraço)
+    // Espessura dos Pilares Sociais
     const pillarW = Math.max(6, 18 - (state.cortes > 75 ? (state.cortes - 75) * 0.05 : 0));
-    ctx.fillStyle = state.cortes >= 175 ? "#ef4444" : "#64748b";
+    ctx.fillStyle = state.cortes >= 175 ? "#f43f5e" : "#475569";
     ctx.fillRect(bridgeCenterX - bridgeSpan + 12, bridgeY, pillarW, 104);
     ctx.fillRect(bridgeCenterX + bridgeSpan - 12 - pillarW, bridgeY, pillarW, 104);
 
@@ -226,34 +234,34 @@ window.CanvasRenderer = (function () {
     else if (state.dividaProj >= 86) tilt = 0.10;
     ctx.rotate(tilt);
 
-    ctx.fillStyle = state.mode === "ok" ? "#10b981" : (state.mode.startsWith("collapse") ? "#ef4444" : "#3b82f6");
-    ctx.fillRect(-bridgeSpan, -6, bridgeSpan * 2, 12);
+    ctx.fillStyle = state.mode === "ok" ? "#10b981" : (state.mode.startsWith("collapse") ? "#f43f5e" : cyan);
+    ctx.fillRect(-bridgeSpan, -5, bridgeSpan * 2, 10);
 
-    // Sacos de Chumbo das Desonerações / Renúncias Fiscais pendurados na ponte
+    // Sacos de Desoneração
     const remainingBags = Math.max(1, Math.round((350 - state.renuncias) / 70));
     for (let b = 0; b < remainingBags; b++) {
       const bx = -76 + b * 38;
-      ctx.fillStyle = "#eab308";
-      ctx.fillRect(bx - 11, 6, 22, 24);
-      ctx.fillStyle = "#0f172a";
-      ctx.font = "bold 10px sans-serif";
-      ctx.fillText("R$", bx, 22);
+      ctx.fillStyle = "#f59e0b";
+      ctx.fillRect(bx - 11, 5, 22, 22);
+      ctx.fillStyle = "#090a0f";
+      ctx.font = "700 10px 'JetBrains Mono', monospace";
+      ctx.fillText("R$", bx, 20);
     }
     ctx.restore();
 
-    // Vento Externo (Turbina 2003-2010 quando ativa nos Flashbacks)
+    // Vento Externo
     if (state.extWind !== 0) {
-      ctx.fillStyle = state.extWind > 0 ? "#10b981" : "#ef4444";
-      ctx.font = "bold 11px sans-serif";
-      const windLabel = state.extWind > 0 ? "🌬️ Vento Externo Favorável (Commodities +)" : "🌩️ Choque Externo Adverso (-)";
+      ctx.fillStyle = state.extWind > 0 ? "#10b981" : "#f43f5e";
+      ctx.font = "600 11px 'Plus Jakarta Sans', sans-serif";
+      const windLabel = state.extWind > 0 ? "🌬️ Vento Externo (Commodities +)" : "🌩️ Choque Externo Adverso (-)";
       ctx.fillText(windLabel, bridgeCenterX, 115);
     }
 
     ctx.fillStyle = muted;
-    ctx.font = "11px sans-serif";
-    ctx.fillText(`Sacos de Desoneração: ${remainingBags}x`, bridgeCenterX, tankBottom - 4);
+    ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
+    ctx.fillText(`Sacos de Renúncias: ${remainingBags}x`, bridgeCenterX, tankBottom - 4);
     ctx.fillStyle = fg;
-    ctx.font = "bold 12px sans-serif";
+    ctx.font = "600 12px 'JetBrains Mono', monospace";
     ctx.fillText(`Coesão Social: ${state.coesao}%`, bridgeCenterX, tankBottom + 20);
 
     ctx.restore();

@@ -37,13 +37,13 @@ window.AppController = (function () {
       btn.onclick = function () {
         loadScenario(sc.id);
       };
-      btn.className = "game-btn text-left p-2.5 rounded-lg border border-slate-800 bg-slate-900/60 hover:bg-slate-800/80 hover:border-slate-700 transition-all";
+      btn.className = "game-btn text-left p-2.5 rounded-lg border border-[#222638] bg-[#171a26]/70 hover:bg-[#1f2334] hover:border-slate-600 transition-all";
       btn.innerHTML = `
         <div class="text-xs font-bold flex items-center gap-1.5 text-slate-200">
           <span class="text-sm">${sc.icon}</span>
           <span>${sc.shortTitle}</span>
         </div>
-        <div class="text-[11px] text-slate-400 mt-0.5">${sc.subtitle}</div>
+        <div class="text-[11px] text-slate-400 mt-0.5 font-mono-num">${sc.subtitle}</div>
       `;
       if (sc.block === "atual") {
         containerAtual.appendChild(btn);
@@ -58,9 +58,9 @@ window.AppController = (function () {
       const btn = document.getElementById("btn-sc-" + k);
       if (!btn) return;
       if (k === activeKey) {
-        btn.className = "game-btn text-left p-2.5 rounded-lg border border-sky-500/60 bg-sky-500/10 shadow-sm ring-1 ring-sky-500/30";
+        btn.className = "game-btn text-left p-2.5 rounded-lg border border-cyan-500/70 bg-cyan-500/10 shadow-sm ring-1 ring-cyan-500/40";
       } else {
-        btn.className = "game-btn text-left p-2.5 rounded-lg border border-slate-800 bg-slate-900/60 hover:bg-slate-800/80 hover:border-slate-700";
+        btn.className = "game-btn text-left p-2.5 rounded-lg border border-[#222638] bg-[#171a26]/70 hover:bg-[#1f2334] hover:border-slate-600";
       }
     });
   }
@@ -84,12 +84,12 @@ window.AppController = (function () {
 
     const pill = document.getElementById("active-mode-pill");
     if (sc.block === "historico") {
-      pill.textContent = "⏳ Bloco 2: Conhecimento Histórico (Flashback)";
-      pill.className = "text-[11px] font-semibold px-2 py-0.5 rounded bg-violet-500/15 text-violet-300 border border-violet-500/30";
+      pill.textContent = "⏳ Memória Histórica";
+      pill.className = "text-[10px] font-bold px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30";
       unlockedBadges.historiador.add(key);
     } else {
-      pill.textContent = "🎯 Bloco 1: Momento Atual (2026–2030)";
-      pill.className = "text-[11px] font-semibold px-2 py-0.5 rounded bg-sky-500/15 text-sky-300 border border-sky-500/30";
+      pill.textContent = "🎯 Arena 2026–2030";
+      pill.className = "text-[10px] font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30";
     }
 
     // Desabilita botão de Reset pois os sliders voltaram ao estado original da fase
@@ -141,16 +141,16 @@ window.AppController = (function () {
 
     if (currentState.mode === "ok") {
       hpBar.className = "h-full transition-all duration-300 bg-emerald-500";
-      hpText.className = "text-emerald-400 font-bold tabular-numbers";
-      hudStatus.className = "text-xs font-semibold text-center mt-1.5 text-emerald-400";
+      hpText.className = "text-emerald-400 font-bold font-mono-num";
+      hudStatus.className = "text-[11px] font-semibold text-center mt-1.5 text-emerald-400";
     } else if (currentState.mode === "warning") {
       hpBar.className = "h-full transition-all duration-300 bg-amber-500";
-      hpText.className = "text-amber-400 font-bold tabular-numbers";
-      hudStatus.className = "text-xs font-semibold text-center mt-1.5 text-amber-400";
+      hpText.className = "text-amber-400 font-bold font-mono-num";
+      hudStatus.className = "text-[11px] font-semibold text-center mt-1.5 text-amber-400";
     } else {
       hpBar.className = "h-full transition-all duration-300 bg-rose-500";
-      hpText.className = "text-rose-400 font-bold tabular-numbers";
-      hudStatus.className = "text-xs font-semibold text-center mt-1.5 text-rose-400";
+      hpText.className = "text-rose-400 font-bold font-mono-num";
+      hudStatus.className = "text-[11px] font-semibold text-center mt-1.5 text-rose-400";
     }
 
     // Atualiza barra da Identidade Macro Y = C + I + G + (X - M)
@@ -181,7 +181,7 @@ window.AppController = (function () {
     const el = document.getElementById(elId);
     if (!el) return;
     if (unlocked) {
-      el.className = "px-2.5 py-1 rounded-md text-xs font-semibold border border-emerald-500/40 bg-emerald-500/10 text-emerald-300 flex items-center gap-1.5";
+      el.className = "px-2.5 py-0.5 rounded text-[11px] font-semibold border border-emerald-500/40 bg-emerald-500/10 text-emerald-300 flex items-center gap-1.5 opacity-100";
     }
   }
 

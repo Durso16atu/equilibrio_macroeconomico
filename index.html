@@ -3,211 +3,215 @@
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <title>Engenharia da Estabilidade — Basicão de Economia 2.0 (Simulador 2D)</title>
+  <title>Engenharia da Estabilidade — Basicão de Economia 2.0</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
   <script src="https://cdn.tailwindcss.com"></script>
   <style>
     :root {
-      --bg-canvas: #090d16;
-      --bg-surface: #111827;
-      --bg-surface-elevated: #1a2333;
-      --border-subtle: #1f293d;
-      --border-focus: #38bdf8;
-      --fg-primary: #f1f5f9;
-      --fg-secondary: #94a3b8;
-      --accent-cyan: #0284c7;
-      --accent-emerald: #10b981;
-      --accent-amber: #f59e0b;
-      --accent-rose: #f43f5e;
+      --bg: #090a0f;
+      --card: #11131c;
+      --card-muted: #171a26;
+      --border: #222638;
+      --border-bright: #323954;
+      --text: #f0f2f8;
+      --text-muted: #8b92a8;
+      --amber: #f59e0b;
+      --emerald: #10b981;
+      --rose: #f43f5e;
+      --cyan: #06b6d4;
     }
     html.light {
-      --bg-canvas: #f8fafc;
-      --bg-surface: #ffffff;
-      --bg-surface-elevated: #f1f5f9;
-      --border-subtle: #e2e8f0;
-      --border-focus: #0284c7;
-      --fg-primary: #0f172a;
-      --fg-secondary: #64748b;
-      --accent-cyan: #0369a1;
-      --accent-emerald: #059669;
-      --accent-amber: #d97706;
-      --accent-rose: #e11d48;
+      --bg: #f5f6fa;
+      --card: #ffffff;
+      --card-muted: #eaedf5;
+      --border: #d4d8e6;
+      --border-bright: #b8c0d9;
+      --text: #111422;
+      --text-muted: #5e6682;
+      --amber: #d97706;
+      --emerald: #059669;
+      --rose: #e11d48;
+      --cyan: #0891b2;
     }
     body {
-      background-color: var(--bg-canvas);
-      color: var(--fg-primary);
-      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
       text-rendering: optimizeLegibility;
       -webkit-font-smoothing: antialiased;
     }
-    .surface-panel {
-      background-color: var(--bg-surface);
-      border: 1px solid var(--border-subtle);
-    }
-    .surface-elevated {
-      background-color: var(--bg-surface-elevated);
-      border: 1px solid var(--border-subtle);
-    }
-    .tabular-numbers {
+    .font-mono-num {
+      font-family: 'JetBrains Mono', monospace;
       font-variant-numeric: tabular-nums;
-      font-feature-settings: "tnum";
     }
-    .slider-thumb {
+    .app-panel {
+      background-color: var(--card);
+      border: 1px solid var(--border);
+    }
+    .app-inner {
+      background-color: var(--card-muted);
+      border: 1px solid var(--border);
+    }
+    /* Estilo de console analítico para os sliders */
+    input[type=range] {
       -webkit-appearance: none;
       appearance: none;
+      background: var(--border);
       height: 6px;
-      border-radius: 9999px;
+      border-radius: 3px;
       outline: none;
     }
-    .slider-thumb::-webkit-slider-thumb {
+    input[type=range]::-webkit-slider-thumb {
       -webkit-appearance: none;
       appearance: none;
       width: 18px;
       height: 18px;
-      border-radius: 50%;
-      background: #38bdf8;
+      border-radius: 4px;
+      background: var(--cyan);
       cursor: pointer;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
-      transition: transform 0.1s ease, background-color 0.1s ease;
+      box-shadow: 0 0 10px rgba(6, 182, 212, 0.45);
+      transition: transform 0.1s ease;
     }
-    .slider-thumb::-webkit-slider-thumb:hover {
+    input[type=range]::-webkit-slider-thumb:hover {
       transform: scale(1.15);
-      background: #7dd3fc;
     }
-    .slider-thumb::-moz-range-thumb {
+    input[type=range]::-moz-range-thumb {
       width: 18px;
       height: 18px;
-      border-radius: 50%;
-      background: #38bdf8;
+      border-radius: 4px;
+      background: var(--cyan);
       cursor: pointer;
       border: none;
-      box-shadow: 0 1px 3px rgba(0,0,0,0.3);
+      box-shadow: 0 0 10px rgba(6, 182, 212, 0.45);
     }
     .game-btn {
-      transition: all 0.15s cubic-bezier(0.4, 0, 0.2, 1);
+      transition: all 0.15s ease;
     }
     .game-btn:active:not(:disabled) {
-      transform: scale(0.98);
+      transform: translateY(1px);
     }
   </style>
 </head>
-<body class="p-3 sm:p-5 md:p-6">
-  <main class="max-w-5xl mx-auto space-y-4">
+<body class="p-3 sm:p-5 md:p-6 min-h-screen">
+  <div class="max-w-5xl mx-auto space-y-4">
 
-    <!-- CABEÇALHO / CONSOLE HUD -->
-    <header class="surface-panel rounded-xl p-4 shadow-sm flex flex-col md:flex-row items-center justify-between gap-4">
-      <div class="flex items-center gap-3.5 w-full md:w-auto">
-        <div class="w-11 h-11 rounded-lg bg-sky-500/10 border border-sky-500/20 flex items-center justify-center text-2xl shrink-0">
-          🕹️
+    <!-- TOP HUD COM ESTÉTICA DE CONSOLE ANALÍTICO -->
+    <header class="app-panel rounded-xl p-4 shadow-sm flex flex-col md:flex-row items-center justify-between gap-4">
+      <div class="flex items-center gap-3 w-full md:w-auto">
+        <div class="w-10 h-10 rounded-lg bg-cyan-500/10 border border-cyan-500/30 flex items-center justify-center text-xl shrink-0">
+          ⚙️
         </div>
         <div>
           <div class="flex flex-wrap items-center gap-2">
-            <span class="text-[11px] font-bold uppercase tracking-wider px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700/60">
-              Simulador Didático
+            <span class="text-[10px] font-bold tracking-wider uppercase px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">
+              Laboratório Macroeconômico
             </span>
-            <span id="active-mode-pill" class="text-[11px] font-semibold px-2 py-0.5 rounded bg-sky-500/15 text-sky-400 border border-sky-500/30">
-              🎯 Bloco 1: Momento Atual (2026–2030)
+            <span id="active-mode-pill" class="text-[10px] font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-400 border border-cyan-500/30">
+              🎯 Arena 2026–2030
             </span>
-            <button type="button" onclick="AppController.toggleTheme()" class="text-[11px] px-2 py-0.5 rounded border border-slate-700 hover:bg-slate-800 text-slate-300 transition-colors" title="Alternar tema claro/escuro">
+            <button type="button" onclick="AppController.toggleTheme()" class="text-[10px] px-2 py-0.5 rounded border border-slate-700 hover:bg-slate-800 transition-colors text-slate-400" title="Alternar tema">
               🌗 Tema
             </button>
           </div>
-          <h1 class="text-base sm:text-lg font-bold tracking-tight mt-1 text-slate-100">
-            Engenharia da Estabilidade: O Jogo do Equilíbrio Macroeconômico
+          <h1 class="text-base sm:text-lg font-extrabold tracking-tight mt-1 text-slate-100">
+            Engenharia da Estabilidade <span class="font-normal opacity-60 text-xs sm:text-sm">| Simulador 2D</span>
           </h1>
         </div>
       </div>
 
-      <!-- Barra de Saúde (HP da Economia rumo a 2030) -->
-      <div class="w-full md:w-72 surface-elevated rounded-lg p-3">
+      <!-- Medidor de HP da Economia -->
+      <div class="w-full md:w-80 app-inner rounded-lg p-3">
         <div class="flex justify-between items-center text-xs font-semibold mb-1">
-          <span class="text-slate-300">❤️ Saúde rumo a 2030</span>
-          <span id="hp-text" class="text-amber-400 font-bold tabular-numbers">68 / 100 HP</span>
+          <span class="text-slate-400">Estabilidade até 2030</span>
+          <span id="hp-text" class="text-amber-400 font-bold font-mono-num">68 / 100 HP</span>
         </div>
-        <div class="w-full h-2.5 bg-slate-800 rounded-full overflow-hidden border border-slate-700/60">
+        <div class="w-full h-2 rounded-full overflow-hidden bg-slate-800 border border-slate-700/60">
           <div id="hp-bar" class="h-full transition-all duration-300 bg-amber-500" style="width: 68%;"></div>
         </div>
-        <div id="hud-status-text" class="text-xs font-medium text-center mt-1.5 text-amber-400">
+        <div id="hud-status-text" class="text-[11px] font-semibold text-center mt-1.5 text-amber-400">
           ⚠️ Atenção: Bola de Neve dos Juros Ativa
         </div>
       </div>
     </header>
 
-    <!-- BARRA DE INSÍGNIAS (FEEDBACK DIDÁTICO) -->
-    <section class="surface-panel rounded-xl px-4 py-2.5 flex flex-wrap items-center justify-between gap-2.5" aria-label="Conquistas didáticas">
-      <span class="text-[11px] font-semibold uppercase tracking-wider text-slate-400">🏅 Insígnias Desbloqueáveis:</span>
-      <div class="flex flex-wrap gap-2">
-        <div id="badge-equilibrista" class="px-2.5 py-1 rounded-md text-xs font-medium border border-slate-800 bg-slate-900/40 text-slate-400 opacity-60 flex items-center gap-1.5">
-          <span>⚖️ Mestre do Equilíbrio (HP ≥ 85)</span>
+    <!-- INSÍGNIAS DE FEEDBACK RÁPIDO -->
+    <section class="app-panel rounded-xl px-4 py-2 flex flex-wrap items-center justify-between gap-2" aria-label="Insígnias">
+      <span class="text-[10px] font-bold uppercase tracking-wider text-slate-400">🏅 Metas de Engenharia:</span>
+      <div class="flex flex-wrap gap-2 text-[11px]">
+        <div id="badge-equilibrista" class="px-2.5 py-0.5 rounded border border-slate-800 bg-slate-900/60 text-slate-500 opacity-60 flex items-center gap-1.5">
+          <span>⚖️ Estabilidade (HP ≥ 85)</span>
         </div>
-        <div id="badge-renuncias" class="px-2.5 py-1 rounded-md text-xs font-medium border border-slate-800 bg-slate-900/40 text-slate-400 opacity-60 flex items-center gap-1.5">
-          <span>🎒 Caçador de Privilégios (Cortar ≥ R$ 200 bi de Desonerações)</span>
+        <div id="badge-renuncias" class="px-2.5 py-0.5 rounded border border-slate-800 bg-slate-900/60 text-slate-500 opacity-60 flex items-center gap-1.5">
+          <span>🎒 Rever Desonerações (≥ R$ 200 bi)</span>
         </div>
-        <div id="badge-historiador" class="px-2.5 py-1 rounded-md text-xs font-medium border border-slate-800 bg-slate-900/40 text-slate-400 opacity-60 flex items-center gap-1.5">
-          <span>⏳ Viajante do Tempo (Explorar os 4 Planos Históricos)</span>
+        <div id="badge-historiador" class="px-2.5 py-0.5 rounded border border-slate-800 bg-slate-900/60 text-slate-500 opacity-60 flex items-center gap-1.5">
+          <span>⏳ Memória Histórica (4 Fases)</span>
         </div>
       </div>
     </section>
 
-    <!-- BLOCOS DE CENÁRIOS (MOMENTO ATUAL vs MEMÓRIA HISTÓRICA) -->
+    <!-- MATRIZ DE CENÁRIOS: PRESENTE vs PASSADO -->
     <section class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
-      <!-- BLOCO 1: MOMENTO ATUAL (2026-2030) -->
-      <div class="surface-panel rounded-xl p-3.5 flex flex-col justify-between">
+      <!-- BLOCO 1: PRESENTE (2026-2030) -->
+      <div class="app-panel rounded-xl p-3.5 flex flex-col justify-between">
         <div>
           <div class="flex items-center justify-between mb-1">
-            <h2 class="text-xs font-bold uppercase tracking-wider text-sky-400">
-              🎯 Bloco 1: Momento Atual — Arena de Decisão (2026–2030)
+            <h2 class="text-xs font-bold uppercase tracking-wider text-cyan-400">
+              🎯 Bloco 1: Momento Atual (2026–2030)
             </h2>
-            <span class="text-[11px] text-slate-400">Presente</span>
+            <span class="text-[10px] font-mono-num text-slate-500 uppercase">Arena Ativa</span>
           </div>
-          <p class="text-xs text-slate-300 mb-2.5 leading-relaxed">
-            Experimente o dilema do Brasil pós-eleição: estabilizar a dívida de 82,9% sem cair no Tesouraço nem no Negacionismo.
+          <p class="text-xs text-slate-400 mb-2.5 leading-relaxed">
+            Dilema pós-eleição: estabilizar a dívida de 82,9% sem cair no Tesouraço nem no Negacionismo.
           </p>
           <div id="block-atual-buttons" class="grid grid-cols-2 gap-2"></div>
         </div>
       </div>
 
-      <!-- BLOCO 2: CONHECIMENTO HISTÓRICO (FLASHBACKS) -->
-      <div class="surface-panel rounded-xl p-3.5 flex flex-col justify-between">
+      <!-- BLOCO 2: FLASHBACKS HISTÓRICOS -->
+      <div class="app-panel rounded-xl p-3.5 flex flex-col justify-between">
         <div>
           <div class="flex items-center justify-between mb-1">
-            <h2 class="text-xs font-bold uppercase tracking-wider text-violet-400">
-              ⏳ Bloco 2: Conhecimento Histórico — Cápsula do Tempo
+            <h2 class="text-xs font-bold uppercase tracking-wider text-amber-400">
+              ⏳ Bloco 2: Conhecimento Histórico — Memória
             </h2>
-            <span class="text-[11px] text-slate-400">Para quem não viveu</span>
+            <span class="text-[10px] font-mono-num text-slate-500 uppercase">Para quem não viveu</span>
           </div>
-          <p class="text-xs text-slate-300 mb-2.5 leading-relaxed">
-            Viaje pelos marcos econômicos para descobrir de onde vieram os títulos pós-fixados à Selic, o prazo curto e as renúncias fiscais.
+          <p class="text-xs text-slate-400 mb-2.5 leading-relaxed">
+            Descubra as raízes do Tesouro Selic, do prazo curto de 3 anos e das desonerações tributárias.
           </p>
           <div id="block-historico-buttons" class="grid grid-cols-2 gap-2"></div>
         </div>
       </div>
     </section>
 
-    <!-- PALCO GRÁFICO 2D INTERATIVO (CANVAS) -->
-    <section class="surface-panel rounded-xl p-3.5 space-y-3">
-      <!-- Narrativa e Lição Histórica da Fase -->
-      <div class="flex flex-col md:flex-row md:items-center justify-between gap-3 surface-elevated rounded-lg p-3">
+    <!-- PALCO FÍSICO 2D (CANVAS) -->
+    <section class="app-panel rounded-xl p-3.5 space-y-3">
+      <!-- Contexto didático do cenário ativo -->
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-3 app-inner rounded-lg p-3">
         <div class="flex items-start gap-3">
-          <span id="story-icon" class="text-2xl shrink-0" aria-hidden="true">📍</span>
+          <span id="story-icon" class="text-2xl shrink-0">📍</span>
           <div>
-            <h3 id="story-title" class="text-sm font-bold text-slate-100">Carregando fase...</h3>
-            <p id="story-desc" class="text-xs text-slate-300 mt-0.5 leading-relaxed"></p>
+            <h3 id="story-title" class="text-xs sm:text-sm font-bold text-slate-100">Carregando fase...</h3>
+            <p id="story-desc" class="text-xs text-slate-400 mt-0.5 leading-relaxed"></p>
           </div>
         </div>
-        <div id="story-lesson" class="shrink-0 px-3 py-2 rounded-lg bg-sky-500/10 border border-sky-500/25 text-xs text-sky-200 md:max-w-xs leading-relaxed font-medium">
+        <div id="story-lesson" class="shrink-0 px-3 py-2 rounded-lg bg-cyan-500/10 border border-cyan-500/20 text-xs text-cyan-200 md:max-w-xs leading-relaxed font-medium">
         </div>
       </div>
 
-      <!-- Canvas 2D das 3 Estações de Engenharia -->
-      <div class="relative w-full overflow-hidden rounded-lg border border-slate-800 bg-[#090d16]">
-        <canvas id="gameCanvas" width="920" height="310" class="w-full h-auto block" role="img" aria-label="Visualização gráfica das 3 estações de engenharia: Tanque de Dívida/PIB, Caldeira de Inflação e Ponte Social"></canvas>
+      <!-- Canvas 2D da planta -->
+      <div class="relative w-full overflow-hidden rounded-lg border border-slate-800 bg-[#06080e]">
+        <canvas id="gameCanvas" width="920" height="310" class="w-full h-auto block" role="img" aria-label="Simulador 2D: Tanque de Dívida, Caldeira de Inflação e Ponte Social"></canvas>
       </div>
 
-      <!-- Identidade Macroeconômica Fundamental e Diagnóstico -->
+      <!-- Identidade Macro e Diagnóstico Causal -->
       <div class="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">
-        <div class="p-3 rounded-lg surface-elevated flex flex-col justify-center">
-          <div class="font-semibold text-slate-300 mb-1">📐 Identidade Macro (Y ≡ C + I + G + X − M):</div>
-          <div class="flex items-center justify-between font-mono font-semibold text-sky-400 tabular-numbers">
+        <div class="p-3 rounded-lg app-inner flex flex-col justify-center">
+          <div class="text-[11px] font-semibold text-slate-400 mb-1">📐 Identidade Macro (Y ≡ C + I + G + X − M):</div>
+          <div class="flex items-center justify-between font-mono-num font-bold text-cyan-400">
             <span id="id-c">C: 62%</span>
             <span>+</span>
             <span id="id-i">I: 16%</span>
@@ -217,110 +221,109 @@
             <span id="id-nx">X-M: +2%</span>
           </div>
         </div>
-        <div class="md:col-span-2 p-3 rounded-lg surface-elevated flex items-center">
+        <div class="md:col-span-2 p-3 rounded-lg app-inner flex items-center">
           <p id="diag-feedback" class="text-xs leading-relaxed text-slate-300"></p>
         </div>
       </div>
     </section>
 
-    <!-- MESA DE COMANDO — ALAVANCAS DE DECISÃO -->
-    <section class="surface-panel rounded-xl p-4 md:p-5">
+    <!-- MESA DE CONTROLE — ALAVANCAS DE CALIBRAGEM -->
+    <section class="app-panel rounded-xl p-4 md:p-5">
       <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 mb-4 border-b border-slate-800">
         <div>
           <div class="flex items-center gap-2">
             <h2 class="text-sm sm:text-base font-bold text-slate-100">🎛️ Mesa de Comando — Variáveis de Decisão</h2>
-            <span id="modified-badge" class="hidden text-[11px] px-2 py-0.5 rounded-md bg-amber-500/15 text-amber-300 border border-amber-500/30 font-semibold">
+            <span id="modified-badge" class="hidden text-[10px] px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30 font-bold uppercase font-mono-num">
               ✏️ Modificado
             </span>
           </div>
           <p class="text-xs text-slate-400 mt-0.5">
-            Calibre os parâmetros econômicos. Se sobrecarregar uma ponta e defasar outra, o sistema entra em ruína.
+            Calibre os ajustes. Pressionar uma ponta sem coordenação com a outra desestabiliza a planta.
           </p>
         </div>
 
-        <!-- Botão Reset e Voltar p/ Base -->
         <div class="flex items-center gap-2 shrink-0">
-          <button id="btn-reset-sliders" type="button" onclick="AppController.resetCurrentScenarioSliders()" disabled class="game-btn px-3 py-1.5 rounded-lg text-xs font-semibold border border-amber-500/40 bg-amber-500/10 text-amber-300 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-amber-500/20 flex items-center gap-1.5">
+          <button id="btn-reset-sliders" type="button" onclick="AppController.resetCurrentScenarioSliders()" disabled class="game-btn px-3 py-1.5 rounded-lg text-xs font-bold border border-amber-500/40 bg-amber-500/10 text-amber-300 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-amber-500/20 flex items-center gap-1.5">
             <span>🔄 Resetar Alavancas</span>
           </button>
-          <button type="button" onclick="AppController.loadScenario('atual')" class="game-btn px-3 py-1.5 rounded-lg text-xs font-medium border border-slate-700 bg-slate-800/80 hover:bg-slate-700 text-slate-200">
+          <button type="button" onclick="AppController.loadScenario('atual')" class="game-btn px-3 py-1.5 rounded-lg text-xs font-semibold border border-slate-700 bg-slate-800 hover:bg-slate-700 text-slate-200">
             🏠 Base Out/2026
           </button>
         </div>
       </div>
 
-      <!-- 4 Sliders com escala e feedback numérico nítido -->
+      <!-- 4 Sliders em Grid de 2 Colunas -->
       <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
-        <!-- Slider 1: Renúncias -->
-        <div class="p-3.5 rounded-lg surface-elevated space-y-2">
+        <!-- Slider 1 -->
+        <div class="p-3.5 rounded-lg app-inner space-y-2">
           <div class="flex justify-between items-center text-xs">
             <label for="s-renuncias" class="font-semibold text-slate-200">🎒 1. Rever Desonerações / Renúncias Fiscais</label>
-            <span id="v-renuncias" class="font-mono font-bold px-2 py-0.5 rounded bg-sky-500/15 text-sky-300 border border-sky-500/25 tabular-numbers">R$ 50 bi</span>
+            <span id="v-renuncias" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">R$ 50 bi</span>
           </div>
-          <input id="s-renuncias" type="range" min="0" max="350" step="25" value="50" oninput="AppController.onSliderChange()" class="w-full slider-thumb bg-slate-800 cursor-pointer" aria-label="Rever Desonerações Fiscais" />
-          <div class="flex justify-between text-[11px] text-slate-400 tabular-numbers">
+          <input id="s-renuncias" type="range" min="0" max="350" step="25" value="50" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Rever Desonerações Fiscais" />
+          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
             <span>Manter privilégios (R$ 0)</span>
             <span>Revisão forte (R$ 350 bi)</span>
           </div>
           <p class="text-[11px] text-slate-400 leading-relaxed">
-            Recompõe receitas públicas eliminando benefícios tributários ineficientes sem cortar investimentos sociais.
+            Recompõe receitas públicas cortando privilégios setoriais sem atingir os programas sociais.
           </p>
         </div>
 
-        <!-- Slider 2: Despesas e Cortes -->
-        <div class="p-3.5 rounded-lg surface-elevated space-y-2">
+        <!-- Slider 2 -->
+        <div class="p-3.5 rounded-lg app-inner space-y-2">
           <div class="flex justify-between items-center text-xs">
-            <label for="s-cortes" class="font-semibold text-slate-200">✂️ 2. Corte em Despesas, Investimento e Social (G)</label>
-            <span id="v-cortes" class="font-mono font-bold px-2 py-0.5 rounded bg-sky-500/15 text-sky-300 border border-sky-500/25 tabular-numbers">R$ 20 bi</span>
+            <label for="s-cortes" class="font-semibold text-slate-200">✂️ 2. Corte em Despesas e Investimento (G)</label>
+            <span id="v-cortes" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">R$ 20 bi</span>
           </div>
-          <input id="s-cortes" type="range" min="-150" max="300" step="25" value="20" oninput="AppController.onSliderChange()" class="w-full slider-thumb bg-slate-800 cursor-pointer" aria-label="Corte em Despesas e Investimento Público" />
-          <div class="flex justify-between text-[11px] text-slate-400 tabular-numbers">
+          <input id="s-cortes" type="range" min="-150" max="300" step="25" value="20" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Corte de Despesas e Investimento" />
+          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
             <span>Expandir (-R$ 150 bi)</span>
             <span>Desperdícios (R$ 50 bi)</span>
             <span>Tesouraço (R$ 300 bi)</span>
           </div>
           <p class="text-[11px] text-slate-400 leading-relaxed">
-            Até R$ 75 bi enxuga desperdícios. Cortes indiscriminados além disso colapsam a demanda agregada e os pilares sociais.
+            Até R$ 75 bi elimina ineficiências. Cortes profundos além disso colapsam o PIB (Y) e a coesão social.
           </p>
         </div>
 
-        <!-- Slider 3: Selic -->
-        <div class="p-3.5 rounded-lg surface-elevated space-y-2">
+        <!-- Slider 3 -->
+        <div class="p-3.5 rounded-lg app-inner space-y-2">
           <div class="flex justify-between items-center text-xs">
             <label for="s-selic" class="font-semibold text-slate-200">🧯 3. Válvula da Taxa de Juros (Selic % a.a.)</label>
-            <span id="v-selic" class="font-mono font-bold px-2 py-0.5 rounded bg-sky-500/15 text-sky-300 border border-sky-500/25 tabular-numbers">13,75% a.a.</span>
+            <span id="v-selic" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">13,75% a.a.</span>
           </div>
-          <input id="s-selic" type="range" min="6.0" max="18.0" step="0.25" value="13.75" oninput="AppController.onSliderChange()" class="w-full slider-thumb bg-slate-800 cursor-pointer" aria-label="Taxa Selic" />
-          <div class="flex justify-between text-[11px] text-slate-400 tabular-numbers">
+          <input id="s-selic" type="range" min="6.0" max="18.0" step="0.25" value="13.75" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Taxa Selic" />
+          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
             <span>6% (Baixar na marra)</span>
             <span>Equilíbrio (~10,25%)</span>
             <span>18% (Freio brusco)</span>
           </div>
           <p class="text-[11px] text-slate-400 leading-relaxed">
-            Juros são endógenos: baixar sem âncora fiscal superaquece a Caldeira; manter alto demais inunda o Tanque via Tesouro Selic.
+            Juros são endógenos: baixar na marra explode a caldeira; manter alto demais inunda a dívida via Tesouro Selic.
           </p>
         </div>
 
-        <!-- Slider 4: Reforma de Indexação -->
-        <div class="p-3.5 rounded-lg surface-elevated space-y-2">
+        <!-- Slider 4 -->
+        <div class="p-3.5 rounded-lg app-inner space-y-2">
           <div class="flex justify-between items-center text-xs">
             <label for="s-reforma" class="font-semibold text-slate-200">🔧 4. Reforma Estrutural (Desindexar Dívida + Meta 4%)</label>
-            <span id="v-reforma" class="font-mono font-bold px-2 py-0.5 rounded bg-sky-500/15 text-sky-300 border border-sky-500/25 tabular-numbers">20%</span>
+            <span id="v-reforma" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">20%</span>
           </div>
-          <input id="s-reforma" type="range" min="0" max="100" step="10" value="20" oninput="AppController.onSliderChange()" class="w-full slider-thumb bg-slate-800 cursor-pointer" aria-label="Reforma Estrutural e Desindexação" />
-          <div class="flex justify-between text-[11px] text-slate-400 tabular-numbers">
+          <input id="s-reforma" type="range" min="0" max="100" step="10" value="20" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Reforma Estrutural" />
+          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
             <span>0% (Pós-fixado puro)</span>
             <span>50% (Transição)</span>
             <span>100% (Desindexado)</span>
           </div>
           <p class="text-[11px] text-slate-400 leading-relaxed">
-            Fecha gradualmente o duto de indexação diária herdado da hiperinflação e alinha a governança com meta crível.
+            Fecha o duto de contágio diário Selic → Dívida e alinha a governança fiscal-monetária com meta crível.
           </p>
         </div>
       </div>
     </section>
 
-  </main>
+  </div>
 
   <script src="src/engine/macro_physics.js"></script>
   <script src="src/ui/canvas_renderer.js"></script>
