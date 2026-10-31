@@ -1,0 +1,14 @@
+# Ambientes virtuais e cache Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Node / Build (caso utilizado futuramente)
+node_modules/
+dist/
+
+# Arquivos de sistema e temporários (Lei 1 - Higiene de Raiz)
+.DS_Store
+*.log
+*.tmp

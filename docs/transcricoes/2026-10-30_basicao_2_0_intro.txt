@@ -1,0 +1,2228 @@
+[00:01] Deixa eu começar fazendo uma colocação aqui que tem pessoas
+[00:06] que estão chegando aqui agora, tem pessoas que já estão aqui há bastante tempo.
+[00:11] Então deixa primeiro eu explicar para vocês qual é o propósito desses basicões
+[00:17] para aqueles de vocês que não conheciam ainda os basicões do YouTube.
+[00:24] Na época da pandemia eu tinha um canal no YouTube Eu já vou explicar porque
+[00:29] o canal acabou,
+[00:30] mas eu tinha um canal no YouTube e nesse canal do YouTube eu fiz um monte de coisas,
+[00:34] mas sobretudo eu dei umas aulas de economia no canal porque naquela ocasião,
+[00:42] na pandemia,
+[00:43] tinha muita coisa acontecendo,
+[00:45] tinha muitas políticas sendo anunciadas,
+[00:48] tinha uma profusão de Enfim, de notícias e de outras coisas.
+[00:55] E muitas pessoas ficavam, estavam muito confusas naquela altura.
+[00:59] Foi uma época muito confusa, acho que todos vocês se lembram muito bem disso.
+[01:03] Foi uma época difícil,
+[01:04] confusa,
+[01:05] as medidas econômicas foram muito diferentes e ficou todo mundo meio perdido.
+[01:09] Então, no meio daquela confusão, eu resolvi usar o canal que eu tinha no YouTube para...
+[01:18] Dar umas aulas de economia para as pessoas,
+[01:21] para que todo mundo tivesse melhor capacidade de acompanhar
+[01:27] as discussões naquele momento.
+[01:30] E esses basicões de economia,
+[01:34] como eu chamei,
+[01:35] com conceitos básicos e coisas que todo mundo precisa saber antes
+[01:40] de mergulhar numa discussão econômica, aquilo fez um certo sucesso.
+[01:45] E muita gente ficou me pedindo depois para Refazer os basicões ou voltar com o canal e tal.
+[01:52] Deixa eu dizer uma coisa.
+[01:53] Eu acabei com o canal no YouTube porque o YouTube é um ambiente absolutamente tóxico.
+[01:58] Eu estava ali querendo fazer uma coisa séria de serviço público, gratuita para as pessoas.
+[02:04] As lives eram completamente abertas, assim como são essas lives aqui.
+[02:10] E num determinado momento, como o YouTube não tem... a gente não tem muito como...
+[02:17] Eu não sou uma pessoa como outras pessoas que têm canal do YouTube,
+[02:22] que têm, assim,
+[02:23] assessorias e tal,
+[02:24] e que contratam pessoas para ficar filtrando os comentários, isso e aquilo.
+[02:30] Não, o canal do YouTube era eu,
+[02:32] essa tela, os meus pedaços de papel, os meus lápis, os meus pilões, era só isso.
+[02:38] Eu nunca fiz produção nenhuma de vídeo, porque eu não tenho nem tempo, nem paciência para isso.
+[02:44] E também, assim, não era meu objetivo, nunca foi, ficar filtrando comentário no YouTube.
+[02:52] Mas chegou um ponto em que,
+[02:55] embora muitos de vocês estivessem lá e eu estou muito feliz de vê-los de volta aqui
+[03:01] e tudo mais,
+[03:02] os que frequentavam o canal lá vão lembrar que num determinado ponto começou
+[03:08] a ficar tóxico aquilo lá,
+[03:09] porque entrava gente ali que não estava nem um pouco afim De estar ali,
+[03:14] estava ali mesmo só para criar confusão,
+[03:18] criar baderna e fazer umas coisas assim meio nada a ver.
+[03:22] Então eu me aborreci a beça com isso e acabei encerrando o canal e acabou tudo.
+[03:29] E isso não vai voltar, tá gente?
+[03:31] Não há a menor possibilidade de eu voltar para o YouTube, eu detesto aquilo lá.
+[03:35] É bom para a gente assistir os outros,
+[03:37] mas é péssimo quando você Estar aqui do outro lado tentando fazer um trabalho sério
+[03:42] porque tem gente que entra lá e não deixa que isso aconteça.
+[03:46] Então, aquilo lá eu não quero que aconteça novamente aqui.
+[03:49] O Substack é um lugar bem melhor em muitos sentidos porque é uma rede diferente
+[03:56] do YouTube, é um lugar onde as pessoas estão aqui mais para conteúdo longo mesmo.
+[04:01] Então, enfim, esse
+[04:05] é o objetivo.
+[04:06] Por que que Eu acho que o momento agora é particularmente propício para
+[04:13] a gente recomeçar essa história dos basicões de economia,
+[04:17] porque eu vejo que a discussão econômica no Brasil, aliás,
+[04:21] eu me retirei do debate público no Brasil também por causa disso,
+[04:24] a discussão econômica no Brasil está,
+[04:28] eu acho que nunca teve pior do que está agora, tá, francamente, é horrível.
+[04:34] É horrível porque o que mais tem é desinformação e análise simplória sobre questões
+[04:41] que são extremamente complexas, extremamente nuançadas.
+[04:45] Não é fácil,
+[04:46] economia não é fácil,
+[04:48] é por isso que a gente estuda,
+[04:49] faz faculdade, depois faz mestrado, depois faz doutorado, porque é difícil.
+[04:56] Não é um campo do conhecimento de fácil entendimento para qualquer um.
+[05:02] Não é.
+[05:02] Simplesmente não é.
+[05:04] E eu acho que a maneira como as coisas são apresentadas muitas vezes na imprensa,
+[05:09] nos comentários e tal,
+[05:13] faz com que a economia pareça muito mais simples ou muito mais dogmática
+[05:20] na realidade do que é.
+[05:21] Economia não é dogma.
+[05:24] Agora, a economia tem certos princípios, sim,
+[05:26] e tem certas coisas que a gente não pode deixar de seguir ou de fazer,
+[05:34] porque tem coisas que funcionam e tem coisas que não funcionam.
+[05:38] Quem estuda, quem conhece, quem acompanha e tal, sabe disso.
+[05:45] Um problema que eu vejo hoje no Brasil,
+[05:48] e é muito importante, gente,
+[05:51] que vocês estejam comprometidos com o entendimento do que eu vou explicar aqui.
+[05:57] Eu preciso que vocês tenham esse compromisso.
+[06:00] Por quê?
+[06:01] Nós estamos na situação em que nós estamos,
+[06:04] acabamos de passar por uma eleição extremamente difícil,
+[06:08] onde conseguimos evitar que o pior que pudesse acontecer ao Brasil acontecesse,
+[06:13] Mas isso não significa que a situação do país esteja tranquila.
+[06:17] Nesses últimos anos,
+[06:18] e não foram só nesses últimos quatro anos,
+[06:20] isso já vem acontecendo de antes, a discussão econômica foi ficando cada vez pior.
+[06:25] Cada vez pior.
+[06:26] Os comentários econômicos foram ficando cada vez piores,
+[06:30] os artigos econômicos na imprensa foram ficando cada vez piores,
+[06:34] a qualidade está muito, muito baixa.
+[06:37] E essencialmente,
+[06:38] quando a gente olha para essa discussão fiscal no Brasil,
+[06:41] o que está acontecendo nesse momento,
+[06:43] e a gente não pode deixar isso acontecer,
+[06:45] porque isso daí vira Uma espécie de torcida,
+[06:49] briga de torcida,
+[06:51] chega desse negócio,
+[06:52] porque francamente isso é de uma imaturidade, de uma infantilização absurdas.
+[06:57] Se a gente quiser chegar bem em 2030 e se a gente quiser evitar um novo cenário
+[07:03] de confronto com esse povo da extrema-direita,
+[07:05] a gente precisa botar a cabeça no lugar e saber entender
+[07:08] a economia tal qual ela funciona.
+[07:10] Então, de nada adianta nem ficar discutindo tesouraço,
+[07:15] como alguns querem empurrar a goela abaixo dos outros,
+[07:18] mas também de nada adianta, e eu quero sublinhar isso aqui mil vezes, tá?
+[07:23] De nada adianta esse discursinho fácil Que alguns resolveram emplacar de que,
+[07:28] ah não,
+[07:28] o Brasil não precisa fazer ajuste fiscal nenhum,
+[07:30] deixa como está,
+[07:31] porque o povo não foi votar pelo ajuste fiscal, isso é estelionato eleitoral.
+[07:35] Tem gente falando isso, tá?
+[07:37] Isso é de uma infelicidade suprema,
+[07:40] porque parece que não entenderam nada, assim,
+[07:42] parece que essas pessoas que acabaram de enfrentar uma eleição
+[07:48] Em que nós nos unimos
+[07:50] para barrar o projeto ditatorial e autoritário dos bolsonários e da extrema-direita,
+[07:58] parece que agora que isso daí passou,
+[08:01] voltamos todos para os nossos campos e aí ficam os economistas
+[08:05] de esquerda falando absurdos,
+[08:08] porque falam absurdos sim,
+[08:10] e ficam os economistas representantes do mercado falando outros absurdos.
+[08:14] E nesse meio do caminho estão vocês.
+[08:17] Que estão todos aí expostos a essa discussão sem pé nem cabeça e que
+[08:23] na verdade não tem nenhum fundamento na realidade econômica tal qual ela é.
+[08:27] Então, a primeira coisa que eu quero falar aqui,
+[08:29] para desmistificar de uma vez,
+[08:31] é o seguinte, é óbvio que o Brasil precisa de um ajuste fiscal, tá?
+[08:35] E eu vou explicar já já o que é um ajuste fiscal.
+[08:37] Mas essa conversa que alguns resolveram encampar na esquerda,
+[08:41] de que não,
+[08:42] ajuste não,
+[08:43] de jeito nenhum,
+[08:43] a gente não precisa,
+[08:44] porque afinal de contas, isso daí vai ser estelionato eleitoral, blá, blá, blá, blá.
+[08:49] Isso daí vai nos levar para o buraco de novo e vai nos levar para uma situação em
+[08:53] que em 2030 nós não vamos estar de cara a cara outra vez com a extrema-direita.
+[08:57] Porque o que a extrema-direita defende é o oposto disso, mas é o outro extremo.
+[09:02] Então a discussão fiscal hoje está muito mal parada, porque ela está em dois extremos.
+[09:06] Em um extremo você tem o povo da Faria Lima e o mercado gritando que tem
+[09:09] que cortar tudo,
+[09:10] não pode sobrar nada, tem que mandar tesourar sem tudo, tem que acabar com tudo.
+[09:16] E do outro você tem algumas pessoas dizendo assim,
+[09:19] exatamente o oposto,
+[09:20] não, não tem que fazer nada, tem que deixar tudo como está, tudo bem.
+[09:23] A verdade não está nem de um lado nem do outro,
+[09:25] mas vocês,
+[09:26] se não conseguirem entender por que a verdade não está nem de um lado nem do outro,
+[09:31] Vocês não vão ser capazes de explicar isso para as pessoas
+[09:34] e vocês próprios vão ficar perdidos em meio a esse tiroteio
+[09:38] que novamente eu estou vendo acontecer Entre a dita esquerda e a dita direita,
+[09:43] que convenhamos,
+[09:44] são categorias que nem valem mais no debate, ficou tudo meio obsoleto assim.
+[09:49] Então eu vou começar desmistificando algumas coisas.
+[09:52] Não existe economia de esquerda,
+[09:54] não existe economia de direita,
+[09:56] não existe economia ortodoxa mais e não existe economia heterodoxa mais.
+[10:01] Removamos os rótulos porque eles não nos ajudam, tá?
+[10:04] Então joguem para fora os rótulos porque a gente não vai ficar falando
+[10:08] de rótulo aqui, isso não nos serve.
+[10:10] Economia é uma coisa,
+[10:12] tem coisas que a gente sabe que funcionam e tem coisas que a gente sabe
+[10:15] que não funcionam.
+[10:16] Então é a partir desse pressuposto que a gente vai trabalhar.
+[10:23] E nesses basicões aqui de economia, a proposta é que eles sejam como pequenas aulas.
+[10:28] Então é para vocês entenderem certos fundamentos.
+[10:31] Por exemplo,
+[10:32] ontem quando eu estava aqui com o Zé Paulo e que a gente estava discutindo um pouco
+[10:38] as coisas que estão Sendo faladas agora no Brasil a respeito da política fiscal,
+[10:43] eu percebi nos comentários de vocês,
+[10:45] de muitos de vocês aqui no chat,
+[10:47] que muita gente não sabia nem do que se tratava falar de ajuste.
+[10:53] Tem gente que ouve a palavra ajuste e associa essa palavra imediatamente a cortes.
+[11:01] Ajuste não é corte.
+[11:02] Ajuste é exatamente isso.
+[11:04] Ajuste.
+[11:07] E para além disso...
+[11:10] Alguns aspectos do que é ajuste,
+[11:12] o que é política fiscal e tal,
+[11:13] eu percebi que as pessoas são completamente perdidas em relação ao
+[11:17] que esses termos querem dizer.
+[11:19] Então a gente vai começar do mais básico, do mais básico possível.
+[11:24] E o mais básico,
+[11:25] do mais básico possível,
+[11:26] primeiro, consiste em entender como é que uma economia funciona.
+[11:30] O que é economia, no final das contas?
+[11:33] O que a gente está medindo ou falando quando a gente fala de economia?
+[11:37] Eu vejo muita gente falando sobre, ah, não,
+[11:40] mas eu fiz uns vídeos hoje mais cedo lá no Substack,
+[11:44] um que eu expliquei o que era ajuste,
+[11:46] o outro que eu expliquei um pouco do que é dívida pública e por que
+[11:51] a nossa dívida pública está num patamar perigoso.
+[11:54] E aí eu vejo pessoas falando coisas do tipo assim,
+[11:57] ah não, mas tá tudo bem, é só deixar a economia crescer.
+[12:00] A economia não cresce sozinha, tá?
+[12:02] A economia não cresce assim como o maná que cai dos céus e a economia cresce.
+[12:06] Não é desse jeito.
+[12:08] A gente precisa ter uma economia arrumada pra ela crescer.
+[12:12] E o crescimento não é dado.
+[12:13] O crescimento é uma coisa que vem de esforço e de políticas públicas
+[12:18] que são feitas pra que ele aconteça.
+[12:20] Se essas políticas públicas não foram feitas da forma correta,
+[12:24] isso vai, em última análise, prejudicar o próprio crescimento.
+[12:28] Então deixa eu dar um ponto de partida aqui de cara pra vocês.
+[12:32] Não dá pra apostar em crescimento como algo que vai nos tirar do buraco,
+[12:35] porque o crescimento ele vem de dentro, ele vem daquelas coisas que a gente faz.
+[12:40] Ele não simplesmente brota do chão Simplesmente não vem do nada.
+[12:45] Então não adianta a gente apostar as fichas no crescimento econômico para resolver a economia.
+[12:49] Não é assim que funciona.
+[12:50] É o contrário.
+[12:51] Você conserta certas coisas e o crescimento vem.
+[12:54] Se você não conserta-las, o crescimento não virá.
+[12:57] Então essa é a primeira coisa que eu quero espantar da sala,
+[13:01] porque essa ideia de que crescimento econômico resolve tudo,
+[13:04] pô beleza, legal, mas só que não é assim.
+[13:07] Não é assim que é.
+[13:08] Não é assim que é na prática.
+[13:10] Então, vamos começar com a primeira coisa que eu acho importante.
+[13:15] Todos vocês terem, e deixa eu falar um negócio aqui, tá?
+[13:19] Quando a experiência que eu tive no canal do YouTube,
+[13:22] muitos de vocês vinham aqui me dizer assim,
+[13:24] ah, faz live com não sei quem, ah, faz live com não sei que lá.
+[13:27] Eu não vou fazer live com ninguém,
+[13:29] eu vou fazer live com aquelas pessoas com quem eu quiser conversar, tá?
+[13:33] Tem pessoas que estão pensando a economia de um jeito que eu considero correto
+[13:39] e tem pessoas que estão pensando a economia de um jeito
+[13:41] que eu não considero correto.
+[13:42] Não adianta me pedir para fazer live com fulano, cicrano, beltrano, que eu não vou fazer.
+[13:48] Eu vou fazer com aquilo que eu considero que seja útil para o debate, ok?
+[13:52] Tem muitas pessoas que eu gosto,
+[13:54] eu já vi aqui gente me pedindo para fazer live com uma pessoa que eu gosto muito,
+[13:57] mas eu e ele não pensamos igual em relação à economia,
+[14:00] deixa eu deixar isso bem claro, tá?
+[14:02] Essa pessoa,
+[14:02] Elia Jabur,
+[14:04] gosto demais dele,
+[14:04] ele acabou de ser eleito deputado federal,
+[14:07] super legal, temos alguns pontos em comum e temos muitos pontos de divergência.
+[14:12] Vocês estão aqui para me ouvir,
+[14:14] eu agradeço que vocês estejam aqui para me ouvir,
+[14:16] não me peçam para fazer live com os outros porque eu não vou fazer, tá?
+[14:21] Então, essa é a primeira coisa.
+[14:25] Pois bem,
+[14:27] dado isso,
+[14:28] e para vocês que estão aqui,
+[14:30] o objetivo justamente é aprender as coisas e conseguir entender as coisas.
+[14:36] Vamos lá entender as coisas.
+[14:38] Primeira coisa que a gente precisa entender,
+[14:40] que todos vocês precisam entender,
+[14:43] É que quando a gente fala sobre PIB, primeira coisa básica, o que é PIB?
+[14:50] PIB é o Produto Interno Bruto.
+[14:53] O que isso significa?
+[14:55] Produto Interno Bruto é tudo aquilo que é produzido dentro do país.
+[15:02] Tudo aquilo que é produzido dentro do país.
+[15:06] Ponto.
+[15:07] Isso é Produto Interno Bruto.
+[15:10] O conceito de Produto Interno Bruto É também o conceito de renda interna.
+[15:17] A renda interna de uma economia é o produto que ela gera.
+[15:23] Você vai gerar produto e com esse produto você vai gerar renda.
+[15:26] Então quando a gente fala em PIB e quando a gente fala em renda da economia,
+[15:31] a gente está falando da mesma coisa.
+[15:32] Mas notem,
+[15:33] isso é a renda da economia como um todo,
+[15:36] que a gente está tratando aqui da macroeconomia.
+[15:38] A gente está olhando a economia como um todo.
+[15:41] Então PIB e renda são conceitos idênticos quando você está olhando do ponto
+[15:46] de vista macroeconômico.
+[15:48] O PIB tem duas facetas.
+[15:51] Ele tem de um lado tudo aquilo que a economia produz e do outro lado tudo aquilo
+[15:58] para onde vai esse produto da economia.
+[16:01] Ou melhor dizendo, o que é a demanda por esse produto da economia.
+[16:05] Então se você está produzindo, para onde isso está indo?
+[16:09] Isso está indo para consumo?
+[16:10] Para investimento?
+[16:11] Para consumo do governo?
+[16:13] Para exportação?
+[16:15] Então, o PIB,
+[16:17] na verdade,
+[16:17] quando a gente fala do PIB,
+[16:19] o PIB ele é,
+[16:21] ele tem,
+[16:22] como a gente chama,
+[16:23] o lado da produção,
+[16:24] tudo aquilo que é produzido na economia,
+[16:26] e o lado da demanda, que é justamente para onde aquela produção toda vai, tá?
+[16:32] E com isso a gente tem o primeiro conceito básico,
+[16:35] assim, que qualquer um precisa saber para começar a falar em economia.
+[16:40] Que é o conceito da identidade, da mais fundamental identidade macroeconômica.
+[16:46] Não é uma equação, é uma identidade.
+[16:49] Quer dizer o quê?
+[16:50] Quer dizer que quando a gente... E aqui outra coisa.
+[16:52] Pra quem tá chegando aqui agora, deixa eu te explicar um negócio.
+[16:56] Eu não...
+[16:56] Como eu disse já,
+[16:57] as minhas coisas sempre foram e continuarão a ser completamente analógicas,
+[17:02] porque eu não tenho nenhuma paciência pra ficar fazendo firula de vídeo que nem
+[17:05] o povo fica fazendo lá em Instagram e isso, aquilo.
+[17:08] Não tem, não rola.
+[17:09] Então, as coisas que eu vou mostrar aqui pra vocês, elas estão todas escritas à mão, tá?
+[17:13] Pra aqueles de vocês que não conheciam o esquema do basicão anteriormente.
+[17:19] Então, a identidade macro mais fundamental,
+[17:24] mostrei ela aqui outro dia, vou mostrar ela aqui de novo.
+[17:27] A identidade macroeconômica mais fundamental é essa daqui, tá?
+[17:30] Onde a gente tem o produto da economia e a renda,
+[17:33] que a gente denota sempre como Y,
+[17:35] É o PIB da economia e esse PIB é idêntico porque ele se distribui
+[17:40] como consumo privado,
+[17:42] investimento privado,
+[17:44] gasto e eu vou dizer já já o que é esse gasto, exportação e importação.
+[17:50] Esse X é exportação, esse M é importação.
+[17:53] O que é mais X e menos M?
+[17:56] Porque exportação, aquilo que você produz para exportação, você produz dentro do país.
+[18:02] Então aquilo faz parte do PIB.
+[18:04] Lembrem, PIB é Produto Interno Bruto.
+[18:07] Então o que você produz para exportar, você está produzindo dentro do país.
+[18:12] Agora, o que você compra de fora, as importações, as importações são produzidas em outro país.
+[18:19] Então aquilo que entra Por exemplo,
+[18:24] você tem uma demanda por um carro importado,
+[18:28] aquele carro importado que entra no país por conta da sua demanda,
+[18:32] aquilo não é produzido dentro do país.
+[18:35] Então quando a gente escreve essa identidade aqui,
+[18:38] a gente tem que deduzir as importações porque as importações são produzidas fora
+[18:43] das fronteiras do país.
+[18:45] Então a primeira coisa que eu quero dizer a vocês,
+[18:48] esses basicões aqui precisam de papel,
+[18:51] lápis ou caneta,
+[18:52] ou um tablet,
+[18:53] ou o que vocês quiserem para vocês irem anotando alguns desses conceitos
+[18:57] e conseguirem acompanhar.
+[18:59] Primeira coisa mais importante de todas é essa aqui.
+[19:02] PIB é igual a consumo privado,
+[19:05] mais investimento privado,
+[19:06] mais esse G sobre o qual vou falar agora,
+[19:09] mais esse X, que são as exportações, menos esse M aqui, que são as importações.
+[19:16] Importações vem de fora, não de dentro, elas são deduzidas.
+[19:20] Esses itens aqui,
+[19:21] esse C e esse consumo e investimento aqui, tratam de consumo e investimento privado.
+[19:28] Então isso aqui é famílias, empresas, etc., tudo que não é governo.
+[19:33] E esse G que está aqui,
+[19:36] esse G aqui,
+[19:37] isso aqui é o que a gente chama,
+[19:40] nessa identidade macroeconômica,
+[19:42] a gente chama isso daí de,
+[19:44] esse G, muita gente chama ele de gasto, ele na verdade esse G é Govern, tá?
+[19:50] É o setor público, é a expressão do setor público.
+[19:53] Então, nesse G aqui,
+[19:56] você tem consumo público e investimento público,
+[19:59] está tudo agregado dentro desse G aqui, tá?
+[20:03] Então essa é a primeira coisa que eu queria que vocês entendessem,
+[20:06] que parece muito básico,
+[20:09] mas é menos básico do que parece,
+[20:10] porque tem muita gente que se confunde logo de cara quando começa
+[20:14] a pensar nas coisas e não consegue entender direito o que é PIB.
+[20:17] PIB é o que a gente produz internamente,
+[20:20] é o que a gente gera de renda também e essa renda se distribui na economia
+[20:24] e esse PIB tem componentes de demanda,
+[20:27] que são esses,
+[20:28] consumo,
+[20:29] investimento,
+[20:30] Tudo que passa pelo setor público em termos de consumo e investimento também,
+[20:34] as exportações que nós produzimos para vender para os outros,
+[20:38] menos as importações que a gente compra dos outros,
+[20:40] porque essas importações não são produzidas dentro do país,
+[20:43] elas são produzidas fora do país, tá?
+[20:47] E não, Sebastião, por favor, aposenta isso que você acabou de botar na tela aqui.
+[20:53] Não existe conceito de PIB privado, tá?
+[20:56] Isso é errado, não existe.
+[20:57] Nós não temos conceito de PIB privado.
+[20:59] PIB é uma coisa só.
+[21:01] PIB é aquilo que se produz dentro da economia.
+[21:03] Não tem PIB público, não tem PIB privado, isso não existe, tá?
+[21:08] Então não, C mais I igual a PIB privado, errado, não é, tá?
+[21:12] PIB é um só, só tem um PIB.
+[21:14] E o PIB, ele,
+[21:17] por definição, ele tem componentes do setor privado e componentes do setor público.
+[21:23] Não existe PIB do setor privado,
+[21:25] não existe PIB do setor público,
+[21:27] isso não existe em economia, são conceitos equivocados, tá?
+[21:31] Então tá aqui, vou botar mais uma vez na tela.
+[21:34] Não é uma fórmula, é uma identidade macroeconômica.
+[21:39] PIB é idêntico a consumo mais investimento,
+[21:44] mais o que o governo faz de consumo e investimento,
+[21:47] mais as exportações, menos as importações.
+[21:51] Então, guardem isso porque isso vai voltar várias vezes ao longo desses nossos basicões.
+[21:58] Mas é a primeira coisa que vocês precisam ter claro na cabeça e que vocês precisam ter em mente.
+[22:03] É assim que se distribui o PIB na economia.
+[22:07] Quando a gente começa a pensar em política fiscal,
+[22:12] e aí surgiu ontem,
+[22:14] na conversa com o Zé Paulo,
+[22:16] surgiram várias dúvidas a respeito do que é a política fiscal.
+[22:20] Política fiscal é o que o governo resolve fazer com o seu consumo e com o seu investimento.
+[22:28] Então, para fins da nossa análise, a política fiscal Ela tem algumas variáveis, tá?
+[22:36] A política fiscal, ela tem variáveis como
+[22:40] receita, despesa,
+[22:45] ou esse G aqui, tá?
+[22:46] O que o governo está fazendo, que pode ser consumo público, investimento público.
+[22:53] E isso aqui vai te dar a diferença entre receita e esse G, tá?
+[22:59] Esse G aqui,
+[23:00] O que o governo está fazendo em termos de despesa,
+[23:04] que pode ser para consumo público ou para investimento público,
+[23:07] a diferença entre esse R de receita e esse G aqui é o que vai te dar
+[23:13] o chamado resultado primário ou nominal do público.
+[23:19] Então vamos lá.
+[23:21] Receita.
+[23:23] O que é receita?
+[23:24] O que é a receita do governo?
+[23:25] A receita do governo é Tudo aquilo que você arrecada por meio dos tributos
+[23:33] que você coloca na economia e outras fontes de receita também.
+[23:37] Então, por exemplo,
+[23:39] se o governo tem empresas estatais,
+[23:42] o lucro dessas empresas estatais em algum momento vira receita para você.
+[23:47] Então, tem vários componentes da receita que não vem apenas da tributação.
+[23:52] Isso é receita.
+[23:55] O G, esse G aqui,
+[23:57] Para a despesa,
+[23:58] que pode ser consumo direto ou investimento do setor público,
+[24:03] esse G é exatamente o que ele diz.
+[24:05] Essas despesas que o governo tem.
+[24:08] O que são essas despesas?
+[24:10] Despesas com pagamento de funcionários públicos,
+[24:13] despesas com compras que o governo precisa fazer,
+[24:16] despesas com investimentos diversos que o governo faz, despesas com...
+[24:24] Outros itens,
+[24:26] despesas específicas que você direciona para algumas coisas,
+[24:30] programas sociais, tudo isso entra nessa rúbrica de despesas.
+[24:36] E o investimento público também entra nessa rúbrica de despesas por convenção.
+[24:42] Eu sei que alguns no governo,
+[24:45] e o presidente Lula ele próprio gosta de dizer que certos tipos
+[24:49] de despesas não são despesas, são investimentos.
+[24:52] É uma maneira retórica de dizer precisamente o que eu acabei de falar aqui,
+[24:56] tem certas despesas que são consumo,
+[24:58] tem outras despesas que são investimento, mas elas são despesa do mesmo jeito, tá?
+[25:03] Você não separa despesa,
+[25:05] a despesa de investimento ela te dá um retorno lá na frente,
+[25:09] que a despesa com consumo não te dá, mas nesse momento agora ela é despesa igual.
+[25:15] Então é gasto, é o que você está gastando de fato.
+[25:19] Então é preciso entender isso e preciso ter isso claro na cabeça.
+[25:25] Quando a gente fala de política fiscal,
+[25:28] o que a gente está falando quando a gente coloca essa expressão na tela?
+[25:32] O que é política fiscal?
+[25:36] Política fiscal é tudo o que você faz ou deixa de fazer,
+[25:40] tanto com as receitas quanto com as despesas.
+[25:45] Então, quando você fala em política fiscal,
+[25:47] tem muita gente,
+[25:49] e no debate econômico brasileiro isso fica muito confuso,
+[25:52] porque tem muita gente que pensa logo,
+[25:56] quando você fala em política fiscal,
+[25:57] todo mundo já associa isso logo à corte de despesas.
+[26:00] Só que não.
+[26:01] A política fiscal tem outros instrumentos.
+[26:04] Você pode fazer política fiscal por meio de alterações na tributação.
+[26:09] Você pode fazer política fiscal por meio de alterações em subsídios.
+[26:13] Subsídios afetam a receita.
+[26:17] Você pode fazer política fiscal por meio de eliminação de desonerações.
+[26:22] Desonerações são precisamente aqueles instrumentos em que você dá alívio tributário
+[26:28] para alguns setores.
+[26:30] Todos esses são componentes de receita.
+[26:33] Então quando a gente abre a receita e quando a gente abre a despesa,
+[26:37] a gente vê um cardápio de coisas que a gente pode fazer tanto num lado quanto
+[26:43] no outro.
+[26:44] O que significa dizer o seguinte,
+[26:46] que quando a gente está falando
+[26:47] de política fiscal dessa maneira assim bem abrangente,
+[26:51] a gente está falando na verdade de tudo que a gente pode fazer potencialmente com
+[26:55] a receita e de tudo que a gente pode fazer potencialmente com a despesa.
+[26:59] Então vamos usar isso para já eliminar de cara essa ideia de que quando a gente fala
+[27:05] em política fiscal a gente está automaticamente falando em corte de gastos e
+[27:09] a ideia subsequente que é quando a gente está falando de corte de gastos
+[27:12] a gente está necessariamente falando de cortes em programas sociais.
+[27:16] Isso não é verdade.
+[27:18] Quando a gente fala de política fiscal,
+[27:20] a gente está falando de receita e de despesa,
+[27:23] das duas coisas,
+[27:24] e quando a gente fala em corte de despesas,
+[27:27] a gente está falando de todos os itens da despesa,
+[27:29] de olhar para todos eles, não é só programa social.
+[27:33] Como as despesas são elencadas em vários níveis e você tem vários tipos
+[27:39] de despesas distintos,
+[27:41] você pode mexer nas despesas sem tocar em programa social, por exemplo.
+[27:46] Então quando vocês ouvem coisas como ajuste fiscal ou corte de despesas,
+[27:52] por favor não associem automaticamente essas expressões com cortes
+[27:58] em gastos sociais.
+[28:00] E aqui eu preciso fazer um parêntese muito importante.
+[28:04] Como a discussão fiscal no Brasil está muito mal parada e ela desinforma mais do
+[28:10] que informa,
+[28:11] O que acaba acontecendo é que você tem,
+[28:14] como eu dizia no início, existe uma briga de torcidas.
+[28:17] De um lado, tem o pessoal do mercado querendo cortes profundos.
+[28:23] De outro, tem um pessoal que diz que não tem que fazer corte nenhum.
+[28:28] A realidade, ela nunca consegue ser enquadrada em soluções de campo.
+[28:34] Então, não é verdade que precisa de tesouraço.
+[28:37] Não é verdade.
+[28:39] O Brasil não precisa disso.
+[28:40] Mas também não é verdade que o Brasil não precisa fazer nada.
+[28:44] Essas duas premissas estão equivocadas.
+[28:47] O problema é que como a gente eliminou o centro da discussão econômica e
+[28:52] a gente polarizou a discussão econômica dessa maneira,
+[28:56] que está totalmente errado, porque economia não é ideologia, economia é economia.
+[29:00] Assim, você até pode imputar algumas ideologias,
+[29:04] algumas escolhas econômicas, mas economia em si não é ideologia, é conta, tá?
+[29:10] É conta com alguma ciência.
+[29:13] E sim, passando por muita ciência social,
+[29:15] política, sociologia, um monte de coisa, tudo está interligado.
+[29:19] Mas quando a gente pensa nesses termos e quando a gente coloca
+[29:22] a discussão nos cantos,
+[29:24] no tesouraço ou no nada, a gente presta um desserviço a nós próprios.
+[29:29] O que acontece é que a gente,
+[29:32] partindo de um ou partindo do outro,
+[29:34] a gente está negando a realidade tal qual ela se apresenta.
+[29:37] A realidade nunca é preto no branco, gente.
+[29:39] A realidade é sempre em tons de cinza.
+[29:41] Sempre.
+[29:42] Então,
+[29:42] se vocês estão vendo uma discussão que está dizendo ou é tesouraço ou não é nada,
+[29:48] essa discussão já está errada por princípio, porque não pode ser assim.
+[29:51] Um lado está errado e o outro também está.
+[29:54] Então, o pessoal que está chamando por tesouraço está errado.
+[29:57] E o pessoal que está do outro lado dizendo que não tem que fazer nada
+[30:00] porque aí é estelionata eleitoral, está errado também.
+[30:04] Então eu acho que a primeira coisa é botar isso às claras,
+[30:07] porque senão vocês todos ficam reféns desse tiroteio que já voltou
+[30:13] a acontecer novamente e que foi uma das razões que eu me retirei
+[30:16] do debate público brasileiro,
+[30:18] porque eu francamente não estava mais a fim de ter que lidar com esse tiroteio
+[30:22] porque ele é super cansativo.
+[30:24] E você, no final,
+[30:25] acaba fazendo as pessoas de refém de um campo ou de outro sem que exista
+[30:30] uma discussão madura, correta, pés no chão e olhando a realidade tal qual ela é.
+[30:37] Desculpa eu estar um pouco assim furiosa,
+[30:41] ou parecendo meio furiosa,
+[30:43] Mas eu tô furiosa,
+[30:44] francamente,
+[30:45] porque eu tô vendo acontecer nos pouquíssimos dias,
+[30:49] logo depois da gente ter uma eleição extremamente difícil no último domingo,
+[30:53] hoje é sexta-feira,
+[30:54] não passou nenhuma semana das eleições e a gente já tá
+[30:58] com essa balbúrdia fiscal novamente no país que não nos levará a nada, tá?
+[31:04] E cabe a vocês,
+[31:06] assim como vocês, Todos, eu, vocês,
+[31:10] todos nós,
+[31:11] nos levantamos para lutar pela democracia no Brasil,
+[31:14] agora nós precisamos nos levantar para lutar em favor da racionalidade econômica,
+[31:20] porque se a gente continuar nesse tiroteio que já nos aflige há anos,
+[31:26] anos, décadas inclusive, nós não iremos a lugar algum.
+[31:31] A esquerda está errada e essa direita defensora desses valores de mercado também está errada.
+[31:37] Os dois estão errados, tá?
+[31:38] Porque a discussão da realidade não se encampa nem de um lado nem de outro.
+[31:43] O Brasil tem, hoje, uma razão dívida PIB extremamente alta para o Brasil.
+[31:49] E aí entra um outro problema nessa discussão que, de novo, confunde e desinforma de propósito.
+[31:56] A razão dívida PIB,
+[31:58] como dizia ontem o Zé Paulo, A razão dívida PIB de um país é uma fração, tá?
+[32:04] Então deixa eu fazer uma coisa.
+[32:07] Não adianta vocês ficarem me colocando um monte de comentário aí na tela agora
+[32:10] porque eu não vou ler.
+[32:11] Tô concentrada aqui em falar as coisas direito pra vocês.
+[32:18] Isso é quando eu sou em sala de aula, tá gente?
+[32:21] Só pra vocês saberem.
+[32:27] Dívida PIB, vamos lá.
+[32:29] Dívida PIB é isso aqui.
+[32:31] Você tem dívida no numerador, você tem PIB no denominador.
+[32:36] Isso é a razão dívida PIB.
+[32:39] A nossa razão dívida PIB está em 82,9%
+[32:48] nesse momento.
+[32:51] Isso é a situação do Brasil hoje.
+[32:54] Há quatro anos, em 2022, quando o Lula foi eleito,
+[33:01] A razão dívida PIB do Brasil era de 71%.
+[33:06] Então, sim,
+[33:06] a nossa dívida PIB aumentou em mais de 10 pontos percentuais
+[33:10] do PIB nos últimos quatro anos.
+[33:13] Tudo isso é culpa do governo?
+[33:14] Não.
+[33:16] Teve muitas coisas que sim,
+[33:18] o Lula herdou do governo anterior,
+[33:21] que por sua vez herdou do governo anterior a ele,
+[33:23] que por sua vez herdou do governo anterior a ele, por aí vai.
+[33:26] Os descalabros fiscais brasileiros são antigos.
+[33:31] Nós estamos há 30 anos,
+[33:33] pelo menos,
+[33:34] pelas minhas contas,
+[33:35] vamos lá,
+[33:36] 26 anos,
+[33:36] para voltar ao início dos anos 2000,
+[33:38] Nós estamos há 26 anos tentando dar conta dos nossos problemas fiscais
+[33:44] e não conseguimos dar conta direito dos nossos problemas fiscais até hoje.
+[33:48] A gente faz sempre coisa pra tapar buraco.
+[33:51] Então, durante os dois primeiros mandatos do Lula,
+[33:54] A gente surfou uma onda espetacular no mundo,
+[33:58] porque a economia mundial estava crescendo bastante,
+[34:01] os preços das commodities,
+[34:02] das matérias-primas estavam crescendo muito também,
+[34:04] tinha um monte de dinheiro vindo para o Brasil,
+[34:07] a economia estava mais ou menos instável,
+[34:09] portanto,
+[34:10] houve condições,
+[34:11] inclusive muitas condições externas,
+[34:13] mas também condições domésticas,
+[34:15] que permitiram que a gente pudesse crescer, simplesmente crescer.
+[34:22] E esse crescimento,
+[34:24] como esse crescimento significa,
+[34:25] eu vou tentar botar o papel de tal forma que todo mundo consiga enxergar,
+[34:29] como esse crescimento afeta o denominador aqui,
+[34:32] a gente passou um belo tempo ao longo dos anos 2000 conseguindo ter
+[34:37] uma razão dívida PIB relativamente controlada,
+[34:40] porque esse denominador aqui ó,
+[34:42] ele tava subindo,
+[34:43] o que fazia com que essa dívida aqui pudesse até subir,
+[34:47] que toda essa fração aqui ficava mais ou menos estável.
+[34:52] Então isso foi de 2000 até mais ou menos 2010,
+[34:56] os primeiros 10 anos dos anos 2000 foram caracterizados por isso.
+[35:01] O Brasil estava com um crescimento bem razoável,
+[35:03] a nossa dívida ficou mais ou menos controlada,
+[35:07] então foi um período em que a gente viu a dívida PIB,
+[35:10] a razão dívida PIB se estabilizar ou até cair por conta disso.
+[35:16] Essas condições, nós não as temos mais.
+[35:19] O mundo não está mais tão favorável quanto esteve naqueles dez anos.
+[35:24] Quando a Dilma assumiu a presidência da República,
+[35:31] ela assumiu em um momento em que as condições internacionais haviam mudado,
+[35:36] então aquela bonança toda nos primeiros dez anos,
+[35:40] que essencialmente pegou os dois primeiros mandatos do Lula,
+[35:43] Aquela bonança internacional começou a desaparecer,
+[35:46] porque a gente teve a crise financeira em 2008,
+[35:49] depois da crise financeira em 2008,
+[35:51] muitos países tiveram dificuldades,
+[35:53] aquilo ali deu uma certa desarticulação no mundo,
+[35:57] e a partir de 2010, 2011,
+[36:00] a gente começou a ver condições mais desfavoráveis para todos e para nós no Brasil,
+[36:05] inclusive.
+[36:06] Então, o crescimento econômico brasileiro começou a cair ali em 2011, 2012, 2013, 2014,
+[36:13] Precisamente nos anos Dilma, tá?
+[36:16] O PIB caiu,
+[36:17] o crescimento econômico brasileiro,
+[36:19] o PIB não,
+[36:20] crescimento do Brasil,
+[36:22] diminuiu de ritmo por muitos motivos,
+[36:25] mas a gente precisa dizer que muitos desses motivos foram externos
+[36:29] e alguns desses motivos foram domésticos.
+[36:31] Teve erro na condução da política econômica no governo Dilma,
+[36:35] assim como teve erro na condução da política econômica em outros governos, tá?
+[36:40] Mas o período Dilma ficou especialmente marcado porque foi um momento de virada no mundo.
+[36:47] Foi um momento em que a gente saiu de
+[36:48] um ciclo muito favorável nos mercados internacionais e passou a enfrentar
+[36:54] um ciclo muito desfavorável nos mercados internacionais.
+[36:59] E aí o governo Dilma,
+[37:00] de forma bem intencionada,
+[37:02] mas saiu pela culatra,
+[37:04] o governo Dilma tentou fazer uma porção de coisas que não deram certo, deram errado.
+[37:08] E que acabaram nos levando a uma situação fiscal ruim,
+[37:12] que ocasionou a instauração do teto de gastos no governo Temer,
+[37:17] quando houve o impeachment da Dilma e ele entrou.
+[37:19] Naqueles dois anos de governo Temer, a gente fez essa história do teto de gastos.
+[37:24] O teto de gastos em si não é um problema,
+[37:26] foi um problema a forma como foi feito, mas esse é papo para outro dia.
+[37:30] Eu só estou fazendo uma recapitulação aqui para vocês entenderem como é que
+[37:33] a gente chegou, onde a gente chegou.
+[37:35] O governo Temer passou o bastão para o governo do Jair,
+[37:39] e uma coisa importante,
+[37:41] quando o teto de gastos foi feito no governo Temer,
+[37:45] ele naquela altura,
+[37:47] em 2016,
+[37:48] quando o teto de gastos foi feito,
+[37:49] ele foi feito para passar a valer apenas a partir de 2019.
+[37:54] Então, o Temer governou durante os dois anos em que ele ficou na presidência,
+[37:59] ele governou sem a restrição do teto de gastos, tá?
+[38:04] Não houve gastança no governo Temer nem nada disso,
+[38:07] até porque a situação econômica do Brasil estava bem ruim naquela altura,
+[38:10] mas é importante dizer isso.
+[38:12] O teto de gás só passava a valer,
+[38:15] na maneira como ele foi criado, ele só passava a valer a partir de 2019.
+[38:19] 2019 foi o primeiro ano do governo Jair.
+[38:22] Durante os quatro anos do governo Jair, de 2019 até 2022,
+[38:28] Se mudou o teto de gastos uma porção de vezes,
+[38:31] o que tirou completamente a credibilidade do teto de gastos e por isso que o Lula,
+[38:36] quando entrou para o terceiro mandato,
+[38:38] teve que refazer tudo com essa história do arcabouço fiscal.
+[38:42] Só que, assim, nesses últimos quatro anos, e aqui a gente tem que ser bem honesto, tá?
+[38:48] Como eu disse a vocês, eu sou papo reto, eu não tenho medo de irritar ninguém.
+[38:53] Então, vou falar aqui o que eu realmente penso.
+[38:56] Nesses quatro anos de terceiro mandato do Lula,
+[38:59] teve muitas coisas boas que foram feitas, mas teve erros na política fiscal.
+[39:04] Teve erros, sim.
+[39:05] E não é só a história das emendas parlamentares.
+[39:08] É muito fácil a gente jogar tudo nas costas do Congresso e dizer assim,
+[39:11] ah, política fiscal não dá porque o Congresso, esse Congresso que a gente tem...
+[39:17] Sim e não, tá?
+[39:19] É claro que o Congresso e com essas emendas parlamentares do jeito que
+[39:23] a gente tem não nos ajudam em nada,
+[39:25] na verdade nos prejudicam,
+[39:27] porém há coisas sim que
+[39:29] o governo brasileiro deveria ter feito nesses últimos quatro anos.
+[39:32] Por exemplo,
+[39:33] a gente tem essa história dos gastos tributários,
+[39:36] que são as tais das desonerações e mais uma porção de outras coisas,
+[39:40] que é uma conta enorme, assim,
+[39:42] é algo entre Seiscentos e oitocentos bilhões de reais,
+[39:46] dependendo da fonte que você olha e dependendo do que você vê,
+[39:49] mas de toda maneira,
+[39:50] mesmo que forem seiscentos bilhões de reais,
+[39:53] seiscentos bilhões de reais é muita coisa, gente.
+[39:56] Seiscentos bilhões de reais é mais ou menos o equivalente a seis por cento por aí,
+[40:01] cinco, seis por cento do PIB.
+[40:04] É uma coisa enorme, tá?
+[40:07] Tem vários desses gastos tributários nessa conta de 600 bilhões que
+[40:12] a gente não pode mexer porque são garantias dadas pela Constituição.
+[40:16] Por exemplo, a desoneração da cesta básica.
+[40:19] Nisso a gente não pode mexer.
+[40:21] Mas há outras desonerações que foram se acumulando ao longo do tempo.
+[40:25] Então o governo Lula II fez um monte de desoneração setorial,
+[40:29] deu um monte de benefício tributário para vários setores na economia,
+[40:34] O governo Dilma foi lá e fez mais disso,
+[40:37] o governo Temer foi lá e manteve isso e fez mais um pouco,
+[40:40] o governo do Jair pegou isso e fez ainda mais um pouco,
+[40:44] e hoje a gente chegou nessa conta estratosférica,
+[40:46] em que você tem desonerações pra lá e pra cá,
+[40:49] pra rodo na economia brasileira,
+[40:51] que não tem eficiência nenhuma,
+[40:53] não nos ajudam em nada,
+[40:55] gera uma despesa fenomenal,
+[40:56] porque no final das contas você deixa de arrecadar um monte
+[40:59] com essa história dessas desonerações,
+[41:02] Gera custo porque tem custo de administrar essas desonerações
+[41:05] que são extremamente complexas e que acabam gerando um peso nas contas públicas.
+[41:11] Então assim,
+[41:12] dá pra gente começar a pensar num ajuste fiscal que venha Em primeiro plano,
+[41:19] fundamentalmente dessa história desses gastos tributários,
+[41:22] como eu e o Zé Paulo já falamos aqui várias vezes.
+[41:25] Então, voltando ao que vocês precisam entender.
+[41:28] Vocês precisam entender que política fiscal diz respeito A despesas sim,
+[41:34] mas a respeito a receitas também.
+[41:37] E é importante ter isso na cabeça, porque é onde entram essas desonerações e essas renúncias.
+[41:43] Então essas renúncias todas são um peso imenso que a gente tem em cima de nós e
+[41:49] que não estão nos ajudando nesse momento.
+[41:52] Algumas dessas renúncias fiscais até são importantes e têm que ser mantidas,
+[41:56] mas não nesse patamar, não em 600 bilhões.
+[41:59] Então dá para fazer muita coisa, dá para já...
+[42:03] Simplesmente mexendo nos gastos tributários.
+[42:06] Claro que isso só não é a solução.
+[42:08] Lembrem,
+[42:16] Não existe bala de prata em economia,
+[42:18] não existe,
+[42:19] não tem soluções simples,
+[42:21] as soluções são difíceis,
+[42:23] tem sacrifício envolvido para todos os lados e é preciso fazer isso, gente,
+[42:27] porque se a gente não põe em ordem determinadas coisas, a economia não cresce.
+[42:34] Então não adianta rezar para o crescimento vir,
+[42:36] que ele não vai vir, isso é igual a patriota rezando para pneu, tá?
+[42:40] Não adianta torcer,
+[42:41] aí vamos torcer para o crescimento vir,
+[42:43] a gente não faz nada e torce para o crescimento vir.
+[42:45] Isso é a mesma coisa que rezar pra pneu.
+[42:47] Igualzinho.
+[42:48] Não vai ver.
+[42:48] Porque não é assim.
+[42:50] O crescimento é uma variável endógena.
+[42:52] Ele vem se as condições são propícias pra isso.
+[42:55] É que nem você plantar uma árvore no teu jardim.
+[42:58] Se você bota uma semente lá e não faz nada,
+[43:00] deixa o troço lá e não molha, não água, não isso, não aquilo, a planta não cresce.
+[43:06] Então é a mesma coisa aqui.
+[43:08] Você precisa criar as condições na economia para que o crescimento se dê.
+[43:12] Se você não criar essas condições, o crescimento não vai vir, gente.
+[43:14] É simples assim.
+[43:16] E uma das coisas que hoje nos impede e muito
+[43:19] de crescer é essa razão dívida PIB muito elevada que a gente tem.
+[43:24] Aí tem uma discussão nessa história de dívida PIB que também me irrita a beça,
+[43:29] que é a seguinte, tem gente que fala assim, ah, são pessoas bem intencionadas, tá?
+[43:35] São pessoas que eu gosto muito,
+[43:36] inclusive são as pessoas que falam mais em defesa dos programas sociais e tal.
+[43:41] Essas mesmas pessoas estão falando hoje assim,
+[43:44] A dívida do Brasil,
+[43:46] a dívida do Brasil não é tão alta assim,
+[43:48] porque olha só,
+[43:48] você olha pro Japão, a dívida deles é de duzentos e tantos por cento do PIB.
+[43:52] A dívida dos Estados Unidos é de cento e tantos por cento do PIB.
+[43:56] A dívida dos países europeus,
+[43:57] meu Deus do céu, muitas ali estão muito acima de cento e tantos por cento do PIB.
+[44:03] Gente, essas comparações são completamente esdrúxulas,
+[44:06] eu não sei nem como é que as pessoas que fazem essas comparações,
+[44:09] fazem essas comparações de cara limpa,
+[44:11] porque tamanho de dívida relativo não diz absolutamente nada,
+[44:15] dívida não é só o tamanho, não é só o estoque, é também composição.
+[44:20] Então, quando a gente fala de dívida pública, o que importa?
+[44:24] O que importa?
+[44:25] Importa o tamanho?
+[44:26] Sim, importa.
+[44:28] E importa muito a composição.
+[44:29] O que é composição?
+[44:31] Composição de dívida é em que moeda essa dívida está denominada?
+[44:36] Qual é o prazo de maturidade dessa dívida?
+[44:42] Nas mãos de quem está essa dívida?
+[44:44] Os credores são fundamentalmente domésticos ou são credores fundamentalmente externos?
+[44:50] Todas essas coisas importam quando a gente fala de dívida PIB.
+[44:54] E quando a gente entra e mergulha nessas nuances,
+[44:57] e aqui volta ao que eu falava no início, as nuances são extremamente importantes.
+[45:01] Está todo mundo querendo passar por cima das nuances e jogá-las para o lado.
+[45:04] O problema é que quando a gente faz isso,
+[45:06] a gente cai nessa discussão estúpida que está no Brasil de tesouraço versus nada,
+[45:11] entendeu?
+[45:12] Porque justamente são as discussões que ignoram completamente as nuances.
+[45:16] Mas as nuances são super importantes, porque Quando você olha a dívida brasileira, ela é alta,
+[45:24] Ela é elevada para nós e ela tem uma composição que não é francamente desfavorável,
+[45:30] mas é mais desfavorável do que deveria ser.
+[45:33] Então eu já vou dizer para vocês de cara,
+[45:35] por que não dá para comparar a dívida do Brasil com a dívida do Japão, por exemplo?
+[45:39] O Japão tem, como eu falei, dívida de duzentos e tantos por cento PIB.
+[45:42] Ah, é maior que a do Brasil, então daí está tudo bem lá, lá as taxas de juros são baixas.
+[45:47] Pois é, só que no Japão o prazo médio da dívida japonesa é de décadas.
+[45:54] O que significa que o governo japonês consegue,
+[45:59] ele tem uma latitude enorme de tempo para rolar sua dívida.
+[46:05] E é por isso que os juros ficam baixos,
+[46:07] porque o governo japonês criou essa credibilidade no mercado para poder ter
+[46:13] uma dívida dessa magnitude e ainda assim rolá-la por anos a fio,
+[46:19] com tempo enorme de maturidade para rolar essa dívida.
+[46:23] Nós não temos isso no Brasil.
+[46:25] A nossa dívida é mais baixa do que a dívida dos japoneses,
+[46:28] porém, o prazo médio da nossa dívida é muito curto.
+[46:32] A gente rola integralmente a nossa dívida pública em três anos.
+[46:37] Três anos é nada.
+[46:40] Você ter que rolar um estoque de dívida inteiro em três anos é muito pouco.
+[46:45] E isso diz precisamente algo sobre como o risco dessa dívida brasileira é percebido.
+[46:52] Há risco nessa dívida brasileira de uma forma que não está presente na dívida japonesa.
+[46:58] Então a gente simplesmente olhar para esses grandes números e dizer assim,
+[47:01] a dívida do Japão é muito mais alta que a do Brasil e eles têm taxa
+[47:05] de juros muito mais baixa, então o Brasil está bem.
+[47:09] Não está.
+[47:11] Nós não temos condições de ficar com essa dívida nesse patamar e nada a fazer,
+[47:16] porque essa dívida nesse patamar,
+[47:17] inclusive, ela não está estável, ela está em trajetória de ascensão.
+[47:22] Se nós não fizermos nada,
+[47:24] essa dívida vai chegar no final do ano que vem a perto de 86, 87% do PIB.
+[47:29] Ela vai subindo ao longo do tempo, se a gente não fizer nada.
+[47:33] E isso nos traz problemas, isso impede crescimento.
+[47:38] A dívida pesa sobre a economia.
+[47:41] Se a gente quiser já olhar para o caso do Japão, olhem para a economia japonesa.
+[47:46] Eles têm esses duzentos e tantos por cento de dívida,
+[47:49] eles não têm que resolver esse problema de dívida de forma mais acelerada
+[47:54] como nós temos.
+[47:55] No entanto, essa carga de dívida monumental que eles têm também pesa sobre a economia deles.
+[48:01] Olhem lá qual é a taxa de crescimento do Japão.
+[48:04] Ela é baixa.
+[48:06] E ela é baixa há muito tempo.
+[48:08] Então carga de dívida,
+[48:10] ter carga de dívida muito alta,
+[48:13] isso daí impede crescimento econômico,
+[48:15] isso bloqueia os canais de crescimento econômico.
+[48:18] Então a gente tem que mexer nisso sim.
+[48:20] Não fazer nada não é uma opção, tem que fazer.
+[48:25] Esse é um ponto.
+[48:26] A comparação com os Estados Unidos também não fica de pé,
+[48:29] porque os Estados Unidos,
+[48:30] como eu falei ontem na live que eu fiz aqui com o Zé Paulo,
+[48:33] os Estados Unidos são o emissor da moeda de reserva internacional.
+[48:37] As pessoas querem deter ativos dos Estados Unidos de uma forma
+[48:40] que elas não querem deter ativos do Brasil.
+[48:42] Então, os Estados Unidos têm como carregar uma dívida mais alta e Tendo dito isso,
+[48:50] a dívida PIB norte-americana para os Estados Unidos hoje é sim uma preocupação.
+[48:56] Tem muita gente muito preocupada com a dívida PIB dos Estados Unidos,
+[49:00] mesmo sendo os Estados Unidos a maior economia do planeta e mesmo sendo
+[49:05] os Estados Unidos o emissor da moeda de reserva internacional por excelência.
+[49:10] Então essas comparações não nos levam a lugar algum,
+[49:15] porque essa coisa de ficar comparando o tamanho da dívida pra dizer que não tem
+[49:18] que fazer nada, isso é desinformação, tá?
+[49:21] Isso não informa ninguém.
+[49:23] Isso nos coloca novamente numa situação de negacionismo, tá?
+[49:30] Dizer que não precisa fazer nada no lado fiscal é um negacionismo.
+[49:35] As pessoas podem escolher se elas querem ser negacionistas ou não.
+[49:39] Agora, negacionismo não leva ninguém a lugar algum.
+[49:42] Então, é importante que se coloque isso.
+[49:45] O que mais que eu tenho a dizer para vocês sobre dívida pública?
+[49:49] Como é que a gente controla a dívida pública?
+[49:52] No caso da dívida pública brasileira, a gente tem alguns problemas.
+[49:59] Como eu já disse aqui,
+[50:00] junto com o Zé Paulo em outras ocasiões,
+[50:03] tem uma parte considerável da nossa dívida pública que está indexada à taxa
+[50:09] de juros, está indexada indiretamente à Selic.
+[50:13] Isso significa que toda vez que a Selic sobe,
+[50:16] a dívida vai subir junto, por causa dessa indexação.
+[50:21] Isso é uma peculiaridade brasileira, tá?
+[50:27] A maior parte dos países não tem dívida indexada dessa forma, não.
+[50:32] Não tem instrumentos de dívida indexados dessa maneira.
+[50:36] Nós temos por quê?
+[50:38] Porque nós tivemos um período muito longo Dos mais longos da história planetária,
+[50:45] nós tivemos um período muito longo de hiperinflação.
+[50:50] Então, com a inflação muito alta por 25 anos, a gente conviveu com isso.
+[50:57] Para que a gente aprendesse a conviver com isso, estou respondendo sua pergunta, Filipe.
+[51:02] Para que a gente aprendesse,
+[51:03] para que a gente pudesse conviver com essa inflação muito elevada,
+[51:06] a gente criou esses mecanismos de proteção.
+[51:09] A gente criou mecanismos que se chamavam de correção monetária,
+[51:14] cujo nome depois mudou para indexação.
+[51:18] Então, todos esses mecanismos de indexação eram uma forma da gente se proteger da inflação.
+[51:24] Os instrumentos que nós criamos para lidar com a hiperinflação tendo
+[51:29] uma dívida elevada,
+[51:31] Foram instrumentos indexados e esses instrumentos indexados eles estão conosco
+[51:36] até hoje, embora nós não tenhamos mais hiperinflação.
+[51:40] Então um dos problemas da nossa dívida pública alta e que a gente
+[51:44] até agora não resolveu e que precisa resolver,
+[51:47] a gente precisa fazer uma reforma nesses
+[51:53] Nesses títulos e na forma como a gente emite esses títulos
+[51:56] para desindexar essa parcela que hoje é considerável da dívida pública brasileira,
+[52:03] a taxa de juros.
+[52:04] Porque sem isso a gente fica numa eterna bola de neve.
+[52:07] Toda vez que os juros sobem,
+[52:09] a dívida PIB sobe imediatamente por conta desses mecanismos de indexação.
+[52:15] Então esse é um dos nossos problemas.
+[52:18] Mas o outro dos nossos problemas é que a gente tem sim um descompasso entre o que
+[52:23] a gente arrecada e o que a gente gasta.
+[52:27] Então a gente tem um descompasso entre a nossa capacidade de gerar receita e aquilo
+[52:33] que a gente precisa gastar.
+[52:35] E a gente precisa consertar esse descompasso.
+[52:38] O conserto desse descompasso passa por medidas que afetem a receita,
+[52:44] como por exemplo a eliminação das renúncias fiscais,
+[52:48] E também por medidas de contenção da despesa.
+[52:53] Então passa por essas duas coisas.
+[52:58] Deixa eu pegar uns comentários aqui.
+[53:00] A Ana Terezinha está dizendo assim,
+[53:03] gosto das explicações do Eduardo Cobori e ele defende justamente essa ideia de
+[53:07] que outros países têm dívida maior.
+[53:09] Isso é bobagem, tá?
+[53:10] Ele comenta que o Estado precisa ser investidor de crescimento.
+[53:13] Isso é bobagem também.
+[53:15] Eu conheço o Cobori, mas deixa eu dizer a vocês esse negócio.
+[53:18] Alguém me perguntou aqui que aulas que eu dou.
+[53:21] Eu estou há 30 anos dando aula, tá gente?
+[53:24] Eu dei aula de tudo de macroeconomia que vocês podem imaginar,
+[53:28] dei aulas de comércio internacional,
+[53:31] dei aulas sobre crises financeiras,
+[53:34] dei aulas sobre industrialização, uma porção de coisas.
+[53:40] Eu tenho uma experiência larga de trabalho no FMI.
+[53:43] Francamente,
+[53:44] Ana Terezinha,
+[53:45] eu entendo que você goste dessas explicações do Cobor,
+[53:47] mas essa comparação de dívidas, ela está errada.
+[53:50] Ela não fica de pé.
+[53:51] A gente não faz assim.
+[53:52] Isso está errado.
+[53:53] Países têm as dívidas que têm por motivos que são peculiares a cada um.
+[53:59] E o tamanho da dívida não diz nada a respeito da composição.
+[54:02] Então, por exemplo,
+[54:03] você comparar uma dívida de 83% do PIB com uma composição de um determinado jeito,
+[54:11] Com uma outra dívida de sei lá quantos por cento do PIB
+[54:14] com outra composição é comparar laranja com banana.
+[54:16] Não fica de pé isso.
+[54:18] Não tem lógica fazer um negócio desse, tá?
+[54:21] E acaba que isso alimenta uma percepção a respeito da economia brasileira que é equivocada.
+[54:28] Porque, sim, o Brasil tem problemas fiscais.
+[54:30] Não adianta a gente querer varrer pra debaixo do tapete e fingir que eles não estão lá.
+[54:33] Eles estão lá.
+[54:35] Eles estão.
+[54:36] Eles existem.
+[54:38] Assim, é...
+[54:39] Felipe, que está perguntando por que o prazo da dívida brasileira é tão curto?
+[54:44] O prazo da dívida brasileira é curto porque nós já demos defô na nossa história,
+[54:48] nós já fizemos moratórias da dívida.
+[54:50] Quando um país faz uma moratória de dívida pública,
+[54:53] e por sinal,
+[54:55] eu trabalhei com países quando eu trabalhava no FMI,
+[54:58] Eu trabalhei com países que fizeram moratórias,
+[55:01] eu trabalhei na crise da Argentina,
+[55:03] trabalhei na crise do Uruguai,
+[55:04] trabalhei em outras crises onde houve moratórias de dívida,
+[55:07] a gente teve que reestruturar a dívida daqueles países,
+[55:10] teve que depois achar uma volta desses países ao mercado.
+[55:13] Em todas essas situações,
+[55:15] o que tende a acontecer é que quando um país deu uma moratória no seu passado,
+[55:19] aquilo fica marcado,
+[55:21] aquele país fica com uma espécie de mancha no seu histórico, entendeu?
+[55:25] O prêmio de risco que os investidores vão cobrar Em cima de uma dívida de um país
+[55:30] que já fez uma moratória no passado, é um prêmio de risco muito mais elevado.
+[55:35] Então aí,
+[55:36] de novo,
+[55:36] essa comparação de dívidas públicas,
+[55:38] ela não fica de pé,
+[55:39] porque os Estados Unidos nunca deram default na dívida,
+[55:42] o Japão nunca deu default na dívida,
+[55:44] os países da União Europeia,
+[55:45] em sua maioria,
+[55:46] à exceção da Grécia,
+[55:48] nunca deram default nas suas dívidas, mais ou menos, o Reino Unido deu.
+[55:52] Nos anos 70.
+[55:54] Mas assim, de um modo geral, moratória é não pagar.
+[55:57] Quando você dá uma moratória da dívida, significa que você deixa de pagar a sua dívida.
+[56:02] Nós fizemos isso nos anos 80 e ficamos anos para resolver essa história da nossa dívida.
+[56:08] Foi a história da década perdida.
+[56:11] A gente ficou durante os anos 80 inteiros sem conseguir
+[56:20] Sem ter uma solução para as nossas dívidas.
+[56:22] Parênteses aqui.
+[56:23] Paulo está dizendo assim.
+[56:24] Permita discordar.
+[56:26] O déficit primário após quatro anos de Lula 4 será rigorosamente zero.
+[56:30] Dívida pública é só juros do serviço, tá vendo?
+[56:33] Desculpa, Paulo, mas eu vou usar você aqui como exemplo.
+[56:36] Foi exatamente por causa disso que eu parei de fazer esses basicões.
+[56:39] Porque as pessoas entram aqui achando que sabem determinadas coisas que elas não sabem.
+[56:44] Não é verdade isso que você acabou de dizer aqui.
+[56:47] Não é verdade que o déficit primário após quatro anos de Lula 4 será rigorosamente zero.
+[56:51] Não é verdade isso.
+[56:52] As projeções não mostram isso, não indicam isso.
+[56:55] Nenhuma.
+[56:56] Nem as minhas, nem da instituição fiscal independente, simplesmente não é verdade.
+[57:02] Se a gente olhar os números, isso não se sustenta.
+[57:05] Dívida pública é só juros do serviço, também não é verdade.
+[57:09] Quando a gente pega a nossa dívida pública, 9%, 9,5%,
+[57:14] que é muito alto,
+[57:16] da nossa dívida, do PIB, 9,5% do PIB, da nossa dívida de 83% do PIB, é juros.
+[57:23] E aí o que dizer dos restantes setenta e tantos por cento?
+[57:29] Então isso daí também não é verdade, Paulo.
+[57:32] Esse é o problema, vocês estão vendo?
+[57:35] O que acabou acontecendo nesses últimos anos todos é que
+[57:38] com essa discussão ideológica sobre economia,
+[57:42] em que as pessoas se agarram aos seus economistas preferidos para poder ficar vendo
+[57:46] as coisas e gostando de um lado ou gostando do outro,
+[57:50] é que você deixa de enxergar a situação com realidade.
+[57:53] Não é verdade que o déficit primário daqui a quatro anos no final do Lula 4 será zero.
+[57:57] Não é verdade isso.
+[57:59] Também não é verdade que a dívida pública é só juros.
+[58:02] Uma parte considerável da dívida é juros.
+[58:04] Esses nove pontos percentuais do PIB aí que eu mencionei.
+[58:07] Mas tem outros setenta e tantos pontos percentuais do PIB que não são só juros.
+[58:12] Então, é muito fácil a gente cair nessas conversinhas,
+[58:19] é muito fácil e para quem não conhece essas nuances da economia,
+[58:25] fica muito fácil você ser levado para a economia.
+[58:27] Para um lado ou para o outro lado sem saber.
+[58:30] Por isso eu estou fazendo esses basicões.
+[58:31] Agora eu quero que vocês me digam, vocês querem esses basicões?
+[58:34] Porque esses basicões aqui,
+[58:36] o objetivo deles é derrubar essas certezas que alguns de vocês acham que tem.
+[58:41] Vocês estão afim de ter suas certezas derrubadas?
+[58:44] Me digam aqui, porque aí eu já paro logo de fazer esse troço aqui na primeira investida.
+[58:50] Me digam que eu quero saber.
+[58:53] Vou esperar vocês responderem.
+[59:01] Tá, beleza.
+[59:03] Então, todo mundo está dizendo o que quer.
+[59:05] Ótimo.
+[59:06] Porque, como eu estou falando para vocês,
+[59:08] o meu objetivo aqui não é puxar sardinha nem de um lado nem para o outro.
+[59:12] Não sou do mercado financeiro brasileiro,
+[59:14] não defendo as visões de esquerda econômica que eu não considero corretas.
+[59:20] Defendo certas coisas que eu considero corretas, sim.
+[59:24] Vocês sabem que,
+[59:25] na época da pandemia,
+[59:25] eu disse a vocês,
+[59:27] o sistema tributário brasileiro é excessivamente regressivo,
+[59:30] Ele prejudica os mais pobres,
+[59:32] o sistema,
+[59:33] a maneira como a gente gasta também é ruim,
+[59:36] a gente também prejudica os mais pobres,
+[59:38] nós não podemos cortar programas sociais,
+[59:40] defendi a ideia de renda básica,
+[59:42] defendi a ideia de auxílio emergencial, tudo isso, tá?
+[59:47] Agora, todas essas coisas dentro de limites.
+[59:50] E de novo,
+[59:51] economia não é fé,
+[59:52] economia não é dogma,
+[59:54] economia não é uma coisa que você inventa a historinha na sua cabeça,
+[59:57] conta pra você mesmo e acha legal.
+[59:59] Isso não é economia, tá?
+[01:00:01] Economia é hard facts,
+[01:00:03] é assim,
+[01:00:04] quais são os fatos,
+[01:00:05] quais são os números,
+[01:00:06] quais são as coisas que a gente tem que olhar,
+[01:00:09] onde é que isso aqui tá certo, onde é que isso aqui tá errado.
+[01:00:11] Economia é isso, gente, é análise, é por isso que a gente estuda tanto tempo, tá?
+[01:00:16] Eu passei, deixa eu ver, uns...
+[01:00:19] Doze anos da minha vida estudando economia antes de trabalhar com economia.
+[01:00:25] Eu passei doze anos para me formar economista, tá?
+[01:00:28] E o que me deixa completamente alucinada nesse debate brasileiro é que tem gente
+[01:00:35] que não tem a mínima qualificação e que fica falando certas coisas
+[01:00:39] as pessoas compram essas certas coisas como se elas fossem verdadeiras.
+[01:00:42] E elas não são, tá?
+[01:00:46] Então, vamos lá.
+[01:00:47] Voltando à vaca fria aqui.
+[01:00:50] Já me disseram isso uma vez, Marcelo, não sei se isso é bom ou ruim.
+[01:00:55] A Maria da Conceição Tavares foi professora do meu pai
+[01:00:58] na UFRJ.
+[01:01:02] Vamos lá.
+[01:01:06] Então, vamos voltar à receita e vamos voltar ao gasto.
+[01:01:15] O déficit do governo é isso aqui, tá?
+[01:01:18] Déficit do governo é receita menos gasto.
+[01:01:22] Quando isso daqui é menor que zero,
+[01:01:29] a gente tem déficit.
+[01:01:33] E quando isso daqui é maior que zero, a gente tem superávit, tá?
+[01:01:40] Então, isso aqui caracteriza déficit.
+[01:01:50] E o de baixo, o superávit.
+[01:01:55] Tá?
+[01:01:57] Déficit, superávit.
+[01:01:59] Ok?
+[01:02:01] A dívida pública, ela cresce tanto com os juros quanto com o déficit público.
+[01:02:10] Então, a gente tem duas noções de déficit público que são importantes.
+[01:02:14] Conceitos aqui, tá, gente?
+[01:02:16] Duas noções de déficit público.
+[01:02:18] Tem o déficit público primário e tem o déficit público nominal.
+[01:02:23] O déficit público primário é receita menos despesas,
+[01:02:28] sendo que você não considera as despesas com pagamentos de juros da dívida.
+[01:02:33] Então o primário é receita menos todas as despesas que não são pagamento de juros com a dívida.
+[01:02:39] Isso te dá o resultado primário.
+[01:02:42] O resultado nominal é receita menos todas as despesas,
+[01:02:47] incluindo as despesas com pagamento de juros.
+[01:02:50] Então se a gente olha para o caso brasileiro hoje,
+[01:02:53] a gente hoje tem um déficit primário relativamente pequeno ou relativamente baixo.
+[01:03:00] É um déficit primário que está abaixo de um ponto percentual do PIB.
+[01:03:05] Mas a gente tem um déficit nominal Que tá rodando aí na faixa de
+[01:03:09] uns 9 pontos percentuais do PIB.
+[01:03:12] 9% do PIB.
+[01:03:13] Por quê?
+[01:03:14] Qual é a diferença entre...
+[01:03:15] Aqui eu vou fazer a pergunta pra vocês e vocês me digam,
+[01:03:17] você não, Andréia, porque você sabe.
+[01:03:19] Qual é a diferença entre...
+[01:03:22] O que que faz... Como eu disse, o primário é menos de 1% do PIB e o nominal é 9% do PIB.
+[01:03:31] Por que que o nominal é mais alto do que o primário?
+[01:03:35] Pra ver se vocês entenderam.
+[01:03:38] Por que o déficit nominal no Brasil é mais alto que o déficit primário?
+[01:03:45] A gente só vai continuar quando tiver a resposta aqui na tela.
+[01:03:53] Isso.
+[01:03:55] A despesa com juros é o que faz a diferença entre o primário e o nominal.
+[01:04:00] Então, como vocês estão colocando aqui na tela,
+[01:04:03] É precisamente o pagamento de juros que faz com que
+[01:04:06] a gente tenha essa discrepância fenomenal entre o primário e o nominal.
+[01:04:12] Essa discrepância não é porque inclui a dívida, é porque inclui o pagamento dos juros da dívida.
+[01:04:18] Diferente.
+[01:04:20] Conceitualmente é importante essa diferença.
+[01:04:23] Dívida é o estoque de tudo que você tem.
+[01:04:26] Pagamento de juros é fluxo.
+[01:04:29] E o que a gente está falando aqui,
+[01:04:30] quando a gente fala de déficit ou de superávit ou de resultado primário ou nominal,
+[01:04:35] a gente está falando de fluxo.
+[01:04:37] Quando a gente está falando de dívida, a gente está falando de estoque.
+[01:04:41] Então é isso que o Augusto está colocando aqui na tela.
+[01:04:43] A diferença é o serviço da dívida.
+[01:04:45] Então é exatamente isso.
+[01:04:46] A diferença é o serviço da dívida.
+[01:04:50] O serviço da dívida nosso é elevado do jeito que é?
+[01:04:56] De um lado,
+[01:04:57] porque as nossas taxas de juros são altas,
+[01:04:59] e de outro, porque a gente tem essa indexação da dívida à Selic.
+[01:05:05] Então, como está dizendo a Isadora aqui,
+[01:05:07] Economia é um troço complexo,
+[01:05:10] então se vocês quiserem aprender para terem subsídios para entender a discussão,
+[01:05:15] vocês têm que estar dispostos a mergulhar nessa complexidade,
+[01:05:19] porque não é simples,
+[01:05:21] não é fácil, não é fácilzinho de explicar, não é, tem que querer entender.
+[01:05:30] Então eu vou repisar novamente esses conceitos.
+[01:05:35] Dívida estoque,
+[01:05:37] quando a gente fala em razão dívida PIB,
+[01:05:39] a gente está falando do estoque de dívida que a gente acumulou.
+[01:05:42] E quando a gente fala de resultado, seja ele primário ou nominal, a gente está falando de fluxo.
+[01:05:48] Fluxo num determinado período.
+[01:05:51] Então, por exemplo,
+[01:05:52] você olha para o déficit ou para o superávit dentro de um período específico.
+[01:05:58] Por exemplo, em um ano.
+[01:06:00] Então, a gente tem o nosso arcabouço fiscal,
+[01:06:02] por exemplo, define metas para o primário dentro de um ano.
+[01:06:09] Então, é assim que você olha para o fluxo.
+[01:06:14] Agora, esse problema que nós temos de juros elevados,
+[01:06:23] aí entra uma outra questão que eu acho que todos vocês têm que entender.
+[01:06:28] Não tem nada em economia, absolutamente nada, que não dependa de outra coisa.
+[01:06:35] Então, não dá pra gente falar assim,
+[01:06:37] ah, se o problema são os juros, se esse é o problema, então é só reduzir os juros.
+[01:06:44] Não, não é assim.
+[01:06:45] Os juros são consequência de outras coisas.
+[01:06:49] Então, por exemplo, a gente olha pra taxa de juros no Brasil, ela está em 13,75%.
+[01:06:55] Ah, 13,75 é muito alto, vamos derrubar.
+[01:06:57] Não é assim que se faz.
+[01:06:59] Não dá.
+[01:06:59] Porque se você reduzir a taxa de juros,
+[01:07:02] ela está no patamar em que ela está,
+[01:07:05] porque as condições internas do Brasil e certas condições estruturais
+[01:07:09] dos nossos mercados levam a taxa de juros para esse patamar.
+[01:07:13] Não adianta se querer baixar juros na marra, que isso não vai dar certo.
+[01:07:17] Isso vai gerar inflação e vai fazer você ter que voltar para o patamar anterior.
+[01:07:21] Para você poder reduzir a taxa de juros,
+[01:07:23] você tem que fazer um monte de coisas simultaneamente,
+[01:07:26] porque a taxa de juros é endógena, ela é resultado de um processo.
+[01:07:32] Então você não reduz a parcela de juros da dívida pública simplesmente marretando
+[01:07:37] a taxa de juros para baixo.
+[01:07:39] Isso não funciona, não é assim.
+[01:07:41] O que você precisa é de uma coordenação entre o que você está fazendo do lado
+[01:07:46] da política fiscal e o que você está fazendo do lado da política monetária.
+[01:07:50] Essas duas coisas têm que andar juntas.
+[01:07:53] Quando a gente fala em política macroeconômica,
+[01:07:55] a gente fala disso,
+[01:07:56] a política monetária tem que estar andando em consonância com a política fiscal.
+[01:08:00] Se elas não estiverem andando em consonância, dá errado, não dá certo.
+[01:08:05] Então, por exemplo,
+[01:08:07] não adianta você ter uma taxa de juros alta Se você,
+[01:08:12] ao mesmo tempo,
+[01:08:12] vai ter uma trajetória de déficit primário,
+[01:08:17] por exemplo,
+[01:08:18] que não esteja em consonância com aquela taxa de juros,
+[01:08:21] porque você vai estar esticando a corda de um lado e puxando a corda para
+[01:08:24] o outro lado de outro.
+[01:08:26] Política fiscal e política monetária têm que estar coordenadas.
+[01:08:29] E um dos problemas que a gente tem no Brasil,
+[01:08:32] desde sempre, É que a gente não consegue nunca fazer essa coordenação funcionar.
+[01:08:39] A gente consegue por períodos curtos,
+[01:08:42] mas a gente não consegue nunca fazer essa coordenação funcionar por períodos longos,
+[01:08:47] que é o que a gente precisaria para realmente reduzir essa taxa de juros no Brasil.
+[01:08:52] E também,
+[01:08:53] para além disso,
+[01:08:54] para reduzir essa taxa de juros no Brasil mesmo,
+[01:08:57] Há uma série de outras reformas que a gente precisaria fazer para remover,
+[01:09:01] inclusive,
+[01:09:02] esses resquícios da nossa era hiperinflacionária que conosco estão até hoje.
+[01:09:10] Então, como a gente já está com uma hora e tanto de live aqui,
+[01:09:13] eu continuo enquanto vocês estiverem aqui,
+[01:09:15] mas eu queria dizer a vocês o seguinte,
+[01:09:17] esse basicão de hoje é essencialmente para dizer a vocês,
+[01:09:22] mostrar para vocês E eu espero ter conseguido mostrar um pouco
+[01:09:26] o quão complexos são esses assuntos,
+[01:09:29] o quão difícil é você mergulhar numa discussão sem ter um entendimento básico de
+[01:09:36] como essas coisas funcionam,
+[01:09:37] inclusive um entendimento conceitual do que certas coisas significam.
+[01:09:43] E se vocês...
+[01:09:45] Quiserem fazer comigo o compromisso de mergulhar a fundo nessas coisas a fim de ter
+[01:09:52] um entendimento, beleza, estou aqui para isso.
+[01:09:56] Mas para isso eu preciso que vocês abandonem as historinhas que vocês andam ouvindo por aí, tá?
+[01:10:03] E eu vou usar o comentário do Paulo mais uma vez só para dizer...
+[01:10:08] Essas coisas que se ouvem são historinhas.
+[01:10:13] Eu, como eu disse, voltei para a rede social para tentar jogar luz em cima desse debate.
+[01:10:22] Se isso não for de serventia para ninguém,
+[01:10:26] Eu volto a viver a minha vida como eu estava vivendo nos últimos quatro anos,
+[01:10:30] muito bem obrigada, sem nenhum problema.
+[01:10:33] Já passei por isso uma vez,
+[01:10:35] já passei por isso quando eu tinha o canal lá no YouTube,
+[01:10:38] que entravam sempre umas pessoas cheias de certezas,
+[01:10:42] tanto para um lado quanto para o outro.
+[01:10:43] Eu preciso que vocês abandonem as suas certezas.
+[01:10:47] Vocês estão dispostos a abandonar as suas certezas?
+[01:10:50] Me digam, porque senão não vai valer a pena esse
+[01:10:52] esforço, tá?
+[01:10:53] Me digam, por favor.
+[01:10:55] Estou esperando.
+[01:11:06] Beleza, então é isso, tá?
+[01:11:08] Primeira coisa que a gente precisa fazer é limpar a mente, assim,
+[01:11:12] limpem a mente e tirem da cabeça as historinhas que vocês escutam,
+[01:11:17] para que vocês comecem,
+[01:11:18] a gente tem que começar do zero aqui,
+[01:11:20] para conseguir explicar e entender todas essas coisas, como elas funcionam e tal.
+[01:11:25] Então aqui em uma hora e quinze eu dei uma pincelada muito por alto pra vocês de
+[01:11:31] como o que é PIB,
+[01:11:35] o que é renda,
+[01:11:36] o que é demanda,
+[01:11:37] o que é oferta, como é que a economia funciona, o que é política fiscal.
+[01:11:40] A gente nem chegou em política monetária,
+[01:11:42] eu falei pra vocês de juros, mas eu nem cheguei a tocar em política monetária.
+[01:11:46] Política monetária e política fiscal não são separáveis, tá?
+[01:11:50] A gente não consegue pensar nelas separadamente, não nem faz sentido isso.
+[01:11:55] Você precisa pensar em política monetária e política fiscal como um conjunto.
+[01:11:59] Se a gente não pensá-las como um conjunto, a gente não consegue ligá-las com o CRE, tá?
+[01:12:07] Saibam o seguinte, e isso é extremamente importante, saibam que
+[01:12:12] nesse momento agora, ops,
+[01:12:18] Não sei o que aconteceu.
+[01:12:20] Saibam que nesse momento agora,
+[01:12:22] o que está acontecendo é que novamente esse debate em torno da política fiscal
+[01:12:27] se dividiu em torcidas.
+[01:12:29] Então tem a torcida de um lado dos que não querem que se faça nada e tem a torcida
+[01:12:34] do outro daqueles que querem tesouraço.
+[01:12:37] Entendam que não dá para estar nem num campo nem no outro.
+[01:12:40] E não dá pra estar no campo das ideias fantasiosas,
+[01:12:43] não dá pra estar no campo do negacionismo,
+[01:12:46] não dá pra estar no campo do, ah, não,
+[01:12:47] a gente não precisa fazer nada,
+[01:12:48] deixa pra lá,
+[01:12:49] olha só,
+[01:12:49] os Estados Unidos têm dívida muito mais alta que o Brasil, eles estão aí, né?
+[01:12:52] O Japão tem dívida muito mais alta que o Brasil, eles estão aí, né?
+[01:12:55] Não dá pra cair nessa, tá?
+[01:12:57] Isso daí nos leva, em 2030, pro mesmo lugar que a gente acabou de sair agora em 2026, tá?
+[01:13:04] Nos leva pra essa polarização de todos os tipos,
+[01:13:07] inclusive na economia, Não faz sentido isso daí.
+[01:13:11] Então deixa eu ver o que tem de comentários de vocês.
+[01:13:22] Sim, teremos, Ana Terezinha, teremos sim.
+[01:13:26] Tá, Antônia, sai então.
+[01:13:29] O John pergunta assim, Mônica,
+[01:13:30] o que você pensa sobre a proposta do André Lara Rezende de formar um comitê conjunto
+[01:13:34] de política monetária e política fiscal para anunciar metas trienais?
+[01:13:38] Eu acho ótimo.
+[01:13:39] Para aqueles de vocês que já me acompanham aqui há algum tempo,
+[01:13:42] vocês sabem que eu gosto muito do André,
+[01:13:44] falo muito com o André e tudo,
+[01:13:45] o André foi aluno do meu pai,
+[01:13:46] então assim,
+[01:13:48] eu acho que faz todo sentido essa proposta do André,
+[01:13:51] porque é precisamente isso, assim,
+[01:13:52] não dá para você ter Não dá para a gente achar,
+[01:13:56] como a gente faz há anos,
+[01:13:57] que a política monetária é uma coisa e a política fiscal é outra.
+[01:14:00] Não são.
+[01:14:01] É tudo a mesma coisa.
+[01:14:02] E a gente precisa tratá-las conjuntamente,
+[01:14:05] inclusive para que a gente tenha alguma chance de coordená-las adequadamente.
+[01:14:10] Se a gente tratá-las separadamente, nós não conseguiríamos coordená-las.
+[01:14:14] Eu acho muito boa essa proposta do André,
+[01:14:16] e o André é uma pessoa que se debruça sobre isso há anos e que vem tentando,
+[01:14:22] eu desisti,
+[01:14:23] mas ele continua tentando trazer racionalidade
+[01:14:27] para esse debate econômico brasileiro.
+[01:14:29] Obrigado a vocês,
+[01:14:30] é uma tarefa extremamente difícil essa,
+[01:14:32] por isso que eu entrei nessa live aqui um tanto nervosa,
+[01:14:35] porque eu já passei por isso,
+[01:14:38] já passei por isso por muitos e muitos anos e tirei o pé e desisti porque
+[01:14:44] as pessoas ficam sempre nas historinhas preferidas delas,
+[01:14:48] as pessoas sempre se agarram uma historinha,
+[01:14:50] uma, ah, eu prefiro pensar na economia assim.
+[01:14:53] Ou então, ah, eu prefiro pensar na economia assado.
+[01:14:55] E ninguém quer pensar na economia tal qual ela é.
+[01:14:57] Querem pensar na economia tal qual elas imaginam que ela seja.
+[01:15:01] E isso não funciona.
+[01:15:02] Então, quando eu tentei furar essa bolha alguns anos atrás, eu me aborreci um monte.
+[01:15:10] Então, para que eu não me aborreça e para que eu não aborreça vocês,
+[01:15:13] por favor,
+[01:15:14] deixem as suas historinhas e os seus dogmas na porta do lado de fora antes
+[01:15:22] de entrar aqui na live,
+[01:15:23] porque senão a gente não consegue progredir, a gente não consegue ir a lugar algum.
+[01:15:27] É...
+[01:15:31] Monica, nunca esqueço da live em 2020, sua com Ciro e Zena Latifi.
+[01:15:36] A cara de vocês quando ela falou das causas da crise com a Dilma foi ótima.
+[01:15:42] Sim, Priscila,
+[01:15:43] teremos sim gráficos Teremos sim gráficos,
+[01:15:48] eu os farei,
+[01:15:50] o Fausto diz assim,
+[01:15:52] não me chama de senhora não,
+[01:15:53] chama de você,
+[01:15:54] poderia incluir nesse seu projeto nos mostrar quais noticiários são honestos
+[01:15:58] em termos de economia,
+[01:15:59] também nos ensinar a identificar como o veículo de imprensa é ou não honesto?
+[01:16:03] Posso, Fausto, mas eu prefiro que vocês façam isso por vocês mesmos, sinceramente.
+[01:16:07] Assim, o meu papel aqui é menos de dizer para vocês quem está falando certo
+[01:16:11] e quem está falando errado,
+[01:16:13] e muito mais de dar a vocês os instrumentos para
+[01:16:15] que vocês próprios possam fazer essas avaliações.
+[01:16:18] Porque é isso que está faltando, entendeu?
+[01:16:20] O propósito dos basicões que eu fazia na economia não era botar
+[01:16:25] as pessoas pra pensar como eu penso.
+[01:16:27] Eu não tenho nenhum interesse nisso, tá?
+[01:16:29] Aliás, como professora que eu sou há muitos e muitos anos,
+[01:16:34] tudo o que eu não quero O que eu quero fazer aqui, Fausto,
+[01:16:36] mais do que ficar dizendo,
+[01:16:37] essa notícia aqui está errada,
+[01:16:38] aquela notícia ali falou não sei o quê,
+[01:16:40] esse cara aqui disse isso assim assim está errado.
+[01:16:59] Isso não me interessa fazer, tá?
+[01:17:01] O que me interessa fazer é dar a vocês o meu conhecimento de anos
+[01:17:07] de estudo numa área pra qual eu dediquei boa parte da minha vida até aqui.
+[01:17:13] Então, passar pra vocês o que eu sei,
+[01:17:16] pra que vocês utilizem isso pra formar a própria opinião de vocês a respeito do
+[01:17:21] que vale a pena ouvir,
+[01:17:22] o que não vale a pena ouvir,
+[01:17:24] a notícia que pode estar certa de um jeito,
+[01:17:25] a notícia que pode estar enviesada de outro.
+[01:17:27] Isso daí é com vocês.
+[01:17:29] Não vejo como o meu papel ficar desmentindo,
+[01:17:31] não é meu papel ficar fazendo fact-checking de imprensa, sinceramente, não é.
+[01:17:36] Se fosse isso eu teria mudado de profissão,
+[01:17:38] honestamente,
+[01:17:40] porque a quantidade de fato errado e de desinformação que tem é gigantesca.
+[01:17:46] Nem dá pra fazer isso.
+[01:17:47] O melhor que eu posso fazer é dar a vocês os subsídios pra
+[01:17:51] que vocês possam fazer isso por vocês mesmos.
+[01:17:54] É pra isso que servem os basicões, tá?
+[01:17:57] Os basicões têm esse objetivo.
+[01:17:59] Esse.
+[01:18:00] Só esse.
+[01:18:01] Nenhum outro.
+[01:18:02] Não tem o objetivo de ficar desmentindo ninguém.
+[01:18:05] Tem o objetivo de dar a vocês os subsídios pra que vocês tirem suas próprias conclusões, tá?
+[01:18:10] É assim que eu faço com os meus alunos.
+[01:18:12] É assim que eu parei com vocês.
+[01:18:15] Então, foi ótimo você ter colocado esse ponto,
+[01:18:18] Fausto, que aí você me deu a oportunidade de explicar isso.
+[01:18:22] Débora, muita gente pediu bibliografia.
+[01:18:24] Eu não vou dar bibliografia para vocês por uma razão, tá?
+[01:18:28] E por uma razão muito simples.
+[01:18:30] De um modo geral,
+[01:18:31] os livros-textos de economia,
+[01:18:33] os manuais de economia,
+[01:18:35] todos eles foram escritos com base na experiência de países que não são o Brasil.
+[01:18:43] Então se a gente pegar,
+[01:18:44] por exemplo,
+[01:18:45] os principais manuais de economia ensinados em qualquer curso de graduação,
+[01:18:51] qualquer,
+[01:18:52] em qualquer lugar do planeta,
+[01:18:55] esses manuais de economia,
+[01:18:56] eles são,
+[01:18:57] na sua grande,
+[01:18:58] vastíssima maioria,
+[01:19:03] o que está ali,
+[01:19:04] o conteúdo que está ali,
+[01:19:06] reflete o entendimento a partir Da economia que tem dominado
+[01:19:12] as discussões econômicas no mundo desde que esses manuais começaram a ser feitos.
+[01:19:18] E essa economia é a dos Estados Unidos, não é a do Brasil, nem um pouco.
+[01:19:23] Então, a razão pela qual eu não vou indicar bibliografia alguma aqui é
+[01:19:28] porque eu não considero que qualquer desses manuais seja extremamente útil fora de
+[01:19:34] uma sala, fora de um curso de graduação em economia.
+[01:19:39] Não são.
+[01:19:40] E não são úteis certamente para o propósito que a gente quer seguir aqui,
+[01:19:44] porque como eu falava, são manuais feitos em cima da experiência de um país.
+[01:19:51] E sim, de um modo geral,
+[01:19:52] a economia funciona mais ou menos daquele jeito,
+[01:19:54] mas a economia brasileira tem certas peculiaridades que são próprias do Brasil.
+[01:19:59] Então, por exemplo,
+[01:20:00] você pegar um capítulo de um livro qualquer de macro, Um bom livro de macro.
+[01:20:07] Se pegar um capítulo de um bom livro de macro sobre dívida pública,
+[01:20:11] aquele tratamento da dívida pública é um tratamento de país desenvolvido.
+[01:20:16] É um tratamento de como a dívida pública funciona num país como os Estados Unidos.
+[01:20:21] Isso não é como dívida pública funciona no Brasil.
+[01:20:25] Então, qualquer bibliografia que eu dê para vocês,
+[01:20:28] eu teria que ter o trabalho Além de falar as coisas que eu vou falar aqui
+[01:20:34] para vocês,
+[01:20:35] ainda por cima ficar identificando aonde que é que vale para o Brasil,
+[01:20:38] aonde é que não vale para o Brasil,
+[01:20:40] isso dá uma trabalheira danada e isso dá para fazer em sala de aula,
+[01:20:44] mas numa coisa como essa daqui em que não tem sala de aula,
+[01:20:48] eu estou falando para uma tela e vocês estão aí do outro lado da tela me ouvindo,
+[01:20:52] isso não dá certo, tá?
+[01:20:54] Então não tem, não tem livro.
+[01:20:56] O que vai ter é o que eu fazia no meu canal do YouTube.
+[01:21:00] Então, para quem não conheceu, o que eu fazia no meu canal do YouTube?
+[01:21:03] Eu fiz um curso de economia, essencialmente, no meu canal do YouTube.
+[01:21:07] Eu fiz um curso de economia em que eu comecei do mais básico do básico e fui indo.
+[01:21:12] Política fiscal,
+[01:21:12] política monetária,
+[01:21:13] balanço de pagamentos,
+[01:21:15] como é que a gente entende taxa de câmbio,
+[01:21:18] o que é taxa de câmbio, o que é o mercado de câmbio.
+[01:21:20] O que é a taxa de juros?
+[01:21:21] Da onde sai a taxa de juros?
+[01:21:23] Ela sai assim do ar?
+[01:21:24] Não, tem um mercado por trás.
+[01:21:27] Então eu fiz isso tudo numa sequência de vários vídeos, vários,
+[01:21:31] foram vários,
+[01:21:32] era um catatal de coisa que tinha nesse canal lá do YouTube,
+[01:21:36] na mesma sequência de aulas que eu já dei ao longo da minha vida.
+[01:21:41] Então, o que vocês terão aqui são notas.
+[01:21:45] As notas de vocês e as notas que eu fizer para vocês nos papeizinhos assim.
+[01:21:49] É isso, que é como eu fazia lá no YouTube.
+[01:21:52] Então, eu não vou dar bibliografia,
+[01:21:53] a não ser para alguém que queira alguma coisa muito específica.
+[01:21:57] Por isso, por esse motivo que eu acabei de falar aqui, tá?
+[01:22:00] Porque vai ficar muito difícil isso,
+[01:22:02] porque não tem como trazer algumas dessas discussões de uma forma que fique clara
+[01:22:09] Para o entendimento da economia brasileira.
+[01:22:12] E não, nós não temos manuais de economia para a economia brasileira.
+[01:22:17] Não temos.
+[01:22:17] Temos alguns bons livros sobre a economia brasileira.
+[01:22:20] Isso nós temos.
+[01:22:22] Mas não para o entendimento do básico da economia, que é o que eu quero passar aqui para vocês.
+[01:22:30] De novo, dogma.
+[01:22:32] Vou ler um dogma aqui na tela.
+[01:22:34] Todo ajuste fiscal sempre recai sobre os trabalhadores mais pauperizados.
+[01:22:39] Tá errado isso, tá?
+[01:22:41] Tá errado por quê?
+[01:22:42] Essa é uma frase absolutista.
+[01:22:44] Desculpa, Romulo, mas eu tenho que falar essas coisas.
+[01:22:47] Vou incomodar vocês, tá?
+[01:22:49] Sala de aula é pra incomodar, tá, gente?
+[01:22:51] Sala de aula não é pra fazer ninguém se sentir bem, não.
+[01:22:53] É pra incomodar, é pra pensar.
+[01:22:55] Pensar dói, tá?
+[01:22:57] Tá errado isso aqui.
+[01:22:58] Por quê?
+[01:23:00] Começa pelo absolutismo.
+[01:23:02] Todo ajuste fiscal?
+[01:23:03] Não, não é todo ajuste fiscal.
+[01:23:05] Dá para fazer muitos ajustes fiscais que não tenham essa implicação que você acabou
+[01:23:10] de colocar aqui na tela.
+[01:23:11] Por exemplo,
+[01:23:12] se você fizer um ajuste fiscal no Brasil em que você preserva os programas sociais,
+[01:23:17] mas você foca em coisas como desonerações que não servem para nada,
+[01:23:23] Ou outros gastos que não estão atendendo a ninguém e
+[01:23:25] a gente tem muito desperdício nos nossos gastos, temos,
+[01:23:29] temos muito desperdício,
+[01:23:31] isso é um ajuste fiscal que não corta programa social e não recai sobre
+[01:23:34] os mais pauperizados.
+[01:23:35] Então essa frase aqui,
+[01:23:37] ela é perfeita para ilustrar o tipo de dogma que permeia a economia brasileira e
+[01:23:43] que não nos serve para nada, tá?
+[01:23:45] Para nada.
+[01:23:46] Isso aqui é uma espécie de negacionismo.
+[01:23:48] Desculpa, mas estou usando aqui porque está na tela.
+[01:23:51] Dizer que todo ajuste fiscal sempre recai sobre os trabalhadores mais pauperizados é
+[01:23:58] um erro, não é verdade.
+[01:24:00] Se você quiser dizer, ah,
+[01:24:01] mas a maior parte dos ajustes fiscais que nós fizemos
+[01:24:05] no Brasil tiveram essa condição.
+[01:24:07] Isso é outra frase com outra conotação relativizada e não absolutista.
+[01:24:13] Se vocês me colocarem frases absolutistas aqui na tela,
+[01:24:16] podem ter certeza que eu vou discordar de vocês, porque não tem absoluto, gente.
+[01:24:20] Não tem.
+[01:24:21] Se você tem receitas,
+[01:24:23] um rol de receitas em que você pode mexer e um rol de despesas em
+[01:24:27] que você pode mexer, não pode ser verdade Que todo ajuste fiscal, piriri, pororó.
+[01:24:33] Simplesmente não é verdade isso.
+[01:24:35] Isso daí é, de novo, uma historinha vendida que vocês compraram.
+[01:24:39] Por favor, deixem os seus dogmas na porta.
+[01:24:41] Assim vocês não vão entender nada.
+[01:24:45] Quem entrar aqui com dogma não vai conseguir entender.
+[01:24:47] Isso não é verdade.
+[01:24:49] Não se sustenta.
+[01:24:51] A Zélia diz assim, Mônica,
+[01:24:52] quando fala de ajuste fiscal, o qual já foram citados, onde pode ser cortado?
+[01:24:57] Depende muito do Congresso Nacional.
+[01:24:58] Sim, Zélia, é verdade.
+[01:25:00] Como o governo pode ser eficiente ou consciente no ajuste fiscal?
+[01:25:03] Eu acho que começa, como eu falava, começa com os desperdícios e começa com os penduricalhos.
+[01:25:09] Sempre tem que começar com os desperdícios e com os penduricalhos,
+[01:25:12] porque esses, por definição, não estão servindo para nada.
+[01:25:16] Agora, tem uma economia política nessa história?
+[01:25:19] Claro que tem.
+[01:25:20] Porque se você for pensar nessa conta dos gastos tributários,
+[01:25:25] nesses 600 a 800 bi,
+[01:25:27] por exemplo,
+[01:25:28] Onde tem muitas desonerações setoriais, muitas renúncias fiscais para os setores.
+[01:25:33] Vocês acham que esses setores já graciados,
+[01:25:35] alguns deles, vão ficar contentes de ter suas renúncias fiscais removidas?
+[01:25:40] É claro que não, né?
+[01:25:41] Então,
+[01:25:41] um dos problemas que a gente sempre tem nessas discussões de política fiscal é que
+[01:25:45] a política importa.
+[01:25:47] E a maneira como você está apresentando as medidas também importa.
+[01:25:52] Então, nada disso que eu vou falar aqui para vocês nas próximas lives,
+[01:25:57] nada disso daqui é isento de como isso vai se refletir na realidade.
+[01:26:06] A reação dos diferentes agentes afetados e,
+[01:26:11] em particular,
+[01:26:11] dentro do Congresso Nacional, que, sim, representa determinados interesses.
+[01:26:16] Sempre que você tocar em algum interesse específico, vai sempre haver uma reação.
+[01:26:22] Isso é um mundo tal qual ele é e a política econômica passa por isso.
+[01:26:26] Então, sim,
+[01:26:28] quando a gente fala de ajuste fiscal Sempre vai depender do Congresso Nacional,
+[01:26:33] sempre vai depender de articulações com as pessoas e com aqueles agentes na economia
+[01:26:38] que vão ser afetados por aquelas medidas.
+[01:26:41] Sempre.
+[01:26:41] Isso faz parte do jogo.
+[01:26:43] É assim que é.
+[01:26:44] Mas o que eu posso fazer aqui
+[01:26:45] para vocês é apresentar aonde certas coisas seriam razoáveis
+[01:26:50] e aonde certas coisas não seriam razoáveis e a partir daí dar a vocês os subsídios
+[01:26:56] para que vocês próprios tirem suas conclusões sem ter que entrar aqui e me dizer
+[01:27:00] que todo ajuste fiscal sempre recai sobre os mais pobres, porque isso não é verdade.
+[01:27:06] Assim, em termos absolutos isso não é verdade.
+[01:27:09] Você consegue fazer ajustes fiscais que não recaem sobre os mais pobres.
+[01:27:14] E você também consegue fazer ajustes fiscais que recaem sobre os mais pobres.
+[01:27:18] As duas possibilidades existem.
+[01:27:20] Tudo depende do desenho e tudo depende de como você faz.
+[01:27:25] Então deixem os seus absolutos fora daqui, porque isso não vai ajudá-los a entender nada.
+[01:27:34] Bem, Marcelo, sim, tudo fica disponível aqui no Substack, tá?
+[01:27:41] A live fica, sim, acessível.
+[01:27:43] Por duas semanas, tá?
+[01:27:45] Porque depois ela entra, ela vai pra dentro de um paywall.
+[01:27:50] Depois a gente pensa sobre essa história do paywall.
+[01:27:52] Mas por duas semanas, depois que uma live é publicada, o vídeo fica disponível pra todo mundo.
+[01:28:01] É...
+[01:28:03] Bem, deixa eu ver aqui, Isadora.
+[01:28:05] Mônica, sobre a meta de inflação, Peru,
+[01:28:08] Chile, México e Colômbia, todos têm meta de inflação em 3%, com banda igual a nossa.
+[01:28:12] Com exceção da Colômbia,
+[01:28:13] todos os países não apresentam dificuldade de chegar perto do centro,
+[01:28:16] a não ser esse ano, por causa da guerra.
+[01:28:18] Se aumentarmos a meta,
+[01:28:20] isso não nos prejudicaria em termos de atratividade e competitividade de capitais
+[01:28:23] de curto prazo?
+[01:28:24] Isadora,
+[01:28:25] eu vou deixar para responder a sua pergunta,
+[01:28:29] muito boa pergunta,
+[01:28:31] eu vou deixar para respondê-la na semana que vem,
+[01:28:34] Depois que eu tiver dado algumas pinceladas iniciais também em política monetária
+[01:28:39] para que a gente possa falar adequadamente da meta.
+[01:28:42] Mas para não deixar sua pergunta sem resposta,
+[01:28:44] a experiência brasileira é bem diferente da experiência desses outros países
+[01:28:48] que você coloca aqui.
+[01:28:49] Então, sim, é verdade que eles têm meta de 3%.
+[01:28:52] Mas também é verdade que eles têm essa meta de 3% já há algum tempo
+[01:28:55] e também é verdade que eles já foram capazes de alcançar essas metas de 3%
+[01:29:00] em outras ocasiões.
+[01:29:01] Para nós, isso não é verdade.
+[01:29:03] A gente tem um regime de metas de inflação que,
+[01:29:07] nas vezes em que nós conseguimos chegar perto de 3%,
+[01:29:10] e nós já chegamos perto de 3%,
+[01:29:12] inclusive abaixo de 3%,
+[01:29:14] mas isso só aconteceu conosco em momentos de crise,
+[01:29:19] em momentos de recessão forte, Ou em momentos assim mais turbulentos.
+[01:29:24] Em situações normais de temperatura e pressão,
+[01:29:27] a nossa inflação sempre ficou acima dos 4% ao ano.
+[01:29:31] E tem razões para isso.
+[01:29:32] E algumas delas passam sim pela política fiscal e algumas delas passam sim
+[01:29:36] por outras situações estruturais que tem a economia brasileira.
+[01:29:40] Então um dos problemas dessa nossa meta de inflação de 3% é que ela não é crível.
+[01:29:45] Ela não tem credibilidade.
+[01:29:46] Tanto assim que o que o Banco Central vem fazendo com
+[01:29:49] a política monetária Não é nem tentar chegar nessa meta de 3%.
+[01:29:53] O Banco Central Brasileiro vem tentando manter a inflação perto ou próxima do teto
+[01:29:59] de 4,5%, um pouco abaixo do teto de 4,5%.
+[01:30:03] Então hoje a política monetária não trabalha com o centro da meta de 3%, e sim com o teto.
+[01:30:09] O Zé Paulo tem uma visão diferente da minha quanto a isso.
+[01:30:12] O Zé Paulo acha que está ok assim, não tem problema, deixa como está.
+[01:30:15] É uma visão e a visão dele é sustentada e bem embasada.
+[01:30:21] Então, essa é a visão dele.
+[01:30:23] A minha visão é um pouco diferente.
+[01:30:25] Eu acho que seria muito melhor para nós,
+[01:30:28] já que os 3% não são críveis,
+[01:30:31] e já que a gente vai ficar eternamente flertando com esse teto da meta,
+[01:30:35] bota o centro da meta onde ele tem que estar.
+[01:30:38] Então, o meu posicionamento nesse debate é mais parecido,
+[01:30:43] por exemplo,
+[01:30:44] com o do Felipe Salto e de outras pessoas que acham que a meta
+[01:30:47] de inflação deveria muito bem ser 4% e não 3%.
+[01:30:51] E isso não muda em nada, absolutamente nada para nós.
+[01:30:55] Se a meta for 4 e não 3,
+[01:30:57] não é que isso daí vai desancorar todas as expectativas de inflação e
+[01:31:01] de repente nós vamos ter uma inflação galopante.
+[01:31:04] Em absoluto, não se trata disso.
+[01:31:06] O regime de metas de inflação precisa ser desenhado para entregar metas que sejam críveis.
+[01:31:12] Se a meta não tiver credibilidade, o que ela adianta?
+[01:31:15] Então, a minha visão é essa.
+[01:31:17] É uma visão um pouco diferente.
+[01:31:19] A visão do Zé Paulo é mais pragmática,
+[01:31:21] porque o Zé Paulo está dizendo assim, não,
+[01:31:24] eu acho melhor,
+[01:31:25] e o Aloysio Araújo é outro que fala a mesma coisa,
+[01:31:27] acho melhor o Banco Central continuar fazendo o que está fazendo do jeito
+[01:31:30] que está fazendo, que é perfeitamente válida essa visão.
+[01:31:35] A minha preferência é dar conta do problema de credibilidade de uma vez,
+[01:31:39] reconhece que ele existe, porque ele de fato existe.
+[01:31:42] Todo mundo sabe que a gente não vai chegar à meta de 3%.
+[01:31:45] Então é melhor ajustar e ganhar algum espaço fazendo isso.
+[01:31:49] Isso é o que eu penso.
+[01:31:51] Mas eu vou mergulhar muito mais detidamente e muito mais
+[01:31:54] a fundo nessa discussão mais à frente,
+[01:31:56] depois que a gente tiver falado um pouco mais sobre o básico do básico
+[01:32:00] da política monetária,
+[01:32:01] porque primeiro a gente precisa entender esses conceitos básicos
+[01:32:04] para aí então chegar nessas discussões que são mais sofisticadas.
+[01:32:09] O Tiago fala assim, mas de prático mesmo, o que podemos fazer?
+[01:32:12] Não dá para pressionar para colocar alguém fiscalista no Ministério da Fazenda?
+[01:32:16] Se o Alckmin assumisse, isso acalmaria os mercados.
+[01:32:20] Tiago, eu acho que o que a gente tem que fazer é ser realista,
+[01:32:23] não é ser fiscalista,
+[01:32:25] nada disso, a gente precisa ser realista em relação à nossa própria situação.
+[01:32:30] A gente tem um problema a resolver,
+[01:32:33] o problema que a gente tem a resolver não é de crise iminente,
+[01:32:37] então para o pessoal da Faria Lima que fica gritando que o país vai quebrar,
+[01:32:40] o país não vai quebrar, não vai.
+[01:32:43] Enterra essa discussão, que o país não vai quebrar.
+[01:32:47] Agora, não quebrando não quer dizer que está tudo bem,
+[01:32:50] então a gente não precisa fazer nada,
+[01:32:51] como tem alguns economistas mais de esquerda falando.
+[01:32:54] Isso também não é verdade.
+[01:32:57] Nem uma coisa, nem a outra.
+[01:32:58] É algo outro aí no meio do caminho.
+[01:33:01] O que eu acho,
+[01:33:02] em termos do Ministério da Fazenda,
+[01:33:04] eu acho importante o governo Lula IV dar uma sinalização De engajamento com
+[01:33:12] os problemas do país a partir das nomeações que vai fazer para
+[01:33:17] os diferentes ministérios e o Ministério da Fazenda em particular.
+[01:33:21] Acho importante que alguém que esteja no Ministério da Fazenda,
+[01:33:25] a pessoa que esteja no Ministério da Fazenda seja conhecida por ser uma pessoa
+[01:33:31] com conhecimento dos problemas do Brasil, é claro.
+[01:33:36] Não estou dizendo que o atual ministro não tenha, é claro que ele tem.
+[01:33:39] Mas com esse conhecimento e ao mesmo tempo que seja percebida como uma pessoa
+[01:33:45] que seja capaz de deliver, uma pessoa capaz de entregar esses resultados.
+[01:33:51] Então eu acho que a nomeação tem que passar por isso.
+[01:33:54] Quem é que hoje reúne essas credenciais?
+[01:33:56] Tem várias pessoas que reúnem essas credenciais,
+[01:33:59] mas é importante que a gente tenha Uma pessoa no Ministério da Fazenda que tenha
+[01:34:05] um perfil como esse que eu acabei de falar.
+[01:34:07] E eu acho que será um enorme desserviço a todos, todos,
+[01:34:12] todos nós,
+[01:34:13] se a indicação para o Ministério da Fazenda for feita pura e simplesmente,
+[01:34:19] não estou dizendo que é isso que vai acontecer,
+[01:34:21] mas se a indicação do Ministério da Fazenda for feita pura e simplesmente
+[01:34:25] para agradar uns ou agradar outros, isso não vai funcionar.
+[01:34:29] A pessoa que vai estar no Ministério da Fazenda tem que ser uma pessoa que conheça
+[01:34:32] os problemas do país e que tenha alguma capacidade de manejo para administrá-los.
+[01:34:37] E quando eu falo em capacidade de manejo,
+[01:34:39] não é só capacidade de manejo técnico,
+[01:34:42] é também capacidade de manejo político,
+[01:34:43] porque o cargo de Ministro da Fazenda é um cargo, por excelência, político.
+[01:34:48] Tem muita negociação com o Congresso que o Ministro da Fazenda tem que fazer.
+[01:34:52] Então é extremamente importante que essa indicação para o Ministério
+[01:34:56] da Fazenda tenha traquejo político e conhecimento técnico.
+[01:35:00] As duas coisas.
+[01:35:01] Se for só conhecimento técnico não vai a lugar algum e se for só traquejo político também não.
+[01:35:05] Então tem que ser os dois.
+[01:35:08] A pessoa indicada tem que se encaixar nesse tipo de perfil.
+[01:35:17] Isaías diz assim, Monica, a dívida pública brasileira é em maior parte moeda nacional, certo?
+[01:35:22] Correto,
+[01:35:23] é em maior parte moeda nacional e essa é um dos pontos positivos da composição
+[01:35:29] da nossa dívida,
+[01:35:29] porque aí quando vem aquelas comparações com a Argentina,
+[01:35:33] aquelas comparações malucas com a Argentina,
+[01:35:35] Por que não dá para fazer comparação com a Argentina?
+[01:35:39] Porque a dívida da Argentina não é em moeda local.
+[01:35:42] A dívida da Argentina é em dólar.
+[01:35:45] O que torna o quadro deles muito mais complicado ainda do que o nosso.
+[01:35:50] Por isso que aquela ideia da Zélia e do Flávio de fazer A gente tem que dar conta
+[01:35:56] dos nossos problemas de acordo com a nossa realidade,
+[01:35:58] não de acordo com a realidade dos outros.
+[01:36:16] Então, esse ponto aqui, Isaías,
+[01:36:18] é muito importante,
+[01:36:19] porque sim,
+[01:36:19] a dívida pública brasileira é em maior parte em moeda local, aliás,
+[01:36:23] é inteiramente moeda local,
+[01:36:25] uma parcela muito pequenininha que é em moeda estrangeira e,
+[01:36:29] portanto,
+[01:36:29] isso nos dá uma margem de manobra maior para lidar com os nossos problemas.
+[01:36:37] É terrível quando a sua dívida pública está denominada na moeda de outro país,
+[01:36:41] porque aí você não tem A mínima possibilidade de administrar essas obrigações,
+[01:36:48] como foi o caso da Argentina,
+[01:36:50] razão pela qual a Argentina teve que fazer os cortes profundos que fez
+[01:36:54] e ainda assim continua na penúria.
+[01:36:57] Mas o Brasil não tem essa situação,
+[01:36:59] então a gente pode conversar e tratar da situação fiscal brasileira de
+[01:37:03] uma forma muito mais tranquila do que os nossos vizinhos argentinos, por exemplo.
+[01:37:12] Beleza, Diego, Diego disse que vai largar todas as historinhas.
+[01:37:17] É isso, gente, não dá pra vir pra cá com historinha na cabeça, não dá.
+[01:37:21] Larguem as historinhas,
+[01:37:23] depois que vocês tiverem,
+[01:37:24] se vocês quiserem, eu tô aberta a todo e qualquer questionamento, tá?
+[01:37:28] Eu sou uma pessoa que gosta de debate,
+[01:37:31] gosto de enfrentar ideias diferentes das minhas,
+[01:37:34] gosto de conversar sobre Sobre as coisas,
+[01:37:36] mas eu gosto de fazer tudo isso com base em fundamentos.
+[01:37:40] Fazer isso com base,
+[01:37:42] sem fundamento algum,
+[01:37:45] simplesmente solto no ar e no espaço,
+[01:37:47] ah, eu acho isso, você acha aquilo e fica tudo no artismo, isso pra mim não serve.
+[01:37:53] Então é por isso que eu me dispus a reeditar os basicões,
+[01:37:58] é exatamente para isso,
+[01:37:59] para dar a vocês o chão mínimo para que daí vocês tirem as suas próprias conclusões,
+[01:38:06] agora chegar aqui com conclusões pré-feitas não vai funcionar.
+[01:38:10] Chegar aqui com conclusões pré-fabricadas não vai funcionar, tá?
+[01:38:14] Nenhuma delas, nem as negacionistas, nem as que, ah, sim, tem que cortar, o país vai quebrar.
+[01:38:20] Não, não tem nada disso.
+[01:38:22] Tem que entender os princípios para poder discutir, senão a gente não consegue discutir nada.
+[01:38:28] A Eneida está perguntando quando é que serão os basicões.
+[01:38:31] Pois é, isso é uma...
+[01:38:33] Essa é uma boa pergunta, porque eu não pensei o suficiente sobre isso.
+[01:38:39] Eu tinha pensado isso de início, Eneida, de fazer os basicões às sextas-feiras e de trazer...
+[01:38:46] Eu faço, então, para vocês que chegaram aqui, tá?
+[01:38:49] Aqui no Substack, Então,
+[01:38:51] desde que começou a história das eleições,
+[01:38:55] eu vinha fazendo duas lives,
+[01:38:57] às vezes mais semanais, mas eram mais lives para discutir o calor do momento.
+[01:39:02] Então, eu tenho sempre uma live que eu faço aqui nas segundas-feiras,
+[01:39:05] às seis da tarde do Brasil, às seis da tarde de vocês.
+[01:39:09] Tem sempre uma live aqui às quintas-feiras, que é às cinco e meia da tarde de vocês.
+[01:39:14] Essa é com o Zé Paulo Kupfer.
+[01:39:15] E nessa daí a gente geralmente discute temas da atualidade, da discussão econômica atual.
+[01:39:21] O que eu comecei a perceber é
+[01:39:23] que muitos desses temas acabam ficando excessivamente abstratos para muita gente,
+[01:39:27] porque nem todo mundo tem a compreensão pé no chão das coisas
+[01:39:34] para conseguir entender o que a gente está falando,
+[01:39:37] então por isso eu achei necessário reeditar os basicões.
+[01:39:40] E esse é o primeiro que eu estou fazendo desde que eu descontinuei o canal do YouTube.
+[01:39:45] Então, e tá sendo numa sexta-feira.
+[01:39:47] Então, em princípio,
+[01:39:48] eu acho que a gente pode adotar uma coisa do tipo assim,
+[01:39:52] segunda-feira é uma live de comentários gerais,
+[01:39:56] quinta-feira é uma live com o Zé Paulo Kupfer,
+[01:40:00] Para discutir os problemas econômicos atuais do Brasil e as coisas que estão
+[01:40:04] no noticiário.
+[01:40:05] E as sextas-feiras ficam, então,
+[01:40:07] dedicadas para essas aulas, para esses basicões, se vocês se dispuserem a isso.
+[01:40:12] Eu estou me dispondo a fazer isso,
+[01:40:14] agora eu vou precisar que vocês se disponham a fazer a mesma coisa.
+[01:40:18] E aí a gente passará a ter, então, três lives na semana aqui.
+[01:40:23] Então, uma na segunda, uma na quinta e uma na sexta.
+[01:40:27] Acho que eu consigo ficar nesse ritmo.
+[01:40:29] Se não der, a gente muda no meio do caminho.
+[01:40:31] Mas se vocês estiverem topando os basicões, eles vão funcionar dessa maneira.
+[01:40:38] Para alguns de vocês que estão dizendo aqui que o vídeo e o áudio travam,
+[01:40:42] esse é o problema da plataforma aqui do Substack, tá?
+[01:40:46] Essa plataforma aqui é ótima porque ela nos mantém livres de comentários e
+[01:40:51] de insurreições, assim, por assim dizer.
+[01:40:56] De pessoas que só entram para criar barulho e baderna e coisas assim.
+[01:41:00] Agora, por outro lado, a plataforma tem alguns defeitos em termos de estabilidade da conexão.
+[01:41:07] Ela não é muito boa.
+[01:41:09] Mas é o que temos, então temos que conviver com isso.
+[01:41:12] Não tem muito jeito.
+[01:41:15] É essa a ideia, Andréia.
+[01:41:16] Dar os instrumentos para vocês raciocinarem e concluírem por vocês mesmos.
+[01:41:19] Eu não quero fazer a cabeça de ninguém aqui, tá?
+[01:41:22] Não é a minha pretensão.
+[01:41:23] Não gosto, assim, não é o meu papel.
+[01:41:28] O meu papel não é fazer a cabeça de vocês.
+[01:41:31] O meu papel é dizer a vocês,
+[01:41:32] dar a vocês os subsídios para que vocês façam a sua própria avaliação crítica.
+[01:41:39] Que, aliás, é o que está faltando, né, gente?
+[01:41:41] Quando você fica nesse tiroteio de um lado e do outro,
+[01:41:45] O tesouraço de um lado e o negacionismo completo do outro, sobra o quê?
+[01:41:49] Sobra nada, né?
+[01:41:50] Ninguém consegue pensar criticamente a respeito de nada,
+[01:41:53] porque fica só um lado atacando o outro.
+[01:41:55] Fica o povo do tesouraço dizendo que o povo negacionista não entende nada e fica
+[01:42:00] o povo negacionista dizendo para o povo do tesouraço que eles não entendem nada.
+[01:42:04] E nesse meio do caminho ninguém entende nada mesmo.
+[01:42:07] Nenhum, nem outro, nem quem está no meio.
+[01:42:09] Então o meu objetivo aqui é simplesmente dar a vocês o conhecimento que eu tenho
+[01:42:14] para que vocês usem isso da forma que vocês quiserem.
+[01:42:18] Ensino é isso,
+[01:42:20] quando a gente está na posição de professor,
+[01:42:24] quando a gente está nessa posição de passar conhecimento,
+[01:42:28] a melhor coisa que você pode fazer para o seu aluno é exatamente instigar
+[01:42:33] o pensamento crítico no seu aluno,
+[01:42:35] não ficar dando respostas prontas ou receitas prontas de pensamento,
+[01:42:41] isso não é pensar.
+[01:42:43] Pensar é a gente ter ali algumas coisas que a gente junta e em cima daquilo,
+[01:42:48] com aquele conhecimento adquirido, você então reflete e pensa.
+[01:42:52] Nesse mundo excessivamente automatizado que a gente tem hoje,
+[01:42:56] com inteligência artificial para lá e para cá,
+[01:42:58] essa história de pensamento crítico,
+[01:43:00] que é o que eu prezo, ficou ainda mais prejudicado do que já era.
+[01:43:04] Ela já estava muito prejudicada antes da ascensão da inteligência artificial.
+[01:43:07] Agora então nem se fala.
+[01:43:10] É um prejuízo para todos os lados.
+[01:43:11] Então aqui vai ser o momento do dia,
+[01:43:13] se vocês assim se dispuserem,
+[01:43:16] essas tardes de sexta-feira serão dedicadas a pensar criticamente, sem IA,
+[01:43:22] pensar criticamente e humanamente,
+[01:43:25] com o conhecimento que nós somos capazes de ter e com a nossa própria capacidade
+[01:43:31] de pensar.
+[01:43:32] É isso que eu estou me propondo a fazer aqui com vocês.
+[01:43:35] Essa é a ideia.
+[01:43:37] A Flávia está dizendo que acompanhava nas lives anteriores, ótimo, estive aqui.
+[01:43:43] É isso, tem abobrinha de todos os lados, tá, Flávia?
+[01:43:47] Tem abobrinha da imprensa,
+[01:43:48] tem abobrinha de algumas pessoas
+[01:43:51] que ficam fincadas nas suas certezas nos campos diversos,
+[01:43:55] sejam elas de esquerda, de direita, disso, daquilo, tem toda hora isso.
+[01:44:01] E o importante não é isso, o importante é a gente criar a visão própria, né?
+[01:44:10] Bem, fiquei falando aqui e me perdi nos comentários de vocês.
+[01:44:14] Deixa eu ver o que mais tem.
+[01:44:15] Isadora, acho que eu respondi o seu.
+[01:44:19] Romulo, eu já respondi a sua pergunta.
+[01:44:21] Eu não vou mais tratar disso, não.
+[01:44:23] Já disse a você que jogar uma frase na tela, todo ajuste fiscal é isso, aquilo, não rola.
+[01:44:31] Sim, no Brasil nós fizemos muitos ajustes fiscais que prejudicaram muito
+[01:44:36] a população mais pobre.
+[01:44:37] Não estou dizendo que isso não seja verdade.
+[01:44:39] O que eu estou dizendo é outra coisa.
+[01:44:41] Não é o momento de litigar o passado.
+[01:44:43] Eu não estou interessada em litigar o passado.
+[01:44:45] Eu não estou interessada em olhar para trás e dizer aquele ali foi ruim,
+[01:44:47] aquele ali foi não sei o quê.
+[01:44:49] Não me interessa isso.
+[01:44:50] Me interessa a discussão que é produtiva para o país no momento em que o país está agora.
+[01:44:55] Porque se a gente não fizer essa discussão direito,
+[01:44:57] se a gente não tratar com realismo as questões econômicas que a gente tem,
+[01:45:01] quando a gente chegar em 2030,
+[01:45:03] a gente vai passar por um sufoco muito parecido com esse que a gente acabou
+[01:45:06] de passar.
+[01:45:07] Vocês estão cientes disso?
+[01:45:09] Porque a extrema-direita não acabou no Brasil.
+[01:45:11] Continua tendo uma extrema-direita,
+[01:45:13] continua tendo mais gente no Brasil que defende Estado mínimo,
+[01:45:17] continua tendo mais gente no Brasil que defende a O completo desaparecimento
+[01:45:22] de programas sociais.
+[01:45:23] Continua tendo mais gente no Brasil que acredita que os mercados resolvem tudo
+[01:45:27] por eles próprios,
+[01:45:28] que você não precisa ter estado na economia, que você não precisa ter governo.
+[01:45:32] Isso daí tudo permanece, tá?
+[01:45:34] Essa pauta econômica libertária da extrema-direita permanece,
+[01:45:38] ela continua,
+[01:45:39] ela não desapareceu e ela vai ganhar força nos próximos quatro anos,
+[01:45:43] sobretudo se nós ficarmos fincados no negacionismo fiscal que é característico
+[01:45:48] de certas alas da esquerda.
+[01:45:50] Eu acho importante que vocês saibam disso, porque assim é que é.
+[01:45:54] Se nós ficarmos fincados no negacionismo da situação tal qual ela se apresenta,
+[01:45:59] porque a gente não quer discutir os problemas que o país tem,
+[01:46:03] saibam que nós estaremos trilhando rumo a 2030 o mesmo caminho
+[01:46:08] que nós trilhamos rumo a 2026.
+[01:46:10] E nós passaremos em 2030 o mesmo tipo de sufoco que a gente acabou de passar agora,
+[01:46:15] com outro nome
+[01:46:20] Nas chapas presidenciáveis,
+[01:46:23] não haverá provavelmente o nome Bolsonaro,
+[01:46:26] pelo menos a gente espera que não,
+[01:46:28] mas haverá outros nomes,
+[01:46:29] vocês estão vendo aí as articulações da extrema-direita agora que
+[01:46:33] o Flávio Bolsonaro fugiu do país e deixou a extrema-direita sem liderança,
+[01:46:36] vocês estão vendo, já tem uma disputa por liderança na extrema-direita.
+[01:46:41] E não, nada me convence que o Tarcísio de Freitas não seja um extremista em alguns aspectos.
+[01:46:47] Nada me convenceu até agora que o Tarcísio de Freitas consiga ser um moderado no
+[01:46:52] que diz respeito à economia e a outras áreas das políticas públicas.
+[01:46:58] Nada, absolutamente nada.
+[01:47:00] Mas essa pessoa já colocou seu chapéu no ringue como presidenciável em 2030.
+[01:47:05] Então vocês querem passar o mesmo sufoco de novo ou vocês querem ter a construção do
+[01:47:10] que eu chamei de antítese aqui depois do primeiro turno?
+[01:47:12] Vocês querem construir antítese?
+[01:47:14] Querem reconstruir um centro no debate econômico para
+[01:47:17] que pelo menos essas discussões voltem a ter a gravidade que elas precisam ter
+[01:47:23] em todos os sentidos dessa palavra?
+[01:47:25] Se vocês querem isso,
+[01:47:27] isso é o que eu quero,
+[01:47:28] se vocês querem isso também,
+[01:47:30] então a gente precisa começar a ter essa discussão com realismo desde já.
+[01:47:34] Não adianta chegar aqui com resposta pronta,
+[01:47:36] porque isso aí não vai levar a gente pra lugar algum.
+[01:47:39] E isso é extremamente importante, gente,
+[01:47:40] porque se a gente não der conta de resolver alguns desses problemas ao longo
+[01:47:44] dos próximos quatro anos,
+[01:47:46] a gente vai estar em muitos maus lençóis quando chegar em 2030, tá?
+[01:47:49] Lembrem que toda essa construção aí do que aconteceu no primeiro turno,
+[01:47:54] As eleições demorou quatro anos para se reerguer.
+[01:47:59] Aliás, quatro não, mais até.
+[01:48:00] Mas nos últimos quatro anos,
+[01:48:02] esse campo extremista de direita no Brasil conseguiu se erguer em cima de uma porção
+[01:48:08] de coisas, mas inclusive de alguns negacionismos da esquerda brasileira.
+[01:48:14] Se a gente quiser deixar a coisa correr desse jeito,
+[01:48:17] nós encararemos o mesmo tipo de precipício que a gente encarou agora em 2026.
+[01:48:22] Então o trabalho que eu estou me propondo a fazer aqui com vocês é o
+[01:48:26] de precisamente começar um entendimento mais profundo dos nossos problemas,
+[01:48:32] em vez de ficar na briga de torcida,
+[01:48:34] que a briga de torcida nos leva para o mesmo lugar que a gente acabou de passar.
+[01:48:39] Eu acho que ninguém quer passar por isso de novo, né?
+[01:48:41] Nada garante que a gente não vá passar por isso de novo,
+[01:48:44] mas que pelo menos a gente faça um esforço aqui para reduzir
+[01:48:46] as chances disso acontecer, isso já é belezinha, já ajuda a gente bastante, né?
+[01:48:52] Então, é isso que eu acho que é importante a gente fazer.
+[01:48:57] Bem, estamos a quase duas horas de live.
+[01:48:59] Essas lives não durarão duas horas, tá?
+[01:49:02] Se os basicões emplacarem,
+[01:49:04] a ideia dos basicões é fazê-los, assim, uma hora, uma hora e meia, no máximo, tá?
+[01:49:10] Não mais do que isso,
+[01:49:11] porque eu sei que mais do que isso ninguém aguenta e depois ninguém vai assistir.
+[01:49:15] Então, esse é o ponto que o Olison colocou aqui na tela.
+[01:49:20] É que...
+[01:49:21] Que as pessoas que estão aqui queiram pensar diferente da polarização.
+[01:49:27] Chega de polarização.
+[01:49:29] Chega.
+[01:49:30] Vamos pensar com calma e vamos pensar direito para a gente parar com esse negócio
+[01:49:34] porque esse negócio não vai nos levar a lugar algum.
+[01:49:40] Juliana diz assim,
+[01:49:41] queria sugerir que nos momentos dos aulões os comentários de elogios
+[01:49:46] e agradecimentos fossem feitos ao final da live.
+[01:49:48] Ótimo, Juliana.
+[01:49:49] Por favor, gente.
+[01:49:50] Deixem comentários e elogios para o final da live,
+[01:49:53] porque senão isso aqui distrai muito e fica difícil de levar a coisa à frente.
+[01:49:58] Lembrem que se isso aqui fosse uma sala de aula de verdade,
+[01:50:02] não ia ter papo de chat,
+[01:50:04] não ia ter troca de figurinha, não ia ter papo de chat, não ia ter nada disso.
+[01:50:08] Estaria todo mundo Muito obrigada Juliana por sugerir isso, porque por experiência prévia,
+[01:50:33] Esses basicões desandam precisamente quando começa uma postagem incessante aqui
+[01:50:39] de pensamentos e coisas e isso e aquilo fora de uma certa estrutura.
+[01:50:45] Se não tiver um pouco de estrutura de sala de aula, não funciona, tá?
+[01:50:49] Aí eu prefiro que a gente volte para as lives de bate-papo porque senão não dá certo.
+[01:50:53] Então, isso também é muito bom você levantar esse ponto,
+[01:50:57] Juliana, porque isso é super importante.
+[01:51:03] Pois é, é isso, Ruby,
+[01:51:05] é muito fácil manipular as pessoas,
+[01:51:06] essas brigas de torcida manipulam as pessoas,
+[01:51:09] a gente fica com a cabeça poluída e contaminada pelos tiroteios, entendeu?
+[01:51:14] Então aqui não é espaço para tiroteio aqui, aqui é espaço para pensamento crítico mesmo.
+[01:51:22] E é isso aí,
+[01:51:23] Ana Terezinha,
+[01:51:23] é isso aí que você está falando,
+[01:51:25] é uma oportunidade única da gente fazer o melhor possível,
+[01:51:28] porque a luta não acabou, assim, a eleição acabou, mas nada mais acabou.
+[01:51:33] Então, a gente realmente precisa trabalhar nisso daí.
+[01:51:37] Eu vou só ir até o final aqui para ver o que mais que tem.
+[01:51:48] Matheus, eu não vou me expor, depois a
+[01:51:50] gente fala sobre isso.
+[01:51:53] Juliana falou, esses basicões vão precisar que se estabeleça alguma etiqueta para o chat.
+[01:51:58] Gente, um monte de perguntas sendo repetidas.
+[01:52:00] Sim.
+[01:52:01] Então, o que eu quero propor aqui pra vocês, tá?
+[01:52:04] Obrigada de novo, Juliana.
+[01:52:05] O que eu vou propor aqui pra vocês e vou reforçar isso na semana que vem,
+[01:52:09] quando a gente tiver de fato o nosso primeiro basicão real,
+[01:52:12] porque esse aqui é meio que pra limpar o ambiente e dizer a vocês qual é
+[01:52:16] o propósito disso aqui.
+[01:52:18] A partir da semana que vem, isso aqui vai rolar do seguinte jeito.
+[01:52:21] Eu vou chegar aqui, eu vou fazer uma exposição pra vocês de 40 minutos a 1 hora,
+[01:52:29] E eu vou reservar meia hora a quarenta minutos,
+[01:52:33] dependendo do assunto, pode até ser mais tempo, para perguntas e respostas.
+[01:52:38] Então a maneira como isso aqui vai funcionar é a seguinte,
+[01:52:41] os primeiros quarenta minutos a uma hora, ninguém vai estar falando no chat, tá?
+[01:52:48] Porque se vocês começarem a falar no chat, eu começo a me perder nos comentários de vocês aqui.
+[01:52:53] Então a gente vai precisar que isso aqui seja assim.
+[01:52:56] Semana que vem,
+[01:52:57] Às cinco e meia da tarde,
+[01:52:58] se esse horário funcionar para todo mundo,
+[01:53:00] às cinco e meia da tarde,
+[01:53:02] a gente senta aqui,
+[01:53:03] durante uma hora eu vou fazer uma exposição para vocês,
+[01:53:06] a gente vai começar na semana que vem com o básico mesmo.
+[01:53:10] Eu vou voltar para...
+[01:53:14] Eu vou voltar para isso daqui, tá?
+[01:53:17] A gente vai começar com a identidade macro básica,
+[01:53:20] a gente vai começar aqui, e daqui a gente vai passar para outros assuntos.
+[01:53:24] Então a gente vai voltar para o beabá da macroeconomia, beabá mesmo, tá?
+[01:53:29] Eu vou fazer essa exposição inicial e vocês depois vão ter,
+[01:53:33] quando acabar,
+[01:53:34] eu vou falar assim,
+[01:53:35] agora vocês podem jogar as perguntas e os comentários no chat que eu vou responder
+[01:53:38] o chat.
+[01:53:39] Aí vocês jogam as perguntas e os comentários no chat,
+[01:53:41] porque se não for assim, não vai funcionar, tá?
+[01:53:45] Então, obrigada por isso também, Juliana, porque isso é importante.
+[01:53:50] O que eu vou colocar no Substack, Andréa,
+[01:53:53] respondendo a sua pergunta, sim,
+[01:53:55] eu vou fazer uma espécie de notas de aula que serão as transcrições dessas lives,
+[01:54:00] porque isso eu consigo fazer com uma certa rapidez usando o ChatGPT ou o Cloud
+[01:54:05] para pegar as transcrições automáticas do Substack e gerar um arquivo para vocês.
+[01:54:10] Então essas lives desses basicões, elas todas vão ter transcrições, tá?
+[01:54:15] Então, me comprometo a fazer isso.
+[01:54:17] Então, vocês terão essas notas.
+[01:54:19] Vocês não terão só os vídeos monumentais.
+[01:54:23] Esse aqui já vai para duas horas.
+[01:54:25] Zé Paulo está aqui.
+[01:54:26] Oi, Zé Paulo.
+[01:54:29] Eliane, eu prefiro não bloquear os comentários,
+[01:54:32] até porque isso é difícil de fazer aqui no Substack.
+[01:54:35] Eu não consigo muito bem comentar os comentários ou bloquear os comentários.
+[01:54:40] Eu prefiro que vocês tenham a...
+[01:54:45] Por assim dizer.
+[01:54:47] Ai meu Deus, só faltando a palavra.
+[01:54:49] A disciplina.
+[01:54:50] Eu prefiro que vocês tenham a disciplina de durante
+[01:54:54] a minha exposição não ficarem fazendo pergunta no chat.
+[01:54:59] E aí eu vou dizer a vocês, pronto, agora vocês podem fazer pergunta no chat.
+[01:55:02] Aí vocês jogam as perguntas para cá e eu vou respondendo no tempo que a gente tem.
+[01:55:12] Então é isso.
+[01:55:13] Pronto, acho que eu consegui chegar até o final.
+[01:55:16] Pronto.
+[01:55:17] Então, para resumir, gente, com o acordo de todos vocês, tá?
+[01:55:23] A partir da semana que vem,
+[01:55:26] a gente começa essa série de basicões toda sexta-feira às cinco e meia da tarde.
+[01:55:31] As regras são essas que eu disse aqui.
+[01:55:34] As regras são ninguém fala durante a primeira hora,
+[01:55:38] a meia hora, quarenta minutos seguintes são para perguntas e respostas.
+[01:55:42] Eu vou sempre disponibilizar em seguida o que foi discutido aqui no Substack
+[01:55:48] como texto, para que vocês tenham as notas.
+[01:55:52] Eu não vou,
+[01:55:54] não vou,
+[01:55:55] por enquanto pelo menos,
+[01:55:56] eu sei que as pessoas estão pedindo leituras,
+[01:55:59] mas por enquanto,
+[01:56:00] como a gente vai tratar do básico do básico,
+[01:56:03] por enquanto eu não vou dar nenhuma leitura para vocês.
+[01:56:06] Vão ser as notas de aula mesmo.
+[01:56:08] Vocês vão pelas notas de aula.
+[01:56:11] Se em algum momento eu sentir a necessidade de indicar algo pra vocês
+[01:56:16] sobre algum tema que eu vá abordar na semana seguinte,
+[01:56:19] eu tratarei de fazer isso com antecedência pra que vocês possam fazer
+[01:56:24] a coisa desse modo, tá?
+[01:56:26] De novo,
+[01:56:27] isso aqui é tudo de graça,
+[01:56:29] isso daqui é tudo no meu tempo,
+[01:56:32] então a gente precisa,
+[01:56:33] todos nós precisamos estar bem coordenados pra isso aqui funcionar,
+[01:56:36] porque senão não vai funcionar, tá?
+[01:56:39] Lá no YouTube acabou desandando por causa de um monte dessas coisas aqui.
+[01:56:44] Então, é isso.
+[01:56:45] O que eu vou fazer, Marcos,
+[01:56:48] respondendo a sua pergunta,
+[01:56:49] é que tudo isso que eu falei aqui agora no final,
+[01:56:52] eu vou colocar num documento e vou postar lá no Substack e vou distribuir
+[01:56:56] para todo mundo.
+[01:56:57] Isso vocês devem receber amanhã.
+[01:57:00] Tá?
+[01:57:00] Aqui pelo Substack.
+[01:57:02] Então, é isso, gente.
+[01:57:04] Muito obrigada.
+[01:57:06] Desculpa vestir a...
+[01:57:08] Desculpa, não.
+[01:57:09] Eu vesti hoje aqui pra vocês a minha persona de professora,
+[01:57:16] como eu sou quando eu estou dando aula.
+[01:57:18] É assim, tá?
+[01:57:21] Então, eu preciso que vocês colaborem pra que isso aqui funcione,
+[01:57:26] porque senão não vai funcionar.
+[01:57:28] É...
+[01:57:30] E a Juliana está dizendo para todo mundo aqui,
+[01:57:32] Pessoal,
+[01:57:33] desenvolvam letramento digital sobre o funcionamento da plataforma Substack.
+[01:57:39] É preciso que vocês desenvolvam alguma autonomia no funcionamento daqui.
+[01:57:43] Exatamente.
+[01:57:45] Isso é importante,
+[01:57:46] não é nem um pouco difícil,
+[01:57:47] é um app, é de graça, é só baixar o app, acabou, está tudo lá, super tranquilo.
+[01:57:53] A grande diferença do Substack para outras plataformas é que essa é uma plataforma
+[01:57:57] de conteúdos Essa daqui não é uma plataforma de conteúdos curtos.
+[01:58:03] E aqui eu devo dizer uma coisa a vocês.
+[01:58:05] Por mais que eu possa fazer um monte de Reel de Instagram de um minuto,
+[01:58:10] como eu já venho fazendo, economia é um troço complicado.
+[01:58:14] Muitas das explicações,
+[01:58:15] elas não são passíveis de serem feitas em um reel de um minuto no Instagram, tá?
+[01:58:21] Então o que eu posto lá pelo Instagram é muito mais para chamar as pessoas para cá
+[01:58:27] do que propriamente para dar uma explicação que sirva para todos,
+[01:58:30] porque não funciona assim, não funciona assim, tá?
+[01:58:33] Economia complexa,
+[01:58:34] se a gente ficar só em vídeos de um minuto,
+[01:58:37] a gente não chega a lugar nenhum, vocês veem, a gente está aqui há duas horas, tá?
+[01:58:41] Então, precisa ser desse jeito.
+[01:58:43] Então, é importante que vocês conheçam e se adequem à plataforma do Substack.
+[01:58:51] A Cristina está perguntando se eu posso postar também no WhatsApp.
+[01:58:54] Claro, eu sempre vou postar no WhatsApp.
+[01:58:56] Tudo que eu produzir aqui, eu vou postar lá pelo WhatsApp, tá?
+[01:59:00] Mas como eu vou postar lá o link para cá, vocês vão precisar ter alguma...
+[01:59:06] Algum conhecimento dessa...
+[01:59:08] Essa plataforma é super fácil de usar, tá, gente?
+[01:59:10] Não tem nenhum mistério.
+[01:59:11] Vocês só vão precisar ter algum conhecimento da plataforma aqui, só isso.
+[01:59:15] Mas tudo estará, todo material vai estar no grupo do WhatsApp.
+[01:59:19] Todo, todo.
+[01:59:20] E, na verdade,
+[01:59:21] deixa eu aproveitar para dar uma explicação final sobre a minha participação
+[01:59:24] em redes nesse momento, tá?
+[01:59:27] Eu  já  estou  aqui  no Substack  há  vários  anos.
+[01:59:29] Eu comecei esse Substack aqui antes de eu encerrar o meu canal no YouTube
+[01:59:32] e sempre preferi aqui, porque eu gosto de escrever e gosto de pensar.
+[01:59:37] E as plataformas, as redes sociais muito rápidas não permitem nenhuma coisa nem outra.
+[01:59:43] Então essa daqui é a minha ferramenta de trabalho, é o Substack, essa plataforma daqui.
+[01:59:49] Porém, nesse período eleitoral, eu criei esse canal no WhatsApp e comecei a postar no Instagram.
+[01:59:56] Eu sempre tive um Instagram,
+[01:59:58] mas não fazia nada lá,
+[01:59:59] só postava meus desenhos, minhas pinturas e tal, ficava longe daquilo lá.
+[02:00:04] O que eu vou fazer agora?
+[02:00:06] Eu vou postar,
+[02:00:07] continuar fazendo os meus conteúdos longos aqui,
+[02:00:10] que são as coisas mais refletidas, mais aprofundadas e mais pensadas.
+[02:00:15] O canal do WhatsApp funciona como um canal de distribuição do que eu faço aqui,
+[02:00:23] além de ser também um lugar onde eu faço comentários rápidos sobre coisas
+[02:00:28] do momento.
+[02:00:29] Então, para vocês que estão já lá no canal do WhatsApp,
+[02:00:32] Lá no canal do WhatsApp eu tenho feito o quê?
+[02:00:34] Tenho feito alguns comentários sobre a situação aqui nos Estados Unidos,
+[02:00:37] tenho falado um pouco sobre política nos Estados Unidos,
+[02:00:39] porque afinal de contas a gente tem as eleições de meio de mandato na semana
+[02:00:42] que vem,
+[02:00:43] então tenho feito uns áudios curtos assim para vocês,
+[02:00:46] isso eu vou continuar fazendo lá pelo WhatsApp.
+[02:00:48] E o Instagram é a plataforma que eu vou usar para tentar chamar as pessoas para cá.
+[02:00:53] As pessoas que tiverem interesse em entender economia
+[02:00:57] e entender essas discussões econômicas,
+[02:00:59] Eu quero que nesses vídeos de um minuto que eu jogo lá no Instagram,
+[02:01:03] eu quero que eles sirvam para que as pessoas se interessem e venham para cá.
+[02:01:07] Então esse vai ser o uso dessas três plataformas.
+[02:01:10] Por hora eu não vou voltar para nenhuma outra.
+[02:01:13] Eu não vou voltar para YouTube porque eu não gosto.
+[02:01:16] Não há a menor possibilidade de vocês me encontrarem no X.
+[02:01:20] Jamais.
+[02:01:21] Jamais irei para lá e Facebook eu detesto.
+[02:01:25] Então, por enquanto,
+[02:01:27] tudo que a gente vai estar fazendo vai funcionar primordialmente aqui no Substack e
+[02:01:32] no canal do WhatsApp para conteúdo e no Instagram
+[02:01:36] quando eu conseguir transformar algumas coisas em pílulas curtas para as pessoas.
+[02:01:42] Essa daí é que é a ideia.
+[02:01:45] E lá no canal do WhatsApp, evidentemente, tem as figurinhas e tal, tem o clima mais light.
+[02:01:50] E se a gente conseguir enquadrar isso daqui bem, a gente também vai ter um clima light aqui.
+[02:01:56] De repente, a gente até volta a fazer uns botecos no fim do dia e tal.
+[02:02:02] Mas isso fica para outra hora.
+[02:02:04] É isso, gente.
+[02:02:05] Pronto.
+[02:02:05] Falei, falei, falei.
+[02:02:06] Não bebi água.
+[02:02:08] O Railton não reclamou comigo.
+[02:02:10] Viu, Railton?
+[02:02:10] Você não me mandou beber água.
+[02:02:14] E, gente, boa noite para todos vocês, tá?
+[02:02:17] Desculpa ficar meio brava,
+[02:02:19] mas eu sou assim como professora,
+[02:02:20] eu sou meio brava, sou meio brava com os meus alunos.
+[02:02:24] E eu acho que,
+[02:02:24] às vezes,
+[02:02:24] a gente precisa ser, assim,
+[02:02:25] meio brava,
+[02:02:26] assim, para botar a cabeça das pessoas no lugar, assim, para todo mundo pensar.
+[02:02:32] Então, super obrigada a vocês.
+[02:02:35] Obrigada a todos, obrigada a Paula, que bom ver você aqui também, e que bom ver
+[02:03:05] Tantas pessoas que me acompanhavam lá pelo YouTube.
+[02:03:08] Fiquei muito feliz de resgatar muita gente que eu não tinha resgatado ainda.
+[02:03:13] Então, boa noite para todos vocês.
+[02:03:15] Felipe, o canal do WhatsApp.
+[02:03:18] Alguém pode jogar... Boteco que eu falei, Neilon, depois eu te explico o que é isso.
+[02:03:23] Alguém pode jogar aqui no canal do...
+[02:03:26] Pode jogar aqui no chat o canal do WhatsApp rapidamente para o Felipe,
+[02:03:31] que o Felipe não tem o canal do WhatsApp.
+[02:03:35] Mas, Felipe, de qualquer forma, tá aqui, ó, o Wilson botou aqui no chat pra você, tá?
+[02:03:41] Tá aqui no chat,
+[02:03:42] o Wilson botou o link do canal do WhatsApp,
+[02:03:45] mas também é fácil de achar,
+[02:03:46] é só entrar lá no WhatsApp e botar Monica De Bolle que vocês encontram lá, tá?
+[02:03:51] E, Neilo,
+[02:03:51] o Boteco era um negócio que a gente fazia lá no YouTube e a gente vai voltar
+[02:03:54] a fazer aqui em algum momento?
+[02:03:57] Para dar uma certa leveza isso daqui.
+[02:03:59] Felipe, de novo,
+[02:04:00] aí em cima,
+[02:04:01] aí em cima,
+[02:04:01] nos comentários aí em cima,
+[02:04:03] olha lá,
+[02:04:03] o Vitor também postou e a Georgia postou aqui embaixo do seu comentário,
+[02:04:07] obrigada gente por fazer isso,
+[02:04:09] a Elisabeth também,
+[02:04:10] o pessoal postou aqui o link do canal do WhatsApp para você entrar, tá?
+[02:04:17] Ou então entra lá no WhatsApp direto,
+[02:04:19] procura Monica De Bolle naquele update lá do WhatsApp que você me acha.
+[02:04:25] É isso, gente,
+[02:04:26] boa noite,
+[02:04:27] fiquem bem,
+[02:04:28] bom fim de semana,
+[02:04:29] descansem,
+[02:04:31] porque passou,
+[02:04:33] as eleições passaram,
+[02:04:36] tem muito trabalho pela frente,
+[02:04:38] mas pelo menos a gente não está mais naquele sufoco do fim de semana passado,
+[02:04:41] lembram daquilo?
+[02:04:42] Foi um sufoco e tanto, né?
+[02:04:44] Então é isso, que bom, Filipe, que você conseguiu pegar.
+[02:04:47] Gente, abração para vocês todos.
+[02:04:50] Fiquem todos bem, agora eu vou encerrar mesmo.
+[02:04:52] Às vezes eu tenho dificuldade de encerrar essa live aqui do Substack, tá?
+[02:04:55] Então só não encerrar de imediato é por causa dessas dificuldades aí.
+[02:04:59] Super obrigada a todos vocês e até breve.
+[02:05:03] É, a gente vai reeditar todas essas músicas, Adriana.
+[02:05:07] Pronto, vou encerrar mesmo, tá?
+[02:05:08] Bom descanso.
+[02:05:11] Tá  acontecendo  aquela  coisa  que  o Substack  não  me  deixa  encerrar.
