@@ -123,7 +123,7 @@ window.CanvasRenderer = (function () {
     ctx.fillText(`Prazo Rolagem: ${state.matYears.toFixed(1).replace(".", ",")} anos`, tankCenterX, tankBottom + 20);
 
     // =========================================================================
-    // DUTO DE RECIRCULAÇÃO LFT (SELIC -> ESTOQUE DA DÍVIDA)
+    // DUTO DE RECIRCULAÇÃO TESOURO SELIC (SELIC -> ESTOQUE DA DÍVIDA)
     // =========================================================================
     const pipeThickness = Math.max(2, (105 - state.reforma) / 10);
     ctx.strokeStyle = "#f59e0b";
@@ -133,7 +133,7 @@ window.CanvasRenderer = (function () {
     ctx.lineTo(tankCenterX + tankHalfW, 145);
     ctx.stroke();
 
-    // Partículas de juros fluindo pelo duto LFT
+    // Partículas de juros fluindo pelo duto Tesouro Selic
     const pipeLen = 405 - (tankCenterX + tankHalfW);
     for (let p = 0; p < 3; p++) {
       const offset = ((tick * 38 + p * (pipeLen / 3)) % pipeLen);
@@ -144,7 +144,7 @@ window.CanvasRenderer = (function () {
     }
     ctx.font = "bold 11px sans-serif";
     ctx.fillStyle = muted;
-    ctx.fillText("Duto LFT (Selic → Dívida)", 332, 130);
+    ctx.fillText("Duto Tesouro Selic (Juros → Dívida)", 332, 130);
     ctx.font = "11px sans-serif";
     ctx.fillText(`Juros: ${state.jurosFluxo.toFixed(1).replace(".", ",")}% PIB`, 332, 165);
 

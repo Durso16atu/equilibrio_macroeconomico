@@ -16,7 +16,7 @@ window.MacroEngine = (function () {
       shortTitle: "Base Out/2026",
       subtitle: "Dívida 82,9% | Selic 13,75%",
       name: "Momento Atual: Brasil Pós-Eleição (Outubro de 2026)",
-      desc: "A dívida subiu de 71% (2022) para 82,9% do PIB. O Brasil NÃO vai quebrar porque emite dívida em Reais, mas como rola tudo em apenas 3 anos e tem títulos indexados à Selic (LFTs), o pagamento de juros consome ~9% do PIB por ano.",
+      desc: "A dívida subiu de 71% (2022) para 82,9% do PIB. O Brasil NÃO vai quebrar porque emite dívida em Reais, mas como rola tudo em apenas 3 anos e tem títulos pós-fixados indexados à taxa básica (Tesouro Selic), o pagamento de juros consome ~9% do PIB por ano.",
       historicalContext: "🎯 Desafio 2026–2030: Impedir que a dívida salte para 87% do PIB sem destruir os pilares sociais nem explodir a caldeira da inflação.",
       externalWind: 0,
       renuncias: 50,
@@ -95,8 +95,8 @@ window.MacroEngine = (function () {
       shortTitle: "1994: Plano Real (URV)",
       subtitle: "Fim da Hiper + Juro Alto",
       name: "Memória Histórica (1994): A Engenharia da URV e o Plano Real",
-      desc: "Para acabar com a hiperinflação sem congelar preços, o Plano Real criou uma moeda virtual (URV) que alinhou os preços relativos antes de virar o Real. A caldeira foi domada, mas a indexação dos títulos públicos à Selic (LFTs) sobreviveu.",
-      historicalContext: "🧬 Cicatriz que ficou para hoje: Vencemos a hiperinflação, mas mantivemos o 'Duto LFT' que liga a Selic diretamente ao estoque da dívida pública.",
+      desc: "Para acabar com a hiperinflação sem congelar preços, o Plano Real criou uma moeda virtual (URV) que alinhou os preços relativos antes de virar o Real. A caldeira foi domada, mas a indexação dos títulos públicos à taxa Selic (o Tesouro Selic) sobreviveu.",
+      historicalContext: "🧬 Cicatriz que ficou para hoje: Vencemos a hiperinflação, mas mantivemos o 'Duto Tesouro Selic' que liga a taxa de juros diretamente ao estoque da dívida pública.",
       externalWind: 0,
       renuncias: 75,
       cortes: 50,
@@ -159,7 +159,7 @@ window.MacroEngine = (function () {
     inflacao = Math.max(2.2, Math.min(18.0, inflacao));
 
     // 4. Serviço de Juros da Dívida (Fluxo Nominal)
-    // Quanto menor a reforma de desindexação, maior o contágio Selic -> Dívida (LFTs)
+    // Quanto menor a reforma de desindexação, maior o contágio Selic -> Dívida (Tesouro Selic)
     const fatorIndexacao = 0.68 - (reforma * 0.003);
     const premioRisco = hiatoJuros < -1.5 ? Math.abs(hiatoJuros + 1.5) * 0.9 : 0;
     const jurosFluxo = -((selic * fatorIndexacao) + premioRisco);
@@ -224,7 +224,7 @@ window.MacroEngine = (function () {
     } else if (dividaProj >= 85.5 || hp < 72) {
       mode = "warning";
       statusText = "⚠️ Alerta de Fadiga: Bola de Neve dos Juros Ativa";
-      failureReason = "O país não quebra porque a dívida é em Reais, mas o estoque Dívida/PIB continua subindo rumo a 86%–87%. Os 'sacos de chumbo' das desonerações e o duto de indexação LFT mantêm o déficit nominal perto de 9% do PIB.";
+      failureReason = "O país não quebra porque a dívida é em Reais, mas o estoque Dívida/PIB continua subindo rumo a 86%–87%. Os 'sacos de chumbo' das desonerações e o duto de indexação ao Tesouro Selic mantêm o déficit nominal perto de 9% do PIB.";
     }
 
     return {

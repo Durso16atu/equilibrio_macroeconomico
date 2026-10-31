@@ -15,7 +15,7 @@ Projetado especialmente para estudantes de **Engenharia** e jovens universitári
 1. **🌊 Reservatório Hidráulico com Paredes Móveis (`Estoque vs. Fluxo`)**
    - **Nível do Fluido:** Razão $\text{Dívida}/\text{PIB}$ (iniciando em $82,9\%$ em out/2026).
    - **Largura do Tanque (Parede Móvel):** Crescimento do $\text{PIB}$ ($Y$, o denominador da fração). Se o PIB cresce, o tanque alarga e o nível relativo desce; em recessão, o tanque estreita e a água sobe rumo ao transbordamento.
-   - **Duto de Recirculação LFT (`Selic → Dívida`):** Representa a anomalia brasileira herdada da hiperinflação (títulos indexados à Selic e prazo curto de rolagem de ~3 anos).
+   - **Duto de Recirculação Tesouro Selic (`Selic → Dívida`):** Representa a anomalia brasileira herdada da hiperinflação (títulos indexados à taxa Selic e prazo curto de rolagem de ~3 anos).
 
 2. **🔥 Caldeira Termodinâmica (`Política Monetária, Inflação e Credibilidade`)**
    - **Manômetro de Pressão:** Inflação anual e expectativas de risco.
@@ -43,7 +43,7 @@ Projetado especialmente para estudantes de **Engenharia** e jovens universitári
 │   ├── engine/
 │   │   └── macro_physics.js    # Motor matemático/físico e banco de fases (Bloco 1 Atual + Bloco 2 Histórico)
 │   └── ui/
-│       ├── canvas_renderer.js  # Renderizador 2D a 60 FPS (ondas, vapor, duto LFT, ponte e câmera shake)
+│       ├── canvas_renderer.js  # Renderizador 2D a 60 FPS (ondas, vapor, duto Tesouro Selic, ponte e câmera shake)
 │       └── app.js              # Controlador do HUD, conquistas, blocos de cenário e botão Reset
 └── tests/
     └── test_scenarios.py       # Testes automatizados de sanidade física e estrutura dos cenários
