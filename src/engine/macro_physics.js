@@ -16,8 +16,8 @@ window.MacroEngine = (function () {
       shortTitle: "Base Out/2026",
       subtitle: "Dívida 82,9% | Selic 13,75%",
       name: "Momento Atual: Brasil Pós-Eleição (Outubro de 2026)",
-      desc: "A dívida subiu de 71% (2022) para 82,9% do PIB. O Brasil NÃO vai quebrar porque emite dívida em Reais, mas como rola tudo em apenas 3 anos e tem títulos pós-fixados indexados à taxa básica (Tesouro Selic), o pagamento de juros consome ~9% do PIB por ano.",
-      historicalContext: "🎯 Desafio 2026–2030: Impedir que a dívida salte para 87% do PIB sem destruir os pilares sociais nem explodir a caldeira da inflação.",
+      desc: "A dívida subiu para 82,9% do PIB. Enquanto o déficit primário é < 1% do PIB, o serviço de juros consome ~9% do PIB (Falsa Racionalidade). A Selic real excessiva inunda a dívida via Tesouro Selic e transfere orçamento público para o rentismo.",
+      historicalContext: "🎯 Desafio 2026–2030: Estancar a drenagem de ~9% do PIB em juros e revisar privilégios tributários sem destruir os pilares sociais nem explodir a caldeira.",
       externalWind: 0,
       renuncias: 50,
       cortes: 20,
@@ -29,14 +29,14 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "🏆",
       shortTitle: "Missão: Equilíbrio",
-      subtitle: "Ajuste Justo + Coordenação",
-      name: "Solução Calibrada: Revisão de Desonerações + Coordenação Fiscal-Monetária",
-      desc: "Você removeu R$ 225 bi dos 'sacos de chumbo' (gastos tributários ineficientes), cortou desperdícios/penduricalhos preservando programas sociais, adotou meta crível de 4% e desindexou títulos da Selic (proposta Lara Resende / De Bolle).",
-      historicalContext: "✅ Resultado rumo a 2030: O PIB cresce de forma endógena (alargando o tanque), os juros caem com segurança e o centro democrático se fortalece!",
+      subtitle: "CFMN + Ajuste Justo",
+      name: "Solução Calibrada: Coordenação CFMN + Revisão de Gastos Tributários",
+      desc: "Você cortou R$ 225 bi de renúncias fiscais ineficientes, preservou o investimento social e ativou a Coordenação Fiscal-Monetária (CFMN + Meta 4% + Escudo Cambial). Na descida coordenada, a duration curta do Tesouro Selic gera alívio fiscal imediato!",
+      historicalContext: "✅ Resultado rumo a 2030: O serviço de juros recua fortemente, o PIB (Y) cresce alargando o tanque e o conflito distributivo é desarmado!",
       externalWind: 0,
       renuncias: 225,
       cortes: 75,
-      selic: 10.25,
+      selic: 10.0,
       reforma: 80
     },
     tesouraco: {
@@ -44,10 +44,10 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "✂️",
       shortTitle: "Armadilha: Tesouraço",
-      subtitle: "Cortar tudo no social",
-      name: "Extremo 1 ('Faria Lima'): Tesouraço Linear em Investimento e Social",
-      desc: "Você manteve os privilégios tributários intactos e passou a motosserra em programas sociais e investimentos públicos (G). A demanda agregada (Y = C+I+G+X-M) despencou, estreitando o tanque do PIB!",
-      historicalContext: "🚨 Lição de Engenharia: Quando você corta o que sustenta a base, o denominador (PIB) encolhe, a fração Dívida/PIB não cai e a ponte social rui.",
+      subtitle: "Cortar social + Juro 14,25%",
+      name: "Extremo 1 ('Faria Lima'): Tesouraço no Social + Juro Real Excessivo",
+      desc: "Você manteve R$ 600–800 bi de privilégios tributários intactos, cortou investimentos e proteção social (G) e subiu a Selic para 14,25%. O denominador (PIB) encolheu e a conta de juros continuou engolindo o orçamento (conflito distributivo regressivo).",
+      historicalContext: "🚨 Lição (Lara Resende & Kupfer): Nenhum corte primário compensa juros reais de ~9% do PIB; cortar a base social deprime Y e eleva a razão Dívida/PIB.",
       externalWind: 0,
       renuncias: 25,
       cortes: 275,
@@ -61,8 +61,8 @@ window.MacroEngine = (function () {
       shortTitle: "Armadilha: Negacionismo",
       subtitle: "Gastar + Juro na marra",
       name: "Extremo 2 ('Negacionismo Fiscal'): Ignorar a Dívida e Baixar Juros na Marra",
-      desc: "Você comparou o Brasil com Japão/EUA para dizer que 'dívida não importa', expandiu gastos sem receita e derrubou a Selic na marra para 7,5%. O prêmio de risco disparou e a caldeira inflacionária explodiu!",
-      historicalContext: "💥 Lição de Engenharia: Crescimento não cai do céu ('rezar para pneu'). Sem âncora fiscal, baixar juro na marra gera inflação e força juros ainda maiores depois.",
+      desc: "Você ignorou o ajuste pelo lado da receita, expandiu gastos sem âncora e derrubou a Selic na marra para 7,5% sem coordenação institucional (CFMN). A fuga de carry-trade desancorou o câmbio e explodiu a caldeira inflacionária!",
+      historicalContext: "💥 Lição de Engenharia: Baixar juro 'na marra' sem âncora fiscal nem blindagem cambial dispara o prêmio de risco e força juros ainda maiores depois.",
       externalWind: 0,
       renuncias: 0,
       cortes: -125,
@@ -147,84 +147,100 @@ window.MacroEngine = (function () {
     const esforcoFiscalPIB = (renuncias + cortes) / 100.0;
     const primario = -1.3 + esforcoFiscalPIB + (extWind * 0.25);
 
-    // 2. Juro de Equilíbrio Endógeno vs. Selic escolhida
-    const juroEquilibrio = 12.5 - (primario * 1.4) - (reforma * 0.025) - (extWind * 0.5);
-    const hiatoJuros = selic - juroEquilibrio; // Negativo = tentou baixar Selic "na marra"
+    // 2. Juro de Equilíbrio Endógeno e Banda Estrutural CFMN (Lara Resende / De Bolle)
+    const juroEquilibrio = 12.6 - (primario * 1.45) - (reforma * 0.032) - (extWind * 0.5);
+    const hiatoJuros = selic - juroEquilibrio; // Negativo = tentou baixar Selic "na marra" sem âncora
 
-    // 3. Pressão na Caldeira (Inflação % a.a.)
-    let inflacao = 4.2 - (hiatoJuros * 0.45) - (reforma * 0.006);
+    // 3. Pressão na Caldeira (Inflação % a.a.) + Efeito de Dominância Fiscal/Risco
+    let inflacao = 4.2 - (hiatoJuros * 0.45) - (reforma * 0.007);
     if (primario < -1.0) {
       inflacao += Math.abs(primario + 1.0) * 1.2;
     }
+    // Falsa Racionalidade (Lara Resende): Selic extrema (>15%) sem reforma pressiona risco intertemporal
+    if (selic > 15.0 && reforma < 40) {
+      inflacao += (selic - 15.0) * 0.25;
+    }
     inflacao = Math.max(2.2, Math.min(18.0, inflacao));
 
-    // 4. Serviço de Juros da Dívida (Fluxo Nominal)
-    // Quanto menor a reforma de desindexação, maior o contágio Selic -> Dívida (Tesouro Selic)
-    const fatorIndexacao = 0.68 - (reforma * 0.003);
-    const premioRisco = hiatoJuros < -1.5 ? Math.abs(hiatoJuros + 1.5) * 0.9 : 0;
-    const jurosFluxo = -((selic * fatorIndexacao) + premioRisco);
+    // 4. Serviço de Juros da Dívida e Efeito Duplo da Duration Curta do Tesouro Selic ("Eu Acuso")
+    // Na subida sem reforma: contágio alto (~68%). Na descida coordenada (CFMN >= 60): a duration curta acelera o alívio fiscal!
+    const fatorIndexacao = 0.68 - (reforma * 0.0032);
+    const premioRisco = hiatoJuros < -1.5 ? Math.abs(hiatoJuros + 1.5) * 0.95 : 0;
+    const bonusTransicaoCFMN = (reforma >= 60 && selic <= 11.25 && hiatoJuros >= -1.4) ? 0.65 : 0;
+    const jurosFluxo = -Math.max(3.2, ((selic * fatorIndexacao) + premioRisco - bonusTransicaoCFMN));
     const nominal = primario + jurosFluxo;
+
+    // Estado do Duto Tesouro Selic: "alivio_cfmn" vs "drenagem_rentista"
+    const pipeFlowMode = (reforma >= 60 && Math.abs(jurosFluxo) <= 6.2 && hiatoJuros >= -1.4)
+      ? "alivio_cfmn"
+      : (Math.abs(jurosFluxo) >= 8.2 ? "drenagem_critica" : "neutro");
 
     // 5. Crescimento Endógeno do PIB (Y = C + I + G + X - M)
     let pibGrowth = 2.2 + (extWind * 0.9);
-    pibGrowth += (primario > -0.5 && primario <= 2.0) ? 0.6 : -0.8;
+    pibGrowth += (primario > -0.5 && primario <= 2.2) ? 0.65 : -0.8;
     if (cortes > 100) {
-      pibGrowth -= ((cortes - 100) / 100.0) * 1.8;
+      pibGrowth -= ((cortes - 100) / 100.0) * 1.85;
     }
-    if (selic > 13.0) {
-      pibGrowth -= (selic - 13.0) * 0.35;
+    if (selic > 12.75) {
+      pibGrowth -= (selic - 12.75) * 0.38;
     }
     if (inflacao > 5.5) {
       pibGrowth -= (inflacao - 5.5) * 0.55;
     }
-    pibGrowth += (reforma * 0.008);
+    pibGrowth += (reforma * 0.009);
     pibGrowth = Math.max(-3.5, Math.min(5.2, pibGrowth));
 
     // Decomposição didática da Identidade Y = C + I + G + (X - M)
     const compC = Math.max(45, Math.min(68, Math.round(62 - (cortes > 100 ? (cortes - 100) * 0.03 : 0) - (inflacao > 5 ? (inflacao - 5) * 0.8 : 0))));
-    const compI = Math.max(11, Math.min(24, Math.round(17 - (selic - 11) * 0.6 + (reforma * 0.03))));
+    const compI = Math.max(11, Math.min(24, Math.round(17 - (selic - 11) * 0.6 + (reforma * 0.035))));
     const compG = Math.max(12, Math.min(25, Math.round(19 - (cortes / 45))));
     const compNX = Math.max(-3, Math.min(6, Math.round(2 + extWind * 1.5)));
 
     // 6. Estoque Dívida/PIB projetado
-    let dividaProj = 82.9 - primario + (Math.abs(jurosFluxo) * 0.55) - (pibGrowth * 1.15);
+    let dividaProj = 82.9 - primario + (Math.abs(jurosFluxo) * 0.56) - (pibGrowth * 1.18);
     dividaProj = Math.max(66.0, Math.min(98.0, dividaProj));
 
-    // 7. Coesão Social e Estabilidade dos Pilares da Ponte
-    let coesao = 75;
+    // 7. Coesão Social e Conflito Distributivo (De Bolle & Kupfer)
+    let coesao = 76;
     if (cortes > 75) coesao -= (cortes - 75) * 0.22;
     if (inflacao > 5.0) coesao -= (inflacao - 5.0) * 4.5;
     if (pibGrowth < 1.0) coesao -= (1.0 - pibGrowth) * 6.0;
-    coesao = Math.max(10, Math.min(95, Math.round(coesao)));
+    // Drenagem regressiva: juros altos + renúncias intocadas comprimem coesão
+    if (Math.abs(jurosFluxo) > 8.5 && renuncias < 100) coesao -= 4;
+    coesao = Math.max(10, Math.min(96, Math.round(coesao)));
 
     // 8. Prazo Médio de Rolagem da Dívida (em anos)
     const matYears = Math.max(1.2, 3.0 + (reforma * 0.03) + (primario * 0.4) - (inflacao > 5 ? 1.0 : 0));
 
     // 9. Saúde Geral (HP rumo a 2030)
-    let hp = 86;
+    let hp = 87;
     if (dividaProj > 80) hp -= (dividaProj - 80) * 2.2;
     if (inflacao > 4.5) hp -= (inflacao - 4.5) * 5.5;
     if (coesao < 70) hp -= (70 - coesao) * 1.1;
     if (pibGrowth < 1.5) hp -= (1.5 - pibGrowth) * 6.0;
     hp = Math.max(5, Math.min(100, Math.round(hp)));
 
-    // 10. Determinação do Modo de Operação / Falha
+    // 10. Determinação do Modo de Operação / Diagnóstico Teórico Integrado
     let mode = "ok";
-    let statusText = "✅ Planta Estável: Crescimento Endógeno Ativo!";
-    let failureReason = "A combinação de revisão de gastos tributários (desonerações), preservação dos pilares sociais e coordenação fiscal-monetária estabilizou a razão Dívida/PIB e permitiu queda segura da Selic.";
+    let statusText = "✅ Planta Estável: Coordenação CFMN & Crescimento Endógeno!";
+    let failureReason = "A revisão de privilégios tributários (~R$ " + renuncias + " bi) somada à Coordenação Fiscal-Monetária (CFMN) permitiu reduzir a Selic com segurança. A duration curta do Tesouro Selic funcionou a favor na descida, derrubando o gasto com juros para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravando o PIB (Y).";
 
     if (cortes >= 175) {
       mode = "collapse_social";
       statusText = "🚨 GAME OVER: Colapso da Ponte por Tesouraço!";
-      failureReason = "Ao cortar profundamente programas sociais e investimentos públicos (G), a demanda agregada (Y = C+I+G+X-M) despencou. O tanque do PIB estreitou, impedindo a queda da Dívida/PIB e rachando a coesão social rumo a 2030.";
+      failureReason = "Ao cortar profundamente programas sociais e investimentos públicos (G), a demanda agregada (Y = C+I+G+X-M) despencou. O tanque do PIB estreitou, agravando o conflito distributivo (De Bolle & Kupfer) sem resolver a razão Dívida/PIB.";
     } else if (hiatoJuros < -1.75 || primario < -1.2) {
       mode = "collapse_boiler";
-      statusText = "💥 GAME OVER: Explosão da Caldeira (Inflação & Risco)!";
-      failureReason = "Negar o ajuste fiscal ou tentar baixar a Selic 'na marra' sem âncora fiscal fez o prêmio de risco explodir. Como o Brasil rola 100% da dívida em 3 anos, a inflação disparou e forçará juros ainda mais altos.";
+      statusText = "💥 GAME OVER: Explosão da Caldeira (Juro na Marra / Sem Âncora)!";
+      failureReason = "Baixar a Selic 'na marra' sem coordenação institucional (CFMN) ou expandir déficit sem receita provocou fuga de capitais e disparada do prêmio de risco. Como o Brasil rola a dívida em 3 anos, a caldeira inflacionária explodiu.";
+    } else if (selic >= 13.25 && primario >= 0.2 && dividaProj >= 83.5) {
+      mode = "warning";
+      statusText = "⚠️ Armadilha da 'Falsa Racionalidade' (Juros Alimentando a Dívida)";
+      failureReason = "Mesmo com esforço primário positivo, manter a Selic em " + selic.toFixed(2).replace(".", ",") + "% drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB em juros via Tesouro Selic (Lara Resende). Sem ativar a Coordenação CFMN e reduzir a Selic para a banda estrutural, o próprio juro impede a queda da Dívida/PIB.";
     } else if (dividaProj >= 85.5 || hp < 72) {
       mode = "warning";
-      statusText = "⚠️ Alerta de Fadiga: Bola de Neve dos Juros Ativa";
-      failureReason = "O país não quebra porque a dívida é em Reais, mas o estoque Dívida/PIB continua subindo rumo a 86%–87%. Os 'sacos de chumbo' das desonerações e o duto de indexação ao Tesouro Selic mantêm o déficit nominal perto de 9% do PIB.";
+      statusText = "⚠️ Alerta de Fadiga: Drenagem de Juros & Conflito Distributivo";
+      failureReason = "O país não quebra porque emite dívida em Reais, mas o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB) e os 'sacos de chumbo' das renúncias fiscais empurram a dívida rumo a 86%–87%, comprimindo o orçamento público.";
     }
 
     return {
@@ -243,6 +259,7 @@ window.MacroEngine = (function () {
       matYears,
       hp,
       mode,
+      pipeFlowMode,
       statusText,
       failureReason,
       components: { C: compC, I: compI, G: compG, NX: compNX }

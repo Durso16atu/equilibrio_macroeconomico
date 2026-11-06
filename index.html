@@ -94,11 +94,11 @@
     }
   </style>
 </head>
-<body class="p-3 sm:p-5 md:p-6 min-h-screen">
-  <div class="max-w-5xl mx-auto space-y-4">
+<body class="p-3 sm:p-4 md:p-5 min-h-screen">
+  <div class="max-w-7xl mx-auto space-y-3.5">
 
     <!-- TOP HUD COM ESTÉTICA DE CONSOLE ANALÍTICO -->
-    <header class="app-panel rounded-xl p-4 shadow-sm flex flex-col md:flex-row items-center justify-between gap-4">
+    <header class="app-panel rounded-xl p-3.5 shadow-sm flex flex-col md:flex-row items-center justify-between gap-3">
       <div class="flex items-center gap-3 w-full md:w-auto">
         <div class="w-10 h-10 rounded-lg bg-cyan-500/10 border border-cyan-500/30 flex items-center justify-center text-xl shrink-0">
           ⚙️
@@ -116,13 +116,13 @@
             </button>
           </div>
           <h1 class="text-base sm:text-lg font-extrabold tracking-tight mt-1 text-slate-100">
-            Engenharia da Estabilidade <span class="font-normal opacity-60 text-xs sm:text-sm">| Simulador 2D</span>
+            Engenharia da Estabilidade <span class="font-normal opacity-60 text-xs sm:text-sm">| Simulador 2D (De Bolle • Lara Resende • Kupfer)</span>
           </h1>
         </div>
       </div>
 
       <!-- Medidor de HP da Economia -->
-      <div class="w-full md:w-80 app-inner rounded-lg p-3">
+      <div class="w-full md:w-80 app-inner rounded-lg p-2.5">
         <div class="flex justify-between items-center text-xs font-semibold mb-1">
           <span class="text-slate-400">Estabilidade até 2030</span>
           <span id="hp-text" class="text-amber-400 font-bold font-mono-num">68 / 100 HP</span>
@@ -130,7 +130,7 @@
         <div class="w-full h-2 rounded-full overflow-hidden bg-slate-800 border border-slate-700/60">
           <div id="hp-bar" class="h-full transition-all duration-300 bg-amber-500" style="width: 68%;"></div>
         </div>
-        <div id="hud-status-text" class="text-[11px] font-semibold text-center mt-1.5 text-amber-400">
+        <div id="hud-status-text" class="text-[11px] font-semibold text-center mt-1 text-amber-400">
           ⚠️ Atenção: Bola de Neve dos Juros Ativa
         </div>
       </div>
@@ -141,7 +141,7 @@
       <span class="text-[10px] font-bold uppercase tracking-wider text-slate-400">🏅 Metas de Engenharia:</span>
       <div class="flex flex-wrap gap-2 text-[11px]">
         <div id="badge-equilibrista" class="px-2.5 py-0.5 rounded border border-slate-800 bg-slate-900/60 text-slate-500 opacity-60 flex items-center gap-1.5">
-          <span>⚖️ Estabilidade (HP ≥ 85)</span>
+          <span>⚖️ Estabilidade CFMN (HP ≥ 85)</span>
         </div>
         <div id="badge-renuncias" class="px-2.5 py-0.5 rounded border border-slate-800 bg-slate-900/60 text-slate-500 opacity-60 flex items-center gap-1.5">
           <span>🎒 Rever Desonerações (≥ R$ 200 bi)</span>
@@ -153,9 +153,9 @@
     </section>
 
     <!-- MATRIZ DE CENÁRIOS: PRESENTE vs PASSADO -->
-    <section class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
+    <section class="grid grid-cols-1 md:grid-cols-2 gap-3">
       <!-- BLOCO 1: PRESENTE (2026-2030) -->
-      <div class="app-panel rounded-xl p-3.5 flex flex-col justify-between">
+      <div class="app-panel rounded-xl p-3 flex flex-col justify-between">
         <div>
           <div class="flex items-center justify-between mb-1">
             <h2 class="text-xs font-bold uppercase tracking-wider text-cyan-400">
@@ -163,15 +163,15 @@
             </h2>
             <span class="text-[10px] font-mono-num text-slate-500 uppercase">Arena Ativa</span>
           </div>
-          <p class="text-xs text-slate-400 mb-2.5 leading-relaxed">
-            Dilema pós-eleição: estabilizar a dívida de 82,9% sem cair no Tesouraço nem no Negacionismo.
+          <p class="text-[11px] text-slate-400 mb-2 leading-relaxed">
+            Dilema pós-eleição: desarmar a drenagem de ~9% do PIB em juros e revisar privilégios sem cair no Tesouraço nem no Negacionismo.
           </p>
-          <div id="block-atual-buttons" class="grid grid-cols-2 gap-2"></div>
+          <div id="block-atual-buttons" class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-2 xl:grid-cols-4 gap-2"></div>
         </div>
       </div>
 
       <!-- BLOCO 2: FLASHBACKS HISTÓRICOS -->
-      <div class="app-panel rounded-xl p-3.5 flex flex-col justify-between">
+      <div class="app-panel rounded-xl p-3 flex flex-col justify-between">
         <div>
           <div class="flex items-center justify-between mb-1">
             <h2 class="text-xs font-bold uppercase tracking-wider text-amber-400">
@@ -179,149 +179,156 @@
             </h2>
             <span class="text-[10px] font-mono-num text-slate-500 uppercase">Para quem não viveu</span>
           </div>
-          <p class="text-xs text-slate-400 mb-2.5 leading-relaxed">
-            Descubra as raízes do Tesouro Selic, do prazo curto de 3 anos e das desonerações tributárias.
+          <p class="text-[11px] text-slate-400 mb-2 leading-relaxed">
+            Raízes históricas do Tesouro Selic, do prazo curto de rolagem (3 anos) e dos R$ 600–800 bi em renúncias fiscais.
           </p>
-          <div id="block-historico-buttons" class="grid grid-cols-2 gap-2"></div>
+          <div id="block-historico-buttons" class="grid grid-cols-2 sm:grid-cols-4 lg:grid-cols-2 xl:grid-cols-4 gap-2"></div>
         </div>
       </div>
     </section>
 
-    <!-- PALCO FÍSICO 2D (CANVAS) -->
-    <section class="app-panel rounded-xl p-3.5 space-y-3">
-      <!-- Contexto didático do cenário ativo -->
-      <div class="flex flex-col md:flex-row md:items-center justify-between gap-3 app-inner rounded-lg p-3">
-        <div class="flex items-start gap-3">
-          <span id="story-icon" class="text-2xl shrink-0">📍</span>
+    <!-- COCKPIT LADO A LADO: PLANTA 2D (7 COLUNAS) + MESA DE COMANDO (5 COLUNAS) -->
+    <div class="grid grid-cols-1 lg:grid-cols-12 gap-3.5 items-start">
+
+      <!-- COLUNA ESQUERDA (7 COLUNAS): PALCO FÍSICO 2D + TELEMETRIA CAUSAL -->
+      <section class="lg:col-span-7 app-panel rounded-xl p-3.5 space-y-3">
+        <!-- Contexto didático do cenário ativo -->
+        <div class="flex flex-col md:flex-row md:items-center justify-between gap-2.5 app-inner rounded-lg p-3">
+          <div class="flex items-start gap-2.5">
+            <span id="story-icon" class="text-2xl shrink-0">📍</span>
+            <div>
+              <h3 id="story-title" class="text-xs sm:text-sm font-bold text-slate-100">Carregando fase...</h3>
+              <p id="story-desc" class="text-xs text-slate-400 mt-0.5 leading-relaxed"></p>
+            </div>
+          </div>
+          <div id="story-lesson" class="shrink-0 px-3 py-2 rounded-lg bg-cyan-500/10 border border-cyan-500/20 text-[11px] text-cyan-200 md:max-w-[250px] leading-relaxed font-medium">
+          </div>
+        </div>
+
+        <!-- Canvas 2D da planta -->
+        <div class="relative w-full overflow-hidden rounded-lg border border-slate-800 bg-[#06080e]">
+          <canvas id="gameCanvas" width="920" height="310" class="w-full h-auto block" role="img" aria-label="Simulador 2D: Tanque de Dívida, Caldeira de Inflação e Ponte Social"></canvas>
+        </div>
+
+        <!-- Identidade Macro e Diagnóstico Causal -->
+        <div class="grid grid-cols-1 md:grid-cols-12 gap-2.5 text-xs">
+          <div class="md:col-span-5 p-3 rounded-lg app-inner flex flex-col justify-center">
+            <div class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-1">
+              📐 Identidade (Y ≡ C + I + G + X − M):
+            </div>
+            <div class="flex items-center justify-between font-mono-num font-bold text-cyan-400 text-[11px]">
+              <span id="id-c">C: 62%</span>
+              <span>+</span>
+              <span id="id-i">I: 16%</span>
+              <span>+</span>
+              <span id="id-g">G: 19%</span>
+              <span>+</span>
+              <span id="id-nx">X-M: +2%</span>
+            </div>
+          </div>
+          <div class="md:col-span-7 p-3 rounded-lg app-inner flex items-center">
+            <p id="diag-feedback" class="text-[11px] leading-relaxed text-slate-300"></p>
+          </div>
+        </div>
+      </section>
+
+      <!-- COLUNA DIREITA (5 COLUNAS): MESA DE COMANDO — 4 ALAVANCAS -->
+      <section class="lg:col-span-5 app-panel rounded-xl p-3.5 space-y-3">
+        <div class="flex flex-wrap items-center justify-between gap-2 pb-2.5 border-b border-slate-800">
           <div>
-            <h3 id="story-title" class="text-xs sm:text-sm font-bold text-slate-100">Carregando fase...</h3>
-            <p id="story-desc" class="text-xs text-slate-400 mt-0.5 leading-relaxed"></p>
+            <div class="flex items-center gap-2">
+              <h2 class="text-sm font-bold text-slate-100">🎛️ Mesa de Comando</h2>
+              <span id="modified-badge" class="hidden text-[10px] px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30 font-bold uppercase font-mono-num">
+                ✏️ Modificado
+              </span>
+            </div>
+            <p class="text-[11px] text-slate-400 mt-0.5">
+              Ajuste as 4 alavancas e observe a resposta na planta 2D ao lado.
+            </p>
           </div>
-        </div>
-        <div id="story-lesson" class="shrink-0 px-3 py-2 rounded-lg bg-cyan-500/10 border border-cyan-500/20 text-xs text-cyan-200 md:max-w-xs leading-relaxed font-medium">
-        </div>
-      </div>
 
-      <!-- Canvas 2D da planta -->
-      <div class="relative w-full overflow-hidden rounded-lg border border-slate-800 bg-[#06080e]">
-        <canvas id="gameCanvas" width="920" height="310" class="w-full h-auto block" role="img" aria-label="Simulador 2D: Tanque de Dívida, Caldeira de Inflação e Ponte Social"></canvas>
-      </div>
-
-      <!-- Identidade Macro e Diagnóstico Causal -->
-      <div class="grid grid-cols-1 md:grid-cols-3 gap-3 text-xs">
-        <div class="p-3 rounded-lg app-inner flex flex-col justify-center">
-          <div class="text-[11px] font-semibold text-slate-400 mb-1">📐 Identidade Macro (Y ≡ C + I + G + X − M):</div>
-          <div class="flex items-center justify-between font-mono-num font-bold text-cyan-400">
-            <span id="id-c">C: 62%</span>
-            <span>+</span>
-            <span id="id-i">I: 16%</span>
-            <span>+</span>
-            <span id="id-g">G: 19%</span>
-            <span>+</span>
-            <span id="id-nx">X-M: +2%</span>
+          <div class="flex items-center gap-1.5 shrink-0">
+            <button id="btn-reset-sliders" type="button" onclick="AppController.resetCurrentScenarioSliders()" disabled class="game-btn px-2.5 py-1 rounded-lg text-[11px] font-bold border border-amber-500/40 bg-amber-500/10 text-amber-300 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-amber-500/20 flex items-center gap-1">
+              <span>🔄 Resetar</span>
+            </button>
+            <button type="button" onclick="AppController.loadScenario('atual')" class="game-btn px-2.5 py-1 rounded-lg text-[11px] font-semibold border border-slate-700 bg-slate-800 hover:bg-slate-700 text-slate-200">
+              🏠 Base Out/2026
+            </button>
           </div>
-        </div>
-        <div class="md:col-span-2 p-3 rounded-lg app-inner flex items-center">
-          <p id="diag-feedback" class="text-xs leading-relaxed text-slate-300"></p>
-        </div>
-      </div>
-    </section>
-
-    <!-- MESA DE CONTROLE — ALAVANCAS DE CALIBRAGEM -->
-    <section class="app-panel rounded-xl p-4 md:p-5">
-      <div class="flex flex-col sm:flex-row sm:items-center justify-between gap-3 pb-3 mb-4 border-b border-slate-800">
-        <div>
-          <div class="flex items-center gap-2">
-            <h2 class="text-sm sm:text-base font-bold text-slate-100">🎛️ Mesa de Comando — Variáveis de Decisão</h2>
-            <span id="modified-badge" class="hidden text-[10px] px-2 py-0.5 rounded bg-amber-500/15 text-amber-300 border border-amber-500/30 font-bold uppercase font-mono-num">
-              ✏️ Modificado
-            </span>
-          </div>
-          <p class="text-xs text-slate-400 mt-0.5">
-            Calibre os ajustes. Pressionar uma ponta sem coordenação com a outra desestabiliza a planta.
-          </p>
         </div>
 
-        <div class="flex items-center gap-2 shrink-0">
-          <button id="btn-reset-sliders" type="button" onclick="AppController.resetCurrentScenarioSliders()" disabled class="game-btn px-3 py-1.5 rounded-lg text-xs font-bold border border-amber-500/40 bg-amber-500/10 text-amber-300 disabled:opacity-30 disabled:cursor-not-allowed hover:bg-amber-500/20 flex items-center gap-1.5">
-            <span>🔄 Resetar Alavancas</span>
-          </button>
-          <button type="button" onclick="AppController.loadScenario('atual')" class="game-btn px-3 py-1.5 rounded-lg text-xs font-semibold border border-slate-700 bg-slate-800 hover:bg-slate-700 text-slate-200">
-            🏠 Base Out/2026
-          </button>
-        </div>
-      </div>
+        <!-- 4 Sliders Empilhados no Cockpit Direito -->
+        <div class="space-y-2.5">
+          <!-- Slider 1 -->
+          <div class="p-3 rounded-lg app-inner space-y-1.5">
+            <div class="flex justify-between items-center text-xs">
+              <label for="s-renuncias" class="font-semibold text-slate-200">🎒 1. Rever Renúncias / Gastos Tributários</label>
+              <span id="v-renuncias" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">R$ 50 bi</span>
+            </div>
+            <input id="s-renuncias" type="range" min="0" max="350" step="25" value="50" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Rever Desonerações Fiscais" />
+            <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
+              <span>Manter privilégios (R$ 0)</span>
+              <span>Corte forte (R$ 350 bi)</span>
+            </div>
+            <p class="text-[11px] text-slate-400 leading-snug">
+              Recompõe receita cortando privilégios setoriais (de R$ 600–800 bi) sem comprimir a base social.
+            </p>
+          </div>
 
-      <!-- 4 Sliders em Grid de 2 Colunas -->
-      <div class="grid grid-cols-1 md:grid-cols-2 gap-3.5">
-        <!-- Slider 1 -->
-        <div class="p-3.5 rounded-lg app-inner space-y-2">
-          <div class="flex justify-between items-center text-xs">
-            <label for="s-renuncias" class="font-semibold text-slate-200">🎒 1. Rever Desonerações / Renúncias Fiscais</label>
-            <span id="v-renuncias" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">R$ 50 bi</span>
+          <!-- Slider 2 -->
+          <div class="p-3 rounded-lg app-inner space-y-1.5">
+            <div class="flex justify-between items-center text-xs">
+              <label for="s-cortes" class="font-semibold text-slate-200">✂️ 2. Corte em Despesa Primária e Social (G)</label>
+              <span id="v-cortes" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">R$ 20 bi</span>
+            </div>
+            <input id="s-cortes" type="range" min="-150" max="300" step="25" value="20" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Corte de Despesas e Investimento" />
+            <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
+              <span>Expandir (-R$ 150 bi)</span>
+              <span>Penduricalhos (R$ 75 bi)</span>
+              <span>Tesouraço (R$ 300 bi)</span>
+            </div>
+            <p class="text-[11px] text-slate-400 leading-snug">
+              Até R$ 75 bi corta desperdícios. Além disso, deprime o PIB (Y) e agrava o conflito distributivo.
+            </p>
           </div>
-          <input id="s-renuncias" type="range" min="0" max="350" step="25" value="50" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Rever Desonerações Fiscais" />
-          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
-            <span>Manter privilégios (R$ 0)</span>
-            <span>Revisão forte (R$ 350 bi)</span>
-          </div>
-          <p class="text-[11px] text-slate-400 leading-relaxed">
-            Recompõe receitas públicas cortando privilégios setoriais sem atingir os programas sociais.
-          </p>
-        </div>
 
-        <!-- Slider 2 -->
-        <div class="p-3.5 rounded-lg app-inner space-y-2">
-          <div class="flex justify-between items-center text-xs">
-            <label for="s-cortes" class="font-semibold text-slate-200">✂️ 2. Corte em Despesas e Investimento (G)</label>
-            <span id="v-cortes" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">R$ 20 bi</span>
+          <!-- Slider 3 -->
+          <div class="p-3 rounded-lg app-inner space-y-1.5">
+            <div class="flex justify-between items-center text-xs">
+              <label for="s-selic" class="font-semibold text-slate-200">🧯 3. Válvula da Taxa Básica (Selic % a.a.)</label>
+              <span id="v-selic" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">13,75% a.a.</span>
+            </div>
+            <input id="s-selic" type="range" min="6.0" max="18.0" step="0.25" value="13.75" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Taxa Selic" />
+            <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
+              <span>6% (Na marra)</span>
+              <span>Banda CFMN (~10%)</span>
+              <span>18% (Falsa Racionalidade)</span>
+            </div>
+            <p class="text-[11px] text-slate-400 leading-snug">
+              Alta demais alimenta a dívida (~9% PIB em juros); baixar na marra sem CFMN explode a caldeira.
+            </p>
           </div>
-          <input id="s-cortes" type="range" min="-150" max="300" step="25" value="20" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Corte de Despesas e Investimento" />
-          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
-            <span>Expandir (-R$ 150 bi)</span>
-            <span>Desperdícios (R$ 50 bi)</span>
-            <span>Tesouraço (R$ 300 bi)</span>
-          </div>
-          <p class="text-[11px] text-slate-400 leading-relaxed">
-            Até R$ 75 bi elimina ineficiências. Cortes profundos além disso colapsam o PIB (Y) e a coesão social.
-          </p>
-        </div>
 
-        <!-- Slider 3 -->
-        <div class="p-3.5 rounded-lg app-inner space-y-2">
-          <div class="flex justify-between items-center text-xs">
-            <label for="s-selic" class="font-semibold text-slate-200">🧯 3. Válvula da Taxa de Juros (Selic % a.a.)</label>
-            <span id="v-selic" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">13,75% a.a.</span>
+          <!-- Slider 4 -->
+          <div class="p-3 rounded-lg app-inner space-y-1.5">
+            <div class="flex justify-between items-center text-xs">
+              <label for="s-reforma" class="font-semibold text-slate-200">🔧 4. Coordenação CFMN (Meta 4% + Escudo Cambial)</label>
+              <span id="v-reforma" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">20%</span>
+            </div>
+            <input id="s-reforma" type="range" min="0" max="100" step="10" value="20" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Reforma Estrutural" />
+            <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
+              <span>0% (Sem âncora)</span>
+              <span>50% (Transição)</span>
+              <span>100% (CFMN Ativo)</span>
+            </div>
+            <p class="text-[11px] text-slate-400 leading-snug">
+              Ativa o Conselho Fiscal-Monetário e reservas cambiais: usa a duration curta do Tesouro Selic para alívio imediato dos juros.
+            </p>
           </div>
-          <input id="s-selic" type="range" min="6.0" max="18.0" step="0.25" value="13.75" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Taxa Selic" />
-          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
-            <span>6% (Baixar na marra)</span>
-            <span>Equilíbrio (~10,25%)</span>
-            <span>18% (Freio brusco)</span>
-          </div>
-          <p class="text-[11px] text-slate-400 leading-relaxed">
-            Juros são endógenos: baixar na marra explode a caldeira; manter alto demais inunda a dívida via Tesouro Selic.
-          </p>
         </div>
+      </section>
 
-        <!-- Slider 4 -->
-        <div class="p-3.5 rounded-lg app-inner space-y-2">
-          <div class="flex justify-between items-center text-xs">
-            <label for="s-reforma" class="font-semibold text-slate-200">🔧 4. Reforma Estrutural (Desindexar Dívida + Meta 4%)</label>
-            <span id="v-reforma" class="font-mono-num font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-300 border border-cyan-500/30">20%</span>
-          </div>
-          <input id="s-reforma" type="range" min="0" max="100" step="10" value="20" oninput="AppController.onSliderChange()" class="w-full cursor-pointer" aria-label="Reforma Estrutural" />
-          <div class="flex justify-between text-[10px] text-slate-500 font-mono-num">
-            <span>0% (Pós-fixado puro)</span>
-            <span>50% (Transição)</span>
-            <span>100% (Desindexado)</span>
-          </div>
-          <p class="text-[11px] text-slate-400 leading-relaxed">
-            Fecha o duto de contágio diário Selic → Dívida e alinha a governança fiscal-monetária com meta crível.
-          </p>
-        </div>
-      </div>
-    </section>
+    </div>
 
   </div>
 

@@ -130,8 +130,12 @@ window.CanvasRenderer = (function () {
     // =========================================================================
     // DUTO DE RECIRCULAÇÃO TESOURO SELIC (SELIC -> ESTOQUE DA DÍVIDA)
     // =========================================================================
-    const pipeThickness = Math.max(2, (105 - state.reforma) / 10);
-    ctx.strokeStyle = "#f59e0b";
+    const pipeThickness = Math.max(2.5, (105 - state.reforma) / 10);
+    const isAlivioCFMN = state.pipeFlowMode === "alivio_cfmn";
+    const isDrenagemCritica = state.pipeFlowMode === "drenagem_critica";
+    const pipeColor = isAlivioCFMN ? "#10b981" : (isDrenagemCritica ? "#f43f5e" : "#f59e0b");
+
+    ctx.strokeStyle = pipeColor;
     ctx.lineWidth = pipeThickness;
     ctx.beginPath();
     ctx.moveTo(405, 145);
@@ -140,18 +144,23 @@ window.CanvasRenderer = (function () {
 
     // Partículas de juros fluindo pelo duto Tesouro Selic
     const pipeLen = 405 - (tankCenterX + tankHalfW);
+    const speedFactor = isAlivioCFMN ? 20 : (isDrenagemCritica ? 48 : 36);
     for (let p = 0; p < 3; p++) {
-      const offset = ((tick * 38 + p * (pipeLen / 3)) % pipeLen);
-      ctx.fillStyle = "#f59e0b";
+      const offset = ((tick * speedFactor + p * (pipeLen / 3)) % pipeLen);
+      ctx.fillStyle = pipeColor;
       ctx.beginPath();
-      ctx.arc(405 - offset, 145, 3.8, 0, Math.PI * 2);
+      ctx.arc(405 - offset, 145, isAlivioCFMN ? 3.2 : 4.0, 0, Math.PI * 2);
       ctx.fill();
     }
-    ctx.font = "600 11px 'Plus Jakarta Sans', sans-serif";
-    ctx.fillStyle = muted;
-    ctx.fillText("Duto Tesouro Selic", 332, 130);
+    ctx.font = "600 10.5px 'Plus Jakarta Sans', sans-serif";
+    ctx.fillStyle = isAlivioCFMN ? "#10b981" : muted;
+    ctx.fillText(
+      isAlivioCFMN ? "Alívio Tesouro Selic (CFMN)" : (isDrenagemCritica ? "Drenagem Tesouro Selic" : "Duto Tesouro Selic"),
+      332,
+      129
+    );
     ctx.font = "600 11px 'JetBrains Mono', monospace";
-    ctx.fillStyle = "#f59e0b";
+    ctx.fillStyle = pipeColor;
     ctx.fillText(`Juros: ${state.jurosFluxo.toFixed(1).replace(".", ",")}% PIB`, 332, 165);
 
     // =========================================================================
@@ -201,9 +210,11 @@ window.CanvasRenderer = (function () {
     ctx.font = "600 11px 'JetBrains Mono', monospace";
     ctx.fillStyle = muted;
     ctx.fillText(`Selic: ${state.selic.toFixed(2).replace(".", ",")}%`, boilerX, boilerY + 14);
-    ctx.font = "10px 'Plus Jakarta Sans', sans-serif";
-    ctx.fillText(state.reforma >= 60 ? "Meta 4% Crível" : "Meta 3% Sem Âncora", boilerX, boilerY + 32);
+    ctx.font = "600 9.5px 'Plus Jakarta Sans', sans-serif";
+    ctx.fillStyle = state.reforma >= 60 ? cyan : muted;
+    ctx.fillText(state.reforma >= 60 ? "CFMN + Escudo Cambial" : "Meta 3% Sem Âncora", boilerX, boilerY + 32);
     ctx.font = "600 11px 'JetBrains Mono', monospace";
+    ctx.fillStyle = muted;
     ctx.fillText(`Nominal: ${state.nominal.toFixed(1).replace(".", ",")}% PIB`, boilerX, tankBottom + 20);
 
     // =========================================================================
@@ -258,8 +269,9 @@ window.CanvasRenderer = (function () {
     }
 
     ctx.fillStyle = muted;
-    ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
-    ctx.fillText(`Sacos de Renúncias: ${remainingBags}x`, bridgeCenterX, tankBottom - 4);
+    ctx.font = "11px 'JetBrains Mono', monospace";
+    const primSign = state.primario >= 0 ? "+" : "";
+    ctx.fillText(`Renúncias: ${remainingBags}x | Primário: ${primSign}${state.primario.toFixed(1).replace(".", ",")}%`, bridgeCenterX, tankBottom - 4);
     ctx.fillStyle = fg;
     ctx.font = "600 12px 'JetBrains Mono', monospace";
     ctx.fillText(`Coesão Social: ${state.coesao}%`, bridgeCenterX, tankBottom + 20);
