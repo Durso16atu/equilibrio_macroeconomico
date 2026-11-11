@@ -111,6 +111,9 @@
             <span id="active-mode-pill" class="text-[10px] font-bold px-2 py-0.5 rounded bg-cyan-500/15 text-cyan-400 border border-cyan-500/30">
               🎯 Arena 2026–2030
             </span>
+            <a id="link-glossario" href="glossario.html" class="text-[10px] font-bold px-2.5 py-0.5 rounded border border-emerald-500/40 bg-emerald-500/10 hover:bg-emerald-500/20 transition-colors text-emerald-300 flex items-center gap-1" title="Abrir Glossário Conceitual e Fontes">
+              📖 Glossário &amp; Fundamentos
+            </a>
             <button type="button" onclick="AppController.toggleTheme()" class="text-[10px] px-2 py-0.5 rounded border border-slate-700 hover:bg-slate-800 transition-colors text-slate-400" title="Alternar tema">
               🌗 Tema
             </button>
@@ -213,17 +216,22 @@
         <!-- Identidade Macro e Diagnóstico Causal -->
         <div class="grid grid-cols-1 md:grid-cols-12 gap-2.5 text-xs">
           <div class="md:col-span-5 p-3 rounded-lg app-inner flex flex-col justify-center">
-            <div class="text-[10px] font-bold uppercase tracking-wider text-slate-400 mb-1">
-              📐 Identidade (Y ≡ C + I + G + X − M):
+            <div class="flex items-center justify-between mb-1">
+              <span class="text-[10px] font-bold uppercase tracking-wider text-slate-400">
+                📐 Identidade (Y ≡ C+I+G+X−M):
+              </span>
+              <a href="glossario.html#transmissao-monetaria" class="text-[10px] text-emerald-400 hover:underline font-semibold" title="Ver como a Selic afeta C e I">
+                📖 Canal i→C,I
+              </a>
             </div>
             <div class="flex items-center justify-between font-mono-num font-bold text-cyan-400 text-[11px]">
-              <span id="id-c">C: 62%</span>
+              <span id="id-c" title="Consumo privado (sensível ao custo do crédito)">C: 62%</span>
               <span>+</span>
-              <span id="id-i">I: 16%</span>
+              <span id="id-i" title="Investimento privado (sensível à Selic e à âncora CFMN)">I: 16%</span>
               <span>+</span>
-              <span id="id-g">G: 19%</span>
+              <span id="id-g" title="Gasto e investimento público">G: 19%</span>
               <span>+</span>
-              <span id="id-nx">X-M: +2%</span>
+              <span id="id-nx" title="Exportações líquidas (X - M)">X-M: +2%</span>
             </div>
           </div>
           <div class="md:col-span-7 p-3 rounded-lg app-inner flex items-center">
@@ -252,7 +260,7 @@
               <span>🔄 Resetar</span>
             </button>
             <button type="button" onclick="AppController.loadScenario('atual')" class="game-btn px-2.5 py-1 rounded-lg text-[11px] font-semibold border border-slate-700 bg-slate-800 hover:bg-slate-700 text-slate-200">
-              🏠 Base Out/2026
+              🏠 Base Nov/2026
             </button>
           </div>
         </div>

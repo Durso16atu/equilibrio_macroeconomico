@@ -13,9 +13,9 @@ window.MacroEngine = (function () {
       id: "atual",
       block: "atual",
       icon: "📍",
-      shortTitle: "Base Out/2026",
+      shortTitle: "Base Nov/2026",
       subtitle: "Dívida 82,9% | Selic 13,75%",
-      name: "Momento Atual: Brasil Pós-Eleição (Outubro de 2026)",
+      name: "Momento Atual: Brasil Pós-Eleição (Novembro de 2026)",
       desc: "A dívida subiu para 82,9% do PIB. Enquanto o déficit primário é < 1% do PIB, o serviço de juros consome ~9% do PIB (Falsa Racionalidade). A Selic real excessiva inunda a dívida via Tesouro Selic e transfere orçamento público para o rentismo.",
       historicalContext: "🎯 Desafio 2026–2030: Estancar a drenagem de ~9% do PIB em juros e revisar privilégios tributários sem destruir os pilares sociais nem explodir a caldeira.",
       externalWind: 0,
@@ -191,8 +191,14 @@ window.MacroEngine = (function () {
     pibGrowth = Math.max(-3.5, Math.min(5.2, pibGrowth));
 
     // Decomposição didática da Identidade Y = C + I + G + (X - M)
-    const compC = Math.max(45, Math.min(68, Math.round(62 - (cortes > 100 ? (cortes - 100) * 0.03 : 0) - (inflacao > 5 ? (inflacao - 5) * 0.8 : 0))));
-    const compI = Math.max(11, Math.min(24, Math.round(17 - (selic - 11) * 0.6 + (reforma * 0.035))));
+    // Canal de Transmissão Monetária (De Bolle, Basicão: Política Monetária): ↑i encarece o crédito e reduz tanto C quanto I
+    const custoCredito = (selic - 11.0);
+    const compC = Math.max(45, Math.min(68, Math.round(
+      62 - (custoCredito * 0.45) - (cortes > 100 ? (cortes - 100) * 0.03 : 0) - (inflacao > 5 ? (inflacao - 5) * 0.75 : 0)
+    )));
+    const compI = Math.max(10, Math.min(24, Math.round(
+      17 - (custoCredito * 0.75) + (reforma * 0.035)
+    )));
     const compG = Math.max(12, Math.min(25, Math.round(19 - (cortes / 45))));
     const compNX = Math.max(-3, Math.min(6, Math.round(2 + extWind * 1.5)));
 

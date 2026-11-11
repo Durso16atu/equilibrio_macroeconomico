@@ -13,18 +13,24 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.renderer_path = os.path.join(self.root, "src", "ui", "canvas_renderer.js")
         self.app_path = os.path.join(self.root, "src", "ui", "app.js")
         self.doc_path = os.path.join(self.root, "docs", "AULA_01_BASICAO_2_0.md")
+        self.glossario_path = os.path.join(self.root, "glossario.html")
         self.transcript_path = os.path.join(
             self.root, "docs", "transcricoes", "2026-10-30_basicao_2_0_intro.txt"
+        )
+        self.transcript_monetaria_path = os.path.join(
+            self.root, "docs", "transcricoes", "2026-11-06_basicao_politica_monetaria.txt"
         )
 
     def test_project_files_exist(self):
         for path in [
             self.index_path,
+            self.glossario_path,
             self.engine_path,
             self.renderer_path,
             self.app_path,
             self.doc_path,
             self.transcript_path,
+            self.transcript_monetaria_path,
         ]:
             self.assertTrue(os.path.isfile(path), f"Arquivo ausente: {path}")
 
@@ -45,6 +51,7 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertIn("AppController.resetCurrentScenarioSliders()", html)
         self.assertIn("Bloco 1: Momento Atual", html)
         self.assertIn("Bloco 2: Conhecimento Histórico", html)
+        self.assertIn('href="glossario.html"', html)
 
 
 if __name__ == "__main__":

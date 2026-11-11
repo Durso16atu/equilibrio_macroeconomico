@@ -153,9 +153,10 @@ window.AppController = (function () {
       hudStatus.className = "text-[11px] font-semibold text-center mt-1.5 text-rose-400";
     }
 
-    // Atualiza barra da Identidade Macro Y = C + I + G + (X - M)
-    document.getElementById("id-c").textContent = `C: ${currentState.components.C}%`;
-    document.getElementById("id-i").textContent = `I: ${currentState.components.I}%`;
+    // Atualiza barra da Identidade Macro Y = C + I + G + (X - M) com setas do canal monetário (i -> C, I)
+    const creditArrow = currentState.selic > 12.25 ? "↓" : (currentState.selic <= 10.5 && currentState.mode === "ok" ? "↑" : "");
+    document.getElementById("id-c").textContent = `C: ${currentState.components.C}%${creditArrow}`;
+    document.getElementById("id-i").textContent = `I: ${currentState.components.I}%${creditArrow}`;
     document.getElementById("id-g").textContent = `G: ${currentState.components.G}%`;
     document.getElementById("id-nx").textContent = `X-M: ${currentState.components.NX >= 0 ? "+" : ""}${currentState.components.NX}%`;
     document.getElementById("diag-feedback").textContent = currentState.failureReason;

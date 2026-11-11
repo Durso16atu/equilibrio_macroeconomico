@@ -1,0 +1,328 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Glossário & Fundamentos — Engenharia da Estabilidade (Basicão 2.0)</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=JetBrains+Mono:wght@400;500;600;700&family=Plus+Jakarta+Sans:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    :root {
+      --bg: #090a0f;
+      --card: #11131c;
+      --card-muted: #171a26;
+      --border: #222638;
+      --text: #f0f2f8;
+      --text-muted: #8b92a8;
+      --amber: #f59e0b;
+      --emerald: #10b981;
+      --rose: #f43f5e;
+      --cyan: #06b6d4;
+    }
+    html.light {
+      --bg: #f5f6fa;
+      --card: #ffffff;
+      --card-muted: #eaedf5;
+      --border: #d4d8e6;
+      --text: #111422;
+      --text-muted: #5e6682;
+      --amber: #d97706;
+      --emerald: #059669;
+      --rose: #e11d48;
+      --cyan: #0891b2;
+    }
+    body {
+      background-color: var(--bg);
+      color: var(--text);
+      font-family: 'Plus Jakarta Sans', system-ui, sans-serif;
+      text-rendering: optimizeLegibility;
+      -webkit-font-smoothing: antialiased;
+    }
+    .font-mono-num {
+      font-family: 'JetBrains Mono', monospace;
+      font-variant-numeric: tabular-nums;
+    }
+    .app-panel {
+      background-color: var(--card);
+      border: 1px solid var(--border);
+    }
+    .app-inner {
+      background-color: var(--card-muted);
+      border: 1px solid var(--border);
+    }
+  </style>
+</head>
+<body class="p-3 sm:p-5 md:p-6 min-h-screen">
+  <div class="max-w-6xl mx-auto space-y-5">
+
+    <!-- CABEÇALHO COM RETORNO RÁPIDO AO SIMULADOR -->
+    <header class="app-panel rounded-xl p-4 shadow-sm flex flex-col sm:flex-row items-start sm:items-center justify-between gap-4">
+      <div class="flex items-center gap-3">
+        <div class="w-10 h-10 rounded-lg bg-emerald-500/10 border border-emerald-500/30 flex items-center justify-center text-xl shrink-0">
+          📖
+        </div>
+        <div>
+          <div class="flex flex-wrap items-center gap-2">
+            <span class="text-[10px] font-bold tracking-wider uppercase px-2 py-0.5 rounded bg-slate-800 text-slate-300 border border-slate-700">
+              Guia de Consulta Rápida
+            </span>
+            <span class="text-[10px] font-bold px-2 py-0.5 rounded bg-emerald-500/15 text-emerald-300 border border-emerald-500/30">
+              Basicão 2.0 • Política Monetária &amp; Fiscal
+            </span>
+          </div>
+          <h1 class="text-base sm:text-xl font-extrabold tracking-tight mt-1 text-slate-100">
+            Glossário &amp; Fundamentos Macroeconômicos
+          </h1>
+        </div>
+      </div>
+
+      <div class="flex items-center gap-2 w-full sm:w-auto justify-end">
+        <button type="button" onclick="document.documentElement.classList.toggle('light')" class="text-xs px-3 py-1.5 rounded-lg border border-slate-700 hover:bg-slate-800 transition-colors text-slate-300">
+          🌗 Tema
+        </button>
+        <a href="index.html" class="px-3.5 py-1.5 rounded-lg text-xs font-bold border border-cyan-500/50 bg-cyan-500/15 hover:bg-cyan-500/25 text-cyan-300 transition-colors flex items-center gap-1.5">
+          <span>⬅️ Voltar ao Simulador 2D</span>
+        </a>
+      </div>
+    </header>
+
+    <!-- DESTAQUE VISUAL: A LOUSA DA POLÍTICA MONETÁRIA (TRANSMISSÃO i -> C, I -> DEMANDA) -->
+    <section id="transmissao-monetaria" class="app-panel rounded-xl p-4 sm:p-5 space-y-4">
+      <div class="flex flex-col md:flex-row md:items-center justify-between gap-2 border-b border-slate-800 pb-3">
+        <div>
+          <span class="text-[10px] font-mono-num uppercase tracking-wider text-cyan-400 font-bold">
+            Esquema Visual • Basicão: Política Monetária (Monica De Bolle, 06/11/2026)
+          </span>
+          <h2 class="text-sm sm:text-base font-bold text-slate-100 mt-0.5">
+            Como a Taxa de Juros (i) Afeta a Demanda Agregada, a Inflação (P) e o PIB (Y)
+          </h2>
+        </div>
+        <span class="text-[11px] font-mono-num px-2.5 py-1 rounded bg-amber-500/10 text-amber-300 border border-amber-500/30">
+          ↑ Selic (i) ⇒ ↑ Custo do Crédito ⇒ ↓ C e ↓ I
+        </span>
+      </div>
+
+      <div class="grid grid-cols-1 lg:grid-cols-12 gap-4 items-center">
+        <!-- SVG reproduzindo o gráfico de Oferta e Demanda da aula -->
+        <div class="lg:col-span-6 rounded-xl border border-slate-800 bg-[#06080e] p-3">
+          <svg viewBox="0 0 460 250" class="w-full h-auto block" role="img" aria-label="Gráfico de Deslocamento da Demanda Agregada pela Taxa de Juros">
+            <!-- Grade de fundo -->
+            <g stroke="rgba(34,38,56,0.6)" stroke-width="1">
+              <line x1="60" y1="30" x2="420" y2="30" />
+              <line x1="60" y1="80" x2="420" y2="80" />
+              <line x1="60" y1="130" x2="420" y2="130" />
+              <line x1="60" y1="180" x2="420" y2="180" />
+              <line x1="130" y1="20" x2="130" y2="210" />
+              <line x1="230" y1="20" x2="230" y2="210" />
+              <line x1="330" y1="20" x2="330" y2="210" />
+            </g>
+
+            <!-- Eixos -->
+            <line x1="60" y1="20" x2="60" y2="210" stroke="#8b92a8" stroke-width="2" />
+            <line x1="60" y1="210" x2="430" y2="210" stroke="#8b92a8" stroke-width="2" />
+            <text x="20" y="35" fill="#f0f2f8" font-size="11" font-weight="bold" font-family="JetBrains Mono">Preços (P)</text>
+            <text x="355" y="232" fill="#f0f2f8" font-size="11" font-weight="bold" font-family="JetBrains Mono">Produto / PIB (Y)</text>
+
+            <!-- Curva de Oferta Agregada (Verde - fixa no curto prazo) -->
+            <line x1="95" y1="190" x2="375" y2="40" stroke="#10b981" stroke-width="3" />
+            <text x="340" y="34" fill="#10b981" font-size="11" font-weight="bold">Oferta (Curto Prazo)</text>
+
+            <!-- Curva de Demanda Inicial D1 (Azul/Ciano) -->
+            <line x1="115" y1="40" x2="395" y2="180" stroke="#06b6d4" stroke-width="3" />
+            <text x="350" y="195" fill="#06b6d4" font-size="11" font-weight="bold">D₁ (Demanda Inicial)</text>
+
+            <!-- Curva de Demanda após Alta de Juros D2 (Vermelha/Rosa) -->
+            <line x1="85" y1="75" x2="355" y2="205" stroke="#f43f5e" stroke-width="3" stroke-dasharray="6,4" />
+            <text x="245" y="203" fill="#f43f5e" font-size="11" font-weight="bold">D₂ (Após ↑ Juros: ↓C, ↓I)</text>
+
+            <!-- Ponto de Equilíbrio 1 -->
+            <line x1="60" y1="108" x2="248" y2="108" stroke="#06b6d4" stroke-width="1.2" stroke-dasharray="3,3" />
+            <line x1="248" y1="108" x2="248" y2="210" stroke="#06b6d4" stroke-width="1.2" stroke-dasharray="3,3" />
+            <circle cx="248" cy="108" r="5" fill="#06b6d4" />
+            <text x="255" y="102" fill="#06b6d4" font-size="11" font-weight="bold" font-family="JetBrains Mono">E₁</text>
+            <text x="38" y="112" fill="#06b6d4" font-size="11" font-weight="bold" font-family="JetBrains Mono">P₁</text>
+            <text x="242" y="226" fill="#06b6d4" font-size="11" font-weight="bold" font-family="JetBrains Mono">Y₁</text>
+
+            <!-- Ponto de Equilíbrio 2 -->
+            <line x1="60" y1="133" x2="202" y2="133" stroke="#f43f5e" stroke-width="1.2" stroke-dasharray="3,3" />
+            <line x1="202" y1="133" x2="202" y2="210" stroke="#f43f5e" stroke-width="1.2" stroke-dasharray="3,3" />
+            <circle cx="202" cy="133" r="5" fill="#f43f5e" />
+            <text x="182" y="126" fill="#f43f5e" font-size="11" font-weight="bold" font-family="JetBrains Mono">E₂</text>
+            <text x="38" y="137" fill="#f43f5e" font-size="11" font-weight="bold" font-family="JetBrains Mono">P₂</text>
+            <text x="195" y="226" fill="#f43f5e" font-size="11" font-weight="bold" font-family="JetBrains Mono">Y₂</text>
+          </svg>
+        </div>
+
+        <!-- Passo a passo da transmissão -->
+        <div class="lg:col-span-6 space-y-2.5 text-xs">
+          <div class="p-3 rounded-lg app-inner">
+            <div class="font-bold text-cyan-400 mb-1">1. O Preço do Dinheiro = Custo de Oportunidade + Crédito</div>
+            <p class="text-slate-300 leading-relaxed">
+              A moeda na mão tem <strong>liquidez imediata</strong> (compra no mercado hoje), mas rende zero. O título público não compra no supermercado hoje, mas paga juros no vencimento. A taxa de juros (<em>i</em>) é o <strong>custo de oportunidade</strong> de reter moeda líquida e, simultaneamente, o <strong>custo do crédito</strong> para famílias e empresas.
+            </p>
+          </div>
+
+          <div class="p-3 rounded-lg app-inner">
+            <div class="font-bold text-rose-400 mb-1">2. Curto Prazo: Compressão de C e I (E₁ → E₂)</div>
+            <p class="text-slate-300 leading-relaxed">
+              Na demanda interna (<span class="font-mono-num text-cyan-300">C + I + G</span>), quando o Banco Central sobe os juros (<span class="font-mono-num">↑i</span>), o crédito encarece: o <strong>Consumo privado (↓C)</strong> e o <strong>Investimento privado (↓I)</strong> caem, enquanto o Gasto Público (<span class="font-mono-num">G</span>) fica parado. A curva de demanda desce de <span class="font-mono-num text-cyan-300">D₁</span> para <span class="font-mono-num text-rose-400">D₂</span>, reduzindo os preços (<span class="font-mono-num">P₁ → P₂</span>), mas encolhendo o PIB (<span class="font-mono-num">Y₁ → Y₂</span>).
+            </p>
+          </div>
+
+          <div class="p-3 rounded-lg app-inner">
+            <div class="font-bold text-amber-400 mb-1">3. Longo Prazo: A Contração da Oferta e o Caso Brasileiro</div>
+            <p class="text-slate-300 leading-relaxed">
+              No curto prazo a Oferta (linha verde) não se move. Porém, se os juros ficam altos por anos, a queda persistente do <strong>Investimento produtivo (↓I)</strong> reduz a capacidade instalada futura, encolhendo também a Oferta. No Brasil, além de comprimir <span class="font-mono-num">C</span> e <span class="font-mono-num">I</span>, a alta da Selic contamina diretamente o estoque da dívida pública via <strong>Tesouro Selic</strong>.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <!-- DICIONÁRIO VISUAL DE CONCEITOS DO SIMULADOR (8 CARDS) -->
+    <section class="space-y-3">
+      <h2 class="text-xs font-bold uppercase tracking-wider text-slate-400 px-1">
+        🗂️ Dicionário de Conceitos do Simulador 2D
+      </h2>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-3.5 text-xs">
+        <!-- Card 1 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">💵</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-300 border border-cyan-500/30">Política Monetária</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">Custo de Oportunidade &amp; Liquidez</h3>
+          <p class="text-slate-400 leading-relaxed">
+            A moeda serve como unidade de conta e meio de troca imediato, mas não rende juros. Os juros pagos pelos títulos públicos representam o que você deixa de ganhar ao preferir ficar com moeda líquida na mão.
+          </p>
+        </div>
+
+        <!-- Card 2 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">📐</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-cyan-500/10 text-cyan-300 border border-cyan-500/30">Contas Nacionais</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">PIB (Y ≡ C + I + G + X − M)</h3>
+          <p class="text-slate-400 leading-relaxed">
+            O PIB é a renda agregada única do país (não existe "PIB privado" vs "PIB público"). Soma Consumo privado (<strong>C</strong>), Investimento (<strong>I</strong>), Gasto/Investimento público (<strong>G</strong>) e Exportações líquidas (<strong>X − M</strong>).
+          </p>
+        </div>
+
+        <!-- Card 3 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">🛢️</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-amber-500/10 text-amber-300 border border-amber-500/30">Estoque vs. Fluxo</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">Primário vs. Nominal</h3>
+          <p class="text-slate-400 leading-relaxed">
+            O <strong>Resultado Primário</strong> (<span class="font-mono-num">R − G</span>, &lt; 1% do PIB) mede receitas menos gastos sem juros. Já o <strong>Déficit Nominal</strong> (~9% do PIB) inclui a conta de juros que inunda o estoque da dívida (82,9% do PIB).
+          </p>
+        </div>
+
+        <!-- Card 4 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">🔗</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-amber-500/10 text-amber-300 border border-amber-500/30">Anomalia Brasileira</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">Tesouro Selic (LFT) &amp; Duration</h3>
+          <p class="text-slate-400 leading-relaxed">
+            Herança da hiperinflação: títulos pós-fixados indexados diariamente à Selic, com prazo médio de rolagem de apenas <strong>3 anos</strong>. Na alta da Selic, inunda a dívida; na queda coordenada (CFMN), gera alívio fiscal imediato.
+          </p>
+        </div>
+
+        <!-- Card 5 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">🎒</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-300 border border-emerald-500/30">Política Fiscal (R)</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">Gastos Tributários (Renúncias)</h3>
+          <p class="text-slate-400 leading-relaxed">
+            Desonerações e privilégios fiscais setoriais que somam de <strong>R$ 600 bi a R$ 800 bi/ano</strong> (~6% do PIB). Revisá-los recompõe a receita pública sem destruir programas sociais nem encolher o PIB.
+          </p>
+        </div>
+
+        <!-- Card 6 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">⚠️</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-rose-500/10 text-rose-300 border border-rose-500/30">Lara Resende</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">"Falsa Racionalidade"</h3>
+          <p class="text-slate-400 leading-relaxed">
+            Quando o serviço de juros consome ~9% do PIB ao ano, a Selic real excessiva deixa de ser "remédio" e passa a ser a <strong>causa primária</strong> da trajetória explosiva da relação Dívida/PIB e do risco fiscal.
+          </p>
+        </div>
+
+        <!-- Card 7 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">⚖️</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-rose-500/10 text-rose-300 border border-rose-500/30">De Bolle &amp; Kupfer</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">Conflito Distributivo</h3>
+          <p class="text-slate-400 leading-relaxed">
+            Juros reais extremos transferem quase 9% do PIB do orçamento público (pago por impostos sobre consumo e produção) para detentores de títulos financeiros (rentismo), comprimindo o investimento social.
+          </p>
+        </div>
+
+        <!-- Card 8 -->
+        <div class="app-panel rounded-xl p-4 space-y-2">
+          <div class="flex items-center justify-between">
+            <span class="text-base">🔧</span>
+            <span class="text-[10px] font-mono-num px-2 py-0.5 rounded bg-emerald-500/10 text-emerald-300 border border-emerald-500/30">Solução Institucional</span>
+          </div>
+          <h3 class="font-bold text-slate-100 text-sm">Coordenação CFMN &amp; Meta 4%</h3>
+          <p class="text-slate-400 leading-relaxed">
+            Conselho Fiscal e Monetário Nacional + meta crível de 4% + uso das reservas (&gt; US$ 350 bi) para blindar o câmbio na transição, permitindo reduzir a Selic sem "populismo monetário".
+          </p>
+        </div>
+      </div>
+    </section>
+
+    <!-- CATÁLOGO DE FONTES OFICIAIS COM LINKS DIRETOS -->
+    <section class="app-panel rounded-xl p-4 sm:p-5 space-y-3">
+      <div class="flex items-center justify-between">
+        <h2 class="text-xs sm:text-sm font-bold uppercase tracking-wider text-cyan-400">
+          📚 Fontes Oficiais que Fundamentam o Simulador
+        </h2>
+        <span class="text-[11px] font-mono-num text-slate-400">5 Referências Primárias</span>
+      </div>
+
+      <div class="grid grid-cols-1 md:grid-cols-2 gap-3 text-xs">
+        <a href="https://bolle.substack.com/" target="_blank" rel="noopener noreferrer" class="p-3 rounded-lg app-inner hover:border-cyan-500/50 transition-all block">
+          <div class="font-bold text-slate-100">1. Monica De Bolle — Basicão de Economia 2.0: Introdução (30/10/2026)</div>
+          <div class="text-slate-400 mt-1">Superação dos extremos (Tesouraço vs. Negacionismo), PIB, Estoque vs. Fluxo e Desonerações.</div>
+        </a>
+
+        <a href="https://bolle.substack.com/p/basicao-politica-monetaria" target="_blank" rel="noopener noreferrer" class="p-3 rounded-lg app-inner hover:border-cyan-500/50 transition-all block">
+          <div class="font-bold text-emerald-300">2. Monica De Bolle — Basicão: Política Monetária (06/11/2026) ↗</div>
+          <div class="text-slate-400 mt-1">Taxa de juros como preço do dinheiro (custo de oportunidade e crédito) e canal de transmissão sobre C e I.</div>
+        </a>
+
+        <a href="https://andrelararesende.substack.com/p/juros-do-banco-central-falsa-racionalidade" target="_blank" rel="noopener noreferrer" class="p-3 rounded-lg app-inner hover:border-cyan-500/50 transition-all block">
+          <div class="font-bold text-slate-100">3. André Lara Resende &amp; Luiz Orenstein — Juros do BC: Falsa Racionalidade? ↗</div>
+          <div class="text-slate-400 mt-1">Debate no CEBRI sobre dominância de juros, Teoria Fiscal do Nível de Preços e o serviço da dívida de ~9% do PIB.</div>
+        </a>
+
+        <a href="https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar" target="_blank" rel="noopener noreferrer" class="p-3 rounded-lg app-inner hover:border-cyan-500/50 transition-all block">
+          <div class="font-bold text-slate-100">4. André Lara Resende — Eu Acuso: Proposta para Eliminar o Desequilíbrio Fiscal ↗</div>
+          <div class="text-slate-400 mt-1">Proposta do Conselho Fiscal e Monetário Nacional (CFMN), banda da Selic e duration curta das LFTs na transição.</div>
+        </a>
+
+        <a href="https://bolle.substack.com/p/juros-divida-publica-e-politica-fiscal" target="_blank" rel="noopener noreferrer" class="p-3 rounded-lg app-inner hover:border-cyan-500/50 transition-all block md:col-span-2">
+          <div class="font-bold text-slate-100">5. Monica De Bolle &amp; José Paulo Kupfer — Juros, Dívida Pública e Política Fiscal (05/11/2026) ↗</div>
+          <div class="text-slate-400 mt-1">Economia política do orçamento, conflito distributivo e transferência regressiva de renda via juros reais elevados.</div>
+        </a>
+      </div>
+    </section>
+
+  </div>
+</body>
+</html>
