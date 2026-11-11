@@ -1,0 +1,819 @@
+[00:01] Mas bem, enfim, vamos começar porque eu não tenho muito tempo não, tá?
+[00:06] Uma coisa que eu queria falar,
+[00:08] eu não vou falar de novo as regras das lives aqui não,
+[00:11] isso eu deixo para semana que vem.
+[00:13] Mas eu queria sim falar sobre essa questão
+[00:18] das lives aqui e das postagens
+[00:20] que estão sendo feitas no YouTube.
+[00:22] Desculpa, para vocês que já ouviram isso, eu vou falar de novo.
+[00:25] Tem alguém, não sei quem é, Tem alguém que está tirando as lives aqui
+[00:32] do Substack minhas e as minhas com o Zé Paulo e essa pessoa está postando num canal
+[00:39] no YouTube que não é meu, tá?
+[00:41] Eu já tentei derrubar esses vídeos,
+[00:46] até agora eu acho que eles não foram derrubados,
+[00:49] eu nem olhei porque eu confesso a vocês que eu fui meio irritada
+[00:51] quando eu vejo isso, então eu preferi não ver,
+[00:54] mas a última vez que eu vi eles ainda estavam lá, Eu não sei mais o que fazer,
+[00:59] em algum momento eu vou ter que reclamar seriamente com o YouTube.
+[01:02] De qualquer jeito, eu meio que descobri mais ou menos como é que eu consigo impedir,
+[01:08] ou pelo menos dificultar, impedir não é possível, mas dificultar é,
+[01:11] eu acho que eu mais ou menos entendi como é que dificulta,
+[01:15] porque o negócio é o seguinte, quem quer que seja que esteja fazendo isso,
+[01:20] está fazendo um desserviço para mim e para vocês, porque tem muitos de vocês aqui,
+[01:25] Que são assinantes da newsletter, assinantes que pagam pela newsletter,
+[01:30] e as coisas daqui estão vazando para lá porque alguém está fazendo isso
+[01:35] de maneira indevida.
+[01:37] Então, a primeira coisa que eu queria pedir é isso, por favor,
+[01:42] não circulem nada fora do Substack.
+[01:45] O Vitor, que está aqui com a gente na live,
+[01:47] o Vitor faz sempre um negócio que deve dar uma trabalheira para ele,
+[01:50] então por isso eu agradeço muito.
+[01:53] O Vitor faz, e ele sabe, O Victor pega as lives, quando ele tem tempo,
+[01:57] ele pega as lives, aí ele faz uns cortes, ele distribui os cortes,
+[02:01] mas tudo aqui pelo Substack.
+[02:03] E isso daí tá ok comigo, não tem problema nenhum com isso,
+[02:06] acho uma ótima coisa que o Victor faz, agradeço ele muito sempre.
+[02:11] E quem quiser repostar coisas
+[02:15] aqui pelo Substack, tudo bem,
+[02:20] desde que esteja dentro da plataforma, tá?
+[02:22] Pra fora é que é o problema.
+[02:25] Isso era uma coisa que eu queria dizer.
+[02:28] Em relação a essa história do que foi postado no Instagram, que alguém falou aqui...
+[02:34] Ah, agora eu já perdi.
+[02:38] Mas sim, teve uma...
+[02:40] Na live que eu fiz... Só que me perdi nos dias.
+[02:45] Acho que foi na segunda-feira.
+[02:46] Na live que eu fiz na segunda-feira, o...
+[02:51] Teve um trecho da live que o pessoal do Contraponto, que eles são ótimos,
+[02:57] eu fiz isso com eles, tá?
+[02:58] Quer dizer, eles fizeram, mas eles pegaram um trecho da live e montaram um vídeo,
+[03:03] esse que acabou, espalhou para tudo que é lado,
+[03:06] mas um que tem uma explicação bem didática, assim, com gráficozinhos e tal,
+[03:10] não sei o quê, Isso daí tá ok, porque isso daí eles falaram comigo.
+[03:15] Então, alguém mencionou isso aqui, então tô só dizendo que isso aí tudo bem.
+[03:20] O problema não é esse, o problema são as coisas que as pessoas estão jogando
+[03:24] no YouTube e que, enfim, tá errado isso, tá?
+[03:29] Então, a fonte é essa.
+[03:32] Se vocês tiverem assistido, se alguém aqui estiver assistindo lives
+[03:37] que foram postadas no YouTube, Eu peço a vocês para, por favor, não fazerem isso,
+[03:42] porque está errado isso que está sendo feito, então parem de seguir aquele canal lá,
+[03:47] eu estou tentando derrubar o canal, mas eu ainda não consegui, tá?
+[03:52] Bem, então, começando aqui, eu queria falar hoje com vocês um pouco
+[03:59] sobre política monetária, lembrando, hoje é basicão, tá?
+[04:03] Então a gente não vai falar de assuntos específicos do Brasil,
+[04:08] E sim sobre como é que certas coisas funcionam.
+[04:12] No caso hoje, como é que política monetária funciona.
+[04:16] Por quê, tá?
+[04:17] Porque para quem está chegando e para quem é novo aqui,
+[04:21] lá atrás eu tinha um canal no YouTube,
+[04:25] durante a pandemia eu tive esse canal durante praticamente toda a pandemia, aliás,
+[04:31] durante toda a pandemia, E o que eu fazia nesse canal lá do YouTube eram
+[04:35] umas lives assim explicando a economia para as pessoas.
+[04:39] Fazia outras coisas lá também, mas fazia isso.
+[04:42] E me aborreciu horrores no YouTube, tá?
+[04:46] Por muitos motivos.
+[04:48] Mas aquele canal lá eu encerrei e parei
+[04:52] de fazer essas coisas porque tomou um tempão, tá?
+[04:56] E acabou me tomando muito tempo.
+[04:58] Então eu resolvi reeditar.
+[05:00] Essa série aqui agora, e a gente vê até onde a gente vai com isso.
+[05:05] Em algum momento eu provavelmente não vou continuar a fazer, tá?
+[05:07] Porque, como eu falei, toma um tempo danado, tem outras coisas para fazer também,
+[05:12] mas por enquanto eu estou fazendo.
+[05:14] Então essa é a ideia aqui.
+[05:16] Para quem está chegando, aqui no Substack,
+[05:20] a maior parte das coisas que eu produzo por aqui é aberta.
+[05:24] Então, em relação às lives, que eu já vi que tem gente perguntando aqui,
+[05:28] Em relação às lives, essas lives, como vocês estão vendo, elas são gratuitas,
+[05:32] vocês podem, qualquer um pode entrar aqui e assistir.
+[05:36] Elas ficam gravadas sim, depois que acaba, e elas ficam gravadas por duas semanas,
+[05:43] elas ficam livremente acessíveis para quem quiser.
+[05:47] Depois de duas semanas, elas ficam no acervo que é protegido por Paywall,
+[05:51] porque imagina, se não fosse, já tem coisa que está saindo daqui indevidamente,
+[05:57] então, Eu sei, Patrick, eu me lembro de você.
+[06:01] Então era isso, tá?
+[06:04] As lives ficam gravadas sim, elas são publicadas aqui e ficam gravadas aqui.
+[06:10] Vamos lá. Sobre política monetária, tá?
+[06:13] Tereza perguntando como chama o canal do YouTube.
+[06:15] Vou dizer isso e aí eu vou começar o assunto, tá?
+[06:17] Porque eu só tenho até três horas.
+[06:19] O canal do YouTube se chama, alguém usou o meu nome,
+[06:22] então é arroba Monica De Bolle e aí tem um número.
+[06:26] 6572, 6472, uma coisa assim.
+[06:31] Qualquer canal, eu tenho um, não é um canal porque eu não o uso,
+[06:36] mas eu fiz um troço oficial meu no YouTube,
+[06:40] então tem um arroba Monica De Bolle no YouTube e esse é meu, tá?
+[06:44] Qualquer coisa que apareça arroba Monica De Bolle
+[06:47] com os números depois do meu nome, não é meu. E tem vários, tá?
+[06:53] Não tem só um, não.
+[06:55] Tem um que tá postando as coisas daqui, mas tem outros também, tá?
+[06:59] É que eu descobri outro dia.
+[07:00] Então, tudo que for Monica De Bolle e uns números é fake, não é meu, tá?
+[07:07] Só pra vocês saberem, é isso mesmo, Fábio.
+[07:11] O Fábio botou aqui, tá?
+[07:12] Esse canal aí, arroba Monica De Bolle 6452, isso não é meu, isso é um canal fake,
+[07:18] alguém que tá tirando coisa daqui e postando pra lá.
+[07:21] Eu tô tentando derrubar esse canal aí, tá?
+[07:24] Mas até agora não consegui.
+[07:26] Bem, então vamos lá.
+[07:27] Ontem eu e o Zé Paulo Kupfer fizemos aqui uma conversa,
+[07:32] que é a conversa que a gente tem aqui toda quinta-feira,
+[07:37] sobre a situação do Brasil e a gente falou bastante sobre essas questões
+[07:42] de política monetária, de política fiscal, falamos bastante sobre juros,
+[07:46] sobre a situação da dívida pública brasileira e tal.
+[07:50] O que eu sinto às vezes só nessas conversas é que para muitos
+[07:55] de vocês é ok acompanhar essas conversas,
+[07:59] mas para outros de vocês às vezes tem assuntos nessas conversas que ficam
+[08:04] um tanto obscuros assim, porque sim, é como o Zé Paulo inclusive disse ontem,
+[08:10] economia é uma coisa que parece intuitiva e que portanto parece uma coisa fácil
+[08:17] de se entender, mas não é.
+[08:19] Tem muita coisa em economia que é completamente contraintuitiva,
+[08:23] como ele próprio falou, insisto e reitero o que ele disse.
+[08:29] Então, embora, assim, como a economia está na vida da gente e a gente vê
+[08:35] as coisas acontecendo e tal,
+[08:37] e na maior parte das vezes a gente entende o que está acontecendo,
+[08:41] de um modo geral a gente realmente entende.
+[08:43] Agora, tem algumas coisas em economia que são O propósito desses basicões aqui é precisamente
+[09:14] Eu vou dar a vocês algum subsídio técnico, não muito,
+[09:19] porque não dá para aprofundar muita coisa num ambiente desses aqui,
+[09:23] mas na medida do possível, o que eu tento fazer aqui,
+[09:27] como eu fazia lá no canal Velho Instinto do YouTube,
+[09:31] é passar esse entendimento para vocês.
+[09:33] E como o objetivo é exatamente que isso seja uma coisa gratuita e acessível,
+[09:41] Eu não vou, essas lives não serão fechadas, eu não quero fechar essas lives, tá?
+[09:45] Eu só vou fechar essas lives se eu sentir a necessidade de fazer isso,
+[09:49] porque o material está vazando daqui para outro lado.
+[09:51] Então, é isso.
+[09:53] Então, boa tarde para todo mundo que está chegando por aí e vamos ao assunto.
+[09:57] Então, o assunto de hoje é política monetária.
+[10:00] Primeira coisa a se dizer sobre política monetária é o seguinte.
+[10:03] Quando a gente fala de política alguma coisa,
+[10:05] seja política fiscal ou política monetária,
+[10:09] a gente está falando essencialmente do que as autoridades
+[10:15] que administram
+[10:21] a política econômica, quais são as variáveis,
+[10:24] quais são os instrumentos que elas têm.
+[10:26] Então, no caso da política fiscal,
+[10:29] os instrumentos tipicamente são Tributos,
+[10:34] impostos, então o que você faz com os impostos, se você aumenta, se você diminui,
+[10:38] se você modifica de alguma maneira, como a gente fez agora com a reforma tributária.
+[10:44] Despesas, que você também faz a mesma coisa, aumenta, diminui, modifica e tal.
+[10:50] Tem outros instrumentos também na política fiscal, como por exemplo, subsídios.
+[10:55] Quando você dá um subsídio para uma empresa, isso é uma espécie de...
+[11:03] É como se você estivesse tratando aquele setor ou aquela empresa de uma forma
+[11:08] um pouco diferente, não com o tributo que vale para todo mundo,
+[11:12] mas com alguma coisa um pouco menor.
+[11:16] Então, subsídios também são um instrumento da política fiscal,
+[11:19] mas não é sobre política fiscal que a gente vai falar hoje.
+[11:22] Hoje a gente vai falar sobre política monetária.
+[11:24] E o instrumento de política monetária, por excelência, É a taxa de juros, tá?
+[11:29] Então a primeira pergunta que eu queria fazer a vocês,
+[11:32] e nesses basicões eu faço perguntas a vocês,
+[11:36] então a primeira pergunta que eu quero fazer pra vocês é, primeiro,
+[11:42] se vocês entendem o que é a taxa de juros, E segundo,
+[11:48] se alguém aqui consegue me dar uma definição do que é a taxa de juros.
+[11:53] O que é a taxa de juros para vocês?
+[11:56] Vou esperar vocês responderem aqui no chat.
+[12:03] Esperando vocês darem a definição da taxa de juros aí no chat.
+[12:07] Não vale olhar chat GPT, nem inteligência artificial.
+[12:10] Aqui é tudo inteligência orgânica, tá gente?
+[12:15] Clarice, ótimo, mas vamos lá.
+[12:27] Muita gente falou assim, ah, é o preço do dinheiro.
+[12:31] O que significa ser o preço do dinheiro?
+[12:33] Alguém sabe dizer? Todo mundo falando isso.
+[12:35] É o custo do dinheiro, é o preço do dinheiro, é o preço da moeda, é a remuneração do capital.
+[12:40] O que significa ser o preço do dinheiro, gente?
+[12:43] O que isso quer dizer?
+[12:45] Vocês sabem o que isso quer dizer ou vocês estão só repetindo?
+[12:48] O que quer dizer ser preço do dinheiro?
+[13:00] Não, nenhuma resposta certa até agora. Nenhuma.
+[13:04] Zero.
+[13:09] Maria, sim, é o custo para emprestar, mas tem algo mais.
+[13:12] O Enzo está chegando perto.
+[13:22] Tá, vamos lá.
+[13:24] Aqui eu acho que vocês já vão começar a sentir...
+[13:30] Pois é, Victor, não é sobre as mitocôndrias.
+[13:33] Aqui vocês já vão começar a sentir as debilidades
+[13:37] no entendimento das questões econômicas, né?
+[13:41] Porque dizer que é a taxa Selic,
+[13:43] eu vou pegar as respostas só para ilustrar para vocês onde é que estão os índices.
+[13:47] Então dizer que é a taxa Selic, dizer que é o custo do dinheiro,
+[13:51] dizer que é o preço do dinheiro, dizer que é o custo do crédito,
+[13:56] nenhuma dessas coisas está errada, mas nenhuma dessas coisas está certa também.
+[14:01] Porque eu perguntei a vocês conceitualmente o que quer dizer preço do dinheiro.
+[14:08] Uma pessoa aqui respondeu, o que quer dizer preço do dinheiro, gente?
+[14:12] Como assim preço do dinheiro?
+[14:13] O que isso quer dizer?
+[14:17] Inteligência orgânica aqui.
+[14:19] Põe a inteligência orgânica de vocês para funcionar.
+[14:21] O que significa preço do dinheiro?
+[14:25] Porque preço do dinheiro assim solto é uma frase solta no ar.
+[14:29] O que isso significa?
+[14:31] Vou dar mais dois minutos aqui para vocês responderem.
+[14:34] Não, não é lucro.
+[14:36] Não é lucro.
+[14:39] Hum, mais ou menos, Bruno.
+[14:41] O Bruno está dizendo que o dinheiro se desvaloriza no tempo.
+[14:43] Não exatamente.
+[14:45] Perto, mas não exatamente.
+[14:47] Não é quanto custa trocar o de hoje por amanhã.
+[14:56] Não é valorizar a não utilização do capital exatamente.
+[14:59] Não é o poder de compra.
+[15:02] Não é.
+[15:05] Não é quanto custa para você comprar um real ou outra moeda nesse momento.
+[15:09] Não é isso.
+[15:11] Não é a taxa para remunerar a impaciência.
+[15:15] Vocês estão vendo,
+[15:17] isso é exatamente o que eu falo quando eu digo que as discussões
+[15:22] de economia parecem fáceis à primeira vista,
+[15:26] mas quando você vai futucar os conceitos,
+[15:29] na maior parte das vezes as pessoas não sabem, não é nenhum problema isso, tá?
+[15:33] Mas na maior parte das vezes as pessoas não sabem o que são conceitualmente essas coisas.
+[15:40] Então vamos colocar da seguinte maneira, tá?
+[15:44] Muitos de vocês falaram preço do dinheiro, custo do dinheiro,
+[15:48] preço do dinheiro ou custo do dinheiro ao longo do tempo.
+[15:52] Gente, essas frases aí não querem dizer nada, tá?
+[15:56] Então, o que é?
+[15:57] Também não é rentismo, não, Diego.
+[16:00] O que é é o seguinte, pensem assim,
+[16:02] suponha que vocês estejam numa economia
+[16:06] em que você pode escolher entre ter uma nota
+[16:12] de um real na mão,
+[16:14] Vamos a um real só para fazer a ilustração do ponto.
+[16:19] Nessa economia, você pode escolher entre ter uma nota de um real ou ter
+[16:24] um título cujo valor de face é um real.
+[16:28] Os dois são papéis.
+[16:31] A diferença é que, com a nota de um real, você consegue comprar alguma coisa.
+[16:36] Essa nota de um real, ela tem liquidez.
+[16:40] Liquidez é a capacidade de você utilizar, trocando em miúdos, tá?
+[16:44] Liquidez é a capacidade que você tem de utilizar aquilo que está na sua mão
+[16:49] como papel, no caso, o dinheiro, para comprar alguma coisa.
+[16:53] Então você tem isso.
+[16:55] Você está numa economia em que você pode escolher entre ter uma nota de um real
+[17:00] Ou um título cujo valor de face também é um real,
+[17:05] esse título rende uma taxa de juros qualquer, vamos supor algo bem baixinho,
+[17:10] esse título rende, sei lá, vamos supor que ele renda 1% ao mês, tá?
+[17:16] É dizer que se você segurar aquele título com você, Até o final do mês,
+[17:22] no final do mês você vai ter não mais um real só,
+[17:26] você vai ter um real mais o rendimento de um por cento que aquele título te dá.
+[17:32] Então você está sentado aqui na economia escolhendo se você vai ficar com a nota
+[17:38] de um real na mão ou com o título cujo valor é de um real mas que tem um rendimento
+[17:44] de um por cento ao mês.
+[17:46] A diferença aqui é a seguinte,
+[17:48] a nota de um real Te possibilita usá-la para comprar alguma coisa.
+[17:55] Hoje, agora, nesse exato momento, ela tem liquidez imediata, a nota de um real.
+[18:01] Agora, o título de um real que rende 1%,
+[18:05] ele tem um rendimento, esse 1% ao mês.
+[18:09] Mas você não pode usar aquele título para comprar nada imediatamente,
+[18:13] ele não tem liquidez imediata.
+[18:16] Então quando a gente fala em preço do dinheiro,
+[18:19] isso que vocês jogaram aqui na tela como definição do que é a taxa de juros,
+[18:24] o preço do dinheiro, no caso aqui, que sim é a taxa de juros,
+[18:27] mas agora eu estou explicando o mecanismo de como isso funciona,
+[18:31] o preço do dinheiro é exatamente aquilo que você deixa de ganhar
+[18:37] para poder ter liquidez imediata.
+[18:40] Então se você decidir ficar com a nota de um real e não com o título de um real
+[18:46] que rende 1% de juros, você vai ter a liquidez imediata da moeda,
+[18:52] você vai poder usá-la para comprar o que você quiser de imediato,
+[18:55] mas você vai deixar de ganhar o rendimento de 1%.
+[18:59] Esse rendimento de 1% é os juros, é o custo do dinheiro.
+[19:04] Custo nesse sentido, é um custo de oportunidade,
+[19:07] é o que você deixa de ganhar se você preferir a liquidez,
+[19:12] as palavras na imagem de Keynes,
+[19:16] a preferência pela liquidez gera esse custo
+[19:20] de oportunidade de você não ter o título
+[19:25] e portanto não receber o rendimento de 1%. Entenderam?
+[19:30] Isso é o juros, tá?
+[19:33] Então, a taxa de juros, ela funciona,
+[19:36] ela arbitra dessa maneira as preferências das pessoas
+[19:42] entre ter liquidez imediatamente ou ter liquidez apenas daqui a um tempo,
+[19:49] mas recebendo uma remuneração
+[19:54] por não ter gastado aquele dinheiro imediatamente,
+[19:58] e sim por ter Estou segurado aquele papel até o final do mês,
+[20:02] que aqui a gente está falando de um título de um mês, que na verdade até existe,
+[20:05] mas é uma simplificação da realidade.
+[20:09] Então deixa eu perguntar para vocês, vocês entenderam agora o que quer dizer preço do dinheiro?
+[20:15] Porque quando eu fiz a pergunta para vocês o que é taxa de juros e que muitos
+[20:20] de vocês jogaram na tela que é o preço do dinheiro,
+[20:26] Eu aí em seguida perguntei a vocês, vocês entendem o que é preço do dinheiro?
+[20:30] E aí vocês jogaram um monte de coisa na tela aqui que não me pareceu
+[20:34] que vocês tinham muita clareza sobre o que é preço do dinheiro.
+[20:37] Então eu estou dizendo a vocês o que é.
+[20:40] Preço do dinheiro é um custo de oportunidade,
+[20:43] é o rendimento que você deixa de ganhar
+[20:47] por Escolher reter moeda em vez
+[20:51] de reter títulos.
+[20:53] Ou escolher reter mais moeda em vez de reter títulos.
+[20:58] Moeda não rende juros.
+[21:00] A taxa de juros da moeda é zero.
+[21:03] Então, quando você escolhe entre reter moeda, que te dá liquidez,
+[21:08] mas não te dá rendimento, e deter um título que não te dá liquidez,
+[21:13] mas te dá um rendimento, Essa taxa de juros desse título, nesse caso,
+[21:18] é o custo da sua retenção de moeda.
+[21:21] Está claro isso para vocês?
+[21:30] Mais ou menos isso, Jaqueline.
+[21:31] A Jaqueline está dizendo assim, o preço do dinheiro, então,
+[21:34] é o tempo que você pode ficar sem liquidez assumindo que terá rendimento.
+[21:38] É, mais ou menos isso.
+[21:46] Não, José Tiago, você só vai dizer que sim se você tiver entendido.
+[21:50] Se você não tiver entendido, você pode dizer que não, que eu explico de novo, tá?
+[21:55] Não vai dizer assim, ah, vou dizer que sim.
+[21:56] Não, só diz que sim se você entendeu.
+[21:59] Se você não entendeu, pode dizer que não.
+[22:01] Os basicões são para isso, tá?
+[22:04] Solia, se você tinha respondido isso lá em cima, eu não vi,
+[22:07] porque tem 261 de vocês aqui e não dá para ver o que todo mundo fala,
+[22:12] só dá para ver assim, no geral, tá?
+[22:17] Por que é custo? A Helena está perguntando.
+[22:20] É custo, Helena, porque quando você escolhe reter moeda
+[22:26] e não esse título,
+[22:28] você está deixando na mesa um rendimento.
+[22:32] Você está deixando de investir em algo que poderia, daqui a um mês, te render alguma coisa.
+[22:38] Isso que você deixa de fazer, ou esse rendimento que você deixa de ter, ele é um custo.
+[22:45] Ele é um custo porque se você tivesse feito outra escolha, você ganharia aquele rendimento.
+[22:51] Mas se você decidiu reter moeda, você deixou de ganhar aquele rendimento.
+[22:56] Aquilo é um custo.
+[22:59] Como a gente chama em economia, é um custo de oportunidade.
+[23:03] É uma oportunidade de ganhar um rendimento que você deixou de colher.
+[23:10] Então, todas essas frases, todas essas palavras,
+[23:12] todo esse palavrório significa isso, no final das contas.
+[23:18] Moeda, a diferença entre moeda e título, e aqui eu volto, isso, isso é trade-off,
+[23:24] exatamente, Zé Paulo. Trade-off é isso?
+[23:26] É, trade-off é isso.
+[23:28] Então, quando você opta por reter moeda e não um título que pagaria
+[23:35] um rendimento qualquer, Mas que não tem liquidez e que você não pode usar
+[23:38] de imediato, você deixa de ganhar aquele rendimento,
+[23:42] aquele rendimento é uma taxa de juros,
+[23:45] aquela taxa de juros vira o custo de oportunidade de reter moeda e, portanto,
+[23:50] é o que a gente chama do preço do dinheiro, tá?
+[23:53] Tô explicando isso assim bem, bem básico, porque, de novo, isso aqui são basicões, né, gente?
+[23:58] Então tem que ser bem, bem básico mesmo.
+[24:01] Eu estou explicando isso dessa maneira para vocês entenderem o que é a taxa de juros.
+[24:06] A taxa de juros é um preço, mas é um preço um pouco diferente da maneira
+[24:12] como a gente habitualmente entende preço.
+[24:15] A gente habitualmente entende preço como aquilo que você vai pagar ou a quantidade
+[24:21] de moeda que você vai ter que entregar para receber um produto ou um serviço
+[24:26] em troca. A gente geralmente pensa em preço assim,
+[24:29] então preço é o valor
+[24:33] que você tem que entregar para receber aquele produto
+[24:36] ou aquele serviço.
+[24:38] No caso da moeda, esse preço funciona de forma um pouco diferente,
+[24:44] porque não é um preço que você paga para receber moeda.
+[24:49] É algo
+[24:53] que você deixa de ganhar se você receber moeda.
+[24:56] Então, se você escolher ficar com moeda na mão, você deixa de ganhar um rendimento.
+[25:02] Então, isso é o que significa a taxa de juros ser o preço do dinheiro.
+[25:07] É super importante entender isso.
+[25:09] Parece meio básico demais e tal, ou até nem tanto para alguns.
+[25:14] Mas isso é muito importante de se entender,
+[25:16] porque é precisamente por conta dessa maneira como o custo de oportunidade afeta
+[25:22] as escolhas das pessoas que você vai ter ou não vai ter impactos da taxa de juros
+[25:28] na economia, tá?
+[25:32] Nelson, hoje não é sobre dívida pública,
+[25:34] hoje é sobre política monetária e não vai dar tempo
+[25:36] de eu explicar dívida pública hoje, isso fica para um próximo basicão, tá?
+[25:42] O assunto de hoje é política monetária e eu estou começando bem básico para explicar
+[25:46] para vocês o que é a taxa de juros.
+[25:51] Então, como colocou o Ivan aqui na tela, os juros é uma espécie de,
+[25:57] pode-se dizer isso, os juros é uma espécie de preço pela paciência,
+[26:01] você está trocando o consumo presente por consumo futuro ou vice-versa.
+[26:07] Então, isso é o que a taxa de juros faz.
+[26:11] A taxa de juros, no final das contas, o que ela vai fazer é,
+[26:15] porque ela se apresenta como um custo de oportunidade para você deter moeda,
+[26:22] o que a taxa de juros vai acabar determinando indiretamente é a quantidade de moeda
+[26:27] em circulação.
+[26:28] Então quanto mais alta for a taxa de juros, menos moeda em circulação vai haver,
+[26:35] porque o custo de oportunidade para as pessoas de ficarem segurando moeda
+[26:39] que não rende nada, fica muito alto.
+[26:42] Esse muito alto é exatamente a taxa de juros mais elevada.
+[26:47] Então toda vez que a taxa de juros sobe, ela enxuga a moeda da economia.
+[26:53] E todas as vezes que a taxa de juros cai, ela joga dinheiro na economia.
+[26:58] Então, o que a taxa de juros faz é regular a quantidade de dinheiro em circulação
+[27:04] na economia a qualquer instante do tempo.
+[27:08] Isso é o que a taxa de juros faz.
+[27:10] Isso é como a taxa de juros funciona.
+[27:13] André, eu vou pedir a você para não ficar jogando definição aqui na tela, não,
+[27:17] porque senão pode enrolar as pessoas,
+[27:22] porque as palavras que você usa não são as mesmas que eu uso.
+[27:25] Então, por favor, não joga a definição sua na tela, não.
+[27:29] Eu sei que você é economista, mas não faça isso.
+[27:30] Estou te pedindo para não confundir todo mundo.
+[27:33] Então, os juros vão regular a quantidade de moeda na economia.
+[27:40] É isso que a taxa de juros está fazendo a todo momento.
+[27:44] E é exatamente por isso, sim, Marcos, que a taxa de juros está relacionada à demanda.
+[27:49] Porque se você vai consumir, por exemplo,
+[27:55] Então,
+[27:59] quando você tem uma demanda maior na economia,
+[28:03] de um modo geral você tem mais quantidade de moeda em circulação.
+[28:07] E o que a taxa de juros vai fazer é que ela vai,
+[28:10] por aumentar o custo de oportunidade de você reter moeda,
+[28:14] Ela vai diminuir a quantidade de moeda na economia e vai por esse canal ter efeitos
+[28:21] sobre diversos componentes da demanda.
+[28:24] Eu vou explicar isso de uma forma que vai ficar mais clara para vocês em um instante.
+[28:30] Mas sim, é exatamente isso Gilberto.
+[28:33] A taxa de juros é o que você deixa de ganhar para ter liquidez.
+[28:38] Então a taxa de juros é um rendimento.
+[28:41] Se você tivesse investido
+[28:43] o seu dinheiro Naquele papel que rende aquela taxa
+[28:48] de juros, você não teria aquele dinheiro disponível para gastar hoje,
+[28:54] mas quando aquele papel vencesse,
+[28:56] você teria esse dinheiro para gastar mais os juros que eles rendem.
+[29:01] Ao contrário, portanto,
+[29:04] se você detém moeda hoje e não o tal do título que rende
+[29:09] a taxa de juros, você deixa de receber aquela taxa de juros e, portanto,
+[29:14] Ela é o custo de oportunidade de você reter moeda hoje.
+[29:20] É uma maneira um pouco diferente da gente entender o que é um preço.
+[29:25] A taxa de juros é um preço.
+[29:27] Ela é um preço.
+[29:28] Mas ela é um preço que funciona de uma forma um pouquinho diferente do que a maneira
+[29:33] como a gente está habituado normalmente a pensar em preço.
+[29:37] E é muito importante entender esse conceito, tá?
+[29:39] A respeito do que é a taxa de juros, porque se eu não entender isso,
+[29:43] já fica difícil entender todo o resto.
+[29:46] A Júlia está me perguntando se seria certo dizer que é uma espécie de indenização,
+[29:51] pelo tempo que ficará sem liquidez.
+[29:53] Mais ou menos, Júlia, é um instrumento financeiro, tá?
+[29:57] Um título com rendimento qualquer, se você o compra, você vira,
+[30:03] alguém emitiu aquele título, esse alguém é o governo,
+[30:07] Esse título representa uma dívida do governo de quem você agora é credor,
+[30:13] porque você adquiriu aquele título.
+[30:16] Então aquele título passou para as suas mãos, você é credor do governo,
+[30:20] e para que você detenha aquele título até o vencimento dele,
+[30:24] ou até um prazo qualquer,
+[30:26] você vai receber um rendimento dado pela taxa
+[30:31] de juros atrelada ao título.
+[30:34] Quando você faz isso, Você deixa de gastar imediatamente,
+[30:38] você só vai gastar mais à frente, ou pelo menos você deixa de gastar tanto,
+[30:42] porque uma parte da sua riqueza, do seu patrimônio, por assim dizer,
+[30:49] você terá investido num título, em vez de estar com dinheiro na mão para gastar.
+[30:58] Então, isso é o que a taxa de juros faz,
+[31:01] a taxa de juros regula a quantidade de dinheiro em circulação na economia.
+[31:07] Ela tem outros papéis também,
+[31:09] porque a taxa de juros também é o preço da moeda,
+[31:16] então ela é o que você deixa de receber em juros para ficar com moeda na sua mão,
+[31:23] mas ela também é o preço do crédito.
+[31:27] Então, quando você resolve pegar um empréstimo para fazer o que quer que seja,
+[31:33] para investir, para consumir, seja lá o que for,
+[31:36] Você vai pagar uma taxa de juros por esse empréstimo que você pegou.
+[31:42] Então, essa taxa de juros é o custo do crédito.
+[31:47] Então, esse é um outro desdobramento.
+[31:49] Então, é o custo da liquidez, é o custo de você reter moeda e também é o custo do crédito.
+[31:56] Sim, eu estou falando de dinheiro físico de papel.
+[31:59] Poderia ser cripto também, poderia ser qualquer coisa, porque nesse aspecto não muda nada.
+[32:05] O dinheiro em si não tem valor, a moeda em si não tem valor,
+[32:10] uma nota de um real em si não tem valor, ela tem um valor que a gente imputa a ela,
+[32:15] mas em si ela não tem valor nenhum.
+[32:17] E agora ela tem esse papel
+[32:21] de nos dar liquidez ou nos dar a possibilidade
+[32:25] de utilizar essa nota de um real para pagar por alguma coisa, E dessa forma,
+[32:30] ela funciona como aquilo que a gente utiliza como unidade de conta e meio de troca
+[32:35] na economia.
+[32:38] Você não pode chegar com o título do tesouro no supermercado
+[32:42] e querer pagar pelas suas compras do supermercado com os títulos do tesouro
+[32:46] que você tem, porque título de tesouro não é moeda.
+[32:50] Porém, o título do tesouro rende alguma coisa para você.
+[32:54] Então, embora você não possa utilizar aquele título hoje,
+[32:58] Para comprar o que quer que seja que você queira comprar, você pode,
+[33:01] dali a um tempo, quando do vencimento desse título,
+[33:04] usar o valor mais o rendimento que você recebeu para comprar.
+[33:09] Mas isso significa que o tempo em que você ficou com aquele título na mão,
+[33:13] você não usou para fazer outra coisa, senão esperar o rendimento vir.
+[33:18] Então é nesse sentido que é um custo de oportunidade.
+[33:20] Você poderia ter Deixado de ficar com aquele título na mão,
+[33:24] esperando aquele rendimento e ter trocado aquilo por moeda.
+[33:28] Mas se você fizesse isso, o rendimento seria nenhum.
+[33:31] No entanto, você teria moeda na sua mão para comprar o que quer que seja.
+[33:35] Então é nesse sentido que os juros do título são
+[33:39] um custo de oportunidade para a moeda.
+[33:43] Para quem ainda não entendeu,
+[33:44] volta a live no início e assista essa parte de novo para vocês entenderem,
+[33:49] mas é extremamente importante entender que a taxa de juros é isso, tá?
+[33:54] É isso que é a taxa de juros, ok?
+[33:57] Não vamos fazer saltos em coacionários no momento não, porque tem mais coisa para explicar.
+[34:03] Demanda, o que é demanda, tá?
+[34:06] Demanda, como eu já expliquei para vocês aqui em outras ocasiões, A demanda interna,
+[34:11] ela tem três componentes, tá?
+[34:15] Ou a absorção interna, eu deveria dizer, mas fiquem com a palavra demanda na cabeça.
+[34:20] A demanda interna, ela é o que as pessoas consomem,
+[34:25] o que as empresas investem e aquilo que o governo gasta.
+[34:29] Então, a demanda, ela tem tipicamente esses três componentes, consumo,
+[34:34] investimento e despesa pública, tá?
+[34:38] Esses três.
+[34:40] Quando você mexe na taxa de juros, quando você aumenta a taxa de juros, em geral,
+[34:46] o que acontece é isso aqui.
+[34:48] Vou botar um gráfico aqui agora de pilô para vocês.
+[34:53] Depois eu vou entrar no mercado de títulos no próximo basicão,
+[34:58] que aí eu entro mais na questão de dívida pública e explico essa parte direito.
+[35:02] Por enquanto, a única coisa que eu quero que vocês retenham na cabeça É que a taxa
+[35:06] de juros é o custo de oportunidade de você ficar com moeda na mão.
+[35:10] Porque se você fica com mais moeda na mão, você deixa de receber aquilo que títulos,
+[35:17] que você poderia ter escolhido, em vez de escolher moeda, aquilo que títulos rendem.
+[35:22] Então, entenda primeiro a taxa de juros como esse custo de oportunidade,
+[35:26] porque esse é o primeiro passo.
+[35:27] Lembrem, esses aqui são basicões.
+[35:29] Esses conceitos em economia, eles são cumulativos.
+[35:33] Então, você começa lá embaixo e você vai Assim, construindo o castelinho em cima, tá?
+[35:39] Então eu falei pra vocês agora de juros.
+[35:42] Hoje a gente vai ficar só em juros.
+[35:43] A gente não vai entrar na questão do mercado de títulos.
+[35:47] Mas no próximo basicão, o que eu vou fazer com vocês é explicar a vocês qual é
+[35:51] a relação entre o mercado de moeda e o mercado de títulos.
+[35:56] E aí a gente começa a entrar um pouco melhor em como a política monetária,
+[36:00] questões de dívida pública e política fiscal se interrelacionam.
+[36:05] Mas isso é demais para essa live aqui porque primeiro a gente precisa começar assim
+[36:09] na terra arrasada do básico para que todo mundo entenda pelo menos
+[36:14] o que é esse conceito de taxa de juros e o que significa a gente dizer assim a taxa
+[36:19] de juros é o preço do dinheiro.
+[36:21] Que preço do dinheiro é esse?
+[36:22] Preço do dinheiro é custo de oportunidade.
+[36:25] Então se você vai ficar com mais moeda na mão e menos títulos você vai deixar
+[36:29] de ganhar um rendimento.
+[36:31] Esse rendimento é a taxa de juros.
+[36:33] E essa taxa de juros aí que você deixa de receber é o custo de oportunidade
+[36:38] de você ficar com mais moeda na mão, tá?
+[36:40] Já falei isso, sim, umas 30 vezes aqui,
+[36:42] mas eu estou falando e falando e falando de novo para vocês entenderem.
+[36:46] Então, Nelson, o importante hoje é entender o que é taxa de juros, tá?
+[36:50] Depois eu explico títulos, porque isso não vem ao caso no momento.
+[36:54] Então, voltemos para a demanda.
+[36:56] Então, a demanda tem esses três componentes, consumo, investimento e despesas do governo.
+[37:02] Essas despesas do governo, tá gente,
+[37:03] da maneira como elas são apresentadas naquilo que a gente chama das contas nacionais
+[37:07] do país, elas incluem consumo do governo e investimento do governo, as duas coisas,
+[37:12] mas a gente vai tratar tudo como despesa aqui só para simplificar, tá?
+[37:16] Então, como é que isso eu dei então para vocês a ideia do que é a taxa de juros
+[37:22] e o que ela significa no mercado de moeda.
+[37:24] Depois eu vou explicar para vocês o que ela significa no mercado de títulos, mas não hoje.
+[37:28] Então, voltando à demanda.
+[37:30] Numa economia qualquer, a gente tem sempre essa relação aqui, tá?
+[37:34] Então, vamos lá, o grave.
+[37:36] Você tem aqui, nesse eixo vertical, o nível de preços na economia.
+[37:41] Nesse eixo horizontal aqui, você tem o PIB, tá?
+[37:44] E aqui eu botei duas curvas.
+[37:46] Eu botei uma curva de demanda, que é essa azul, e uma curva de oferta,
+[37:50] que é essa verde, que está aqui.
+[37:53] O ponto em que a curva de demanda e a curva de oferta se cruzam, esse ponto aqui,
+[37:57] é o que a gente chama de um ponto de equilíbrio, tá?
+[38:00] Nesse ponto de equilíbrio aqui, onde demanda e oferta são iguais,
+[38:04] a economia vai estar produzindo um determinado nível de PIB,
+[38:07] que eu não botei aqui no grafo,
+[38:09] e as pessoas vão estar enfrentando um determinado nível de preços,
+[38:13] que é esse azulzinho que está aqui.
+[38:16] Letícia, para eu explicar quem paga o custo de oportunidade,
+[38:20] eu preciso entrar na questão do mercado de títulos que eu não farei hoje.
+[38:23] Então, por enquanto, fica só com a ideia do custo de oportunidade na cabeça,
+[38:27] O restante disso aí é para a próxima sessão, tá?
+[38:30] Hoje eu quero que vocês entendam o efeito dos juros na demanda.
+[38:34] Então, vamos lá.
+[38:35] Demanda é azul, oferta é verde, o equilíbrio inicial da economia é esse aqui, tá?
+[38:41] Então, nesse equilíbrio inicial,
+[38:43] a economia está produzindo um determinado nível de PIB, que eu não botei no gráfico,
+[38:46] então vou botar agora. Esse é um gráfico de demanda e oferta.
+[38:50] Tem um nível de PIB aqui, em verde.
+[38:54] Deixa eu pegar o meu pilô vermelho, que está começando a falhar.
+[39:00] Ele não tem nome propriamente não, Diego.
+[39:02] Ele é um gráfico de demanda e oferta.
+[39:06] É o único nome possível para dar para ele.
+[39:10] Então esqueçam, por enquanto, o vermelhinho desse gráfico, tá?
+[39:14] Esqueçam os vermelhinhos.
+[39:15] Olhem só para as outras coisas.
+[39:17] A oferta em verde, a demanda em azul,
+[39:19] o ponto de equilíbrio inicial em que você tem um determinado nível de preços aqui,
+[39:24] o azulzinho.
+[39:25] E aqui a economia produzindo um determinado nível de produto.
+[39:28] É esse Y aqui, tá?
+[39:30] O PIB, tá?
+[39:31] Então primeiro a gente começou desse ponto de equilíbrio que a gente vai chamar de número
+[39:38] Botec 1, tá?
+[39:41] É o ponto de partida da economia.
+[39:43] Aí o que eu estou mostrando nesse gráfico aqui?
+[39:46] Quando a taxa de juros aumenta na economia, tá?
+[39:50] O que vai acontecer é que essa curva de demanda azul aqui,
+[39:55] Ela vai virar essa curva de demanda vermelha,
+[39:58] que está mais abaixo da curva de demanda azul anterior. Por quê?
+[40:02] Vamos aqui para baixo.
+[40:05] Aqui está o que eu defini para vocês como a demanda.
+[40:08] A demanda interna é consumo, mais investimento, mais gasto do governo.
+[40:14] A taxa de juros, só para definir a anotação, é esse izinho aqui.
+[40:20] Quando a taxa de juros aumenta, O que acontece, esse gráfico aqui,
+[40:25] o que eu estou mostrando nesse deslocamento aqui da curva de demanda da azul
+[40:29] para vermelha, isso aqui está acontecendo por causa de uma alta da taxa de juros.
+[40:34] Então esse izinho que está aqui, ele está subindo.
+[40:41] Esse izinho que está aqui está aumentando.
+[40:43] Quando a taxa de juros aumenta, o custo do crédito para todos aumenta.
+[40:54] Quando o custo do crédito para todos aumenta, fica mais caro você tomar emprestado,
+[41:00] seja para consumir, seja para investir.
+[41:03] Então quando os juros aumentam, quando os juros fazem esse movimento de alta,
+[41:10] isso vai afetar consumo e investimento de forma negativa.
+[41:15] Então quando você aumenta os juros, você vai ter duas setinhas para baixo aqui nessa demanda.
+[41:24] O consumo vai cair e o investimento também vai cair.
+[41:29] Quando isso daqui acontecer, o gasto do governo está lá paradão.
+[41:32] Não está acontecendo nada aqui nesse gráfico com esse gasto do governo.
+[41:36] É só aqui que a taxa de juros está mexendo.
+[41:38] A taxa de juros está mexendo no consumo privado e no investimento privado.
+[41:43] Está jogando essas duas coisas para baixo porque com a taxa de juros mais alta
+[41:47] o crédito encarece.
+[41:50] Quando o crédito encarece, e isso aqui acontece com esses componentes da demanda,
+[41:54] a demanda cai.
+[41:56] A queda da demanda é esse deslocamento da curva azul para a curva vermelha.
+[42:02] Então, agora, quando você passa da curva azul para a curva vermelha,
+[42:07] você vai passar de um equilíbrio inicial da economia,
+[42:11] quando a taxa de juros ainda era baixa,
+[42:14] em que você estava com esse nível de preços e esse nível de produto aqui, Agora,
+[42:19] quando a taxa de juros aumentar e o consumo cair e o investimento também cair,
+[42:24] você vai passar para um outro nível de equilíbrio.
+[42:26] A taxa de juros não mexe com a oferta no curto prazo.
+[42:29] Ela pode até vir a mexer na oferta no longo prazo, mas no curto prazo não.
+[42:33] Então a oferta fica paradona aqui.
+[42:35] Mas a demanda caiu.
+[42:37] A demanda caiu da curva azul para a curva vermelha.
+[42:40] Então o novo equilíbrio agora da economia, onde demanda e oferta se cruzam, é esse 2 aqui.
+[42:46] Nesse 2 aqui, a gente tem preços mais baixos do que a gente tinha anteriormente
+[42:53] e a gente tem produto ou PIB da economia também num nível um tanto menor.
+[42:58] Isso é uma simplificação enorme do que acontece na realidade, tá gente?
+[43:02] É só para vocês visualizarem como é que a taxa de juros funciona.
+[43:07] Então, quando você aumenta a taxa de juros, a demanda cai.
+[43:10] Com a queda da demanda, essa curva de demanda se desloca,
+[43:14] vira essa curva vermelha que está aqui.
+[43:16] Com isso, o nível de preços cai e pode haver uma queda do produto também.
+[43:21] Essa queda do nível de preços aqui é precisamente o movimento que você quer fazer na inflação.
+[43:26] Então, a gente vê aumentos de taxa de juros sempre que a gente está com a inflação
+[43:32] em um determinado nível desconfortavelmente alto.
+[43:36] E que a gente quer que ela caia.
+[43:39] Então quando a gente quer que a inflação caia, a gente eleva os juros,
+[43:43] a gente afeta os componentes da demanda que são afetados pelos juros,
+[43:47] consumo e investimento vão cair, consumo e investimento caindo, a demanda cai,
+[43:52] o nível de preços cai e você pode vir a ter um efeito de queda do produto também.
+[43:57] Nesse gráfico aqui tem, na prática às vezes tem, às vezes não tem.
+[44:01] Vai depender.
+[44:02] Mas essa é a maneira como a política monetária opera.
+[44:07] Então, a razão ou o que liga a taxa de juros à inflação,
+[44:14] como alguém perguntou aqui antes,
+[44:16] o que liga a taxa de juros à inflação é como a taxa de juros mexe
+[44:21] em determinados componentes da demanda.
+[44:25] Então, sempre que Você reduzir ou aumentar a taxa de juros,
+[44:31] você vai estar reduzindo o consumo e investimento porque você vai estar encarecendo
+[44:35] o crédito.
+[44:36] E quando você fizer um movimento contrário, que eu não mostrei aqui nesse gráfico,
+[44:40] esse é um gráfico que está ilustrando só o aumento da taxa de juros aqui,
+[44:45] não uma queda, mas como vocês podem imaginar,
+[44:47] se você faz um movimento de queda da taxa de juros,
+[44:50] o que acontece é exatamente o oposto.
+[44:52] Em vez de consumo e investimento caírem, consumo e investimento vão subir,
+[44:56] a demanda vai se deslocar para cima e em algum momento isso pode
+[45:00] até gerar alguma inflação ou alguma alta de preços.
+[45:05] Então o que liga a taxa
+[45:09] de juros à inflação especificamente é precisamente
+[45:13] como que a taxa de juros afeta esses componentes de demanda.
+[45:19] Isso é o mais básico do mais básico, tá gente?
+[45:22] Isso é como a gente gostaria que a taxa de juros funcionasse sempre.
+[45:28] Na prática ela não funciona sempre assim não,
+[45:30] e vou deixar para explicar porque que no Brasil isso funciona de uma forma
+[45:34] um pouco diferente.
+[45:36] A gente só tem mais 15 minutos nessa live aqui hoje, tá?
+[45:40] Porque eu tenho uma entrevista marcada às três horas, então não vai dar para continuar.
+[45:44] Mas a gente continua na segunda-feira,
+[45:46] porque eu acho que não vai ter outro assunto na segunda-feira,
+[45:48] então a gente continua no Basecal na segunda-feira.
+[45:52] Então, a Vânia está resumindo aqui.
+[45:54] Taxa de juros aumenta, os preços, a inflação cai.
+[45:59] Nesse gráfico aqui, a gente está fazendo tudo em nível.
+[46:01] Lembrem que a inflação é a taxa de variação dos preços.
+[46:07] Aqui eu estou mostrando os preços em termos absolutos.
+[46:10] Mas deixem isso para lá, porque eu não quero confundir a cabeça de vocês agora.
+[46:16] Carolina, a oferta não é afetada no curto prazo?
+[46:19] Porque existem defasagens de ajuste na economia.
+[46:24] Então, a taxa de juros é um instrumento que atua de imediato na demanda e pode vir
+[46:30] a atuar na oferta no longo prazo.
+[46:33] Como é que é isso?
+[46:34] Vamos lá.
+[46:36] O meio pelo qual a taxa de juros afeta a oferta é pelo componente da demanda
+[46:43] que a gente chama de investimento.
+[46:46] Então desde que esses investimentos sejam investimentos produtivos,
+[46:50] investimento em capacidade de produção, por exemplo,
+[46:54] quando você aumenta a taxa de juros, como eu disse a vocês,
+[46:58] o investimento no curto prazo vai cair, certo?
+[47:02] Como a gente acabou de falar, o crédito vai ficar mais caro,
+[47:04] as empresas não vão mais se endividar tanto para investir
+[47:08] porque o crédito está caro, então o investimento vai cair.
+[47:12] O efeito imediato disso na demanda é uma queda da demanda.
+[47:16] Mas se vocês pensarem, se o investimento permanecer mais baixo
+[47:21] por um tempo prolongado, porque as taxas de juros estão muito altas, e sim,
+[47:25] aí vocês já começam a ver um pouco da situação brasileira,
+[47:29] se a taxa de juros ficar alta por muito tempo,
+[47:32] esse crédito vai ficar caro por muito tempo,
+[47:34] esses investimentos vão ficar baixos por muito tempo, Em última análise,
+[47:39] o que gera a capacidade de oferta na economia é o investimento.
+[47:44] Então, em prazos mais longos,
+[47:46] o que essa supressão do investimento no curto prazo faz, se ela perdura,
+[47:52] é que ela vira uma fonte de redução da oferta também.
+[47:58] Então, em prazos mais longos...
+[48:01] Então, Carolina, para responder a sua pergunta,
+[48:04] Tanto demanda quanto oferta vão ser afetadas pela taxa de juros.
+[48:08] Elas só são afetadas em momentos diferentes.
+[48:12] A demanda é afetada de forma mais imediata porque,
+[48:15] como a taxa de juros também é o preço do crédito na economia, quando ela sobe,
+[48:20] o crédito encarece e o investimento cai.
+[48:23] Esse efeito é imediato, ou quase imediato.
+[48:27] Se nada mais for feito, se a taxa de juros continuar elevada e aquele nível
+[48:32] de investimento continuar suprimido por uma alta taxa de juros,
+[48:37] a prazos mais longos, então médio ou longo prazo, o que a gente quer dizer com isso?
+[48:42] Normalmente dois, três anos à frente,
+[48:45] isso daí vai começar a ter um impacto sobre a oferta,
+[48:49] porque se os investimentos permanecerem deprimidos por um tempo prolongado,
+[48:53] Você não está criando capacidade de oferta adicional na economia.
+[48:57] Então, em algum momento, a oferta também vai começar a reagir negativamente
+[49:01] a esse ambiente de taxas de juros muito elevadas.
+[49:06] Isso daí ilustra, eu acho, já para vocês por que a taxa de juros tão alta no Brasil
+[49:12] por tanto tempo Tem um impacto negativo na economia maior ainda do que ela tem
+[49:17] na demanda, porque ela acaba tendo efeito na demanda e na oferta,
+[49:21] só que esses efeitos não são concomitantes, eles são distribuídos no tempo.
+[49:25] O efeito demanda vem primeiro,
+[49:27] o efeito oferta vem depois e ele só vem se você mantiver a taxa de juros elevada
+[49:32] por um período prolongado.
+[49:34] Mas se isso acontecer, você acaba tendo impacto sobre a oferta também.
+[49:38] Está claro isso? Deixa eu perguntar isso para vocês.
+[49:40] Está claro isso?
+[49:46] Estou esperando vocês responderem se está claro isso, tá, gente?
+[49:57] Isso, exatamente, Gilberto.
+[49:59] Isso mesmo que você falou. Exatamente isso.
+[50:01] Diminui investimento e, portanto, a longo prazo,
+[50:03] o país terá uma nova capacidade de produção,
+[50:05] já que não houve investimento a longo prazo. É, por aí.
+[50:07] Exatamente por aí.
+[50:09] É... Pá.
+[50:12] Então, isso, que eu vou ter que encerrar a live daqui a cinco minutos,
+[50:17] isso é o que eu queria que vocês entendessem hoje, tá?
+[50:20] Se vocês conseguirem entender bem,
+[50:22] fazer bem essas ligações na cabeça de vocês entre a taxa de juros,
+[50:27] a maneira como ela afeta consumo e investimento e a maneira como ela influencia
+[50:31] a economia no curto prazo e em prazos mais longos, se ela é mantida alta,
+[50:36] se vocês entenderem esses canais todos que eu expliquei aqui,
+[50:40] Vocês terão entendido já uma boa parte do problema, tá?
+[50:44] Não o problema inteiro, porque ele é muito mais complexo do que isso,
+[50:48] mas como eu disse a vocês aqui no início,
+[50:50] a gente tem que começar por algum lugar e esse lugar é o básico do básico.
+[50:55] A gente tem que começar lá de baixo pra gente poder ir construindo e ir entendendo
+[51:00] como é que essas coisas todas funcionam.
+[51:03] O que vai complicar essa história toda aqui no Brasil
+[51:10] É que no Brasil a gente não só afeta consumo e investimento privado com a taxa
+[51:15] de juros, mas a gente afeta também outras coisas, tá?
+[51:20] Essas outras coisas têm a ver com a dívida pública,
+[51:23] com a composição da dívida pública e tal,
+[51:25] e sobre isso a gente vai falar na segunda-feira, tá?
+[51:29] Então eu vou deixar mais ou menos isso engatado aqui com vocês,
+[51:34] para que vocês possam voltar, tem quase uma hora de live aqui,
+[51:38] Para que vocês possam voltar nessa explicação e entender bem essa explicação, gente.
+[51:43] Entendam bem essa explicação, entendam.
+[51:46] O que é a taxa de juros?
+[51:48] O que quer dizer falar que a taxa de juros é o preço do dinheiro?
+[51:53] Então eu dei uma explicação aqui para vocês sobre custo de oportunidade.
+[51:57] Voltem a isso, guardem isso na cabeça de vocês, porque eu vou,
+[52:00] a partir da próxima live, eu vou pressupor que isso aqui está entendido por vocês.
+[52:05] Não vou ficar reexplicando de novo, porque senão a gente não avança.
+[52:08] Então número um, primeira coisa que vocês tem que entender é o que é a taxa de juros
+[52:12] e depois a segunda coisa que eu mostrei pra vocês aqui hoje é como a taxa de juros
+[52:17] em princípio afeta a economia.
+[52:19] Como é que ela afeta esses componentes da demanda e como é que esses componentes
+[52:23] da demanda em última análise acabam se traduzindo em possivelmente inflação menor
+[52:28] e até em algumas circunstâncias em PIB menor.
+[52:31] Isso é o que eu queria que vocês entendessem hoje, tá?
+[52:35] Então, na segunda-feira, para quem está perguntando,
+[52:39] eu faço lives aqui no canal toda segunda-feira às seis da tarde.
+[52:43] Como nas últimas tantas semanas a gente tem tido muitos acontecimentos no mundo,
+[52:49] entre eleições no Brasil, eleições nos Estados Unidos e mais tudo
+[52:52] que está acontecendo no mundo afora,
+[52:56] nas segundas-feiras eu estava falando sobre outras coisas.
+[52:59] Então, seis da tarde é a live na segunda-feira.
+[53:02] Fica  avisado  aqui  no Substack  e  tal.
+[53:04] Na segunda-feira o que eu vou fazer,
+[53:06] e torçam aí para que não aconteça nada no fim de semana,
+[53:10] porque agora a gente já deixou a eleição do Brasil para trás,
+[53:12] a eleição dos Estados Unidos para trás, né?
+[53:14] Então, agora que a gente...
+[53:16] Está fora desse período eleitoral?
+[53:19] Se nada acontecer de extraordinário no fim de semana,
+[53:21] e estou torcendo para que esse seja o caso,
+[53:24] na segunda eu vou continuar essa explicação aqui para que vocês então comecem
+[53:29] a encaixar essas pecinhas do quebra-cabeça monetário e fiscal do Brasil.
+[53:36] Então segunda-feira é a continuação de hoje.
+[53:39] Até lá eu quero que vocês estejam com esses conceitos que eu expliquei aqui bem claros.
+[53:45] É isso, gente.
+[53:47] Eu agora vou ter que sair e encerrar a live porque, bem,
+[53:51] eu tô com a tarde meio cheia de outras coisas, mas essa é a pegada dos basicões, tá?
+[53:56] Os basicões são assim, a gente começa no pequeno e vai construindo em cima, tá?
+[54:02] Mas pra isso vocês precisam estar seguros de que vocês entenderam esses conceitos aqui.
+[54:09] Porque só vai complicar daqui para frente, tá bem?
+[54:13] Então é isso, gente.
+[54:14] Super obrigada.
+[54:15] Sim, a live fica disponível para assistir depois.
+[54:18] Todo mundo tem acesso à live depois e ela fica aberta e disponível e de livre acesso
+[54:23] para todo mundo por duas semanas.
+[54:25] Então todo mundo consegue ter acesso a ela e sem nenhum problema é só vir para cá e abrir.
+[54:30] É isso, gente. Bom fim de semana.
+[54:33] Fiquem todos bem.
+[54:34] Segunda-feira tem mais, basicão.
+[54:36] E o dever de casa de vocês é saber tudo isso aqui que eu expliquei hoje, tá?
+[54:42] Esse é o dever de casa de vocês, ok?
+[54:45] Façam o dever de casa no fim de semana e nós nos vemos na segunda-feira.
+[54:49] Tchau, gente. Muito obrigada.

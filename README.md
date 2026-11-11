@@ -13,7 +13,7 @@ Projetado especialmente para estudantes de **Engenharia** e jovens universitári
 ## ⚙️ As 3 Analogias de Engenharia no Palco 2D
 
 1. **🌊 Reservatório Hidráulico com Paredes Móveis (`Estoque vs. Fluxo`)**
-   - **Nível do Fluido:** Razão $\text{Dívida}/\text{PIB}$ (iniciando em $82,9\%$ em out/2026).
+   - **Nível do Fluido:** Razão $\text{Dívida}/\text{PIB}$ (iniciando em $82,9\%$ em nov/2026).
    - **Largura do Tanque (Parede Móvel):** Crescimento do $\text{PIB}$ ($Y$, o denominador da fração). Se o PIB cresce, o tanque alarga e o nível relativo desce; em recessão, o tanque estreita e a água sobe rumo ao transbordamento.
    - **Duto de Recirculação Tesouro Selic (`Selic → Dívida`):** Representa a anomalia brasileira herdada da hiperinflação (títulos indexados à taxa Selic e prazo curto de rolagem de ~3 anos).
 

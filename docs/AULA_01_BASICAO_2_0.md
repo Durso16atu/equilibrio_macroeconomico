@@ -16,6 +16,10 @@ Este documento consolida as fontes primárias que fundamentam a física e os inv
 4. **Monica De Bolle & José Paulo Kupfer — *Juros, Dívida Pública e Política Fiscal***
    - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 05/11/2026 (~1h47min, `post_id: 223638242`)
    - **Link Oficial:** [https://bolle.substack.com/p/juros-divida-publica-e-politica-fiscal](https://bolle.substack.com/p/juros-divida-publica-e-politica-fiscal) (Nota: [https://substack.com/@bolle/note/p-223638242](https://substack.com/@bolle/note/p-223638242))
+5. **Monica De Bolle — *Basicão: Política Monetária***
+   - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 06/11/2026 (~55min, `post_id: 223781201`)
+   - **Link Oficial:** [https://bolle.substack.com/p/basicao-politica-monetaria](https://bolle.substack.com/p/basicao-politica-monetaria) (Nota: [https://substack.com/@bolle/note/p-223781201](https://substack.com/@bolle/note/p-223781201))
+   - **Transcrição Integral Local:** [`docs/transcricoes/2026-11-06_basicao_politica_monetaria.txt`](transcricoes/2026-11-06_basicao_politica_monetaria.txt)
 
 ---
 
@@ -40,7 +44,7 @@ Este documento consolida as fontes primárias que fundamentam a física e os inv
    - Um ajuste fiscal eficiente começa revisando desonerações setoriais ineficientes e eliminando desperdícios/penduricalhos, preservando os programas sociais.
 
 4. **Estoque vs. Fluxo e a Composição da Dívida Brasileira:**
-   - **Estoque ($\text{Dívida}/\text{PIB}$):** Subiu de **71%** (2022) para **82,9%** (out/2026), caminhando para **86%–87%** em 2027 caso nada seja feito.
+   - **Estoque ($\text{Dívida}/\text{PIB}$):** Subiu de **71%** (2022) para **82,9%** (nov/2026), caminhando para **86%–87%** em 2027 caso nada seja feito.
    - **Fluxo Primário vs. Nominal:**
      - **Déficit Primário ($R - G$ sem juros):** Menos de $1\%$ do PIB.
      - **Serviço de Juros da Dívida:** ~8,5% a 9% do PIB (ou mais de 10% considerando a dívida bruta).
@@ -93,3 +97,20 @@ O diálogo entre **Monica De Bolle** e **José Paulo Kupfer** (*Juros, Dívida P
    - Essa drenagem financeira comprime o espaço fiscal para investimentos em infraestrutura e proteção social, realimentando o baixo crescimento potencial ($Y$) e agravando a coesão social.
 3. **Ajuste pelo Lado da Receita Patrimonial/Tributária vs. Austeridade Linear:**
    - Convergindo com as premissas do *Basicão 2.0* e de André Lara Resende, a análise de De Bolle e Kupfer reforça que o reequilíbrio estrutural das contas públicas exige enfrentar privilégios tributários, subsídios e renúncias fiscais ineficientes (~R$ 600 bi a R$ 800 bi/ano), em conjunto com a descompressão coordenada da taxa Selic, em vez de impor "tesouraços" recessivos sobre a base da pirâmide e o investimento público.
+
+---
+
+## 4. Fundamentos de Política Monetária: Custo de Oportunidade, Crédito e Demanda (Monica De Bolle)
+
+Na aula *Basicão: Política Monetária* (06/11/2026), Monica De Bolle detalha a microfísica dos juros ($i$) sobre a economia real e fundamenta o **Glossário & Fundamentos** do simulador:
+
+1. **O Que é a Taxa de Juros ($i$) — O "Preço do Dinheiro":**
+   - **Custo de Oportunidade da Moeda (Liquidez):** A moeda física/bancária tem liquidez imediata (serve como meio de troca e unidade de conta no supermercado), mas rende zero. Já um título público (*Tesouro*) não serve para pagar compras na padaria hoje, mas paga um rendimento no vencimento. A taxa de juros ($i$) é exatamente o **custo de oportunidade** — o rendimento que você abre mão ao reter moeda líquida em vez de carregar títulos.
+   - **Custo do Crédito:** Para famílias e empresas que tomam empréstimos, $i$ define o custo financeiro de antecipar consumo ($C$) ou realizar investimentos produtivos ($I$).
+2. **Mecanismo de Transmissão sobre a Demanda Interna ($C + I + G$):**
+   - Quando o Banco Central eleva a taxa de juros ($\uparrow i$), o crédito encarece e o custo de oportunidade da liquidez sobe.
+   - Isso provoca queda simultânea em dois componentes privados da demanda agregada: **Consumo ($\downarrow C$)** e **Investimento ($\downarrow I$)**, enquanto o Gasto Público ($G$) permanece rígido no curto prazo:
+     $$\uparrow i \implies \downarrow C \text{ e } \downarrow I \implies \downarrow \text{Demanda Agregada} \implies \downarrow \text{Nível de Preços } (P) \text{ e } \downarrow \text{Produto } (Y)$$
+3. **Rigidez da Oferta no Curto Prazo vs. Destruição de Capacidade no Longo Prazo:**
+   - No **curto prazo**, a curva de Oferta Agregada é fixa (há defasagens de ajuste na economia), fazendo o juro atuar exclusivamente comprimindo a Demanda Agregada.
+   - No **longo prazo**, porém, manter a taxa de juros elevada por tempo excessivo deprime persistentemente o **Investimento produtivo ($I$)** (máquinas, infraestrutura e capacidade instalada), contraindo a própria **Oferta Agregada futura** — o que reduz o PIB potencial e torna a economia estruturalmente mais vulnerável à inflação.
