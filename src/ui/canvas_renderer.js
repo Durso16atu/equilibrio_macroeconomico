@@ -65,7 +65,7 @@ window.CanvasRenderer = (function () {
     }
 
     // =========================================================================
-    // ESTAÇÃO 1 (ESQUERDA): TANQUE HIDRÁULICO (DÍVIDA / PIB)
+    // ESTAÇÃO 1 (ESQUERDA): TANQUE HIDRÁULICO / PIA (DÍVIDA / PIB & LFT 51,6%)
     // =========================================================================
     const tankCenterX = 165;
     const tankHalfW = Math.max(54, Math.min(96, 74 + state.pibGrowth * 6));
@@ -76,30 +76,61 @@ window.CanvasRenderer = (function () {
     ctx.fillStyle = fg;
     ctx.font = "700 12px 'Plus Jakarta Sans', sans-serif";
     ctx.textAlign = "center";
-    ctx.fillText("1. TANQUE DÍVIDA / PIB", tankCenterX, 26);
+    ctx.fillText("1. PIA DA DÍVIDA / PIB", tankCenterX, 26);
     ctx.fillStyle = muted;
     ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
-    ctx.fillText("Largura = PIB (Y) | Nível = Estoque", tankCenterX, 42);
+    ctx.fillText("Largura = PIB (Y) | Laranja = LFT Pós", tankCenterX, 42);
 
-    // Nível de água proporcional à Dívida/PIB
+    // Nível total de água proporcional à Dívida/PIB
     const fillRatio = Math.max(0.2, Math.min(0.96, (state.dividaProj - 60) / 36));
-    const waterY = tankBottom - tankH * fillRatio;
+    const totalWaterH = tankH * fillRatio;
+    const waterY = tankBottom - totalWaterH;
 
-    let waterColor = "rgba(16, 185, 129, 0.55)";
-    if (state.dividaProj >= 85.5) waterColor = "rgba(244, 63, 94, 0.65)";
-    else if (state.dividaProj >= 81.5) waterColor = "rgba(245, 158, 11, 0.60)";
+    // Divisão da água na pia (Basicão 13/11):
+    // Fundo Azul (Pré / IPCA) + Topo Laranja ("Água com Fermento" = LFTs Pós-fixadas, 51,6%)
+    const lftPct = (state.lftShare || 51.6) / 100.0;
+    const orangeWaterH = totalWaterH * lftPct;
+    const splitY = waterY + orangeWaterH;
 
-    // Fluido com ondas senoidais
-    ctx.fillStyle = waterColor;
+    // 1A. Camada Inferior: Água Azul/Ciano (Dívida Prefixada & IPCA — sem fermento)
+    ctx.fillStyle = isLight ? "rgba(8, 145, 178, 0.38)" : "rgba(6, 182, 212, 0.35)";
+    ctx.fillRect(tankCenterX - tankHalfW, splitY, tankHalfW * 2, tankBottom - splitY);
+
+    // 1B. Camada Superior: Água Laranja com Fermento (LFTs Pós-fixadas à Selic)
+    let lftColor = "rgba(245, 158, 11, 0.68)";
+    if (state.dividaProj >= 85.5) lftColor = "rgba(244, 63, 94, 0.72)";
+    else if (state.pipeFlowMode === "alivio_cfmn") lftColor = "rgba(16, 185, 129, 0.62)";
+
+    ctx.fillStyle = lftColor;
     ctx.beginPath();
-    ctx.moveTo(tankCenterX - tankHalfW, tankBottom);
+    ctx.moveTo(tankCenterX - tankHalfW, splitY);
     for (let x = -tankHalfW; x <= tankHalfW; x += 8) {
       const wave = Math.sin(tick * 2.2 + x * 0.07) * 3.5;
       ctx.lineTo(tankCenterX + x, waterY + wave);
     }
-    ctx.lineTo(tankCenterX + tankHalfW, tankBottom);
+    ctx.lineTo(tankCenterX + tankHalfW, splitY);
     ctx.closePath();
     ctx.fill();
+
+    // Linha tracejada divisória entre Água Laranja (LFT) e Água Azul (Pré/IPCA)
+    ctx.strokeStyle = isLight ? "rgba(217, 119, 6, 0.75)" : "rgba(251, 191, 36, 0.75)";
+    ctx.lineWidth = 1;
+    ctx.setLineDash([3, 3]);
+    ctx.beginPath();
+    ctx.moveTo(tankCenterX - tankHalfW, splitY);
+    ctx.lineTo(tankCenterX + tankHalfW, splitY);
+    ctx.stroke();
+    ctx.setLineDash([]);
+
+    // Bolhas de "fermento" subindo na camada laranja das LFTs
+    ctx.fillStyle = isLight ? "rgba(255, 255, 255, 0.65)" : "rgba(254, 243, 199, 0.55)";
+    for (let b = 0; b < 4; b++) {
+      const bx = tankCenterX - tankHalfW * 0.65 + b * (tankHalfW * 0.44);
+      const by = splitY - ((tick * 18 + b * 19) % Math.max(12, orangeWaterH - 6));
+      ctx.beginPath();
+      ctx.arc(bx, by, 2.2, 0, Math.PI * 2);
+      ctx.fill();
+    }
 
     // Linha de Alerta de Transbordamento
     ctx.strokeStyle = "#f43f5e";
@@ -118,11 +149,14 @@ window.CanvasRenderer = (function () {
 
     // Indicadores dentro do Tanque (usando fonte mono para os números)
     ctx.fillStyle = fg;
-    ctx.font = "700 21px 'JetBrains Mono', monospace";
-    ctx.fillText(`${state.dividaProj.toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 38);
+    ctx.font = "700 20px 'JetBrains Mono', monospace";
+    ctx.fillText(`${state.dividaProj.toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 52);
+    ctx.font = "700 10.5px 'JetBrains Mono', monospace";
+    ctx.fillStyle = isLight ? "#b45309" : "#fcd34d";
+    ctx.fillText(`LFT Pós: ${(state.lftShare || 51.6).toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 34);
     ctx.font = "600 11px 'JetBrains Mono', monospace";
     ctx.fillStyle = cyan;
-    ctx.fillText(`PIB (Y): ${state.pibGrowth >= 0 ? "+" : ""}${state.pibGrowth.toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 18);
+    ctx.fillText(`PIB (Y): ${state.pibGrowth >= 0 ? "+" : ""}${state.pibGrowth.toFixed(1).replace(".", ",")}%`, tankCenterX, tankBottom - 16);
     ctx.fillStyle = muted;
     ctx.font = "11px 'JetBrains Mono', monospace";
     ctx.fillText(`Rolagem: ${state.matYears.toFixed(1).replace(".", ",")} anos`, tankCenterX, tankBottom + 20);

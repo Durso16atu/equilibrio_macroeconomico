@@ -1,0 +1,1737 @@
+[05:19] Oi gente, boa tarde, boa noite, bom dia a vocês.
+[05:23] Eu tinha o objetivo hoje de fazer um basicão sobre política monetária
+[05:30] e política cambial e a gente vai chegar um pouco no tema política cambial,
+[05:35] mas não da forma como eu pretendia,
+[05:37] porque tem esse outro assunto do ajuste do plano Moretti aí para falar e eu acho
+[05:43] que isso daí é importante porque eu estou vendo uma confusão É enorme
+[05:52] no suposto debate brasileiro que nunca acontece.
+[05:57] Debate no Brasil é estapeação.
+[06:00] Uns se estapeiam de um lado, outros se estapeiam do outro lado e,
+[06:04] no final das contas, ninguém entende nada.
+[06:07] Então, eu achei que valia a pena passar para Passar um tempo falando sobre isso.
+[06:13] O que sobrar de tempo, a gente fala sobre política cambial, se não der,
+[06:17] a gente vai jogar isso para segunda-feira,
+[06:20] pegando o gancho da live que eu fiz ontem aqui com o Zé Paulo Kupfer,
+[06:24] em que a gente falou sobre câmbio, sobre o mercado de derivativos e tal,
+[06:29] mas isso eu acho que está menos importante no dia de hoje, especificamente,
+[06:35] do que esse outro assunto, então a gente vai falar sobre esse assunto primeiro, tá?
+[06:39] Então, boa tarde, boa noite a todos vocês.
+[06:42] Eu queria dizer o seguinte, antes de mais nada,
+[06:47] as lives aqui estão muito animadas,
+[06:50] por assim dizer, tem muita gente aqui agora,
+[06:54] tem muita gente que está chegando aqui lá do Instagram,
+[06:58] Tem pessoas que já acompanham o meu trabalho há muito tempo,
+[07:03] eu não sou diva de nada, tá Luciano, por favor, não sou diva, não me chame de diva,
+[07:08] porque isso não é um termo apropriado,
+[07:12] e eu queria deixar claro, bem claro,
+[07:15] para todo mundo que está chegando aqui, algumas coisas.
+[07:19] A primeira delas é, eu não sou influenciadora de nada, nem pretendo ser.
+[07:25] Assim, não é o meu objetivo com essas lives aqui que eu faço no Substack,
+[07:30] Ganhar seguidor, ganhar like, ter alcance,
+[07:33] essas coisas aí que as pessoas vivem correndo atrás em rede social,
+[07:37] eu não tô nem um pouco interessada nisso, tá?
+[07:40] Então eu faço isso aqui e faço isso aqui
+[07:43] de forma gratuita porque a maneira
+[07:47] como a economia é tratada no Brasil,
+[07:53] principalmente hoje em dia,
+[07:55] É extremamente complicada e muito confusa.
+[08:00] Acho
+[08:08] normal que as pessoas estejam confusas nesse momento porque ninguém,
+[08:13] em nenhum lado, de nenhum Em nenhum aspecto está fazendo o serviço real
+[08:20] de informar vocês.
+[08:21] Então aquele serviço que antigamente era feito no debate público no Brasil,
+[08:27] do qual participei durante muito tempo,
+[08:31] aquele serviço que antes era feito pela própria imprensa de esclarecer as pessoas
+[08:36] e de explicar certas coisas a respeito da economia e tal,
+[08:40] isso não está sendo feito mais.
+[08:42] As pessoas estão indo falar Falam qualquer coisa,
+[08:47] os jornalistas muitas vezes não sabem direito o que estão falando e ouvem um lado só
+[08:53] e acabam repercutindo a fala
+[08:57] de economistas que não são exatamente independentes,
+[09:01] porque são pessoas que têm vínculos,
+[09:04] têm vínculos inclusive com o próprio mercado financeiro e essa falta de
+[09:12] Abertura no debate econômico do Brasil,
+[09:15] na verdade o que aconteceu foi que ao longo do tempo o debate público
+[09:19] no Brasil foi ficando cada vez mais estreito e portanto cada vez menos aberto.
+[09:25] Essa falta de abertura gera uma confusão enorme,
+[09:30] porque termos são jogados,
+[09:32] palavras são lançadas ao ar e ninguém entende nada.
+[09:37] Então, o meu objetivo aqui e a razão pela qual vocês estão aqui no Substack
+[09:44] e não estão no YouTube é porque o Substack é
+[09:49] uma plataforma muito mais profissional,
+[09:54] Do que o YouTube.
+[09:56] Eu fiz durante a pandemia lives explicando economia no YouTube e tal,
+[10:01] e naquela época isso daí teve a sua lógica, tá?
+[10:06] Mas como eu enfatizava aqui no início,
+[10:09] eu não tenho nenhuma pretensão e não quero que vocês me vejam como influenciadora.
+[10:14] Sabe por quê?
+[10:15] Porque isso acaba gerando uma porção de distorções,
+[10:19] inclusive na forma como alguns de vocês me tratam.
+[10:23] Então, o que eu gostaria que vocês vissem nessas lives é,
+[10:28] isso aqui é um serviço de utilidade pública em que eu estou trazendo
+[10:32] o meu conhecimento e a minha experiência como economista para ensinar vocês,
+[10:37] ou para aqueles de vocês que não precisam ensinar
+[10:40] mas querem discutir essas questões,
+[10:42] Para trazer essas questões que são tão importantes para a economia brasileira hoje,
+[10:47] de uma forma que seja compreensível.
+[10:50] É só esse o meu objetivo, mais nenhum.
+[10:53] Então eu entendo que tem a gente aqui que fique, ai Mônica,
+[10:57] por que você não posta no YouTube e tem mais alcance?
+[11:00] Não estou interessada, não quero alcance.
+[11:03] Eu quero que quem esteja aqui está aqui porque quer ouvir,
+[11:08] quem está aqui está aqui porque quer aprender alguma coisa, ou tirar alguma dúvida,
+[11:13] ou formar alguma opinião.
+[11:15] Não é meu objetivo formar a opinião de ninguém, nem influenciar ninguém.
+[11:19] Eu detesto essas palavras, não é esse o meu lugar.
+[11:23] Eu sou professora, eu dou aula, eu pesquiso, isso é o que eu faço.
+[11:28] Isso aqui que eu estou fazendo com vocês aqui é uma extensão do meu trabalho.
+[11:33] Não é uma coisa alternativa.
+[11:36] Ai, a Monica agora é influenciadora de economia.
+[11:39] Não.
+[11:41] E a única razão que eu tenho postado é para trazer pessoas para cá e para fazer
+[11:48] com que as pessoas tenham um lugar, que é esse aqui no Substack, e não será outro,
+[11:53] será sempre esse, em que as pessoas possam tirar as suas dúvidas ou fazer
+[11:59] as perguntas que queiram fazer e tal.
+[12:02] Não quero ser tratada por vocês como influenciadora e não quero a bagagem que vem
+[12:07] com esse nome influenciadora, que é assim,
+[12:10] eu tenho que estar disponível para a comunidade,
+[12:12] eu tenho que ficar respondendo o que vocês pedem,
+[12:15] eu tenho que fazer conteúdo que vocês querem, não.
+[12:19] Isso aqui, pra mim, é uma sala de aula e todas as pessoas que estão aqui,
+[12:24] estão aqui porque querem isso, não aquele papinho de influenciador.
+[12:30] Se vocês quiserem papinho de influenciador, vão lá pro Instagram.
+[12:34] Tá cheio de influenciador de economia no Instagram? Cheio!
+[12:38] Vocês podem ir pra lá, seguir algum deles e tá tudo certo, tá?
+[12:42] Aqui não é esse o objetivo.
+[12:44] Então não interpretem, por favor, porque isso andou acontecendo,
+[12:48] Não interpretem quando eu, por exemplo,
+[12:51] enxergar alguma pergunta de alguém aqui na tela, mencionar o nome da pessoa,
+[12:55] ler a pergunta, ler o comentário,
+[12:58] não interpretem isso como uma manifestação de intimidade, porque não é.
+[13:03] É como a gente se comporta em sala de aula com professor, com aluno.
+[13:07] O trato é respeito mútuo.
+[13:09] Tem havido abuso aqui.
+[13:12] Tem havido abuso aqui no Substack.
+[13:14] Eu fui obrigada essa semana a fazer uma coisa extremamente desagradável
+[13:18] Que foi bloquear uma pessoa em especial que estava tomando certos tipos
+[13:23] de liberdade aqui, que eram francamente constrangedoras, não para mim,
+[13:28] porque eu acho meio patético esse tipo de coisa,
+[13:30] mas constrangedoras para quem está participando da discussão de forma séria
+[13:35] e constrangedoras para quem está tentando passar uma informação
+[13:39] de uma maneira acessível para todos.
+[13:41] Então, por favor, tratem esse ambiente aqui como um ambiente profissional,
+[13:45] porque é o que ele é, tá?
+[13:47] Então, esse era o primeiro recado que eu queria dar
+[13:50] para que a gente possa seguir nessas lives aqui dessa maneira.
+[13:55] Como eu disse, eu não tenho nenhum interesse em audiência.
+[13:57] Se vocês estiverem interessados em influenciador, esse aqui não é o lugar.
+[14:03] Então, a primeira coisa para limpar a tela
+[14:08] e espantar esse tipo de coisa,
+[14:10] porque isso não é para mim e não funciona.
+[14:13] Não é minha praia de jeito nenhum.
+[14:15] Então essa é a primeira coisa.
+[14:17] Eu tinha por objetivo, como eu tinha falado já,
+[14:22] falar sobre política monetária e política cambial.
+[14:26] Mas eu acho que a gente precisa falar sobre esse plano
+[14:32] do governo Lula para política fiscal.
+[14:35] E antes disso, deixa eu dizer uma outra coisa para vocês.
+[14:39] Como professora, não é meu papel ficar fazendo esse joguinho de torcida
+[14:46] que as pessoas fazem em rede social.
+[14:47] Então, não é meu papel ficar dizendo que fulaninho ou cicraninho está errado,
+[14:53] que o governo isso ou aquilo, que não sei o quê.
+[14:56] Para esse tipo de coisa, saiam para a rede social e escutem isso lá.
+[15:00] O lugar não é aqui, tá?
+[15:02] Então, aqui é para entender o que é economia,
+[15:05] e economia realmente não é tão simples quanto parece,
+[15:08] e muito menos é tão simples quanto influenciadores diversos de economia gostam
+[15:15] de fazer parecer.
+[15:16] Então, vamos conversar sobre a história do Ajust que foi apresentado ontem.
+[15:21] Primeiro lugar, o Brasil tem uma coisa que se chama um arcabouço fiscal, como todos vocês sabem.
+[15:29] É assim que a nossa política fiscal funciona hoje.
+[15:33] Ela já funcionou de outras maneiras no passado.
+[15:36] Nós já tivemos no passado metas de superávit primário,
+[15:40] depois nós tivemos também teto de gastos e agora nós temos a Carbolso Fiscal.
+[15:46] Então, a primeira coisa que eu acho que é importante dizer É isso,
+[15:50] é que o arcabouço fiscal faz parte da nossa política fiscal.
+[15:54] E essa história que estão falando aí de que há um absurdo o governo fazer um plano
+[16:00] de ajuste, não é nada absurdo.
+[16:04] O arcabouço fiscal está sendo feito para que o governo possa cumprir
+[16:08] o próprio arcabouço fiscal que já está em vigência há anos.
+[16:14] Não é novidade o arcabouço fiscal,
+[16:17] nem está o atual governo fazendo qualquer tipo de estelionato eleitoral
+[16:24] como alguns têm dito.
+[16:25] O arcabouço já existia, ele foi criado no início do terceiro mandato do Lula,
+[16:32] As metas foram estabelecidas ao longo do tempo,
+[16:36] as metas inclusive para 2027 foram estabelecidas antes das eleições,
+[16:43] então essas metas que foram estabelecidas antes Antes das eleições,
+[16:47] elas tinham sim que ter um mapa que mostrasse como elas seriam cumpridas e o plano
+[16:54] que foi apresentado ao Senado ontem foi exatamente isso,
+[17:00] foi um plano para mostrar Como que nós vamos cumprir as metas fiscais que estão lá
+[17:07] no arcabouço, arcabouço esse que já existia antes do segundo turno.
+[17:14] Do primeiro também, já existia antes das eleições.
+[17:16] Então a primeira coisa que é importante dizer é que para essas pessoas que ficam
+[17:20] em rede social gritando abaixo o ajuste fiscal, contra o ajuste fiscal,
+[17:27] ajuste fiscal não, francamente isso é uma idiotice,
+[17:31] porque o ajuste fiscal não é nem esse o ponto.
+[17:34] O ponto é, a gente tem um arcabouço fiscal que já estava aí e que nós temos
+[17:39] que cumprir e o que foi apresentado ontem ao Senado foi um plano
+[17:44] de cumprimento desse arcabouço, nada mais, não tem nada que tenha Não,
+[17:49] o que se apresentou foi um plano de voo para cumprir a meta de 2027.
+[17:53] A meta de 2027 é um superávit de 0,5% do PIB.
+[18:11] É pequeno, não é nada de extraordinário, nem é esse um grande ajuste fiscal.
+[18:19] Hoje nós estamos com o resultado primário, e para definir de novo para vocês,
+[18:25] o que é resultado primário?
+[18:26] É a diferença entre as receitas primárias e as despesas primárias.
+[18:32] As despesas primárias excluem o pagamento de juros da dívida.
+[18:38] Então não se inclui nas despesas primárias a despesa financeira, tá?
+[18:44] Isso fica fora.
+[18:46] É importante ter isso na cabeça,
+[18:48] porque quando a gente fala de qualquer medida
+[18:53] para ajeitar receita
+[18:56] e despesa primária, nós não estamos falando de juros, tá?
+[19:00] Juros estão de fora dessa história.
+[19:03] E dentro do que é o arcabouço fiscal brasileiro,
+[19:07] nós temos uma meta de superávit primário de 0,5% do PIB no ano que vem, 0,5% do PIB.
+[19:15] Essa meta daí tem que ser cumprida sim,
+[19:18] porque afinal de contas esse foi o arcabouço que foi feito lá atrás em 2023
+[19:23] e que conosco está até hoje.
+[19:25] Se nós não cumprirmos a meta que nós estabelecemos para nós mesmos, nós teremos problemas sim.
+[19:32] Então, a primeira coisa que eu quero dissipar é essa ideia equivocada
+[19:37] de que o que o governo está apresentando nesse momento é contrário ao
+[19:41] que as urnas pediram. Não é.
+[19:44] O que o governo está apresentando nesse momento é como que nós vamos alcançar a meta
+[19:50] para 2027 que foi estabelecida muito antes das eleições presidenciais deste ano.
+[19:58] Essa é uma primeira coisa para deixar clara, para que todo mundo entenda.
+[20:03] O que foi apresentado ao Senado, portanto,
+[20:06] foi um mapa de como a gente vai alcançar o 0,5% de superávit primário.
+[20:13] Só.
+[20:14] Nada mais.
+[20:16] Por enquanto, não tem, tem alguns ajustes ali possíveis e imagináveis,
+[20:21] a gente pode concordar ou discordar de uma ou outra medida,
+[20:25] mas o que foi apresentado não está de maneira nenhuma em dissonância
+[20:30] com o que aconteceu nas eleições.
+[20:33] Então acho que isso é extremamente importante que todo mundo saiba.
+[20:37] E quem quiser achar outra coisa, vai achar outra coisa,
+[20:40] mas vai achar outra coisa em outro lugar.
+[20:42] Porque aqui não é lugar para ficar fazendo fantasia, nem para ficar fazendo torcida,
+[20:47] nem para ficar imaginando que poderia ser daquele jeito ou de outro. Não.
+[20:51] Aqui é uma sala de aula, aqui é a realidade.
+[20:53] A realidade é essa.
+[20:55] Nós temos uma meta de superávit primário em 2027 que tem que ser cumprida, ponto, acabou.
+[21:00] Porque a gente estabeleceu esse arcabouço.
+[21:03] Ah, eu não gosto do arcabouço.
+[21:05] Sinto muito, nós temos a cabouça, então é assim que é.
+[21:10] Essa era a primeira coisa que eu queria dizer.
+[21:13] Segunda coisa que eu queria dizer é que sim,
+[21:16] existe uma ala bastante forte dentro do mercado financeiro,
+[21:22] que não é a totalidade do mercado financeiro,
+[21:25] mas é uma ala forte dentro do mercado financeiro que está fazendo o que sempre
+[21:32] se faz.
+[21:33] Estão fazendo uma certa chantagem em cima do governo porque gostariam de ver
+[21:39] ou gostariam que gastos e outras coisas fossem cortados mais ou em maior magnitude
+[21:46] do que o que está sendo oferecido nesse momento.
+[21:51] Essa crítica é correta, mas também é importante
+[21:55] para a gente não cair nesse maniqueísmo infantilizante que se cai volta e meia,
+[22:00] Também é importante dizer, não é todo o mercado financeiro que pensa assim.
+[22:05] É uma parte relevante do mercado financeiro que pensa assim?
+[22:08] É, mas não é todo o mercado financeiro, tá?
+[22:12] Então, não vão fazer caça às bruxas aqui, porque isso também não é do meu interesse.
+[22:16] Não tem interesse nenhum em ficar caçando bruxa com vocês aqui, tá?
+[22:21] Então, essas duas coisas eu queria deixar claras de pronto.
+[22:30] Em termos do que algumas pessoas no mercado gostariam que o governo fizesse,
+[22:38] algumas pessoas no mercado e outros economistas também,
+[22:41] não necessariamente do mercado, acham, e não estão de todo errados,
+[22:48] acham que o Brasil tem um problema na dívida pública,
+[22:52] que a trajetória da dívida pública brasileira Que está ruim nesse momento.
+[22:57] Que está nos levando para uma situação de instabilidade futura.
+[23:03] Essa leitura não é errada.
+[23:06] Essa, como eu acabei de apresentar para vocês.
+[23:09] Não tem nada de errado aí.
+[23:10] Isso daí é verdade.
+[23:12] A dívida pública brasileira está numa trajetória incompatível com cenários
+[23:18] de macroeconomia estável.
+[23:21] Isso é verdade.
+[23:22] A parte que fica perdida nesse debate é o motivo que está levando a dívida pública
+[23:29] a ter essa trajetória e esse comportamento.
+[23:32] O motivo que alguns querem argumentar é que os gastos públicos são excessivos.
+[23:39] Os gastos públicos não são excessivos,
+[23:42] ao menos não da maneira como as pessoas apresentam essa ideia.
+[23:47] A gente tem mais gastos do que a gente possivelmente deveria ter?
+[23:52] Sim, talvez.
+[23:53] Mas hoje o problema maior do Brasil não é o tamanho da despesa pública.
+[23:59] Hoje o problema maior no Brasil é,
+[24:03] se a gente for olhar Para parte das despesas é que o Brasil gasta mal,
+[24:08] gasta mal e gasta errado em algumas coisas,
+[24:10] então o que seria necessário fazer aí é um conserto ou uma reavaliação
+[24:18] de certas despesas que não estão tendo efeitos
+[24:22] ou não estão sendo benéficas nesse aspecto.
+[24:27] Isso não inclui programas sociais, tá gente?
+[24:30] Despesas, se alguém algum dia se deu o trabalho de entrar no site do Tesouro
+[24:36] ou no site do Ministério da Fazenda para olhar as despesas,
+[24:40] e aqui eu respondo sua pergunta diretamente, Luciano, Vai no site do Tesouro,
+[24:45] abre e vai, por uma vez, olhar o que são as despesas.
+[24:49] São milhões de linhas.
+[24:51] Tem milhões de linhas na despesa.
+[24:54] Despesa é toda e qualquer coisa que você possa imaginar
+[24:57] que o governo precise Então é, desde gasto com funcionalismo,
+[25:02] até as canetas que precisam ser compradas, as borrachas, os móveis,
+[25:07] passando por gasto com saúde e educação, enfim.
+[25:10] Para qualquer pessoa que queira discutir esse assunto
+[25:13] e não ficar repetindo coisa feito papagaio, entra lá, está disponível.
+[25:17] Tudo é disponível no Brasil.
+[25:19] A gente tem lei de transparência de dados.
+[25:22] É só entrar no site do Tesouro ou no site do Ministério da Fazenda e olhar
+[25:27] Uma tabela que elenque as despesas.
+[25:30] Vocês vão ver a quantidade de itens de despesa que tem ali.
+[25:34] Então, despesa não é uma coisa única, nem uma coisa só,
+[25:38] nem algo que você possa dividir entre programas sociais e outras coisas.
+[25:42] Não.
+[25:43] Não é assim, é muito mais complexo e muito mais nuançado do que isso.
+[25:49] Então quando se fala em redução de despesa,
+[25:53] as pessoas tendem a interpretar isso como, ai meu Deus,
+[25:56] isso vai ser ruim para os pobres.
+[25:58] Não é isso, não precisa ser assim.
+[26:00] Tem milhões de linhas orçamentárias para mexer. Milhões.
+[26:04] E dentre esses milhões de linhas orçamentárias para mexer estão programas sociais
+[26:09] que não precisam necessariamente ser mexidos.
+[26:12] Essa é outra mística que eu queria desfazer agora.
+[26:17] Para quem quer que seja, que esteja tendo problemas com a live,
+[26:21] vocês não precisam ficar jogando na tela que está travando, ou que vai sair,
+[26:25] ou que não sei o quê. Sai e entra de novo. Simples.
+[26:29] Por favor, não polua o chat.
+[26:31] Porque senão fica difícil de...
+[26:33] Eu sou uma pessoa só, tá?
+[26:35] Aqui, atrás da tela.
+[26:37] Não tem ninguém moderando os comentários de vocês.
+[26:40] A única pessoa que faz isso sou eu.
+[26:42] E eu não dou conta de moderar 219 de vocês jogando comentário aqui na tela.
+[26:47] Então, se travou, se não sei o quê, se não sei o quê, não precisa falar.
+[26:51] Sai, entra de novo.
+[26:52] Geralmente funciona assim.
+[26:54] É o método mais rápido de fazer funcionar.
+[26:58] Então, o Brasil gasta mal e não é só com privilégios de funcionalismo, não.
+[27:02] O Brasil gasta mal com outros itens da despesa também.
+[27:05] Mas esse não é o problema de primeira ordem que nós temos. Não é.
+[27:09] O problema do Brasil gastar mal, do Brasil também tributar mal e tal,
+[27:14] esses são problemas importantes, mas não são os nossos problemas de primeira ordem.
+[27:18] Os nossos problemas de primeira ordem são outros.
+[27:21] Então quando a gente volta pra essa história do que é o diagnóstico,
+[27:25] ou de como o diagnóstico é apresentado,
+[27:27] e hoje eu vou fazer uma coisa aqui que outro dia me sugeriram e eu não fiz,
+[27:31] mas hoje eu vou fazer.
+[27:33] Eu vou fechar a tela pra mim.
+[27:36] [music]
+[27:44] Eu vou fechar a tela para mim, para eu não ter que ficar olhando isso aqui.
+[27:46] Então, eu não estou vendo o comentário de vocês, tá?
+[27:48] Nem vou olhar, porque senão me atrapalha.
+[27:53] Bem, rebobinando, para quem conhece essa palavra, rebobinando,
+[28:02] quem argumenta
+[28:04] que o problema fiscal brasileiro está numa trajetória
+[28:10] de dívida pública Que é problemática
+[28:14] e que está nos levando para uma situação
+[28:17] de alta instabilidade na economia está correto.
+[28:23] Quem está dizendo isso e ao mesmo tempo dizendo a solução
+[28:29] para isso é cortar despesa primária e aumentar receita está errado.
+[28:36] Porque embora sim o Brasil gaste mal e tribute mal e possa aprimorar a forma
+[28:43] como gera receita e a forma como gasta, esse não é o problema central do momento.
+[28:50] Se fosse, nós estaríamos com um déficit primário muito maior do que o que nós temos.
+[28:57] Nós temos um déficit primário que está perto de zero, está em 0,5% do PIB.
+[29:03] E tudo que o governo está propondo fazer em termos de ajuste, entendam a palavra ajuste.
+[29:08] A palavra ajuste é a mesma coisa que você ajustar uma roupa.
+[29:11] Se você, por exemplo, e no Rio a gente fala bainha e não barra, tá?
+[29:15] Se você, por exemplo, saiu, comprou uma calça e a calça está muito comprida, o que você faz?
+[29:21] Você faz a bainha ou a barra da calça, não é assim?
+[29:25] A bainha e barra da calça são o quê?
+[29:29] Um ajuste.
+[29:31] Então, quando a gente usa a palavra ajuste para falar da política fiscal,
+[29:36] a gente está usando essa palavra para dizer assim,
+[29:38] tem certas coisas que precisam ser colocadas no seu devido lugar.
+[29:42] Só, ajuste não é sinônimo de corte de gasto, não.
+[29:46] Ajuste também não é sinônimo de vamos acabar com os programas sociais, não.
+[29:51] Ajuste também não é sinônimo de, ah, agora vamos prejudicar os pobres.
+[29:56] Não.
+[29:57] Quem fala essas coisas está querendo levar a discussão para um lado não técnico,
+[30:02] que não é o meu propósito aqui.
+[30:04] Então eu queria deixar isso também bem claro.
+[30:07] Porque tem pessoas aqui que estão chegando e que não conhecem,
+[30:11] não me conhecem e não conhecem o tipo de trabalho que eu faço.
+[30:15] Meu trabalho não é influenciar a cabeça de vocês.
+[30:18] Se vocês querem ser influenciados, isso é para a rede social, não é aqui.
+[30:24] Então, ajuste significa isso.
+[30:26] O que o governo apresentou, portanto,
+[30:28] foi um caminho para alcançar uma meta que já havia sido estabelecida de antes.
+[30:34] E o ajuste que está sendo, portanto, proposto é o seguinte,
+[30:38] como hoje a gente tem um déficit primário de 0,5% do PIB,
+[30:43] E o plano anunciado foi para levar esse déficit para um superávit de 0,5% do PIB.
+[30:50] Então, sair de 0,5% de déficit para ir para 0,5%
+[30:53] de superávit é um ajuste de 1% do PIB.
+[30:59] Não é um ajuste que vai matar ninguém,
+[31:01] não é um ajuste que vai acabar com programas sociais e não é um ajuste
+[31:06] que vai necessariamente cair sobre a cabeça dos mais pobres.
+[31:09] Nada disso é verdade.
+[31:11] Esses foram os ataques todos do tal do fogo amigo.
+[31:17] Que foram feitos ao governo por ter anunciado o que anunciou vindo de uma parte
+[31:24] da esquerda brasileira que é tão negacionista, desculpe dizer isso, mas é verdade,
+[31:30] que é tão negacionista quanto essa Essa direita brasileira que fica querendo forçar
+[31:35] a mão de certas coisas que simplesmente são injustificáveis.
+[31:39] Então tem dois lados nesse debate aqui que estão errados.
+[31:42] Está errado quem diz que ajuste é sinônimo de estelionato eleitoral.
+[31:49] Está errado quem fala isso.
+[31:51] O ajuste que está sendo proposto agora teria que ser feito mesmo antes
+[31:56] porque o arcabouço fiscal estava dado antes das eleições.
+[31:59] Então isso não é verdade.
+[32:01] E também estão errados aqueles que querem jogar no colo do governo
+[32:06] a responsabilidade por um corte
+[32:09] de gastos muito mais expressivo do que aquele
+[32:13] que nós de fato necessitamos para alcançar a meta de 2027.
+[32:19] Então tem sim uma chantagem sendo feita por parte do mercado financeiro
+[32:25] e por parte dessa direita Porque ela é tosca que nós temos no Brasil.
+[32:31] E tem uma parte da esquerda que é tosca também, tá?
+[32:34] Então que isso fique claro.
+[32:35] E é por esse exato motivo que eu não sou influenciadora.
+[32:38] Porque se eu estivesse lá em rede social falando isso que eu acabei de falar aqui...
+[32:42] Estou sofrendo ataques dos dois lados, como já aconteceu comigo em outras instâncias.
+[32:49] Eu não tenho interesse nisso.
+[32:51] Eu tenho interesse em explicar para vocês a situação real da economia.
+[32:55] Se vocês quiserem ouvir um lado só dessa discussão, o lugar não é esse.
+[33:01] Não é aqui.
+[33:02] Então, eu usei a primeira meia hora dessa live para botar esses pingos nos ídios.
+[33:07] Porque isso aqui já estava começando a descarrilar,
+[33:10] do mesmo jeito que descarrilou lá no YouTube, no YouTube tudo bem,
+[33:14] aqui eu não vou permitir isso não, porque o Substack é meu local de trabalho também.
+[33:19] Eu trabalho no Peterson Institute, onde eu faço pesquisa,
+[33:23] eu dou aula na Georgetown e muitas das reflexões que eu faço por lá eu trago pra cá
+[33:27] em português.
+[33:28] Então esse aqui é meu local de trabalho e eu não vou permitir que esse meu local
+[33:32] de trabalho aqui seja interpretado como um lugar de influenciador.
+[33:37] Não é esse papel que eu exerço aqui, tá?
+[33:40] Só pra também deixar isso daí bem claro.
+[33:44] Tendo dito todas essas coisas que eu falei sobre o Plano Moretti,
+[33:47] vamos ao problema de fundo do Brasil,
+[33:49] porque o problema de fundo do Brasil não está no fluxo de despesas nem no fluxo
+[33:55] de receitas hoje.
+[33:57] O problema real do Brasil está sim na dívida pública,
+[34:00] mas está na dívida pública de uma forma um pouco diferente e a maior parte
+[34:05] das pessoas entende isso, tá?
+[34:07] É que tem algumas que resolvem fingir que não entendem, mas todo mundo entende.
+[34:12] Todo mundo entende
+[34:13] que aí
+[34:20] no Brasil,
+[34:22] o problema da dívida passa em grande medida pela composição da dívida.
+[34:29] Não é pelo tamanho, não é porque o fluxo é isso ou aquilo,
+[34:33] não é porque o governo gasta demais, não é nada disso.
+[34:37] É porque a composição da dívida nos prejudica.
+[34:40] Então deixa eu dar alguns dados aqui pra vocês.
+[34:44] Em 2022, a dívida pública brasileira, a dívida federal,
+[34:50] aquilo que a gente chama de DPF, dívida pública federal, a bruta, tá?
+[34:55] Então não a líquida, a bruta.
+[34:57] A dívida pública federal tinha
+[35:00] na sua composição 38% de LFTs.
+[35:05] Sim, a gente vai voltar à história das LFTs.
+[35:07] Então agora eu vou olhar a tela e vou fazer uma pergunta para vocês.
+[35:10] Vocês sabem o que é uma LFT?
+[35:13] Vocês sabem o que é?
+[35:15] Me digam aqui se vocês sabem.
+[35:22] Eu estou perguntando outra coisa, rua paralela, não vou responder essa pergunta agora não.
+[35:27] Vocês sabem o que é LFT?
+[35:35] Não, LFT não são juros pós-fixados.
+[35:38] Obrigada, TT, pela franqueza.
+[35:40] Obrigada pela franqueza daqueles de vocês que disseram não,
+[35:42] porque é isso que a gente faz em sala de aula, tá?
+[35:46] Se não sabe, diz que não sabe.
+[35:47] Então vou explicar o que é uma LFT.
+[35:50] Uma LFT, as LFTs,
+[35:55] a nomenclatura é Letras Financeiras do Tesouro.
+[36:00] As letras financeiras do Tesouro são um tipo de título que o Tesouro emite.
+[36:06] Então, vamos lá.
+[36:08] Quando o governo faz uma emissão de dívida,
+[36:15] os instrumentos que o governo utiliza podem ter características diversas.
+[36:20] Você tem mil maneiras de emitir títulos.
+[36:23] Você pode emitir títulos Com juros prefixados,
+[36:30] juros prefixados é exatamente o que o nome diz, eles são prefixados,
+[36:34] portanto eles não se alteram ao longo do tempo de contrato.
+[36:37] Deixa eu fazer uma outra pergunta para vocês antes de me estender nessa seara daqui,
+[36:42] e hoje vai ser longo, já vou avisando,
+[36:44] hoje vai ser uma hora e meia para duas horas de live, então se preparem,
+[36:48] quem está aqui é para ficar até o final.
+[36:51] Vocês sabem o que são títulos?
+[36:54] O que são títulos do Tesouro?
+[36:56] Vocês sabem o que isso quer dizer?
+[37:03] Só vou voltar a falar quando vocês responderem.
+[37:12] Tá.
+[37:15] Muitas pessoas dizendo não. Pois é.
+[37:18] Vocês estão vendo?
+[37:19] É exatamente por isso que eu falo para vocês.
+[37:21] Como é que as pessoas vão querer opinar sobre a discussão econômica no Brasil
+[37:27] sem saber essas coisas?
+[37:30] Não dá, né, gente?
+[37:31] Tem que saber.
+[37:33] E não se sintam de nenhuma forma...
+[37:39] Assim, ai meu Deus, eu deveria saber isso, não se sintam assim de nenhuma maneira,
+[37:44] porque tem jornalista que fala isso sem saber o que é título também, tá?
+[37:48] Tem muita gente que sai falando título, título e nem sabe o que é, tá?
+[37:52] Então, o que é um título?
+[37:54] Um título é um contrato, gente, é um contrato.
+[37:57] Pensem assim, se vocês resolverem pegar um empréstimo num banco,
+[38:04] Vocês vão ter um contrato de dívida, não é assim?
+[38:07] É assim que funciona.
+[38:08] Você pega um empréstimo no banco, esse empréstimo, sim, é dinheiro,
+[38:12] mas esse dinheiro está vinculado a um contrato.
+[38:15] Você se responsabiliza
+[38:18] por certas obrigações nesse contrato e o banco se responsabiliza...
+[38:26] Não, não é isso, Antônio.
+[38:27] Presta atenção na explicação.
+[38:29] Não é isso, não é garante empréstimo ao governo, não é isso, tá?
+[38:33] Título é um contrato.
+[38:34] Então, contratos são, como eu estava dizendo,
+[38:39] quando você pega um empréstimo no banco, você faz um contrato com o banco.
+[38:43] O banco é seu credor,
+[38:45] ele tem que seguir determinados termos contratuais, e você,
+[38:51] como devedor, também tem que seguir determinados termos contratuais.
+[38:55] Então, nesse caso, o empréstimo, ele está embasado em um contrato.
+[39:00] Um título é um contrato, tá?
+[39:03] E é um contrato entre um devedor, esse devedor é o governo, e um credor.
+[39:10] Quem é esse credor?
+[39:12] Podem ser entidades diversas,
+[39:14] podem ser pessoas físicas que compram títulos do Tesouro, podem ser instituições,
+[39:20] instituições de naturezas distintas, então você tem desde hedge funds, assets,
+[39:27] Bancos e coisas assim, participantes do mercado financeiro, até fundos de pensão,
+[39:34] empresas e outras entidades.
+[39:38] Os credores do governo estão espalhados pela economia inteira.
+[39:43] Sim, eles estão concentrados no mercado financeiro.
+[39:46] Sim, isso é verdade.
+[39:48] Mas não são os únicos detentores de títulos do governo os credores do mercado financeiro.
+[39:54] Há muita gente que tem título do Tesouro na Física.
+[39:58] Tem gente que participa do mercado lá do Tesouro Direto e compra título e investe
+[40:03] em título do Tesouro na Física.
+[40:05] Quando uma pessoa investe em um título,
+[40:07] ela está na realidade emprestando dinheiro para o governo.
+[40:12] Um título é um contrato de empréstimo, tá?
+[40:15] Então era isso que eu queria que vocês tivessem me dito quando eu fiz a pergunta.
+[40:19] Vocês sabem o que são títulos?
+[40:21] E aí muitos de vocês disseram não, e aí eu falei, e aí bem,
+[40:24] e alguns disseram algumas coisas que não tem nada a ver.
+[40:28] Títulos são o contrato de empréstimo, o contrato, o contrato não garante nada,
+[40:35] por isso que eu falei para você que não é isso que você falou, Antônio,
+[40:38] que o Antônio botou assim, garante empréstimo ao governo, não garante nada,
+[40:41] o título é um contrato.
+[40:43] No momento que você oferece o contrato de empréstimo, o credor pode ou não,
+[40:50] por favor não joguem comentários enormes aqui na tela porque eu não vou ler, tá?
+[40:54] Marcelo, não.
+[40:56] Então, os títulos que o governo emite São
+[41:03] na realidade contratos de dívida
+[41:05] que o governo coloca à disposição dos credores
+[41:09] e se os credores resolverem comprar esses contratos, esses títulos,
+[41:14] então eles estão entrando numa relação contratual com o governo em que o governo
+[41:20] se compromete a cumprir os termos daquele contrato com o credor
+[41:26] que comprou aquele título.
+[41:28] Então, se vocês pensarem em títulos como contratos,
+[41:31] vocês já vão entender com muita clareza por que há contratos distintos
+[41:36] na dívida pública brasileira.
+[41:38] Você tem contratos de todos os tipos.
+[41:40] Você tem contratos de longo prazo, contratos de médio prazo,
+[41:43] contratos de curto prazo, você tem contratos a juros pré-fixados,
+[41:47] você tem contratos a juros pós-fixados.
+[41:49] Você tem contratos que são indexados à inflação, como as NTNBs, por exemplo,
+[41:55] e esses títulos, e uma série de outras coisas.
+[41:59] Esses são os contratos que estão na dívida pública.
+[42:04] Então pensem assim, quando a gente fala em título do governo,
+[42:07] a gente está falando de um contrato de dívida do governo entre o governo
+[42:12] e os seus credores.
+[42:14] Como é que são esses contratos na maior parte do mundo?
+[42:17] Na maior parte do mundo, Se não no mundo quase inteiro, esses contratos de dívida,
+[42:23] esses títulos, eles são tipicamente, eles têm maturidades diferentes,
+[42:29] eles têm aspectos distintos e tudo mais,
+[42:33] mas eles são tipicamente títulos prefixados, tá?
+[42:39] São títulos que...
+[42:47] Só fazerem pergunta no final, mas vamos lá.
+[42:49] Por que o governo faz títulos?
+[42:51] O governo não faz títulos, Gustavo.
+[42:53] O governo emite dívida.
+[42:56] Essa dívida, o contrato dessa dívida tem o nome de título.
+[43:02] O título é um papel. Ok?
+[43:04] É um papel, com termos contratuais aí, só.
+[43:08] Então o governo não faz título, o governo emite uma dívida.
+[43:12] É a mesma coisa, se você fosse uma entidade capaz de se endividar por meio
+[43:19] de emissão de papel, você também emitiria um título.
+[43:23] Em vez de fazer um outro tipo de contrato de empréstimo qualquer.
+[43:27] Mas vocês todos são pessoas físicas, assim como eu.
+[43:30] Nós não emitimos título de dívida.
+[43:34] Nós simplesmente fazemos contratos mais diretos de dívida.
+[43:38] O título é título porque ele não...
+[43:41] De maneira diferente de um empréstimo, quando você, pessoa física, vai a um banco,
+[43:46] vai a um empréstimo, tá?
+[43:49] O empréstimo é concedido a você e não a uma outra pessoa.
+[43:54] Na verdade, aquele empréstimo é seu, você é o responsável por aquele empréstimo.
+[43:58] Você pegou o empréstimo, você agora tem que lidar com aquele empréstimo.
+[44:02] E o banco é o seu credor e o banco será sempre o seu credor para esse tipo
+[44:06] de empréstimo tradicional.
+[44:08] Títulos funcionam de uma maneira um pouco diferente,
+[44:11] porque embora eles sejam também contratos de dívida,
+[44:14] assim como é um empréstimo entre você e o banco, O título,
+[44:19] ele pode ser negociado no que a gente chama de mercados secundários.
+[44:24] Então, o credor original, digamos que você,
+[44:27] Gustavo, comprou um título no Tesouro Direto.
+[44:32] Você, naquele momento, é o credor do governo para aquele título.
+[44:36] Você comprou aquele título, ele é seu, aquilo ali é dívida que o governo emitiu.
+[44:42] Então, o governo é devedor com você, você é o credor do governo.
+[44:46] Quando você adquire um título desse,
+[44:49] significa que você tem que ficar com aquele título até o vencimento?
+[44:53] Suponhamos que esse título tem um vencimento de três anos, ou vamos lá, quatro,
+[44:57] que é o vencimento médio da dívida pública brasileira.
+[45:00] Você é obrigado a ficar com aquele título na sua mão por quatro anos?
+[45:05] Não, porque aquele título pode ser vendido, se você, Gustavo,
+[45:09] não quiser mais ficar com aquele título,
+[45:12] se você quiser ter o retorno daquele título de imediato, Antes dos quatro anos,
+[45:17] antes de vencidos os quatro anos,
+[45:20] você vai pegar aquele título que você adquiriu e você vai vendê-lo
+[45:24] no mercado secundário.
+[45:25] Quando você vender esse título no mercado secundário,
+[45:28] o mercado secundário é aquele que funciona para os títulos pré-existentes,
+[45:31] aqueles que já estão circulando na economia.
+[45:34] Quando você vende aquele título no mercado secundário, você deixou de ser o credor,
+[45:39] você passou aquele título de credor para outra pessoa.
+[45:45] Ou para outra empresa, ou para outra entidade.
+[45:49] Então, governos se financiam dessa forma porque eles podem, ok?
+[45:54] Governos podem se financiar desse jeito porque governos não são pessoas,
+[45:59] são guerras, são entidades.
+[46:02] Então, assim como sendo entidade,
+[46:06] eles têm a capacidade de emitir esses títulos São títulos de dívida,
+[46:12] o governo continuará sendo o devedor sempre, mas o credor pode variar,
+[46:18] o credor muda de mãos.
+[46:21] Então, como no exemplo que eu dei, se você, Gustavo,
+[46:24] comprou um título do governo no Tesouro Direto,
+[46:27] E dali a um mês você resolveu vender esse título,
+[46:31] no momento que você comprou você é o credor,
+[46:33] no momento que você vendeu você pegou de volta uma parte do seu investimento
+[46:38] e passou adiante o restante daquele título para outra pessoa,
+[46:42] é aquela outra pessoa agora que vai ser credora do governo e não você.
+[46:46] Isso é a forma mais simples que eu tenho
+[46:50] para explicar o que é um título de dívida pública.
+[46:54] Um título de dívida pública é isso,
+[46:56] é um pedaço da dívida pública que você passa adiante para um credor,
+[47:00] e se o credor aceitar, ele carrega o título por um tempo.
+[47:04] É isso.
+[47:05] O que é que dá respaldo a essa dívida?
+[47:09] O que é que garante que essa dívida será paga?
+[47:12] Muitas coisas, inclusive o próprio poder emissor de moeda do governo.
+[47:20] Em última análise, quando a dívida é inteiramente denominada em moeda local,
+[47:25] como é o caso do Brasil, praticamente todo o caso do Brasil,
+[47:30] o Brasil tem um pouquinho de dívida que não está denominada em moeda estrangeira
+[47:35] e tal, mas essa parcela hoje em dia é muito pequena.
+[47:38] A quase totalidade da dívida pública federal é em moeda nacional.
+[47:43] Em última análise, claro que a gente não quer que o governo faça isso
+[47:47] porque isso é ruim, gera uma porção de efeitos que eu não vou caracterizar agora,
+[47:53] isso fica para o futuro, para basicões futuros.
+[47:56] Mas em última instância,
+[47:57] o governo tem uma capacidade que nenhuma pessoa física ou empresa tem.
+[48:04] E essa é a capacidade de emitir moeda.
+[48:07] Então, em última análise, quando um governo está endividado na sua própria moeda,
+[48:12] ele poderia, como um recurso de última instância,
+[48:16] emitir moeda para pagar a sua própria dívida.
+[48:20] Esse é um poder que o governo tem, que nenhuma pessoa física e nenhuma empresa têm.
+[48:28] Então qual é o problema nessas discussões de dívida, política fiscal e tal,
+[48:33] que comumente ressurgem na boca de analistas e de jornalistas
+[48:40] que tipicamente não entendem muito do assunto?
+[48:42] Agora não, Nelson. O que é...
+[48:44] Mas obrigada por perguntar, se pode perguntar.
+[48:47] Eu gostaria que todo mundo fizesse a mesma coisa, por favor.
+[48:51] Antes de perguntar, perguntem se pode perguntar,
+[48:53] porque às vezes a pergunta atrapalha o fluxo de pensamento.
+[48:56] Como eu disse, ninguém modera esses comentários aqui, não.
+[48:59] Sou só eu que toco isso aqui sozinho.
+[49:01] Então, uma das coisas mais recorrentes na imprensa
+[49:08] e que está completamente equivocada é essa ideia de fazer comparações
+[49:13] entre a maneira como as pessoas
+[49:16] se endividam E a maneira como os governos se endividam.
+[49:21] Então aquela história de você
+[49:25] não pode infringir
+[49:30] o seu orçamento do mês,
+[49:33] o governo tem que cuidar do orçamento como uma família cuida do orçamento.
+[49:39] Isso não é verdade.
+[49:41] Isso não é verdade por uma razão muito simples.
+[49:44] O governo tem um poder de emissão de moeda que as famílias não têm.
+[49:50] Então, se uma família estiver sobreendividada,
+[49:54] ela não consegue pagar essa dívida emitindo moeda ela própria.
+[49:59] Isso é uma obviedade, mas precisa ser dito
+[50:02] porque muitas vezes saem essas comparações esdrúxulas de governo e orçamento
+[50:08] das famílias. Não tem nada a ver uma coisa com a outra.
+[50:11] O governo tem sempre a capacidade de emissão.
+[50:15] Agora, usar a capacidade de emissão para pagar sua própria dívida é problemático.
+[50:21] Quando nós fizemos isso no nosso passado, nós caímos em armadilhas hiperinflacionárias.
+[50:26] Então, não é isso o que a gente deveria fazer, mas esse poder existe.
+[50:31] E, em existindo,
+[50:33] isso coloca o governo sempre numa posição de Maior poder
+[50:40] de barganha em qualquer relacionamento com a sua dívida pública
+[50:45] do que qualquer outra entidade na economia.
+[50:48] E esse é um ponto absolutamente fundamental,
+[50:52] mas que fica esquecido e que as pessoas convencionalmente deixam de falar.
+[50:57] Mas ele é super importante porque uma coisa não tem nada a ver com a outra.
+[51:01] Por favor, não comentem sobre o Paraguai, porque o Paraguai não é o tema dessa live.
+[51:07] Então, voltando aqui ao que eu falava,
+[51:11] o problema da dívida pública brasileira não
+[51:15] está nessas questões de, ai,
+[51:19] é porque as famílias, essas comparações entre o que o governo é capaz de fazer
+[51:25] e como é que as famílias se endividam, não tem nada a ver, tá?
+[51:28] Não tem absolutamente nada a ver, são coisas rigorosamente diferentes.
+[51:34] A questão de fundo aqui que eu queria colocar para vocês então,
+[51:38] a dívida pública é composta por contratos de dívida diversos
+[51:43] e a gente chama esses contratos de títulos.
+[51:47] Então a partir de agora,
+[51:50] toda vez que vocês encontrarem a palavra título na frente
+[51:54] de vocês, o que título quer dizer é contrato de dívida.
+[51:59] Então, o título é isso.
+[52:01] É um contrato de dívida que pode ser negociado nos mercados secundários para além
+[52:06] dos mercados primários, que são os mercados de emissão.
+[52:09] É onde você emite a dívida.
+[52:12] Esses títulos, como eu dizia, têm características diversas.
+[52:18] Na maior parte dos países do mundo, esses títulos, esses contratos de dívida,
+[52:23] como eu dizia, maturidades distintas, isso e aquilo,
+[52:26] mas eles normalmente são papéis prefixados.
+[52:31] Prefixados significa que os juros desse contrato de dívida está determinado
+[52:38] no próprio contrato de dívida.
+[52:41] Se você comprou um título prefixado ou você adquiriu um contrato de dívida
+[52:46] do governo em que a taxa de juros é, um número fictício, a taxa de juros é de 10%,
+[52:54] você sabe que aquele título no vencimento, então digamos,
+[52:57] você comprou um título do governo com prazo de vencimento de um ano pagando juros
+[53:03] de 10%.
+[53:04] Isso significa que no vencimento daquele contrato de dívida, daquele título,
+[53:09] você vai receber 10% de retorno, aquela taxa de juros que foi prefixada no contrato.
+[53:16] Se acontecer alguma coisa com a taxa de juros nesse meio do caminho,
+[53:20] entre o dia que você comprou o título e o dia que o título venceu,
+[53:25] Se a taxa de juros tiver ido além de 10, ou caído para baixo de 10,
+[53:29] ou flutuado assim, assado, isso, aquilo e aquilo outro,
+[53:32] nada disso afeta o que você vai receber no final do contrato.
+[53:35] Você vai continuar recebendo o retorno de 10%.
+[53:39] Isso é como um título prefixado funciona.
+[53:42] Isso é majoritariamente como a dívida da maior parte dos países do mundo
+[53:49] Os títulos são majoritariamente prefixados e, em sendo prefixados,
+[53:55] flutuações na taxa de juros não afetam o retorno desses títulos.
+[54:01] Portanto, o rendimento para o credor será o mesmo e o que o devedor,
+[54:07] nesse caso o governo, terá que pagar no prazo de vencimento,
+[54:12] os juros que o governo terá de pagar, são os mesmos 10%.
+[54:16] Independentemente do que tenha acontecido com a taxa de juros no meio do caminho.
+[54:20] Está entendida essa parte sobre juros prefixados?
+[54:24] Me digam aqui se está entendida essa parte.
+[54:45] Então, se vocês todos estão dizendo sim,
+[54:47] nenhum de vocês vai poder sair dessa live dizendo agora que não sabem
+[54:51] o que é título, que não sabem o que é prefixado e que não entendem como
+[54:56] que a dívida do governo funciona, tá certo?
+[54:59] Todos vocês sabem agora.
+[55:00] Quem se esquecer, volta aqui, a live fica gravada,
+[55:04] vocês vão ver todas as minhas broncas e mais essa explicação, tá?
+[55:09] Então...
+[55:10] Isso é uma primeira coisa básica e extremamente importante que todo mundo saiba.
+[55:15] Então, beleza.
+[55:17] Estamos todos no mesmo ponto agora.
+[55:19] Então, a maior parte da dívida no mundo funciona assim.
+[55:23] No Brasil, a gente tem muitos títulos prefixados também.
+[55:29] Na realidade, até 2022,
+[55:33] a parcela de títulos prefixados
+[55:38] e outras coisas era
+[55:41] a maior parte da dívida pública.
+[55:42] A dívida pública brasileira não é só de prefixado, prefixado é uma parcela,
+[55:47] mas tem uns outros instrumentos que são atrelados à inflação, Então,
+[55:52] deixa eu explicar isso.
+[55:53] Instrumentos que são atrelados à inflação, títulos atrelados à inflação,
+[55:58] contratos de dívida atrelados à inflação,
+[56:01] são aqueles em que o rendimento
+[56:04] do título paga uma taxa acrescida
+[56:09] do que tiver acontecido com a inflação no período.
+[56:12] Então, digamos assim, de uma forma muito simples, de novo,
+[56:16] um título que tem rendimento vinculado à inflação, como uma NTNB,
+[56:22] esse daí é um título que vai pagar, digamos, uma taxa de cinco, estou inventando,
+[56:28] isso não é o que é uma NTNB na prática, não,
+[56:30] estou inventando para simplificar para vocês entenderem o que tudo isso significa.
+[56:36] Um título cujo rendimento é vinculado à inflação é um título que vai pagar
+[56:41] uma taxa lá qualquer, suponhamos que a taxa seja de 5%, tá?
+[56:46] Esse título vai pagar 5% mais
+[56:50] O que tiver sido a inflação num determinado período.
+[56:53] Então vamos supor que esse título é um título de um ano e que o contrato estabelece o seguinte.
+[56:59] De novo, título e contrato são a mesma coisa.
+[57:02] O título ou o contrato estabelecem que, depois de um ano,
+[57:06] o rendimento é de 5% mais a inflação do ano.
+[57:13] Ou 5% mais a inflação do período.
+[57:15] E o período aqui é o ano, tá?
+[57:18] Então se a inflação no ano tiver sido de 5%,
+[57:22] o rendimento desse título atrelado à inflação vai ser os 5% do contrato mais
+[57:28] os 5% estipulados no contrato da inflação no período, ou seja, 10%.
+[57:35] Então você pode ter um título pré-fixado,
+[57:40] onde o rendimento de 10% está garantido no final do vencimento, ou você pode ter,
+[57:46] nesse exemplo que eu acabei de dar, Ou ao mesmo tempo,
+[57:50] que essas coisas são simultâneas,
+[57:51] você pode ter variados contratos com características distintas,
+[57:56] você pode também ter um título que tem um rendimento de 5 mais a inflação,
+[58:02] e aí essa parte mais a inflação é variável,
+[58:07] porque os 5% estão dados daquele título,
+[58:11] O mais a inflação depende do que acontecer com a inflação no período.
+[58:16] Então se a inflação tiver sido de 4, o título vai render 9, 5 mais 4.
+[58:22] Se a inflação tiver sido de 5, o título vai render 10, 5 mais 5, 10.
+[58:29] Se a inflação for de 6, o título vai render 11, 5 mais 6, 11.
+[58:37] Então, como vocês podem ver,
+[58:40] o rendimento desse título vinculado à inflação é variável, ele não é fixo.
+[58:46] No caso do título pré-fixado, o rendimento é fixo.
+[58:50] Você disse assim, é 10% no final do período.
+[58:52] Acabou, não tem nada flutuando aí no meio do caminho.
+[58:55] Você vai receber os 10% de rendimento.
+[58:57] O título vinculado à inflação Ele tem um componente fixo,
+[59:02] como no exemplo que eu dei 5%, e um componente variável, que é a inflação.
+[59:08] Dependendo do que acontecer com a inflação, o rendimento vai ser um ou outro.
+[59:12] Nós temos esse tipo de título ou de contrato de dívida na nossa dívida pública também.
+[59:18] Entenderam o que é título atrelado à inflação?
+[59:21] Digam aí.
+[59:29] Não vou falar até vocês responderem.
+[59:39] Quem não entendeu diz que não entendeu que eu explico de novo.
+[59:46] Tem alguém que disse mais ou menos.
+[59:47] A Yara disse mais ou menos.
+[59:49] Então, vamos lá, Yara.
+[59:51] Eu dei dois exemplos que existem concomitantemente.
+[59:56] Então, digamos assim, o governo chegou e ofertou dois tipos de título,
+[01:00:01] dois tipos de contratos de dívida.
+[01:00:03] Tem um contrato de dívida, eu não falei de título pós-fixado ainda,
+[01:00:07] Tem um contrato de dívida que é pré-fixado.
+[01:00:10] Esse contrato de dívida pré-fixado estabelece um rendimento fixo que você já sabe
+[01:00:14] desde hoje que você vai receber daqui a um ano. Já sabe. Está lá.
+[01:00:19] Pré-fixado.
+[01:00:20] Isso é o contrato de dívida pré-fixado.
+[01:00:22] Isso é o título pré-fixado.
+[01:00:25] Aí você tem um outro tipo de contrato que eu apresentei aqui para vocês,
+[01:00:28] que é um contrato ou um título em que tem uma parte do rendimento que é fixa,
+[01:00:34] os tais dos 5% que eu dei de exemplo, Mais o IPCA.
+[01:00:40] Mais o IPCA é a parte variável, porque dependendo do que acontecer com o IPCA,
+[01:00:46] você vai ter um rendimento ou outro rendimento.
+[01:00:50] Você tem um rendimento garantido e fixo de 5% mais o IPCA daquele período.
+[01:00:56] Se o IPCA daquele período tiver sido de 5%, se a inflação tiver sido de 5%,
+[01:01:02] você vai ter um rendimento de 10% no final.
+[01:01:05] Igualzinho ao do título prefixado.
+[01:01:07] Mas isso é por acaso.
+[01:01:08] É só porque a inflação registrou 5%.
+[01:01:12] Se a inflação tiver sido de 4,
+[01:01:14] o seu rendimento daquele título vinculado à inflação
+[01:01:18] vai ser 5 mais 4, 9.
+[01:01:22] Portanto, um rendimento inferior ao do título prefixado.
+[01:01:27] Se a inflação tiver sido de 6,
+[01:01:30] você vai ter os 5% de rendimento prefixados no contrato, mais o IPCA, que foi de 6,
+[01:01:37] 11.
+[01:01:39] Esse título vinculado à inflação tem um rendimento de 11, que é superior a 10,
+[01:01:44] 10 é o do título pré-fixado que eu dei aqui a vocês como exemplo.
+[01:01:48] Deu pra entender agora?
+[01:01:50] Eu só falei desses dois, eu não falei de título pós-fixado ainda.
+[01:01:53] Deu pra entender isso?
+[01:01:57] Sim, Silvana, é isso mesmo.
+[01:01:59] É pré-fixado, pré mais IPCA.
+[01:02:02] Eu só vou voltar a falar com...
+[01:02:03] Ok.
+[01:02:05] Obrigada, Yara.
+[01:02:06] Então, isso daí que eu quero que vocês entendam.
+[01:02:11] Até aqui vocês entenderam o que é um título pré-fixado e vocês entenderam o que é
+[01:02:15] um título vinculado à inflação.
+[01:02:18] Agora eu vou explicar para vocês o que é um título pós-fixado.
+[01:02:22] Um título pós-fixado é aquele em que a taxa
+[01:02:27] de juros não é pré-estabelecida no contrato.
+[01:02:33] Ao contrário, a taxa de juros é aquela
+[01:02:37] que estará vigorando ou no vencimento
+[01:02:42] ou quando você resolver resgatar o título.
+[01:02:46] Quando você resolver, por exemplo, fazer o que eu estava descrevendo anteriormente,
+[01:02:50] pegar aquele título que você comprou e resolveu vender no mercado secundário.
+[01:02:55] Então, vamos lá.
+[01:02:56] Suponhamos que o governo te ofereceu agora um título Cujo rendimento é
+[01:03:03] a Selic.
+[01:03:06] A Selic, tal qual ela... Um parênteses.
+[01:03:12] A Selic varia diariamente.
+[01:03:16] No mercado interbancário brasileiro,
+[01:03:20] O mercado interbancário é o mercado entre bancos,
+[01:03:23] por isso ele se chama interbancário,
+[01:03:25] no mercado entre bancos você negocia contratos de depósito,
+[01:03:30] contratos de depósito interbancário, o chamado CDI, é isso aí.
+[01:03:35] No mercado de CDI, o CDI, o rendimento desses contratos que são só entre bancos,
+[01:03:41] pessoas físicas não participam desse mercado, Esse CDI aí, esse rendimento CDI,
+[01:03:47] é a Selic mais alguma coisa, tá?
+[01:03:49] Então, vamos pra simplificar, pensar em Selic, puro e simples.
+[01:03:55] Nesses mercados você tem a Selic
+[01:03:58] que o Banco Central estabelece como meta e a Selic
+[01:04:02] de fato observada nas flutuações diárias que vão acompanhar aquela
+[01:04:08] que o Banco Central estabeleceu mais um prêmio de risco qualquer.
+[01:04:12] Então você tem uma flutuação diária desses juros de curtíssimo prazo.
+[01:04:19] Um título pós-fixado, um título,
+[01:04:23] um contrato de dívida cuja característica é ter um rendimento pós-fixado,
+[01:04:28] esses daí são papéis que pagam o rendimento
+[01:04:35] do período a partir do que tenha sido
+[01:04:41] a Selic ou a taxa do CDI num determinado instante do tempo.
+[01:04:50] E esse título tem, suponhamos, um prazo de vencimento.
+[01:04:54] Aqui eu vou usar de fato como funcionam as LFTs.
+[01:04:56] As novas LFTs no Brasil, que são os títulos pós-fixados,
+[01:05:01] as LFTs que estão sendo emitidas agora, elas têm prazo médio de 74 meses,
+[01:05:09] mais ou menos, pouco menos do que isso, 73,6, uma coisa assim.
+[01:05:15] Então são títulos, para arredondar, esses são títulos que vencem em seis anos.
+[01:05:21] São títulos de prazo relativamente longo, as LFTs.
+[01:05:25] Mas você não precisa esperar o vencimento da LFT para ter o retorno da LFT.
+[01:05:31] Você pode comprar a LFT hoje e vender a LFT dali a uma semana.
+[01:05:36] Qual é o rendimento que você vai receber da LFT se você comprá-la hoje
+[01:05:41] para resgatá-la dali a uma semana?
+[01:05:43] O rendimento que você vai obter é o que quer que seja a taxa do dia da semana,
+[01:05:50] claro, não anualizada, mas o período em que você ficou com aquele título na mão.
+[01:05:56] Então deixa eu colocar de uma forma mais simples para vocês.
+[01:05:59] Se você comprar hoje uma LFT de seis anos e resolver vender essa LFT dali a um ano,
+[01:06:07] o que você vai receber de rendimento é mais ou menos a Selic.
+[01:06:11] Mais ou menos o que a Selic é hoje.
+[01:06:12] Você vai receber mais ou menos 13,75.
+[01:06:16] Algo assim. Pode ser um pouco mais, pode ser um pouco menos.
+[01:06:20] Mas para simplificar, suponhamos que seja...
+[01:06:24] Então, o título pós-fixado,
+[01:06:28] você só conhece o rendimento daquele título, Exposed.
+[01:06:34] Você só conhece o rendimento daquele título na hora do resgate do título.
+[01:06:40] Isso é muito diferente do prefixado, que como eu falei para vocês,
+[01:06:44] o prefixado é aquele título cujo rendimento está estabelecido ex ante.
+[01:06:50] Você sabe exatamente qual vai ser o rendimento no final do período.
+[01:06:54] No título pós-fixado, você não sabe.
+[01:06:58] Mas por que isso vale a pena?
+[01:07:01] Por que isso é atraente no Brasil? Por quê?
+[01:07:05] Como a LFT,
+[01:07:07] os juros da LFT são precisamente os juros do CDI ou algo muito próximo
+[01:07:12] da Selic, o rendimento é alto, tipicamente, de uma LFT.
+[01:07:19] Então, o risco para o credor,
+[01:07:22] o risco do credor não receber um rendimento minimamente razoável
+[01:07:27] na cabeça dele é muito baixo.
+[01:07:30] Porque como as taxas de juros no Brasil são altas,
+[01:07:34] as LFT naturalmente têm um rendimento alto.
+[01:07:39] Você não sabe exatamente o quanto ele é, porque o título é pós-fixado,
+[01:07:43] você só sabe o rendimento de fato na hora do resgate.
+[01:07:46] Entretanto, você sabe que aquele rendimento vai ser alto.
+[01:07:50] Então, esse é um belíssimo negócio para os credores.
+[01:07:53] Os credores amam esse tipo de título,
+[01:07:55] porque ele vai sempre entregar
+[01:07:58] um rendimento Que vai ser um pouco mais atraente,
+[01:08:03] e ele parece um pouco mais atraente na hora da compra também,
+[01:08:06] do que os títulos prefixados de um modo geral,
+[01:08:09] ou pelo menos da forma como os títulos prefixados funcionam hoje em dia no Brasil.
+[01:08:14] Então um título pós-fixado funciona assim,
+[01:08:16] em vez de você saber o rendimento no momento da compra do contrato de dívida,
+[01:08:20] você vai conhecê-lo na altura do resgate.
+[01:08:24] Mas como essas taxas de juros no Brasil permanecem sempre relativamente elevadas,
+[01:08:28] Esse rendimento é sempre bom.
+[01:08:31] Então acaba que essas LFTs acabam sendo extremamente atraentes para o investidor.
+[01:08:36] Deixa eu pausar aqui e perguntar.
+[01:08:38] Vocês entenderam o que é um título pós-fixado?
+[01:09:01] Então, recapitulando aqui, vocês aprenderam quatro coisas aqui, tá?
+[01:09:08] Vocês aprenderam primeiro o que é um título, um título é um contrato de dívida,
+[01:09:12] vocês aprenderam o que é um título pré-fixado,
+[01:09:16] o que é um título vinculado à inflação e, portanto, variável,
+[01:09:19] mas variável vinculado à inflação, de rendimento variável, mas vinculado à inflação,
+[01:09:24] e vocês aprenderam o que é um título pós-fixado, tá?
+[01:09:29] Na essência, tem outros tipos de título também, mas na essência,
+[01:09:33] esses são os três tipos principais de títulos que estão
+[01:09:38] na dívida pública brasileira, tá?
+[01:09:41] Esses três.
+[01:09:44] No passado, no passado não muito distante, assim, há apenas quatro anos,
+[01:09:50] quatro anos atrás, o Ora está dizendo,
+[01:09:54] eu não entendi porque o pós é mais atraente do que o pré.
+[01:09:57] Porque o pré, vamos lá, De uma forma muito simples.
+[01:10:01] Suponhamos que no contrato pré-fixado você tem lá
+[01:10:07] um rendimento garantido de 10%.
+[01:10:10] Aí no meio do caminho a taxa de juros sobe.
+[01:10:14] Que é o que normalmente acontece no Brasil.
+[01:10:17] No meio do caminho a taxa de juros sobe.
+[01:10:20] Você, que está com o título pré-fixado na ONU, vai receber 10,
+[01:10:25] porque esse foi o rendimento que você acordou na hora que você comprou esse contrato
+[01:10:30] de dívida.
+[01:10:32] No entanto, o Fábio, por exemplo, pode ter resolvido comprar,
+[01:10:37] e eu estou falando Fábio só porque foi o seu nome que eu ouvi primeiro, Fábio.
+[01:10:41] O Fábio, por exemplo, pode ter, em vez de ter comprado um título pré-fixado,
+[01:10:46] ele pode ter comprado um título pós-fixado E aí no dia que você resgatou
+[01:10:51] o seu título e recebeu os 10% de rendimento,
+[01:10:55] o Fábio também resgatou o pós-fixado dele e olha só,
+[01:10:58] o pós-fixado dele rendeu a Selic.
+[01:11:01] A Selic não é 10%, a Selic é 13,75.
+[01:11:04] Quem ganhou mais aqui?
+[01:11:06] O Fábio, não você.
+[01:11:09] Esse é o jogo no Brasil.
+[01:11:11] As pessoas acabam sendo atraídas pelas LFTs
+[01:11:16] e acabam pedindo as LFTs porque,
+[01:11:19] tipicamente, esses rendimentos das LFTs são superiores,
+[01:11:24] embora eles sejam incertos e você não os conheça ex-ante,
+[01:11:28] Eles acabam sendo superiores ao rendimento dos títulos pré-fixados.
+[01:11:33] Assim, colocando a questão de uma forma muito simples, tá?
+[01:11:36] A questão na realidade é um pouco mais complexa do que isso.
+[01:11:40] Mas, colocando de forma simples, bem simples, seria essa a resposta para a sua pergunta.
+[01:11:47] Os títulos pós-fixados, eles tendem no Brasil a te dar uma garantia de retorno
+[01:11:54] Embora você não saiba exatamente qual vai ser o retorno,
+[01:11:56] eles tendem a te dar uma garantia de retorno maior do que os títulos prefixados.
+[01:12:01] Então eles são mais atraentes quase que por definição.
+[01:12:07] E isso tem uma espécie de endogeneidade.
+[01:12:11] Obrigada por avisar que você entendeu.
+[01:12:14] Isso tem uma espécie de endogeneidade, porque eu vou explicar já já, mas vamos voltar aqui.
+[01:12:20] Então eu expliquei para vocês que tem esses três tipos de título.
+[01:12:24] E aí eu estava dizendo a vocês que até 2022 já houve momentos do tempo
+[01:12:31] em que isso foi maior ou menor, mas tipicamente, na média,
+[01:12:35] as LFTs têm uma participação que gira em torno de 30%,
+[01:12:40] pode chegar até 40% da dívida pública, mas dificilmente passava desses 40%.
+[01:12:48] Então, os títulos pós-fixados, os contratos de dívida pós-fixada,
+[01:12:54] Tendiam a ser,
+[01:12:57] a compor, digamos assim, 30% a 40% da dívida pública brasileira,
+[01:13:02] nunca excedendo os 40%, e em raras ocasiões ficando um pouco abaixo dos 30%, tá?
+[01:13:08] Em raras ocasiões ficando um pouco abaixo dos 30%.
+[01:13:12] Em 2022,
+[01:13:14] as LFTs constituiam 38% da dívida pública brasileira.
+[01:13:20] Fiquem com esse número na cabeça, tá?
+[01:13:22] 38%.
+[01:13:24] Entre 2022 e 2026,
+[01:13:28] essa parcela das LFTs na dívida pública federal cresceu
+[01:13:34] de 38% para 51,6%.
+[01:13:39] Esse é o número que a gente tem agora.
+[01:13:41] Então, mais da metade da dívida brasileira está atrelada
+[01:13:46] a rendimentos pós-fixados.
+[01:13:52] Por que que isso é um problema?
+[01:13:55] Isso é um problema porque toda vez que a Selic varia,
+[01:13:59] isso tem consequências sobre a dívida pública que não são pequenas, são grandes,
+[01:14:04] porque esses títulos pós-fixados correspondem a mais da metade da dívida.
+[01:14:10] Então, pensem assim,
+[01:14:14] fazendo um outro exercício de simplificação extrema, tá?
+[01:14:19] Se 51%
+[01:14:21] Vamos colocar 52.
+[01:14:23] Se 52% da dívida pública federal rendem a taxa Selic,
+[01:14:31] e a taxa Selic hoje está em 13,75,
+[01:14:35] e ninguém espera que a taxa Selic fique muito abaixo disso ao longo do próximo ano,
+[01:14:41] já que o Banco Central sinalizou na sua última reunião de política monetária a pausa
+[01:14:48] Da Selic nos 13,75, então o Banco Central sinalizou uma parada nos cortes de juros.
+[01:14:55] Na hipótese de que a Selic permaneça nesse patamar de 13,75,
+[01:15:03] isso significa que a metade da dívida brasileira cresce
+[01:15:08] a uma taxa de 13,75%.
+[01:15:12] A taxa de aumento de metade da dívida pública no Brasil
+[01:15:24] Se você tem uma parcela expressiva da sua dívida pública,
+[01:15:30] 52% no caso brasileiro,
+[01:15:32] que cresce a uma taxa de quase 14% ao ano,
+[01:15:37] isso é insustentável de princípio.
+[01:15:41] Você não tem como sustentar isso ao longo do tempo nos seguintes termos.
+[01:15:45] Você não tem como manter A dívida pública estável
+[01:15:52] se metade dela ou mais
+[01:15:54] da metade dela está crescendo a mais ou a quase 14% ao ano.
+[01:16:02] Conseguiram entender esse ponto?
+[01:16:03] Me digam se vocês conseguiram entender esse ponto.
+[01:16:15] Eu fiz outra pergunta, eu quero que vocês respondam a pergunta.
+[01:16:30] Tá.
+[01:16:32] Então vocês entenderam o básico da questão, tá?
+[01:16:35] Pra quem perguntou pra mim se o André Lara Rezende falou desse ponto, gente,
+[01:16:39] por favor, esqueçam o André Lara Rezende um minuto, e não,
+[01:16:43] o André não falou isso no artigo que ele publicou, ele sabe disso, é óbvio,
+[01:16:47] muitas pessoas sabem disso, tá?
+[01:16:50] Mas quando ele apresentou a proposta que ele apresentou, não,
+[01:16:53] ele não falou disso explicitamente na proposta dele,
+[01:16:56] mas esse era o diagnóstico que estava Que estava, enfim,
+[01:17:01] sustentando precisamente a proposta.
+[01:17:03] Então, esse é o problema no Brasil.
+[01:17:06] Não há ajuste nenhum,
+[01:17:10] nem o inventado na cabeça do mercado,
+[01:17:14] nem o que a esquerda brasileira resolveu atacar
+[01:17:19] o PT por fazer.
+[01:17:22] Ninguém é capaz de oferecer, vamos deixar isso aqui bem claro, ninguém é capaz de oferecer.
+[01:17:28] Um ajuste das contas públicas,
+[01:17:32] um ajuste no fluxo que seja capaz de superar esse problema da composição.
+[01:17:41] Agora deixa eu perguntar uma outra coisa para vocês.
+[01:17:43] Quantos de vocês entendem a diferença entre estoque e fluxo?
+[01:17:48] Vocês sabem o que é estoque e o que é fluxo?
+[01:17:50] Vocês sabem?
+[01:18:09] Não, fluxo não é o justo.
+[01:18:11] Então, vamos lá.
+[01:18:14] Fluxo e estoque.
+[01:18:16] Vou dar o exemplo da pia que eu dei outro dia num vídeo,
+[01:18:21] numa animação que o povo lá do Contraponto fez pra mim.
+[01:18:26] Fluxo é a água que sai da torneira.
+[01:18:29] Quando você abre a torneira sai água, não é isso?
+[01:18:32] Aquilo é fluxo, tá?
+[01:18:34] Estoque é a água que se acumula na pia.
+[01:18:37] Então se você puser uma tampa na pia e abrir a torneira, a pia vai encher, certo?
+[01:18:44] Aquela água que está se acumulando dentro da pia, aquilo é o estoque de água.
+[01:18:49] Aquele fluxo que está saindo da torneira é o fluxo de água.
+[01:18:54] Quando a gente fala em resultado primário, seja ele déficit ou superávit,
+[01:19:01] a gente está falando de fluxo.
+[01:19:03] Quando a gente fala da dívida pública, a gente está falando de estoque.
+[01:19:08] Então, quando as pessoas afirmam que o ajuste vai resolver o problema da dívida,
+[01:19:15] o que as pessoas estão querendo dizer com isso é mais ou menos o seguinte,
+[01:19:18] vou fazer um desenho.
+[01:19:32] Isso é uma pia, tá?
+[01:19:35] Ou uma caixa d'água, como vocês quiserem.
+[01:19:36] Pode ser uma banheira também, ou um balde, ou um pote, não importa.
+[01:19:40] É um recipiente, tá?
+[01:19:42] Dentro desse recipiente tem água.
+[01:19:45] Isso tudo que tá aqui é o estoque.
+[01:19:47] Isso aqui é a dívida pública, tá?
+[01:19:49] Do Brasil.
+[01:19:51] Aí você tem aqui uma torneira.
+[01:19:58] Isso aqui é a torneira, tá, gente?
+[01:20:00] Torneira, ok?
+[01:20:01] Não sou muito boa de desenhar torneira não, então vai ficar assim mesmo.
+[01:20:05] Agora eu vou fazer dois desenhos de fluxo pra vocês.
+[01:20:09] Vou fazer um desenho de fluxo em verde.
+[01:20:18] Vou fazer duas torneiras.
+[01:20:26] Os meus pilos estão ficando sem tinta.
+[01:20:53] Pronto.
+[01:20:55] Recipiente, estoque de água,
+[01:20:59] duas torneiras, torneira verde, torneira vermelha, tá?
+[01:21:03] A torneira verde, essa aqui, ela está mais aberta.
+[01:21:07] O fluxo de água que está saindo dela é maior, certo?
+[01:21:13] Pensem nesse fluxo aqui como sendo, por exemplo, uma despesa primária maior.
+[01:21:20] Tem mais água caindo nessa pia daqui, quando a despesa primária é maior.
+[01:21:25] Então, o que muitos estão falando é o seguinte, Ah, muitos do mercado, né?
+[01:21:30] Estão falando é o seguinte, o que a gente precisa fazer pra diminuir o estoque
+[01:21:34] da dívida pública é passar da torneira verde pra torneira vermelha.
+[01:21:39] Então é reduzir esse fluxo.
+[01:21:41] Em vez de você deixar tanta água assim cair dentro da pia,
+[01:21:45] você fecha um pouco a torneira e deixa um filete só de água caindo aqui, tá?
+[01:21:51] Seria o filete da despesa primária caindo aqui.
+[01:21:55] Pra essas pessoas, Isso basta para resolver o problema da dívida pública,
+[01:22:00] porque essa pia daqui, ela tem um ralo,
+[01:22:03] e esse exemplo da pia é bem bom para ilustrar isso na realidade.
+[01:22:11] Tem um ralo aqui, tá?
+[01:22:12] Nessa pia.
+[01:22:14] Esse ralo daqui, É o que seria, na prática, quando a gente pensa em dívida pública,
+[01:22:20] esse ralo é o que acontece quando a dívida vai vencendo,
+[01:22:25] o governo vai pagando essa dívida e esse estoque vai diminuindo.
+[01:22:29] Então, qual é a metáfora aqui?
+[01:22:31] A metáfora é, você tem uma pia, você está enchendo a pia de água.
+[01:22:35] A pia tem um ralo e tem duas torneiras possíveis.
+[01:22:40] Se você abrir a torneira verde, vai sair um montão de água,
+[01:22:46] E o que está vencendo de dívida, o que está saindo pelo ralo,
+[01:22:51] não vai sair rápido o suficiente para você impedir que o nível da água suba dentro
+[01:22:56] da pia.
+[01:22:57] Então o que essas pessoas, defensoras da ideia do ajuste, tem que fazer ajuste,
+[01:23:02] tem que cortar tudo, tem que cortar despesas,
+[01:23:04] o que elas estão dizendo é Não dá pra ter essa torneira verde.
+[01:23:08] A gente precisa ter essa torneira vermelha aqui.
+[01:23:11] Nessa torneira vermelha aqui, as despesas são só um filetezinho de água,
+[01:23:17] o que permite que o ralo dos vencimentos vá deixando essa água desse estoque
+[01:23:22] de dívida todo aqui escoar.
+[01:23:25] Então se você reduz o fluxo, essa torneira vermelhinha aqui,
+[01:23:30] Você permite que a dívida que está vencendo,
+[01:23:34] portanto a água que está saindo pelo ralo,
+[01:23:36] vá reduzindo o estoque de dívida gradualmente ao longo do tempo.
+[01:23:42] Vocês entenderam a metáfora da PIA para explicar a dívida pública?
+[01:23:46] Me digam aqui se vocês entenderam, se não tiverem entendido eu explico de novo.
+[01:24:06] Então dá para explicar a economia com pia e torneira, tá gente?
+[01:24:10] Para vocês terem uma visualização do que é que eu estou falando, ok?
+[01:24:15] Então o que o mercado quer é a torneira vermelha aqui.
+[01:24:20] E o mercado está essencialmente dizendo que se a gente acabar com a torneira verde
+[01:24:25] e abrir a torneira vermelha, tá.
+[01:24:31] Eu estou um pouco impaciente, como vocês devem ter percebido,
+[01:24:34] eu vou explicar o ralo de novo, mas na boa, Luciano, o ralo é bem óbvio.
+[01:24:39] O que acontece é o seguinte, o governo tem uma dívida, essa dívida tem um prazo de vencimento.
+[01:24:45] Se nada mais acontecer, se não tiver fluxo nenhum, se você fechar as duas torneiras,
+[01:24:49] não tem mais água aberta.
+[01:24:53] Essa pergunta é diretamente para o Luciano.
+[01:24:55] O que acontece quando você fecha a torneira numa pia que está cheia de água?
+[01:25:00] O que acontece com a água que está dentro dessa pia?
+[01:25:02] O que acontece com ela? É para você, Luciano.
+[01:25:08] É para você responder aqui.
+[01:25:11] Porque, gente, é fácil fazer pergunta na tela, né?
+[01:25:13] Agora eu quero que vocês respondam também. Responde aí, Luciano.
+[01:25:16] O que acontece com a água da pia?
+[01:25:19] Eu não estou falando de dívida.
+[01:25:20] Ela escoa, né?
+[01:25:22] O que acontece com a dívida pública quando ela vence?
+[01:25:25] É para você também, Luciano.
+[01:25:29] Essa é sala de aula, gente.
+[01:25:30] Estou fazendo o que eu faria em sala de aula.
+[01:25:33] É para o Luciano responder.
+[01:25:34] O que acontece com a dívida, Luciano?
+[01:25:37] O que acontece com a dívida quando ela vence?
+[01:25:41] Não, você respondeu à água.
+[01:25:42] Você não respondeu à dívida.
+[01:25:44] O que acontece com a dívida quando ela vence?
+[01:25:54] Vou perguntar de outra maneira.
+[01:25:58] O que acontece com o nível da água dentro da pia quando você fecha a torneira
+[01:26:04] e o ralo não é 100% perfeito?
+[01:26:08] O que acontece?
+[01:26:10] Ela escoa.
+[01:26:11] O que acontece com a dívida quando ela vence?
+[01:26:14] Ela diminui.
+[01:26:15] Não quis responder, Luciano, mas se quer fazer pergunta tem que querer responder.
+[01:26:21] Então o que acontece com a dívida é que ela vai diminuir ao longo do tempo.
+[01:26:26] Então se você, pensando agora da mesma maneira, se você ainda tem a torneira,
+[01:26:34] mas você agora fechou ela quase toda e você tem só um filete de água caindo,
+[01:26:40] Você permite, assim é que estão pensando,
+[01:26:43] você permite que essa água que está escoando pelo ralo,
+[01:26:49] desde que o filete,
+[01:26:51] a taxa de aumento de água na pia dada pelo fluxo
+[01:26:55] do filete seja menor do que a taxa
+[01:26:59] em que a água escoa da pia pelo ralo, se a taxa escoar pelo ralo,
+[01:27:04] se o escoamento pelo ralo acontecer a uma taxa superior A do filete que cai dentro
+[01:27:11] da pia, esse estoque de água vai diminuindo ao longo do tempo.
+[01:27:15] Essa é a mesma lógica daqueles que argumentam
+[01:27:18] que é preciso diminuir o fluxo
+[01:27:22] de despesas, por exemplo, na economia,
+[01:27:25] para você reduzir ao longo do tempo a dívida pública.
+[01:27:30] Isso aqui está explicado de forma muito simples, para vocês entenderem a dinâmica,
+[01:27:35] que é muito mais complexa do que isso.
+[01:27:36] Mas, na essência, é esse daí o argumento.
+[01:27:40] Agora eu quero perguntar uma coisa para vocês.
+[01:27:42] Qualquer um pode responder.
+[01:27:45] E a pergunta que eu quero fazer para vocês é...
+[01:27:49] Como que essa torneira, com um filetezinho só de água,
+[01:27:55] ou mesmo se você fechar a torneira da pinteira,
+[01:27:59] Como é que isso daí dá conta...
+[01:28:05] Deixa eu colocar de outra forma.
+[01:28:06] Deixa eu falar uma outra coisa.
+[01:28:08] Isso aqui...
+[01:28:09] É ótimo quando toda essa água
+[01:28:13] que está aqui dentro da pia é uma água pré-fixada,
+[01:28:17] por assim dizer.
+[01:28:18] É uma água cujos rendimentos estão pré-estabelecidos.
+[01:28:21] Então você tem um estoque que está lá e a única coisa
+[01:28:25] que faz esse estoque aumentar são essas torneiras aqui. Só.
+[01:28:29] É só o fluxo que sai dessas torneiras.
+[01:28:31] Isso é um tipo de mundo.
+[01:28:34] Mas você pode ter um outro tipo de mundo em que essa água que está aqui dentro
+[01:28:38] da pia Ela tem uma dinâmica própria.
+[01:28:41] Então vamos fazer a dinâmica própria no outro piloto.
+[01:28:47] E a dinâmica própria é a seguinte, tá?
+[01:28:49] Isso aqui é uma pia, não vai ficar perfeito esse desenho aqui não,
+[01:28:53] mas vamos supor que seja assim.
+[01:28:57] Você tem aqui
+[01:29:10] Você tem dois tipos de água nessa pia, tá?
+[01:29:21] Você tem um tipo de água nessa pia daqui, que é a água-água normal.
+[01:29:26] Ela não tem nenhuma dinâmica própria, ela é só água, tá?
+[01:29:31] É azul.
+[01:29:32] E você tem um outro tipo de água nessa pia, que é essa água laranja daqui.
+[01:29:36] Essa é a água pós-fixada nessa pia daqui, tá?
+[01:29:40] Essa água pós-fixada, ela cresce sozinha, ela tem uma dinâmica própria,
+[01:29:48] ela não depende da torneira, tá?
+[01:29:51] Essa água laranja aqui não depende da água que está saindo da torneira para o nível
+[01:29:57] de água que está aqui dentro da pia aumentar.
+[01:30:01] Ela não depende, ela tem uma dinâmica própria e ela aumenta sozinha.
+[01:30:04] Então, ao longo do tempo, mesmo que você feche essas torneiras aqui completamente,
+[01:30:10] se você fechar totalmente a torneira, não tem torneira aberta mais,
+[01:30:15] esse estoque de água que está aqui dentro da pia,
+[01:30:19] e o meu pilô laranja está falhando,
+[01:30:21] mas esse estoque de água que está aqui dentro da pia,
+[01:30:24] ele vai aumentar mesmo que você tenha decidido fechar a torneira, tá?
+[01:30:30] Assim, desse jeito aqui.
+[01:30:33] Por que isso vai acontecer?
+[01:30:34] Porque essa parte da água cresce de forma pós-fixada.
+[01:30:38] Ela cresce a taxa Selic.
+[01:30:41] Ela não precisa da torneira para crescer.
+[01:30:44] Ela cresce sozinha.
+[01:30:45] Ela tem uma dinâmica própria.
+[01:30:48] Deu para entender essa metáfora agora?
+[01:30:50] Para vocês terem um exemplo físico na cabeça do que acontece com a dívida pública?
+[01:30:55] Dá para entender isso aqui desse jeito?
+[01:30:58] Se não deu, diz que eu explico de novo.
+[01:31:04] É, meio isso, meio o que o pessoal tá falando aqui, água com fermento, por aí,
+[01:31:09] exatamente isso, água com fermento.
+[01:31:14] Então, se vocês entenderam esse desenho aqui, tá, das torneiras,
+[01:31:20] da dinâmica da água, da água com fermento, por assim dizer,
+[01:31:24] vocês acabaram de entender por que que o ajuste,
+[01:31:29] qualquer que seja, Pode até ajudar,
+[01:31:32] mas não vai fazer diferença ou grande diferença para essa situação de dívida
+[01:31:38] que a gente tem hoje devido à composição.
+[01:31:43] Entenderam isso?
+[01:31:46] Isso, Fausto, o serviço da dívida.
+[01:31:50] É isso que acontece no Brasil, tá, gente?
+[01:31:53] O estoque que a gente tem de dívida, ele tem crescimento próprio.
+[01:31:58] Por conta dessa história, isso, é água com vida própria, Salete, é isso mesmo.
+[01:32:03] Então, essa dívida nossa, ela tem vida própria, ok?
+[01:32:09] Nesses títulos pós-fixados.
+[01:32:11] E é por causa disso que a gente fica batendo cabeça nessa história de ajuste, porque...
+[01:32:17] A gente pode fazer o melhor ajuste do mundo, a coisa mais linda, maravilhosa, nossa,
+[01:32:22] que beleza de ajuste, que coisa tão bem desenhada.
+[01:32:25] Pode-se fazer a melhor coisa do universo.
+[01:32:28] Você ainda vai ter esse problema da pia cheia
+[01:32:32] de água e que tende a transbordar
+[01:32:35] porque a água, essa dívida, ela tem vida própria nesses títulos pós-fixados.
+[01:32:41] Entenderam?
+[01:32:43] Esse é o drama do Brasil.
+[01:32:45] Então, essa situação,
+[01:32:49] embora ela não seja nova pra nós, tá?
+[01:32:56] Ela está num patamar um tanto inédito.
+[01:32:59] Porque, como eu falei pra vocês, A composição da dívida pública brasileira sempre teve LFTs.
+[01:33:06] Nunca houve nenhum momento na nossa história em que a gente não tenha tido nada
+[01:33:11] de LFTs na nossa vida.
+[01:33:14] Isso simplesmente nunca aconteceu. Por quê?
+[01:33:17] Porque as LFTs, como eu já falei aqui para vocês e já falei
+[01:33:20] em outras ocasiões também, as LFTs são uma herança
+[01:33:24] do nosso passado hiperinflacionário.
+[01:33:26] A gente precisou criar esses instrumentos Para que,
+[01:33:30] na época em que a economia brasileira era extremamente instável,
+[01:33:35] a gente precisou criar esses instrumentos para que as pessoas,
+[01:33:38] para que houvesse credores da dívida pública.
+[01:33:43] Então essas LFTs foram criadas por necessidade num momento
+[01:33:47] de altíssima instabilidade da economia brasileira.
+[01:33:52] Hoje, Elas são uma espécie
+[01:33:54] de legado curioso e extremamente prejudicial
+[01:33:59] que ficou daquela época.
+[01:34:02] Mas como o desenho das LFTs é tão favorável
+[01:34:08] para aquelas pessoas que vivem
+[01:34:09] de rendimento de juros, o que comumente se chama de rentistas na economia,
+[01:34:16] elas não desaparecem.
+[01:34:18] Porque é muito conveniente para quem pode comprar essas LFTs e viver
+[01:34:24] do rendimento dessas LFTs, é muito conveniente tê-las.
+[01:34:29] Então o que acabou acontecendo no Brasil
+[01:34:32] que desse histórico hiperinflacionário nosso, de onde nasceu a LFT,
+[01:34:39] então a origem das LFTs está aí,
+[01:34:41] está no nosso passado de instabilidade macroeconômica,
+[01:34:45] Esse nosso passado de instabilidade macroeconômica que hoje nós não temos mais,
+[01:34:50] ele nos deixou as LFTs como legado.
+[01:34:53] E as LFTs hoje viraram uma espécie de coqueluche, assim, de fetiche.
+[01:34:57] Pô, é legal demais ter LFT, porque afinal de contas você não precisa nem se preocupar.
+[01:35:01] Você sabe que a taxa de juros no Brasil já é alta mesmo, ela vai permanecer alta.
+[01:35:06] Paga aí pra mim os juros pós-fixados, que eu fico feliz da vida,
+[01:35:09] porque eu vou ganhar, sei lá, 13, 13 e tantos por cento ao ano, quase 14,
+[01:35:14] sem precisar fazer absolutamente nada.
+[01:35:16] E eu posso resgatar esse título a qualquer momento,
+[01:35:18] eu não preciso ficar com ele na mão seis anos.
+[01:35:20] Eu posso resgatá-lo dali a um ano.
+[01:35:22] Então, pra quem tá perguntando aqui, ah, mas por que as pessoas gostam de LFT?
+[01:35:25] Precisamente por isso, você vende LFT a hora que você quiser,
+[01:35:28] e você ainda ganha um rendimento bem, bem gordinho, assim, porque...
+[01:35:33] Os juros no Brasil são altos, então você ganha aquele rendimento gordinho,
+[01:35:37] independentemente de qualquer coisa.
+[01:35:40] Entenderam essa parte?
+[01:35:41] Tem outra parte aqui para falar para vocês agora.
+[01:35:44] Tem mais de uma hora e meia de live aqui.
+[01:35:49] Fábio, esse nem é o ponto da discussão.
+[01:35:52] Eu concordo que você discorde, mas esse nem é o ponto da discussão.
+[01:35:56] O ponto da discussão é explicar a composição da dívida e por que essa dinâmica é problemática.
+[01:36:05] Pois é, Juliana, não tem rivotril para essa dívida, infelizmente.
+[01:36:09] Juliana está dizendo que isso dá ansiedade.
+[01:36:11] Pois é, não tem rivotril para resolver isso aqui, infelizmente.
+[01:36:16] A proporção de pós-fixado no estoque, eu já falei, Igor, é 51,6%.
+[01:36:20] É isso aí, mais da metade da dívida é pós-fixado.
+[01:36:26] Diego fez uma boa pergunta.
+[01:36:27] Por que o Tesouro mantém esse tipo de composição?
+[01:36:30] Pelo seguinte, que o Tesouro Emite essas LFTs
+[01:36:37] com vencimento de seis anos.
+[01:36:40] Como eu falei para vocês, as novas LFTs,
+[01:36:42] elas têm prazo médio de 73,6 meses, tá?
+[01:36:47] Mais ou menos seis anos.
+[01:36:50] Isso é muito superior ao prazo médio da dívida brasileira.
+[01:36:53] A dívida brasileira, o vencimento médio da dívida brasileira é de quatro anos.
+[01:37:00] Então, por que o Tesouro gosta ou emitiu mais LFTs?
+[01:37:05] Porque como as LFTs alongam o prazo médio da dívida,
+[01:37:10] o Tesouro achou uma boa coisa ter uma dívida um pouco mais alongada no tempo.
+[01:37:17] Só que isso é uma espécie de falácia, tá?
+[01:37:19] Porque embora o vencimento das LFTs seja em seis anos,
+[01:37:25] ninguém fica com LFT na mão por seis anos.
+[01:37:27] Então, na prática, os resgates de LFT estão acontecendo o tempo inteiro no mercado.
+[01:37:32] O que significa que o prazo efetivo dessa dívida não é de seis anos.
+[01:37:41] Então esse prazo médio com o qual o Tesouro trabalha e a razão para a emissão
+[01:37:47] das LFTs é precisamente para aumentar o prazo médio da dívida,
+[01:37:52] mas esse prazo médio não quer dizer nada.
+[01:37:55] Então tem erros dos dois lados aqui.
+[01:37:58] Tem um erro do lado do mercado que quer moleza,
+[01:38:02] quer viver de LFT porque é bom, é fácil.
+[01:38:06] E tem o lado do Tesouro que resolveu aumentar a proporção dessas LFTs
+[01:38:12] na dívida pública porque quis alongar o prazo médio da dívida pública brasileira.
+[01:38:18] Mas é um alongamento de prazo médio da dívida pública brasileira
+[01:38:22] que não nos compra nada, não nos entrega nada em retorno.
+[01:38:26] Na realidade nos entrega mais problemas.
+[01:38:30] Então é isso no final.
+[01:38:32] A razão para o Tesouro emitir esses títulos é que eles têm prazo mais longo
+[01:38:37] do que os títulos prefixados.
+[01:38:40] E eles têm esses prazos mais longos porque,
+[01:38:43] embora a taxa de juros não esteja garantida ex ante,
+[01:38:46] todo mundo sabe que o rendimento da LFT dali a seis anos vai ser bom.
+[01:38:53] E ninguém vai ficar com essas LFTs por seis anos mesmo?
+[01:38:56] Então tanto faz quanto tanto fez, entendeu?
+[01:38:58] O vencimento ser de seis, ou de três, ou de dois, ou de seja lá o que for.
+[01:39:02] Porque elas são muito líquidas, essas LFTs.
+[01:39:05] Tem um mercado enorme para elas.
+[01:39:07] Então qualquer pessoa que queira resgatar uma LFT antes do vencimento
+[01:39:12] de seis anos consegue e ainda embolsa um rendimento bem legal ao fazer isso.
+[01:39:18] Não tem incentivo nenhum aqui por parte dos credores da dívida para mudar essa situação.
+[01:39:25] Por isso.
+[01:39:26] Porque o prazo é longo, mas na verdade você resgata quando você quiser.
+[01:39:31] E para o Tesouro, essa ideia de que está alongando a dívida parece uma coisa legal,
+[01:39:36] mas na prática não é isso muito que acontece não.
+[01:39:39] Então na prática, a gente acaba ficando meio que no pior dos mundos.
+[01:39:44] O governo fica meio que no pior dos mundos.
+[01:39:47] No final está emitindo uma dívida que tem um rendimento alto,
+[01:39:52] que vai ser resgatada muito provavelmente antes do prazo,
+[01:39:56] então você ainda vai ter que rolar aquela dívida,
+[01:39:58] ter alongado o prazo médio não vai significar muita coisa.
+[01:40:02] E por tabela você cria uma situação em que a dívida tem vida própria,
+[01:40:07] cresce por ela mesma e você perde completamente o controle das torneiras.
+[01:40:13] Você perde o controle das torneiras,
+[01:40:16] você não tem mais como controlar o tamanho da dívida usando as torneiras,
+[01:40:20] que são precisamente o que você faz com o ajuste.
+[01:40:23] Entenderam?
+[01:40:24] É isso daí que acontece no Brasil.
+[01:40:27] E aí tem um adicional aqui nessa história, que é o seguinte,
+[01:40:31] toda vez que a dívida aumenta, tá?
+[01:40:34] Então, a dívida, como eu falei para vocês, aqui é a pia com o estoque e tudo mais,
+[01:40:38] e essa dívida que está aumentando aqui, Como eu disse a vocês, ela tem vida própria,
+[01:40:43] são esses pós-fixados lá que estão aumentando
+[01:40:49] a dívida e o custo de carregamento
+[01:40:51] da dívida para o governo.
+[01:40:53] Então, como esse estoque vai aumentar por ele mesmo,
+[01:40:57] você cria uma situação em que essa dívida crescente ao longo
+[01:41:01] do tempo acaba deixando todo mundo meio nervoso e o investidor,
+[01:41:06] aquela pessoa ou aquela instituição,
+[01:41:10] Que vai comprar um título de dívida do governo,
+[01:41:14] começa a pedir mais prêmio para carregar aquela dívida.
+[01:41:20] É dizer o seguinte, que toda vez que a dívida dá um saltozinho,
+[01:41:25] para você, governo,
+[01:41:28] que quer emitir títulos e que quer colocar contratos de dívida no mercado,
+[01:41:33] como a sua dívida agora está maior, o credor vai dizer assim para você, tá beleza,
+[01:41:38] eu compro a sua dívida, mas é o seguinte,
+[01:41:40] Você vai ter que me pagar um rendimento um pouco maior,
+[01:41:43] você vai ter que embutir aí um prêmio de risco um pouco maior,
+[01:41:46] porque eu vou carregar agora uma dívida cujo estoque é maior do que ele era,
+[01:41:50] digamos, um, dois anos atrás.
+[01:41:52] Então você tem que me dar uma garantia,
+[01:41:54] você tem que me pagar para eu carregar a sua dívida maior.
+[01:41:58] E aí o governo vai dizer assim, ah tá, ok, vou fazer isso então, vou te pagar um pouco mais.
+[01:42:04] E aí vocês conseguem ver como esse ciclo vicioso vai embora,
+[01:42:08] porque o que acaba acontecendo é,
+[01:42:10] Quando a dívida aumenta porque ela tem vida própria,
+[01:42:14] isso acaba aumentando o prêmio de risco,
+[01:42:17] aumenta os juros que você paga nessa dívida e ela tem mais vida própria ainda
+[01:42:23] no final das contas, entendeu?
+[01:42:24] A vida própria da dívida pública,
+[01:42:26] essa parcela aqui laranja da pia que se retroalimenta,
+[01:42:30] ela tem vida própria e ela cresce por ela mesma.
+[01:42:32] A gente está nesse ponto agora,
+[01:42:34] porque essa parcela A dívida que é pós-fixada está muito maior
+[01:42:41] do que já foi historicamente.
+[01:42:45] Esse é o nó que a gente precisa desatar no Brasil.
+[01:42:48] Se a gente não desatar esse nó, pode fazer o que você quiser com as torneiras.
+[01:42:51] Não vai acontecer absolutamente nada.
+[01:42:53] O que vai acontecer vai ser muito insuficiente e muito pouco.
+[01:42:56] Porque a composição da dívida pública é o que está matando a gente nesse momento agora.
+[01:43:03] Entenderam isso daí?
+[01:43:05] Eu quero saber se vocês entenderam essa parte.
+[01:43:17] O que fazer é outro papo.
+[01:43:19] Eu quero saber se vocês entenderam essa parte.
+[01:43:21] Se vocês não tiverem entendido essa parte, não tem como explicar mais nada.
+[01:43:27] Tá.
+[01:43:28] Então, vamos lá.
+[01:43:30] As pessoas estão perguntando assim, ah, o que fazer agora?
+[01:43:34] Essa é a grande pergunta, né?
+[01:43:35] Porque não tem solução mágica pra isso aqui, não.
+[01:43:38] Não tem assim, ah, é só o governo não emitir mais LFT.
+[01:43:43] Não funciona desse jeito, porque o governo precisa garantir uma rolagem da dívida.
+[01:43:47] Então não dá pro governo simplesmente chegar e falar assim, não vou mais emitir LFT, tá?
+[01:43:51] Vocês se virem aí.
+[01:43:52] Não dá pro governo fazer isso.
+[01:43:54] Também não dá para o governo chegar e falar assim, não, então olha só,
+[01:43:57] eu vou fazer o seguinte, esses juros aí, vou reduzir esses juros para nove,
+[01:44:01] porque assim, nesse patamar aí não dá para eu pagar.
+[01:44:04] O governo também não pode fazer isso, porque se o governo fizer isso,
+[01:44:07] ele está quebrando o contrato.
+[01:44:09] Reduzir juros na marra,
+[01:44:13] numa dívida que já está contratada, é uma quebra de contrato.
+[01:44:19] Quebra de contrato, nesse caso, é uma espécie de moratória.
+[01:44:24] O que acontece com governos que fazem moratória? Vocês sabem?
+[01:44:28] O que acontece quando os governos não pagam as suas dívidas?
+[01:44:31] O que acontece, gente?
+[01:44:32] Ponham aí na tela.
+[01:44:42] O que acontece quando o governo não paga a sua dívida?
+[01:44:48] É, sim, perdem credibilidade, mas é muito pior do que isso.
+[01:44:50] O que acontece quando o governo não paga a sua dívida?
+[01:44:56] Deixa eu perguntar de outro jeito.
+[01:44:57] O que acontece com as pessoas em uma economia em que o governo parou de pagar suas dívidas?
+[01:45:03] O que vocês acham que acontece?
+[01:45:06] Fuga de capitais é uma coisa. Crise.
+[01:45:11] Que crise, Arthur?
+[01:45:14] Impeachment não, gente. Tira isso da tela.
+[01:45:16] Não tem nada a ver com isso.
+[01:45:19] Não tem acesso a crédito.
+[01:45:20] Perfeito, Daniela.
+[01:45:24] Ficam sem crédito internacional, perfeito marco.
+[01:45:29] Não conseguem novos empréstimos.
+[01:45:31] Mas o que acontece com as pessoas?
+[01:45:34] Pensem assim...
+[01:45:35] Não, não acontece revolução nenhuma, não.
+[01:45:37] O que acontece quando... Vou dar um exemplo aqui pra vocês.
+[01:45:42] Quem são os grandes credores da dívida pública brasileira?
+[01:45:48] Sim, Patrícia, aumenta mais os juros por conta do risco país, mas empobrecem.
+[01:45:52] Obrigada, Juliana, isso que eu queria, tá?
+[01:45:54] O que acontece com a economia?
+[01:45:56] A economia empobrece, porque quando um país declara moratória,
+[01:45:59] eu já trabalhei em algumas moratórias, tá?
+[01:46:02] Quando um país declara uma moratória, quando ele para de pagar suas dívidas,
+[01:46:06] os investimentos externos para o país secam, ele deixa de receber dinheiro de fora,
+[01:46:12] O país deixa de ter acesso ao mercado de capitais internacional,
+[01:46:16] então o país deixa de conseguir se financiar por ele próprio.
+[01:46:19] As empresas muitas vezes perdem financiamento também.
+[01:46:23] Isso gera uma situação de crise interna no país macroeconômica severa.
+[01:46:29] Países que declaram moratória tipicamente entram em recessão, a taxa de desemprego dispara.
+[01:46:36] A inflação às vezes dispara também, nem sempre, mas às vezes a inflação dispara também.
+[01:46:40] Você cria uma situação de caos macroeconômico aí, tá? Então, não dá.
+[01:46:46] É, e trocando em miúdos é como o Bruno falou aqui.
+[01:46:49] Você vira uma espécie de Argentina, tá?
+[01:46:52] De um certo jeito.
+[01:46:54] Então, o problema básico É que o governo não tem
+[01:47:00] como unilateralmente tomar nenhuma providência para resolver essa história
+[01:47:06] de composição da dívida.
+[01:47:07] Assim, de cara.
+[01:47:09] Não dá.
+[01:47:10] Quais as situações que o governo tem?
+[01:47:12] O governo pode parar de emitir LFTs
+[01:47:16] ou modificar os termos das LFTs de algum modo
+[01:47:20] e ver se o mercado continua aceitando.
+[01:47:23] O governo pode deixar as LFTs que existem vencerem Mas o problema é
+[01:47:30] que algumas dessas LFTs têm um prazo médio residual ainda bastante longo,
+[01:47:35] então você teria que esperar alguns anos para você conseguir reduzir esse estoque.
+[01:47:40] Ou você pode, a terceira alternativa, tem várias alternativas,
+[01:47:44] mas uma terceira alternativa seria,
+[01:47:47] uma alternativa é essa que o Tiago colocou aqui na tela,
+[01:47:49] seria diminuir a emissão de LFTs aos poucos,
+[01:47:52] mas aí você só vai dar conta desse problema de composição ao longo do tempo,
+[01:47:58] Você vai precisar de um tempo para que esse estoque que agora chegou a mais
+[01:48:02] da metade da dívida diminua.
+[01:48:04] Então, você tem que deixar o tempo agora corroer esse estoque sozinho.
+[01:48:09] Ou você pode fazer o que a Cristina está colocando aqui na tela.
+[01:48:12] Você pode trocar os papéis.
+[01:48:14] Você pode fazer um swap.
+[01:48:17] Vou botar a palavra aqui.
+[01:48:25] Swap.
+[01:48:27] É a palavra que eu coloquei aí.
+[01:48:28] Swap é uma operação
+[01:48:32] em que você oferece aos detentores da sua dívida uma troca.
+[01:48:39] Swap é a palavra inglesa para troca, tá gente?
+[01:48:41] Então no swap você oferece um papel em troca de outro.
+[01:48:46] Então o governo teria que desenhar um papel que fosse suficientemente atraente
+[01:48:52] Para os participantes do mercado que detêm LFTs,
+[01:48:55] para que eles troquem as suas LFTs por esse outro papel.
+[01:48:58] Esse desenho é extremamente complicado, tá?
+[01:49:01] Não tenho como exagerar o quão complicado seria você fazer um swap.
+[01:49:07] Mas não é impossível, dá para fazer.
+[01:49:11] Mas, para fazer isso,
+[01:49:13] você precisa de uma coordenação bastante grande entre governo,
+[01:49:19] Congresso, E os detentores da dívida pública brasileira.
+[01:49:25] Agora, o meu ponto nessa discussão toda daqui não é dar a vocês uma solução pronta
+[01:49:31] porque ela não existe.
+[01:49:33] Ela não existe.
+[01:49:34] Ela tem que ser pensada, ela tem que ser desenhada, ela tem que ser muito bem articulada.
+[01:49:41] Agora, para que a gente chegue nesse estágio,
+[01:49:44] para que a gente consiga chegar no estágio em que a gente esteja discutindo
+[01:49:49] de que modo a gente vai dar conta dessa dívida que cresce sozinha na pia,
+[01:49:55] dessa dívida laranja aqui que cresce sozinha na pia,
+[01:49:58] para que a gente chegue nesse estágio A gente precisa, antes,
+[01:50:04] ter em conta que é isso aqui que está acontecendo no Brasil.
+[01:50:07] Que não adianta você mexer nas torneiras.
+[01:50:10] Mexer nas torneiras tem um efeito marginal no problema brasileiro.
+[01:50:15] Tem um efeito, mas ele é marginal.
+[01:50:18] O problema de fundo é o que está dentro da pia já, não é o que está saindo da torneira.
+[01:50:25] Então, queria deixar isso aqui com vocês depois de uma hora e cinquenta de live.
+[01:50:32] Não, Tânia, não é difícil que os credores se interessem pela troca, não.
+[01:50:37] Isso daí é feito e isso daí funciona.
+[01:50:40] Eu já participei de alguns, diretamente, quando trabalhava no FMI, de alguns,
+[01:50:46] não foi nenhum só, alguns swaps de dívida muito mais complexos na realidade
+[01:50:50] do que esse.
+[01:50:52] Não é fácil desenhar esse tipo de programa não, mas é perfeitamente possível.
+[01:50:58] Difícil não é antônimo de possível.
+[01:51:06] Difícil é só difícil.
+[01:51:08] É difícil, mas não é impossível.
+[01:51:10] Dá pra fazer.
+[01:51:12] Então seria assim, você teria que encaminhar soluções,
+[01:51:17] mas o primeiro passo aqui,
+[01:51:20] e o importante é ter isso na cabeça, a gente não fez nem o primeiro passo ainda,
+[01:51:25] o primeiro passo é reconhecer o problema como estando dentro da pia,
+[01:51:31] o problema está dentro da pia, o problema não está na torneira,
+[01:51:35] e isso a gente ainda não fez, a gente não chegou nem aí ainda.
+[01:51:39] A gente não chegou nem ainda no estágio em que a gente esteja olhando para a água
+[01:51:45] que está dentro da pia e pensando em como a gente vai resolver essa água
+[01:51:49] que tem fermento e cresce sozinha.
+[01:51:52] A gente não chegou nem nesse estágio.
+[01:51:54] Então esse é o problema.
+[01:51:55] O problema é que hoje a gente está empacado num debate sobre torneira.
+[01:51:59] A gente está empacado num debate sobre se abre mais a torneira,
+[01:52:03] se fecha mais a torneira, se acaba com a torneira, se arranca a torneira da parede.
+[01:52:08] A gente está preso aí.
+[01:52:12] Esse é o problema.
+[01:52:13] O debate no Brasil hoje, o debate nas últimas 24 horas no Brasil hoje,
+[01:52:19] pode ser resumido entre torneira verde ou torneira vermelha.
+[01:52:23] É isso, o debate no Brasil.
+[01:52:26] Torneira verde ou torneira vermelha.
+[01:52:28] Um ou outro.
+[01:52:30] Ninguém está olhando para dentro da pia.
+[01:52:32] Ninguém.
+[01:52:33] Esse é o problema.
+[01:52:34] Então isso era o que eu queria explicar para vocês hoje, tá?
+[01:52:38] Demoramos, vocês vêm, duas horas para explicar tudo isso daqui.
+[01:52:42] Mas o importante de explicar isso aqui é justamente colocar o debate onde ele tem
+[01:52:48] que ser colocado.
+[01:52:49] Não é na torneira, é na pia.
+[01:52:52] E se a gente não fizer alguma coisa com essa pia e com essa água aqui,
+[01:52:56] com o fermento que está dentro dessa pia,
+[01:52:58] o que vai acabar acontecendo é que a gente vai criar uma situação para as empresas
+[01:53:03] Para as famílias e para o governo brasileiro calamitosa.
+[01:53:08] Porque como a gente agora tem uma parte extraordinariamente alta da dívida pública
+[01:53:12] que cresce sozinha e retroalimenta esses juros altos que nós temos,
+[01:53:18] isso daí vai acabar criando uma situação de crise de endividamento privado que nós
+[01:53:25] na verdade já estamos vendo.
+[01:53:27] Com essas recuperações judiciais todas,
+[01:53:30] com essa crise de quebradeira no agro e outras coisas desse tipo.
+[01:53:36] Tudo isso tem algum vínculo, nem sempre é direto,
+[01:53:39] mas tudo isso tem algum vínculo com essa história toda que eu acabei de contar aqui
+[01:53:43] para vocês. Então, esse é o problema que a gente tem.
+[01:53:47] Eu vou pegar umas três ou quatro perguntas agora.
+[01:53:54] Deixa eu ver aqui o que vocês estão falando.
+[01:54:04] Arthur, eu não estou propondo que a gente comece por swap nem nada disso.
+[01:54:07] Acho inclusive que essa discussão é prematura.
+[01:54:11] Porque, como eu disse a vocês, a gente nem entrou na pia ainda.
+[01:54:15] A gente está discutindo ainda a torneira que está na parede.
+[01:54:17] A gente nem está falando da pia.
+[01:54:20] Para a gente poder falar do SOP, a gente tem que começar a falar da PIA.
+[01:54:23] Antes de falar da PIA, não dá.
+[01:54:25] Então, nem dá para falar sobre isso, mas tem que falar da PIA.
+[01:54:31] Esse é o ponto aqui.
+[01:54:33] Aqui estão falando que é libertador entender precisamente.
+[01:54:36] Muito obrigada por falar isso, porque esse é exatamente o propósito dessas lives.
+[01:54:41] Então, como eu comecei dizendo a vocês, não é o propósito dessa live.
+[01:54:45] Ai, a Monica é influenciadora.
+[01:54:47] A Monica não é nada disso.
+[01:54:48] A Monica não gosta de ser influenciadora.
+[01:54:51] A Monica sequer gosta de exposição pública.
+[01:54:53] Realmente não curto, tá?
+[01:54:55] Estou falando só porque me dá...
+[01:55:00] Para usar a palavra usada anteriormente,
+[01:55:02] me dá ansiedade ver as coisas sendo colocadas
+[01:55:07] de uma forma tão equivocada há tanto tempo e sobretudo agora
+[01:55:12] em que a gente está numa situação que não é sustentável
+[01:55:16] e que vai acabar nos criando muitos problemas.
+[01:55:20] A gente tem um governo com uma janela de oportunidade.
+[01:55:23] Sim, o Congresso é hostil.
+[01:55:25] Sim, o mercado financeiro faz chantagem.
+[01:55:27] Tudo isso acontece.
+[01:55:28] Agora, esse governo se elegeu com um bom respaldo popular.
+[01:55:34] Então, cabe a nós e cabe a uma pessoa como eu, que entende esses conceitos,
+[01:55:40] passar para vocês o conhecimento porque, gente,
+[01:55:43] vocês acabaram de ter uma demonstração muito clara de como a força popular importa.
+[01:55:48] E como que uma população com entendimento das coisas como elas são consegue
+[01:55:55] se mobilizar para alcançar determinados resultados?
+[01:55:58] A gente acabou de ver isso no Brasil.
+[01:56:00] Então, a minha maior preocupação e a coisa que realmente me tira
+[01:56:06] a tranquilidade é olhar para esse debate no Brasil e enxergar, primeiro,
+[01:56:12] que o debate está no lugar totalmente errado e, segundo, Então,
+[01:56:17] o que eu estou
+[01:56:20] tentando fazer aqui é dar
+[01:56:24] a vocês o entendimento
+[01:56:26] para que vocês possam acompanhar o debate e exigir,
+[01:56:30] como vocês acabaram de fazer nas eleições, exigir que o O posicionamento do governo,
+[01:56:36] que afinal de contas representa todos,
+[01:56:39] não só aquela parcela lá do mercado financeiro que quer o que quer que seja,
+[01:56:42] e nem tampouco aquela outra parcela ideológica lá que diz que a torneira A, B,
+[01:56:47] torneira A, torneira, conversa de torneira bobagem.
+[01:56:50] Essa história do pessoal que é negacionista de ajuste.
+[01:56:53] Nenhum nem outro estão corretos.
+[01:56:55] A solução, como sempre, ela está no meio do caminho.
+[01:56:58] Ela nunca é um extremo.
+[01:56:59] Ela nunca é tudo ou nada.
+[01:57:01] Que é mais ou menos como o debate brasileiro está agora. Tudo ou nada.
+[01:57:05] Tudo ou nada relativo à torneira.
+[01:57:06] Não é isso.
+[01:57:08] Então, o propósito disso daqui é ajudar vocês a entender, número um, que esse não é o problema.
+[01:57:15] E, número dois, por que esse não é o problema?
+[01:57:17] Para que vocês possam, então, Por meios diversos, fazer pressão,
+[01:57:22] a pressão necessária para que o debate correto ocorra.
+[01:57:26] O debate correto é sobre essa pia.
+[01:57:29] É esse o propósito dessas lives aqui.
+[01:57:32] É isso que são os basicões.
+[01:57:35] Os basicões de economia, as lives que eu faço com o Zé Paulo aqui na quinta-feira e tal.
+[01:57:40] Não tem como objetivo servir de palco para mim ou para outras pessoas.
+[01:57:44] Tem como objetivo ajudar vocês a entenderem o problema,
+[01:57:49] formar suas próprias opiniões sobre o problema e dali conseguir exigir de todos,
+[01:57:56] inclusive da própria imprensa brasileira,
+[01:57:58] que façam um tratamento adequado dessas questões.
+[01:58:01] Porque do jeito que a coisa está indo, ela está indo muito mal.
+[01:58:05] Ela está indo muito mal e está muito mal colocada Nas discussões públicas.
+[01:58:12] Então esse é o propósito disso daqui.
+[01:58:16] Deixa eu ver quem mais.
+[01:58:20] Duas horas, gente. Vamos bater duas horas aqui.
+[01:58:30] William diz assim, Monica, estou um pouco perdido na linha cronológica que nos levou
+[01:58:34] para o agora, uma vez que convivíamos com isso no passado.
+[01:58:37] O objetivo das emissões desses títulos, da forma que foi elaborada,
+[01:58:41] foi exclusivamente alongar o prazo da dívida, principalmente, William,
+[01:58:45] principalmente.
+[01:58:46] E esse foi um erro, na minha concepção, mas principalmente sim.
+[01:58:51] E não, eu acho que ninguém parou muito para pensar em quais seriam as consequências.
+[01:58:57] Ninguém. E agora a gente está com esse problema nas nossas mãos.
+[01:59:01] Isso acontece, tá?
+[01:59:02] É normal que isso aconteça.
+[01:59:04] Não é que, ai meu Deus, que erro grosseiro do governo.
+[01:59:06] Não, isso acontece.
+[01:59:09] O que não pode acontecer, erros acontecem.
+[01:59:12] Todos nós somos humanos, cometemos erros. Erros acontecem.
+[01:59:15] Isso não é o problema.
+[01:59:16] O problema é, ocorreu, agora vamos reconhecê-lo.
+[01:59:20] Reconheçamos e tentemos, então, elaborar algo para sair desse lugar.
+[01:59:25] O que não dá para fazer é negar que o problema existe.
+[01:59:29] E a gente ainda tá nessa, a gente ainda tá nessa de negar que o problema existe.
+[01:59:35] E nesse negacionismo vai todo mundo pro ralo da pia, tá?
+[01:59:41] Porque não vai funcionar, entendeu?
+[01:59:44] Então é por aí.
+[01:59:47] Não, na pandemia os juros não caíram na marra, não.
+[01:59:50] Houve condições pra que os juros caíssem.
+[01:59:53] Na marra, na defesa, na Juros são endógenos ao restante da economia.
+[01:59:57] Se você tentar reduzir juros na marra, não dá certo.
+[02:00:01] E como eu falei, você quebra contrato se você fizer isso.
+[02:00:04] Quebrar contrato não é uma boa solução para ninguém.
+[02:00:08] Nem para ninguém.
+[02:00:09] Ninguém na economia se beneficia de quebra de contrato.
+[02:00:14] Então, deixa eu fazer um resumão do basicão.
+[02:00:19] Assim, não vai dar para pegar, evidentemente,
+[02:00:21] todas as perguntas de vocês depois de duas horas, eu estou ficando cansada,
+[02:00:24] imagino que vocês também.
+[02:00:26] Então, o resumão é o seguinte, nessa live a gente cobriu o que é um título,
+[02:00:34] a gente entendeu que o título é um contrato de dívida pública,
+[02:00:38] não é nada mais esotérico do que isso, é simplesmente um contrato de dívida,
+[02:00:42] que a gente dá o nome de título,
+[02:00:45] Eu expliquei para vocês quais são as diferentes modalidades de contratos de dívida
+[02:00:51] que se tem entre títulos prefixados,
+[02:00:55] títulos atrelados à inflação e títulos pós-fixados.
+[02:00:59] Então eu expliquei para vocês o que cada uma dessas criaturas é.
+[02:01:04] E a partir daí eu expliquei para vocês como é que funciona a dinâmica da composição
+[02:01:09] da dívida e como que a história do ajuste fiscal se encaixa ou não
+[02:01:14] se encaixa nisso daí usando este desenho aqui como exemplo.
+[02:01:20] A pia, as torneiras, a água e tudo mais.
+[02:01:23] Então não tem animação, é tudo pilô.
+[02:01:27] Aqueles de vocês que me acompanham há algum tempo sabem que eu sou muito...
+[02:01:36] Não tem tempo
+[02:01:41] pra isso, tá?
+[02:01:45] Então quem fez isso pra mim esses dias foi o pessoal do Contraponto,
+[02:01:49] eles são ótimos, de repente eles se animam a fazer esse exemplo da Pia aqui
+[02:01:53] que eu dei pra vocês de outra maneira, mas aqui no canal as coisas são,
+[02:01:57] aqui no Substack as coisas são todas analógicas como elas eram no YouTube
+[02:02:01] quando tinha canal lá, tem os meus estilos,
+[02:02:05] Eu uso os meus pilotos para explicar temas complexos para vocês com esses exemplos
+[02:02:11] que vêm na cabeça na hora.
+[02:02:14] Então, é isso daqui e é isso daqui que a gente vai continuar fazendo.
+[02:02:18] Então, na próxima semana, todas as lives aqui no Substack ficam disponíveis
+[02:02:24] para quem está chegando agora.
+[02:02:26] Fica tudo gravado.
+[02:02:28] E na semana que vem, a gente vai ter . . . .
+[02:02:32] .
+[02:03:02] E vai ser um outro basicão, não mais sobre esse tema,
+[02:03:06] mas sobre política monetária e política cambial.
+[02:03:10] Então, para aqueles de vocês que estiverem interessados,
+[02:03:13] eu convido vocês para estarem aqui comigo às seis da tarde da segunda-feira.
+[02:03:18] Não vou dar bronca em vocês na segunda-feira, vocês podem ter certeza,
+[02:03:22] mas as broncas de hoje foram necessárias para que vocês entendam precisamente
+[02:03:26] o propósito desse espaço daqui, tá?
+[02:03:29] Então, com isso tudo, gente, bom fim de semana para vocês e até segunda-feira.
+[02:03:37] Imagino que verei alguns de vocês aqui de volta na segunda-feira,
+[02:03:40] aqueles de vocês que se animarem a ficar ouvindo o Papo
+[02:03:43] de Economia durante tanto tempo.
+[02:03:46] E para os demais, quem não entendeu alguma coisa ou quer revisitar algum trecho
+[02:03:52] da live ou isso ou aquilo, Isso fica gravado aqui, é só,
+[02:03:56] depois que fizer o upload vai demorar, porque tem duas horas de live.
+[02:04:00] Então depois que isso aqui tiver subido para o site,
+[02:04:04] fica lá para vocês poderem assistir quando vocês quiserem.
+[02:04:09] Eu também distribuo essas lives no meu canal do WhatsApp.
+[02:04:14] Então para aqueles de vocês que não estão no canal do WhatsApp e quiserem assistir
+[02:04:20] a live, Eu vou postar a live, quando ela estiver aqui no site,
+[02:04:24] eu vou postar ela no canal do WhatsApp, que é o que eu sempre faço também, tá?
+[02:04:27] O canal do WhatsApp é super fácil de achar, só ir lá, Monica De Bolle, super fácil.
+[02:04:33] Pra quem não sabe ou pra quem não tem,
+[02:04:35] é só olhar ou aqui no Substack ou lá no Instagram,
+[02:04:39] que tem o link do canal do WhatsApp, tá?
+[02:04:43] É só ir lá e ver.
+[02:04:44] Então, é isso, gente.
+[02:04:46] Fiquem todos bem,
+[02:04:48] bom fim de semana aí para todos vocês e não se esqueçam dessa pia, tá?
+[02:04:54] Essa pia será fundamental na vida de todos nós nas próximas semanas e meses,
+[02:05:00] porque a gente está lutando para o entendimento da pia como o problema,
+[02:05:04] não da torneira, tá?
+[02:05:07] Bom descanso para vocês e até segunda.
+[02:05:22] Frequentemente tem problemas de encerramento da live.

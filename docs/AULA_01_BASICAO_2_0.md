@@ -25,6 +25,10 @@ Este documento consolida as fontes primárias que fundamentam a física e os inv
    - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 12/11/2026 (~1h50min, `post_id: 224489807`)
    - **Link Oficial:** [https://bolle.substack.com/p/cambio-e-juros-com-jose-paulo-kupfer](https://bolle.substack.com/p/cambio-e-juros-com-jose-paulo-kupfer) (Nota: [https://substack.com/@bolle/note/p-224489807](https://substack.com/@bolle/note/p-224489807))
    - **Transcrição Integral Local:** [`docs/transcricoes/2026-11-12_cambio_e_juros_kupfer.txt`](transcricoes/2026-11-12_cambio_e_juros_kupfer.txt)
+7. **Monica De Bolle — *Basicão: Juros, Dívida, Ajuste — o que é preciso saber***
+   - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 13/11/2026 (~2h06min, `post_id: 224731309`)
+   - **Link Oficial:** [https://bolle.substack.com/p/basicao-juros-divida-ajusteo-que](https://bolle.substack.com/p/basicao-juros-divida-ajusteo-que) (Nota: [https://substack.com/@bolle/note/p-224731309](https://substack.com/@bolle/note/p-224731309))
+   - **Transcrição Integral Local:** [`docs/transcricoes/2026-11-13_basicao_juros_divida_ajuste.txt`](transcricoes/2026-11-13_basicao_juros_divida_ajuste.txt)
 
 ---
 
@@ -145,4 +149,25 @@ Na live *Câmbio e Juros, com José Paulo Kupfer* (12/11/2026), De Bolle e Kupfe
    - Ao ofertar *swaps cambiais*, **o Banco Central toma para si o risco cambial da operação**: as perdas com oscilações do câmbio e o elevado custo de carregamento das **reservas internacionais (> US$ 350 bilhões)** — essenciais como seguro contra crises externas — entram diretamente na **Dívida Bruta (DBGG, 82,9% do PIB)**, explicando por que a DBGG é significativamente maior que a **Dívida Líquida (DLSP, 69,1% do PIB)** destacada por André Lara Resende.
 4. **Dilema de Saída e Coordenação:**
    - Simplesmente liberar contas em dólar para inflar o mercado à vista carrega o risco de **dolarização pela porta dos fundos** e perda de reservas. Por isso, a estabilização exige **coordenação institucional (CFMN)**, blindagem cambial responsável e aumento de margens/custos para mitigar a alavancagem excessiva no mercado futuro.
+
+---
+
+## 6. A Pia, as Torneiras e a "Água com Fermento" — Composição da Dívida e Swap de LFTs (Monica De Bolle, 13/11/2026)
+
+Na aula *Basicão: Juros, Dívida, Ajuste — o que é preciso saber* (13/11/2026), Monica De Bolle aprofunda a mecânica contratual dos títulos públicos brasileiros e apresenta a metáfora visual que inspira a **Estação 1 (Pia da Dívida / PIB)** do simulador:
+
+1. **As Três Modalidades de Contratos de Dívida (Títulos Públicos):**
+   - **Prefixados (LTN / Tesouro Prefixado):** Rendimento fixo pactuado *ex ante* (ex.: 10% a.a.).
+   - **Vinculados à Inflação (NTN-B / Tesouro IPCA+):** Parte fixa + parte variável atrelada à inflação (ex.: 5% + IPCA).
+   - **Pós-Fixados (LFT / Tesouro Selic):** Rendem 100% da taxa Selic diária (13,75% a.a., após sinalização de pausa pelo Banco Central). Como no Brasil a Selic historicamente supera o retorno prefixado sem risco de marcação, o mercado exige LFTs.
+2. **O Salto Estrutural de 2022 a 2026 (`38% → 51,6%` em LFTs) e a Falácia do Alongamento:**
+   - Historicamente, as LFTs representavam entre **30% e 40%** da Dívida Pública Federal (**38%** em 2022). Entre 2022 e 2026, essa fatia saltou para **51,6%** (mais da metade da dívida!).
+   - **Por que o Tesouro aumentou a emissão de LFTs?** Porque o prazo médio da dívida brasileira é de **4 anos**, enquanto as novas LFTs são emitidas com vencimento de **73,6 meses (~6 anos)**. O Tesouro buscou elevar estatisticamente o prazo médio da dívida, mas caiu em uma falácia: como as LFTs têm liquidez diária imediata e alto retorno, ninguém as carrega até o vencimento de 6 anos — elas são resgatadas a qualquer momento, sem entregar segurança real de rolagem ao Estado.
+3. **A Metáfora da Pia, das Torneiras e da "Água Laranja com Fermento":**
+   - **As Torneiras na parede (Receita = Verde / Gasto = Vermelho):** Representam o fluxo primário ($R - G$). O debate público brasileiro está inteiramente empacado na guerra entre abrir ou arrancar a torneira da parede ("Tesouraço" vs. "Negacionismo").
+   - **A Água dentro da Pia (Água Azul vs. Água Laranja com Fermento):** Dentro da pia há duas camadas: uma água normal azul (dívida prefixada/IPCA) e **51,6% de água laranja ("água com fermento" = LFTs pós-fixadas)**. Essa água laranja tem vida própria e cresce sozinha a quase 14% ao ano (Selic = 13,75% a.a.) independentemente das torneiras. Mesmo fechando 100% as torneiras do gasto primário, a água com fermento continua crescendo sozinha e transbordando a pia — contaminando o crédito e gerando a onda atual de recuperações judiciais de empresas e quebradeira no agronegócio.
+4. **Caminhos de Saída (Atuar dentro da Pia via Coordenação e *Swap*):**
+   - Reduzir juros "na marra" não funciona (juros são endógenos e forçá-los equivale a quebrar contrato).
+   - O primeiro passo é deslocar o debate público **da torneira para dentro da pia**, combinando um ajuste fiscal equilibrado com a **redução gradual da emissão de LFTs** e/ou uma operação coordenada de **swap de dívida** (troca voluntária de LFTs por papéis com outra estrutura de remuneração, articulada entre Executivo, Congresso, BC e credores).
+
 

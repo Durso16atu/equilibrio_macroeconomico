@@ -14,10 +14,10 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "📍",
       shortTitle: "Base Nov/2026",
-      subtitle: "DBGG 82,9% | Selic 13,75%",
-      name: "Momento Atual: Brasil Pós-Eleição (Novembro de 2026)",
-      desc: "A Dívida Bruta (DBGG) chegou a 82,9% do PIB (R$ 10,9 tri; Líquida DLSP em 69,1%, pois a bruta carrega US$ 350 bi de reservas e swaps do BC). O primário é < 1% do PIB, mas os juros fazem a dívida crescer 12,7% a.a. contra 7% do PIB nominal (+5,7% a.a. — J’Accuse).",
-      historicalContext: "🎯 Desafio 2026–2030: Desarmar a bomba de juros (R$ 1,15–1,4 tri/ano) e o nó do câmbio futuro sem Tesouraço nem Negacionismo.",
+      subtitle: "DBGG 82,9% | LFT 51,6%",
+      name: "Momento Atual: A Pia e a 'Água com Fermento' (Novembro de 2026)",
+      desc: "A Dívida Bruta chegou a 82,9% do PIB e as LFTs (pós-fixadas à Selic de 13,75%) saltaram de 38% (2022) para 51,6% da dívida! É a 'água laranja com fermento' dentro da pia: cresce sozinha (+5,7% a.a. acima do PIB) mesmo se fecharmos as torneiras do primário.",
+      historicalContext: "🎯 Desafio 2026–2030: Sair da briga estéril das torneiras e atuar na pia (composição de 51,6% em LFTs, juros e câmbio futuro).",
       externalWind: 0,
       renuncias: 50,
       cortes: 20,
@@ -29,10 +29,10 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "🏆",
       shortTitle: "Missão: Equilíbrio",
-      subtitle: "CFMN + Ajuste Justo",
-      name: "Solução Calibrada: Coordenação CFMN + Revisão de Gastos Tributários",
-      desc: "Você cortou R$ 225 bi de renúncias fiscais ineficientes, preservou o investimento social e ativou a Coordenação CFMN (banda da Selic + reservas > US$ 350 bi + freio à alavancagem no câmbio futuro). Na descida coordenada, a duration curta das LFTs gera alívio imediato de ~4% do PIB!",
-      historicalContext: "✅ Resultado rumo a 2030: O diferencial r − g recua, os swaps cambiais deixam de pressionar a DBGG e o PIB (Y) cresce alargando o tanque!",
+      subtitle: "CFMN + Swap LFT",
+      name: "Solução Calibrada: Coordenação CFMN + Swap Gradual de LFTs + Revisão de Renúncias",
+      desc: "Você cortou R$ 225 bi de privilégios tributários, preservou o investimento social e ativou a Coordenação CFMN com troca gradual (swap) de LFTs. Na descida coordenada da Selic, a água com fermento recua de 51,6% rumo a ~35% e gera alívio imediato de ~4% do PIB!",
+      historicalContext: "✅ Resultado rumo a 2030: A pia deixa de transbordar sozinha, o diferencial r − g recua e o PIB (Y) cresce alargando o tanque!",
       externalWind: 0,
       renuncias: 225,
       cortes: 75,
@@ -44,10 +44,10 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "✂️",
       shortTitle: "Armadilha: Tesouraço",
-      subtitle: "Cortar social + Juro 14,25%",
-      name: "Extremo 1 ('Faria Lima'): Tesouraço no Social + Juro Real Excessivo",
-      desc: "Você manteve R$ 600–800 bi de privilégios tributários intactos, cortou investimentos e proteção social (G) e subiu a Selic para 14,25%. O denominador (PIB) encolheu e a conta de juros (R$ 1,4 tri na DBGG) continuou engolindo o orçamento.",
-      historicalContext: "🚨 Lição (J’Accuse & Kupfer): Nenhum corte primário compensa juros de 8,7% a 10,5% do PIB; cortar a base social deprime Y e eleva a razão Dívida/PIB.",
+      subtitle: "Fechar torneira + Selic 14,25%",
+      name: "Extremo 1 ('Faria Lima'): Fechar a Torneira Social Ignorando a Água com Fermento",
+      desc: "Você fechou a torneira social (G), manteve R$ 600–800 bi de renúncias e subiu a Selic para 14,25%. Como 51,6% da dívida na pia é 'água com fermento' (LFTs pós-fixadas), o estoque continuou crescendo sozinho enquanto o PIB encolheu!",
+      historicalContext: "🚨 Lição (Basicão 13/11 & J’Accuse): Não adianta arrancar a torneira da parede quando 51,6% da água dentro da pia cresce sozinha à taxa Selic.",
       externalWind: 0,
       renuncias: 25,
       cortes: 275,
@@ -60,9 +60,9 @@ window.MacroEngine = (function () {
       icon: "🙈",
       shortTitle: "Armadilha: Negacionismo",
       subtitle: "Gastar + Juro na marra",
-      name: "Extremo 2 ('Negacionismo Fiscal'): Ignorar a Dívida e Baixar Juros na Marra",
-      desc: "Você ignorou o ajuste pela receita e derrubou a Selic na marra para 7,5% sem coordenação (CFMN). No Brasil 'o rabo abana o cachorro': o desmonte de apostas no câmbio futuro (US$ 20–35 bi/dia na B3) disparou a PTAX, gerou perdas nos swaps do BC e explodiu a caldeira!",
-      historicalContext: "💥 Lição (De Bolle & Kupfer): Como o câmbio é formado no futuro com margem baixa, cortar juro sem âncora nem escudo cambial dispara a PTAX e a inflação.",
+      name: "Extremo 2 ('Negacionismo Fiscal'): Ignorar a Pia e Baixar Juros na Marra",
+      desc: "Você negou o problema da pia e tentou derrubar a Selic na marra para 7,5% sem coordenação (equivalente a quebrar contrato). O mercado futuro de câmbio (US$ 20–35 bi/dia na B3) disparou a PTAX, gerou perdas nos swaps do BC e explodiu a caldeira!",
+      historicalContext: "💥 Lição (De Bolle & Kupfer): Juros são endógenos; negar a água com fermento na pia leva todo mundo para o ralo via câmbio e inflação.",
       externalWind: 0,
       renuncias: 0,
       cortes: -125,
@@ -81,7 +81,7 @@ window.MacroEngine = (function () {
       subtitle: "Indexação & Dólar Futuro",
       name: "Memória Histórica (Anos 1980): Moratória, Hiperinflação e Origem dos Futuros",
       desc: "Nos anos 1980, o Brasil declarou moratória externa e viveu hiperinflação. Para evitar a dolarização selvagem na rua (como na Argentina), o país criou barreiras ao dólar físico à vista, mas gestou a indexação geral (LFTs) e a cultura de proteção em contratos futuros.",
-      historicalContext: "🧬 Cicatriz que ficou para hoje: Rolagem curta da dívida (3 anos) e hipertrofia do mercado futuro de câmbio na B3 frente a um mercado à vista minúsculo.",
+      historicalContext: "🧬 Cicatriz que ficou para hoje: Rolagem curta da dívida e hipertrofia do mercado futuro de câmbio na B3 frente a um mercado à vista minúsculo.",
       externalWind: -1,
       renuncias: 0,
       cortes: -100,
@@ -94,9 +94,9 @@ window.MacroEngine = (function () {
       icon: "🛡️",
       shortTitle: "1994: Plano Real (URV)",
       subtitle: "Fim da Hiper + LFTs",
-      name: "Memória Histórica (1994): A Engenharia da URV e o Plano Real",
-      desc: "Para acabar com a hiperinflação sem congelar preços, o Plano Real criou uma moeda virtual (URV) que alinhou os preços relativos antes de virar o Real. A caldeira foi domada, mas a indexação dos títulos públicos à taxa Selic (o Tesouro Selic / LFT) sobreviveu.",
-      historicalContext: "🧬 Cicatriz que ficou para hoje: Vencemos a hiperinflação, mas mantivemos o 'Duto Tesouro Selic' que liga a taxa de juros diretamente ao estoque da dívida pública.",
+      name: "Memória Histórica (1994): A Engenharia da URV e a Sobrevivência das LFTs",
+      desc: "Para acabar com a hiperinflação sem congelar preços, o Plano Real criou a URV. A caldeira foi domada, mas os títulos pós-fixados à Selic (LFTs) sobreviveram — e entre 2022 e 2026 saltaram de 38% para 51,6% da dívida sob a falácia de alongar o prazo (6 anos).",
+      historicalContext: "🧬 Cicatriz que ficou para hoje: As novas LFTs têm vencimento de 73,6 meses (6 anos), mas liquidez diária: não compram segurança e dão vida própria à dívida.",
       externalWind: 0,
       renuncias: 75,
       cortes: 50,
@@ -143,7 +143,7 @@ window.MacroEngine = (function () {
     const scenario = SCENARIOS[activeScenarioId] || SCENARIOS.atual;
     const extWind = scenario.externalWind || 0;
 
-    // 1. Fluxo Primário (% do PIB): ~R$ 100 bi equivale a ~1% do PIB
+    // 1. Fluxo Primário (% do PIB): ~R$ 100 bi equivale a ~1% do PIB (As Torneiras da Pia)
     const esforcoFiscalPIB = (renuncias + cortes) / 100.0;
     const primario = -1.3 + esforcoFiscalPIB + (extWind * 0.25);
 
@@ -162,15 +162,20 @@ window.MacroEngine = (function () {
     }
     inflacao = Math.max(2.2, Math.min(18.0, inflacao));
 
-    // 4. Serviço de Juros da Dívida e Efeito Duplo da Duration Curta do Tesouro Selic ("Eu Acuso")
-    // Na subida sem reforma: contágio alto (~68%). Na descida coordenada (CFMN >= 60): a duration curta acelera o alívio fiscal!
+    // 4. Participação das LFTs ("Água Laranja com Fermento": 51,6% em Nov/2026 vs 38% em 2022)
+    // A coordenação CFMN + swap gradual reduz a fatia pós-fixada; juros extremos sem reforma aumentam a demanda por LFT
+    const lftShare = Math.max(30.0, Math.min(58.0,
+      51.6 - ((reforma - 20) * 0.24) + ((selic - 13.75) * 0.85)
+    ));
+
+    // Serviço de Juros da Dívida e Efeito Duplo da Duration Curta do Tesouro Selic ("Eu Acuso" & "Basicão 13/11")
     const fatorIndexacao = 0.68 - (reforma * 0.0032);
     const premioRisco = hiatoJuros < -1.5 ? Math.abs(hiatoJuros + 1.5) * 0.95 : 0;
     const bonusTransicaoCFMN = (reforma >= 60 && selic <= 11.25 && hiatoJuros >= -1.4) ? 0.65 : 0;
     const jurosFluxo = -Math.max(3.2, ((selic * fatorIndexacao) + premioRisco - bonusTransicaoCFMN));
     const nominal = primario + jurosFluxo;
 
-    // Estado do Duto Tesouro Selic: "alivio_cfmn" vs "drenagem_rentista"
+    // Estado do Duto Tesouro Selic: "alivio_cfmn" vs "drenagem_critica"
     const pipeFlowMode = (reforma >= 60 && Math.abs(jurosFluxo) <= 6.2 && hiatoJuros >= -1.4)
       ? "alivio_cfmn"
       : (Math.abs(jurosFluxo) >= 8.2 ? "drenagem_critica" : "neutro");
@@ -191,7 +196,6 @@ window.MacroEngine = (function () {
     pibGrowth = Math.max(-3.5, Math.min(5.2, pibGrowth));
 
     // Decomposição didática da Identidade Y = C + I + G + (X - M)
-    // Canal de Transmissão Monetária (De Bolle, Basicão: Política Monetária): ↑i encarece o crédito e reduz tanto C quanto I
     const custoCredito = (selic - 11.0);
     const compC = Math.max(45, Math.min(68, Math.round(
       62 - (custoCredito * 0.45) - (cortes > 100 ? (cortes - 100) * 0.03 : 0) - (inflacao > 5 ? (inflacao - 5) * 0.75 : 0)
@@ -211,12 +215,11 @@ window.MacroEngine = (function () {
     if (cortes > 75) coesao -= (cortes - 75) * 0.22;
     if (inflacao > 5.0) coesao -= (inflacao - 5.0) * 4.5;
     if (pibGrowth < 1.0) coesao -= (1.0 - pibGrowth) * 6.0;
-    // Drenagem regressiva: juros altos + renúncias intocadas comprimem coesão
     if (Math.abs(jurosFluxo) > 8.5 && renuncias < 100) coesao -= 4;
     coesao = Math.max(10, Math.min(96, Math.round(coesao)));
 
-    // 8. Prazo Médio de Rolagem da Dívida (em anos)
-    const matYears = Math.max(1.2, 3.0 + (reforma * 0.03) + (primario * 0.4) - (inflacao > 5 ? 1.0 : 0));
+    // 8. Prazo Médio Efetivo de Rolagem da Dívida (em anos; média atual ~3 a 4 anos apesar das LFTs de 6 anos)
+    const matYears = Math.max(1.2, 3.5 + (reforma * 0.025) + (primario * 0.35) - (inflacao > 5 ? 1.0 : 0));
 
     // 9. Saúde Geral (HP rumo a 2030)
     let hp = 87;
@@ -228,25 +231,25 @@ window.MacroEngine = (function () {
 
     // 10. Determinação do Modo de Operação / Diagnóstico Teórico Integrado
     let mode = "ok";
-    let statusText = "✅ Planta Estável: Coordenação CFMN & Crescimento Endógeno!";
-    let failureReason = "A revisão de privilégios (~R$ " + renuncias + " bi) somada à Coordenação CFMN (banda da Selic + reservas > US$ 350 bi + disciplina no câmbio futuro) permitiu reduzir a Selic com segurança. A duration curta das LFTs gerou alívio imediato (~4% do PIB), derrubando os juros para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravando o PIB (Y).";
+    let statusText = "✅ Pia Estabilizada: Coordenação CFMN & Swap Gradual de LFTs!";
+    let failureReason = "A revisão de privilégios (~R$ " + renuncias + " bi) somada à Coordenação CFMN e ao swap gradual reduziu a 'água com fermento' (LFTs recuando para " + lftShare.toFixed(1).replace(".", ",") + "% da dívida). Na descida coordenada da Selic, o gasto com juros caiu para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravou o PIB (Y).";
 
     if (cortes >= 175) {
       mode = "collapse_social";
-      statusText = "🚨 GAME OVER: Colapso da Ponte por Tesouraço!";
-      failureReason = "Ao cortar profundamente programas sociais e investimentos públicos (G), a demanda agregada (Y = C+I+G+X-M) despencou. O tanque do PIB estreitou, agravando o conflito distributivo (De Bolle & Kupfer) sem resolver a razão Dívida/PIB.";
+      statusText = "🚨 GAME OVER: Colapso da Ponte por Tesouraço nas Torneiras!";
+      failureReason = "Ao cortar profundamente programas sociais e investimentos (G), a demanda agregada (Y = C+I+G+X-M) despencou. Fechar a torneira não impediu a 'água com fermento' (" + lftShare.toFixed(1).replace(".", ",") + "% em LFTs pós-fixadas) de crescer sozinha na pia!";
     } else if (hiatoJuros < -1.75 || primario < -1.2) {
       mode = "collapse_boiler";
       statusText = "💥 GAME OVER: Explosão da Caldeira (Câmbio Futuro & Juro na Marra)!";
-      failureReason = "Baixar a Selic 'na marra' sem CFMN ou expandir déficit sem receita disparou apostas no mercado futuro de câmbio (US$ 20–35 bi/dia na B3 vs. US$ 1–3 bi à vista). O 'rabo abanou o cachorro': a PTAX saltou, os swaps cambiais do BC geraram perdas na DBGG e a caldeira inflacionária explodiu.";
+      failureReason = "Baixar a Selic 'na marra' sem CFMN ou expandir déficit sem receita disparou apostas no mercado futuro de câmbio (US$ 20–35 bi/dia na B3 vs. US$ 1–3 bi à vista). O 'rabo abanou o cachorro': a PTAX saltou, os swaps do BC geraram perdas na DBGG e a caldeira explodiu.";
     } else if (selic >= 13.25 && primario >= 0.2 && dividaProj >= 83.5) {
       mode = "warning";
-      statusText = "⚠️ Armadilha da 'Falsa Racionalidade' (r − g = +5,7% a.a.)";
-      failureReason = "Mesmo com esforço primário, manter a Selic em " + selic.toFixed(2).replace(".", ",") + "% drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB em juros via LFTs e eleva o custo de carregar as reservas na DBGG (Lara Resende — J’Accuse). Sem ativar o CFMN e reduzir a Selic rumo à banda potencial, o próprio juro expande a Dívida/PIB.";
+      statusText = "⚠️ Armadilha da 'Água com Fermento' (LFT " + lftShare.toFixed(1).replace(".", ",") + "% | r − g = +5,7%)";
+      failureReason = "Você fechou as torneiras do primário, mas manteve a Selic em " + selic.toFixed(2).replace(".", ",") + "% com " + lftShare.toFixed(1).replace(".", ",") + "% da dívida em LFTs pós-fixadas (De Bolle 13/11 & J’Accuse). A 'água laranja com fermento' dentro da pia cresce sozinha e drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB!";
     } else if (dividaProj >= 85.5 || hp < 72) {
       mode = "warning";
-      statusText = "⚠️ Alerta de Fadiga: Drenagem de Juros (DBGG) & Conflito Distributivo";
-      failureReason = "O país não quebra porque emite dívida em Reais, mas o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB), o carregamento de reservas/swaps na DBGG (82,9% vs. 69,1% DLSP) e as renúncias fiscais empurram a dívida rumo a 86%–87%, comprimindo o orçamento público.";
+      statusText = "⚠️ Alerta na Pia: Água com Fermento (" + lftShare.toFixed(1).replace(".", ",") + "% LFT) & Drenagem de Juros";
+      failureReason = "O país não quebra porque emite dívida em Reais, mas os " + lftShare.toFixed(1).replace(".", ",") + "% de LFTs pós-fixadas ('água com fermento'), o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB) e as renúncias fiscais fazem a pia transbordar rumo a 86%–87% do PIB, provocando quebradeira e crise de crédito privado.";
     }
 
     return {
@@ -263,6 +266,7 @@ window.MacroEngine = (function () {
       dividaProj,
       coesao,
       matYears,
+      lftShare,
       hp,
       mode,
       pipeFlowMode,
