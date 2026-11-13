@@ -20,6 +20,9 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.transcript_monetaria_path = os.path.join(
             self.root, "docs", "transcricoes", "2026-11-06_basicao_politica_monetaria.txt"
         )
+        self.transcript_cambio_path = os.path.join(
+            self.root, "docs", "transcricoes", "2026-11-12_cambio_e_juros_kupfer.txt"
+        )
 
     def test_project_files_exist(self):
         for path in [
@@ -31,6 +34,7 @@ class TestBasicoEconomiaProject(unittest.TestCase):
             self.doc_path,
             self.transcript_path,
             self.transcript_monetaria_path,
+            self.transcript_cambio_path,
         ]:
             self.assertTrue(os.path.isfile(path), f"Arquivo ausente: {path}")
 
@@ -43,6 +47,8 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertGreaterEqual(
             len(historico_matches), 4, "Bloco 2 (historico) deve ter ao menos 4 fases"
         )
+        self.assertIn("J’Accuse", content)
+        self.assertIn("swaps", content)
 
     def test_reset_button_in_command_deck(self):
         with open(self.index_path, encoding="utf-8") as f:
@@ -52,6 +58,12 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertIn("Bloco 1: Momento Atual", html)
         self.assertIn("Bloco 2: Conhecimento Histórico", html)
         self.assertIn('href="glossario.html"', html)
+
+    def test_glossario_six_sources(self):
+        with open(self.glossario_path, encoding="utf-8") as f:
+            glossario = f.read()
+        self.assertIn("cambio-e-juros-com-jose-paulo-kupfer", glossario)
+        self.assertIn("jaccuse-a-proposal-to-eliminate-brazils", glossario)
 
 
 if __name__ == "__main__":

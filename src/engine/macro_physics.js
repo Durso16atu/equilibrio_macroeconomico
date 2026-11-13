@@ -14,10 +14,10 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "📍",
       shortTitle: "Base Nov/2026",
-      subtitle: "Dívida 82,9% | Selic 13,75%",
+      subtitle: "DBGG 82,9% | Selic 13,75%",
       name: "Momento Atual: Brasil Pós-Eleição (Novembro de 2026)",
-      desc: "A dívida subiu para 82,9% do PIB. Enquanto o déficit primário é < 1% do PIB, o serviço de juros consome ~9% do PIB (Falsa Racionalidade). A Selic real excessiva inunda a dívida via Tesouro Selic e transfere orçamento público para o rentismo.",
-      historicalContext: "🎯 Desafio 2026–2030: Estancar a drenagem de ~9% do PIB em juros e revisar privilégios tributários sem destruir os pilares sociais nem explodir a caldeira.",
+      desc: "A Dívida Bruta (DBGG) chegou a 82,9% do PIB (R$ 10,9 tri; Líquida DLSP em 69,1%, pois a bruta carrega US$ 350 bi de reservas e swaps do BC). O primário é < 1% do PIB, mas os juros fazem a dívida crescer 12,7% a.a. contra 7% do PIB nominal (+5,7% a.a. — J’Accuse).",
+      historicalContext: "🎯 Desafio 2026–2030: Desarmar a bomba de juros (R$ 1,15–1,4 tri/ano) e o nó do câmbio futuro sem Tesouraço nem Negacionismo.",
       externalWind: 0,
       renuncias: 50,
       cortes: 20,
@@ -31,8 +31,8 @@ window.MacroEngine = (function () {
       shortTitle: "Missão: Equilíbrio",
       subtitle: "CFMN + Ajuste Justo",
       name: "Solução Calibrada: Coordenação CFMN + Revisão de Gastos Tributários",
-      desc: "Você cortou R$ 225 bi de renúncias fiscais ineficientes, preservou o investimento social e ativou a Coordenação Fiscal-Monetária (CFMN + Meta 4% + Escudo Cambial). Na descida coordenada, a duration curta do Tesouro Selic gera alívio fiscal imediato!",
-      historicalContext: "✅ Resultado rumo a 2030: O serviço de juros recua fortemente, o PIB (Y) cresce alargando o tanque e o conflito distributivo é desarmado!",
+      desc: "Você cortou R$ 225 bi de renúncias fiscais ineficientes, preservou o investimento social e ativou a Coordenação CFMN (banda da Selic + reservas > US$ 350 bi + freio à alavancagem no câmbio futuro). Na descida coordenada, a duration curta das LFTs gera alívio imediato de ~4% do PIB!",
+      historicalContext: "✅ Resultado rumo a 2030: O diferencial r − g recua, os swaps cambiais deixam de pressionar a DBGG e o PIB (Y) cresce alargando o tanque!",
       externalWind: 0,
       renuncias: 225,
       cortes: 75,
@@ -46,8 +46,8 @@ window.MacroEngine = (function () {
       shortTitle: "Armadilha: Tesouraço",
       subtitle: "Cortar social + Juro 14,25%",
       name: "Extremo 1 ('Faria Lima'): Tesouraço no Social + Juro Real Excessivo",
-      desc: "Você manteve R$ 600–800 bi de privilégios tributários intactos, cortou investimentos e proteção social (G) e subiu a Selic para 14,25%. O denominador (PIB) encolheu e a conta de juros continuou engolindo o orçamento (conflito distributivo regressivo).",
-      historicalContext: "🚨 Lição (Lara Resende & Kupfer): Nenhum corte primário compensa juros reais de ~9% do PIB; cortar a base social deprime Y e eleva a razão Dívida/PIB.",
+      desc: "Você manteve R$ 600–800 bi de privilégios tributários intactos, cortou investimentos e proteção social (G) e subiu a Selic para 14,25%. O denominador (PIB) encolheu e a conta de juros (R$ 1,4 tri na DBGG) continuou engolindo o orçamento.",
+      historicalContext: "🚨 Lição (J’Accuse & Kupfer): Nenhum corte primário compensa juros de 8,7% a 10,5% do PIB; cortar a base social deprime Y e eleva a razão Dívida/PIB.",
       externalWind: 0,
       renuncias: 25,
       cortes: 275,
@@ -61,8 +61,8 @@ window.MacroEngine = (function () {
       shortTitle: "Armadilha: Negacionismo",
       subtitle: "Gastar + Juro na marra",
       name: "Extremo 2 ('Negacionismo Fiscal'): Ignorar a Dívida e Baixar Juros na Marra",
-      desc: "Você ignorou o ajuste pelo lado da receita, expandiu gastos sem âncora e derrubou a Selic na marra para 7,5% sem coordenação institucional (CFMN). A fuga de carry-trade desancorou o câmbio e explodiu a caldeira inflacionária!",
-      historicalContext: "💥 Lição de Engenharia: Baixar juro 'na marra' sem âncora fiscal nem blindagem cambial dispara o prêmio de risco e força juros ainda maiores depois.",
+      desc: "Você ignorou o ajuste pela receita e derrubou a Selic na marra para 7,5% sem coordenação (CFMN). No Brasil 'o rabo abana o cachorro': o desmonte de apostas no câmbio futuro (US$ 20–35 bi/dia na B3) disparou a PTAX, gerou perdas nos swaps do BC e explodiu a caldeira!",
+      historicalContext: "💥 Lição (De Bolle & Kupfer): Como o câmbio é formado no futuro com margem baixa, cortar juro sem âncora nem escudo cambial dispara a PTAX e a inflação.",
       externalWind: 0,
       renuncias: 0,
       cortes: -125,
@@ -78,10 +78,10 @@ window.MacroEngine = (function () {
       block: "historico",
       icon: "🕰️",
       shortTitle: "Anos 1980: Moratória",
-      subtitle: "Década Perdida & Indexação",
-      name: "Memória Histórica (Anos 1980): Moratória da Dívida e Hiperinflação",
-      desc: "Nos anos 1980, o Brasil declarou moratória (deixou de pagar a dívida externa) e enfrentou 25 anos de hiperinflação. Para a economia funcionar, criamos a 'correção monetária' (indexação geral de contratos e títulos públicos).",
-      historicalContext: "🧬 Cicatriz que ficou para hoje: Todo país que já deu moratória paga prêmio de risco maior e só consegue rolar dívida em prazo curto (3 anos no Brasil vs. décadas no Japão).",
+      subtitle: "Indexação & Dólar Futuro",
+      name: "Memória Histórica (Anos 1980): Moratória, Hiperinflação e Origem dos Futuros",
+      desc: "Nos anos 1980, o Brasil declarou moratória externa e viveu hiperinflação. Para evitar a dolarização selvagem na rua (como na Argentina), o país criou barreiras ao dólar físico à vista, mas gestou a indexação geral (LFTs) e a cultura de proteção em contratos futuros.",
+      historicalContext: "🧬 Cicatriz que ficou para hoje: Rolagem curta da dívida (3 anos) e hipertrofia do mercado futuro de câmbio na B3 frente a um mercado à vista minúsculo.",
       externalWind: -1,
       renuncias: 0,
       cortes: -100,
@@ -93,9 +93,9 @@ window.MacroEngine = (function () {
       block: "historico",
       icon: "🛡️",
       shortTitle: "1994: Plano Real (URV)",
-      subtitle: "Fim da Hiper + Juro Alto",
+      subtitle: "Fim da Hiper + LFTs",
       name: "Memória Histórica (1994): A Engenharia da URV e o Plano Real",
-      desc: "Para acabar com a hiperinflação sem congelar preços, o Plano Real criou uma moeda virtual (URV) que alinhou os preços relativos antes de virar o Real. A caldeira foi domada, mas a indexação dos títulos públicos à taxa Selic (o Tesouro Selic) sobreviveu.",
+      desc: "Para acabar com a hiperinflação sem congelar preços, o Plano Real criou uma moeda virtual (URV) que alinhou os preços relativos antes de virar o Real. A caldeira foi domada, mas a indexação dos títulos públicos à taxa Selic (o Tesouro Selic / LFT) sobreviveu.",
       historicalContext: "🧬 Cicatriz que ficou para hoje: Vencemos a hiperinflação, mas mantivemos o 'Duto Tesouro Selic' que liga a taxa de juros diretamente ao estoque da dívida pública.",
       externalWind: 0,
       renuncias: 75,
@@ -107,11 +107,11 @@ window.MacroEngine = (function () {
       id: "boom2000",
       block: "historico",
       icon: "🚀",
-      shortTitle: "2003–2010: Commodities",
-      subtitle: "Vento Externo & PIB Alto",
-      name: "Memória Histórica (2003–2010): O Superciclo Mundial de Commodities",
-      desc: "Durante os dois primeiros governos Lula, a economia mundial e a China cresciam acelerado comprando matérias-primas. O denominador da fração (PIB) crescia tanto que a razão Dívida/PIB caía mesmo com o gasto subindo.",
-      historicalContext: "🧬 Cicatriz que ficou para hoje: Criou a ilusão em parte do debate de que 'basta crescer que a dívida se resolve sozinha', esquecendo que o vento externo favorável acabou.",
+      shortTitle: "2002–2010: FMI & Boom",
+      subtitle: "Swaps (2002) & Reservas",
+      name: "Memória Histórica (2002–2010): Acordo FMI (Swaps Cambiais) e Boom de Commodities",
+      desc: "Na crise de 2002, o FMI proibiu queimar reservas à vista e o BC passou a intervir no câmbio futuro via swaps cambiais. Em seguida (2003–2010), o boom de commodities fez o PIB crescer e permitiu acumular > US$ 350 bi em reservas (cujo custo de carregamento entra na DBGG).",
+      historicalContext: "🧬 Cicatriz que ficou para hoje: O BC assumiu o risco cambial via swaps na B3 e o carregamento das reservas passou a inflar a Dívida Bruta (DBGG vs. DLSP).",
       externalWind: 2,
       renuncias: 150,
       cortes: 50,
@@ -229,7 +229,7 @@ window.MacroEngine = (function () {
     // 10. Determinação do Modo de Operação / Diagnóstico Teórico Integrado
     let mode = "ok";
     let statusText = "✅ Planta Estável: Coordenação CFMN & Crescimento Endógeno!";
-    let failureReason = "A revisão de privilégios tributários (~R$ " + renuncias + " bi) somada à Coordenação Fiscal-Monetária (CFMN) permitiu reduzir a Selic com segurança. A duration curta do Tesouro Selic funcionou a favor na descida, derrubando o gasto com juros para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravando o PIB (Y).";
+    let failureReason = "A revisão de privilégios (~R$ " + renuncias + " bi) somada à Coordenação CFMN (banda da Selic + reservas > US$ 350 bi + disciplina no câmbio futuro) permitiu reduzir a Selic com segurança. A duration curta das LFTs gerou alívio imediato (~4% do PIB), derrubando os juros para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravando o PIB (Y).";
 
     if (cortes >= 175) {
       mode = "collapse_social";
@@ -237,16 +237,16 @@ window.MacroEngine = (function () {
       failureReason = "Ao cortar profundamente programas sociais e investimentos públicos (G), a demanda agregada (Y = C+I+G+X-M) despencou. O tanque do PIB estreitou, agravando o conflito distributivo (De Bolle & Kupfer) sem resolver a razão Dívida/PIB.";
     } else if (hiatoJuros < -1.75 || primario < -1.2) {
       mode = "collapse_boiler";
-      statusText = "💥 GAME OVER: Explosão da Caldeira (Juro na Marra / Sem Âncora)!";
-      failureReason = "Baixar a Selic 'na marra' sem coordenação institucional (CFMN) ou expandir déficit sem receita provocou fuga de capitais e disparada do prêmio de risco. Como o Brasil rola a dívida em 3 anos, a caldeira inflacionária explodiu.";
+      statusText = "💥 GAME OVER: Explosão da Caldeira (Câmbio Futuro & Juro na Marra)!";
+      failureReason = "Baixar a Selic 'na marra' sem CFMN ou expandir déficit sem receita disparou apostas no mercado futuro de câmbio (US$ 20–35 bi/dia na B3 vs. US$ 1–3 bi à vista). O 'rabo abanou o cachorro': a PTAX saltou, os swaps cambiais do BC geraram perdas na DBGG e a caldeira inflacionária explodiu.";
     } else if (selic >= 13.25 && primario >= 0.2 && dividaProj >= 83.5) {
       mode = "warning";
-      statusText = "⚠️ Armadilha da 'Falsa Racionalidade' (Juros Alimentando a Dívida)";
-      failureReason = "Mesmo com esforço primário positivo, manter a Selic em " + selic.toFixed(2).replace(".", ",") + "% drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB em juros via Tesouro Selic (Lara Resende). Sem ativar a Coordenação CFMN e reduzir a Selic para a banda estrutural, o próprio juro impede a queda da Dívida/PIB.";
+      statusText = "⚠️ Armadilha da 'Falsa Racionalidade' (r − g = +5,7% a.a.)";
+      failureReason = "Mesmo com esforço primário, manter a Selic em " + selic.toFixed(2).replace(".", ",") + "% drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB em juros via LFTs e eleva o custo de carregar as reservas na DBGG (Lara Resende — J’Accuse). Sem ativar o CFMN e reduzir a Selic rumo à banda potencial, o próprio juro expande a Dívida/PIB.";
     } else if (dividaProj >= 85.5 || hp < 72) {
       mode = "warning";
-      statusText = "⚠️ Alerta de Fadiga: Drenagem de Juros & Conflito Distributivo";
-      failureReason = "O país não quebra porque emite dívida em Reais, mas o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB) e os 'sacos de chumbo' das renúncias fiscais empurram a dívida rumo a 86%–87%, comprimindo o orçamento público.";
+      statusText = "⚠️ Alerta de Fadiga: Drenagem de Juros (DBGG) & Conflito Distributivo";
+      failureReason = "O país não quebra porque emite dívida em Reais, mas o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB), o carregamento de reservas/swaps na DBGG (82,9% vs. 69,1% DLSP) e as renúncias fiscais empurram a dívida rumo a 86%–87%, comprimindo o orçamento público.";
     }
 
     return {

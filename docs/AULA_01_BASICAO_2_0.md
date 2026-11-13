@@ -10,9 +10,10 @@ Este documento consolida as fontes primárias que fundamentam a física e os inv
 2. **André Lara Resende & Luiz Orenstein — *Juros do Banco Central: Falsa Racionalidade?***
    - **Veículo:** Substack (*Um Cético Esperançoso*) / CEBRI Conversa — 30/10/2026
    - **Link Oficial:** [https://andrelararesende.substack.com/p/juros-do-banco-central-falsa-racionalidade](https://andrelararesende.substack.com/p/juros-do-banco-central-falsa-racionalidade)
-3. **André Lara Resende — *Eu Acuso: Uma proposta para eliminar o desequilíbrio fiscal***
-   - **Veículo:** Substack (*Um Cético Esperançoso*) — Setembro/Outubro de 2026
-   - **Link Oficial:** [https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar](https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar)
+3. **André Lara Resende — *Eu Acuso / J’Accuse: Uma proposta para eliminar o desequilíbrio fiscal e os juros absurdos***
+   - **Veículo:** Substack (*Um Cético Esperançoso / A Hopeful Skeptic*) — Setembro de 2026
+   - **Link Oficial (PT):** [https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar](https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar)
+   - **Link Oficial (EN — *J’Accuse*):** [https://andrelararesende.substack.com/p/jaccuse-a-proposal-to-eliminate-brazils](https://andrelararesende.substack.com/p/jaccuse-a-proposal-to-eliminate-brazils)
 4. **Monica De Bolle & José Paulo Kupfer — *Juros, Dívida Pública e Política Fiscal***
    - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 05/11/2026 (~1h47min, `post_id: 223638242`)
    - **Link Oficial:** [https://bolle.substack.com/p/juros-divida-publica-e-politica-fiscal](https://bolle.substack.com/p/juros-divida-publica-e-politica-fiscal) (Nota: [https://substack.com/@bolle/note/p-223638242](https://substack.com/@bolle/note/p-223638242))
@@ -20,6 +21,10 @@ Este documento consolida as fontes primárias que fundamentam a física e os inv
    - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 06/11/2026 (~55min, `post_id: 223781201`)
    - **Link Oficial:** [https://bolle.substack.com/p/basicao-politica-monetaria](https://bolle.substack.com/p/basicao-politica-monetaria) (Nota: [https://substack.com/@bolle/note/p-223781201](https://substack.com/@bolle/note/p-223781201))
    - **Transcrição Integral Local:** [`docs/transcricoes/2026-11-06_basicao_politica_monetaria.txt`](transcricoes/2026-11-06_basicao_politica_monetaria.txt)
+6. **Monica De Bolle & José Paulo Kupfer — *Câmbio e Juros, com José Paulo Kupfer***
+   - **Veículo:** Live / Podcast no Substack (*Here’s a Thought | Pensando Alto*) — 12/11/2026 (~1h50min, `post_id: 224489807`)
+   - **Link Oficial:** [https://bolle.substack.com/p/cambio-e-juros-com-jose-paulo-kupfer](https://bolle.substack.com/p/cambio-e-juros-com-jose-paulo-kupfer) (Nota: [https://substack.com/@bolle/note/p-224489807](https://substack.com/@bolle/note/p-224489807))
+   - **Transcrição Integral Local:** [`docs/transcricoes/2026-11-12_cambio_e_juros_kupfer.txt`](transcricoes/2026-11-12_cambio_e_juros_kupfer.txt)
 
 ---
 
@@ -61,28 +66,36 @@ Este documento consolida as fontes primárias que fundamentam a física e os inv
 
 ---
 
-## 2. A Tese de André Lara Resende: "Falsa Racionalidade" e "Eu Acuso"
+## 2. A Tese de André Lara Resende: "Falsa Racionalidade" e "Eu Acuso / J’Accuse"
 
-As duas publicações de André Lara Resende no Substack (*Juros do Banco Central: Falsa Racionalidade?* — debate no CEBRI com Luiz Orenstein — e o ensaio *Eu Acuso: Uma proposta para eliminar o desequilíbrio fiscal*) fornecem o alicerce analítico para o **Duto Tesouro Selic** e a **Reforma de Governança Fiscal-Monetária** no simulador:
+As publicações de André Lara Resende no Substack (*Juros do Banco Central: Falsa Racionalidade?* — debate no CEBRI com Luiz Orenstein — e o manifesto *Eu Acuso / J’Accuse: A Proposal to Eliminate Brazil’s Absurd Interest Rates*) fornecem o alicerce analítico e quantitativo para o **Duto Tesouro Selic** e a **Coordenação CFMN** no simulador:
 
-### 2.1. O Paradoxo dos Juros como Causa do Desequilíbrio Fiscal ("Falsa Racionalidade")
-- **Diagnóstico:** O consenso convencional trata a taxa Selic real extraordinariamente alta (mais do dobro do crescimento nominal do PIB) como consequência inevitável do risco fiscal. Lara Resende inverte a causalidade: **com o serviço da dívida consumindo de 8,7% a 10% do PIB ao ano, a própria taxa básica de juros tornou-se a principal causa da trajetória explosiva da relação $\text{Dívida}/\text{PIB}$**.
-- **Inviabilidade do ajuste puramente primário:** Por mais draconiano que seja um corte de gastos primários ("Tesouraço"), nenhum ajuste primário consegue gerar um superávit de 4% a 5% do PIB sem jogar o país em profunda recessão (encolhendo o denominador $Y$).
-- **Dominância de Risco Endógena:** Juros excessivos que tornam a trajetória da dívida explosiva geram a própria desconfiança de solvência que dizem combater, pressionando o prêmio de risco e a inflação no longo prazo.
+### 2.1. Aritmética Explosiva da Dívida e o Paradoxo da "Falsa Racionalidade"
+- **Números da Dívida Bruta (DBGG) vs. Dívida Líquida (DLSP) em 2026:**
+  - **Dívida Bruta (DBGG):** **R$ 10,9 trilhões** (~82,5% a 82,9% do PIB), com custo médio de **12,68% a.a.**, gerando uma conta de juros anual de **R$ 1,4 trilhão (10,5% do PIB)**.
+  - **Dívida Líquida (DLSP):** Descontando a carteira do próprio Banco Central (dívida do Estado consigo mesmo), a DLSP é de **R$ 9,2 trilhões (69,1% do PIB)**, com conta de juros líquida de **R$ 1,15 trilhão/ano (8,7% do PIB)**.
+  - **Diferencial Explosivo ($r - g = +5,7\%$ a.a.):** Enquanto os juros sozinhos fazem a dívida bruta crescer **12,7% a.a.**, o PIB nominal cresce cerca de **7,0% a.a.** (< 3% real). A relação $\text{Dívida}/\text{PIB}$ cresce automaticamente à razão dessa diferença (**~5,7 pontos percentuais ao ano**), mesmo com o Brasil tendo um dos menores déficits primários do mundo (*IMF Fiscal Monitor*, abril de 2026).
+- **Achatamento da Curva de Phillips e a Tautologia das Expectativas:**
+  - Desde os anos 1990, a Curva de Phillips (relação inversa entre desemprego e inflação) tornou-se praticamente horizontal (*flat*). Sem esse canal empírico, os modelos DSGE dos bancos centrais caíram em um **raciocínio circular**: afirmam que as expectativas determinam a inflação e que as expectativas são formadas pelo próprio modelo.
+- **As 4 Acusações Formais (*J’Accuse*, em alusão a Émile Zola no Caso Dreyfus, 1898):**
+  1. **Ao Banco Central:** Por manter, em nome de uma teoria anacrônica, a taxa de juros que é a principal causa do desequilíbrio fiscal que diz combater.
+  2. **À Grande Imprensa:** Por repetir sem escrutínio que o problema está no gasto primário (embora o país gaste mal de forma patrimonialista em emendas parlamentares, penduricalhos do Judiciário e desonerações), quando a causa explosiva está nos juros.
+  3. **Aos Analistas do Mercado Financeiro:** Por confundirem os interesses dos rentistas com racionalidade econômica.
+  4. **Ao Consenso Confortável:** A todos que, sabendo que juros absurdos paralisam o país e agravam a concentração de renda, preferem o conforto do consenso ao desconforto da verdade.
 
 ### 2.2. Teoria Fiscal do Nível de Preços (TFNP), Efeito Neofisheriano e o Papel das LFTs (Tesouro Selic)
-- Apoiado na *Fiscal Theory of the Price Level* (John H. Cochrane, 2023) e na identidade de Fisher ($i = r + \pi$), Lara Resende destaca que:
-  - **Longo Prazo:** Com moeda endógena e reservas bancárias remuneradas (operações compromissadas), a inflação de longo prazo converge para a diferença entre a taxa nominal de juros e o crescimento real ($\pi = i - r$), desde que haja confiança na solvência intertemporal do Estado.
+- Apoiado na *Fiscal Theory of the Price Level* (John H. Cochrane, 2023) e nos artigos de Cochrane de setembro de 2026 (*Reasons to Lower Rates* / Saki Bigio & Eric Mengus), Lara Resende destaca que:
+  - **Longo Prazo:** Com moeda endógena e reservas bancárias remuneradas, a inflação de longo prazo converge para a diferença entre a taxa nominal de juros e o crescimento real ($\pi = i - r$), desde que haja confiança na solvência intertemporal do Estado.
   - **Curto Prazo e Canal Cambial:** Em economias abertas como o Brasil, cortes de juros sem coordenação podem causar saída de *carry-trade* especulativo e desvalorização cambial, gerando repique inflacionário de curto prazo.
-  - **A "Duration" Curta do Tesouro Selic (LFTs) na Transição:** Embora a indexação diária à Selic faça com que altas de juros inundem imediatamente o estoque da dívida, na direção oposta — **dentro de um regime coordenado de queda da Selic** — o fato de mais da metade da dívida estar em Tesouro Selic permite que a redução da Selic gere um alívio fiscal imediato (~4% do PIB ao ano ao reduzir o juro médio de ~13% para ~7,5%), sem elevar o valor presente redescontado da dívida.
+  - **A "Duration" Curta do Tesouro Selic (LFTs) na Transição:** Quanto mais curto o prazo médio (*duration*) da dívida, mais uma queda de juros reduz a inflação e o déficit no curto prazo. Como mais da metade da dívida brasileira está em LFTs (Tesouro Selic), **reduzir o custo médio da dívida de ~13% para 7,5% a.a. gera uma economia fiscal de ~4% do PIB ao ano** (reduzindo o déficit nominal de >10% para ~6% do PIB) imediatamente nas LFTs, sem elevar o valor presente da dívida.
 
 ### 2.3. A Proposta Institucional Concreta (Conselho Fiscal e Monetário Nacional — CFMN)
-Para evitar que a queda de juros seja percebida como "baixar juros na marra" (populismo monetário) e neutralizar os canais de pressão inflacionária de curto prazo, Lara Resende propõe uma arquitetura institucional em **3 pilares**:
-1. **Criação do Conselho Fiscal e Monetário Nacional (CFMN):** Órgão de coordenação transparente que define conjuntamente metas plurianuais (4 a 5 anos) tanto para o orçamento fiscal (racionalização da arrecadação/desonerações e controle de gastos de custeio) quanto para a política monetária.
+Para evitar que a queda de juros seja percebida como "baixar juros na marra" (populismo monetário) e neutralizar os dois canais de pressão inflacionária de curto prazo (canal fiscal e canal cambial), Lara Resende propõe **3 pilares**:
+1. **Criação do Conselho Fiscal e Monetário Nacional (CFMN):** Órgão de coordenação transparente que define conjuntamente metas plurianuais (4 a 5 anos) tanto para o orçamento fiscal (racionalização da arrecadação/desonerações e controle de gastos correntes e de capital) quanto para a meta de inflação e de juros.
 2. **Banda Estrutural para a Taxa Selic:** O Banco Central se comprometeria a manter a Selic dentro de um corredor balizado:
    - **Piso:** A meta de inflação (3% na formulação de Lara Resende; 4% na calibração de De Bolle).
-   - **Teto:** A taxa de crescimento nominal potencial da economia (meta de inflação + crescimento real potencial de ~2,5%, resultando em ~5,5% a 6,5% a.a., acrescido inicialmente de um *spread* transitório de segurança de 2%, iniciando em ~7,5% a.a.).
-3. **Neutralização Cambial via Reservas Internacionais:** Uso ativo das reservas internacionais (> US$ 350 bilhões) para suavizar volatilidades cambiais decorrentes da saída de capitais especulativos de *carry-trade* durante os 12 meses de transição.
+   - **Teto:** A taxa de crescimento nominal potencial da economia (meta de inflação + crescimento real potencial de ~2,5%, resultando em ~5,5% a 6,5% a.a., acrescido inicialmente de um *spread* transitório de segurança de 2% ao longo de 12 meses, iniciando em ~7,5% a.a.).
+3. **Neutralização Cambial via Reservas Internacionais:** Uso ativo das reservas internacionais (> US$ 350 bilhões) para suavizar volatilidades cambiais decorrentes da saída de capitais especulativos de *carry-trade* durante a transição.
 
 ---
 
@@ -114,3 +127,22 @@ Na aula *Basicão: Política Monetária* (06/11/2026), Monica De Bolle detalha a
 3. **Rigidez da Oferta no Curto Prazo vs. Destruição de Capacidade no Longo Prazo:**
    - No **curto prazo**, a curva de Oferta Agregada é fixa (há defasagens de ajuste na economia), fazendo o juro atuar exclusivamente comprimindo a Demanda Agregada.
    - No **longo prazo**, porém, manter a taxa de juros elevada por tempo excessivo deprime persistentemente o **Investimento produtivo ($I$)** (máquinas, infraestrutura e capacidade instalada), contraindo a própria **Oferta Agregada futura** — o que reduz o PIB potencial e torna a economia estruturalmente mais vulnerável à inflação.
+
+---
+
+## 5. A Jabuticaba do Câmbio Futuro, Swaps Cambiais e o Elo com a Dívida Bruta (Monica De Bolle & José Paulo Kupfer)
+
+Na live *Câmbio e Juros, com José Paulo Kupfer* (12/11/2026), De Bolle e Kupfer destrincham a anomalia estrutural do mercado de câmbio brasileiro e mostram como ela se conecta diretamente aos juros e à Dívida Bruta (DBGG):
+
+1. **"O Rabo Abana o Cachorro" — Mercado Futuro (B3) vs. Mercado à Vista:**
+   - Em quase todas as economias do mundo, a taxa de câmbio é formada no **mercado à vista** (oferta e demanda efetiva de moeda estrangeira via balanço de pagamentos).
+   - No Brasil, por herança da hiperinflação dos anos 1980 (quando o governo ergueu barreiras estritas contra a circulação física de dólar para evitar a dolarização selvagem vista na Argentina, mas permitiu contratos indexados na bolsa), o **mercado futuro de câmbio na B3 movimenta de US$ 20 bilhões a US$ 35 bilhões por dia** (um dos 3 maiores do mundo, por vezes superando os EUA, mesmo sem o Real ser moeda conversível), enquanto o **mercado à vista movimenta apenas de US$ 1 bilhão a US$ 3 bilhões por dia**.
+   - **Formação da PTAX por Leilão e Derivativos:** Como a liquidez está concentrada no futuro e a margem de garantia exigida na B3 é muito baixa, o preço do dólar no Brasil é determinado de trás para frente ("do sentido B para A"), fazendo com que desmontes de apostas especulativas (como no pós-segundo turno eleitoral) provoquem saltos abruptos no câmbio mesmo quando há entrada líquida positiva de dólares pelo balanço de pagamentos.
+2. **A Herança do Acordo com o FMI de 2002 e os *Swaps Cambiais*:**
+   - Na crise de 2002, com reservas escassas, o acordo com o FMI impôs um piso rígido proibindo o Banco Central de usar reservas líquidas à vista para defender o câmbio.
+   - A partir dali, o Banco Central brasileiro passou a intervir quase exclusivamente no mercado futuro por meio de **swaps cambiais** (ao contrário de pares emergentes como o México, que atuam no mercado à vista e só usam derivativos em choques extremos).
+3. **A Conexão Direta com a Dívida Bruta (DBGG vs. DLSP):**
+   - Ao ofertar *swaps cambiais*, **o Banco Central toma para si o risco cambial da operação**: as perdas com oscilações do câmbio e o elevado custo de carregamento das **reservas internacionais (> US$ 350 bilhões)** — essenciais como seguro contra crises externas — entram diretamente na **Dívida Bruta (DBGG, 82,9% do PIB)**, explicando por que a DBGG é significativamente maior que a **Dívida Líquida (DLSP, 69,1% do PIB)** destacada por André Lara Resende.
+4. **Dilema de Saída e Coordenação:**
+   - Simplesmente liberar contas em dólar para inflar o mercado à vista carrega o risco de **dolarização pela porta dos fundos** e perda de reservas. Por isso, a estabilização exige **coordenação institucional (CFMN)**, blindagem cambial responsável e aumento de margens/custos para mitigar a alavancagem excessiva no mercado futuro.
+

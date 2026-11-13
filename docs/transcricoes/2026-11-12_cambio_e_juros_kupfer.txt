@@ -1,0 +1,1533 @@
+[00:01] Gente, boa tarde, boa noite, bom dia, bem-vindos.
+[00:05] É um prazer estar aqui com vocês e sempre um prazer estar aqui com o meu querido Zé Paulo.
+[00:11] A gente tem feito essas lives aqui para destrinchar as jabuticabas brasileiras para vocês.
+[00:16] E não, isso não significa falar mal das jabuticabas,
+[00:20] é só que jabuticaba é uma fruta unicamente brasileira e algumas das coisas
+[00:24] que nós temos na nossa macroeconomia são como as jabuticabas,
+[00:28] elas são unicamente brasileiras, não é isso, Zé Paulo?
+[00:32] Tem gente que fica um perdido com a história das jabuticabas.
+[00:36] O problema, Monica, dessas jabuticabas é que o pessoal
+[00:42] que não está querendo discutir varre as ditacuzas para baixo do tapete.
+[00:49] Então aí é que é ruim e o que aconteceu agora é
+[00:55] um fenômeno que as jabuticabas Estão
+[01:00] no pé e as pessoas estão vendo a jabuticaba.
+[01:03] Acho que a jabuticaba está caindo na cabeça das pessoas.
+[01:07] Exatamente, exatamente.
+[01:08] A sorte, que é um negócio pequenininho, mas é um problema.
+[01:14] Eu tenho aqui em casa duas jabuticabeiras.
+[01:17] Em setembro, setembro, fim de setembro, elas dão a safra do ano.
+[01:23] É um transtorno, o que você faz com isso?
+[01:26] Geleia, não sei o quê, dá para todo mundo, a vizinhança inteira pega.
+[01:32] Jabuticaba é legal, mas é um problema.
+[01:35] É um problema.
+[01:36] É um problema.
+[01:37] Então, a jabuticaba de hoje, gente, é mercado de câmbio.
+[01:41] Agora, eu e o Zé Paulo vamos precisar que vocês prestem bastante atenção,
+[01:46] porque esse tema é bem mais complicado,
+[01:50] bem mais complexo e bem mais difícil de explicar do que as outras jabuticabas
+[01:56] sobre as quais a gente vem falando aqui.
+[01:59] Então, a gente até aqui falou muito com vocês sobre A política fiscal,
+[02:04] falamos muito sobre dívida pública,
+[02:05] falamos muito sobre composição da dívida pública e dissemos a vocês que a composição
+[02:11] da dívida pública brasileira com as LFTs, que agora já são mais da metade, Zé Paulo,
+[02:17] os últimos dados do Banco Central
+[02:20] estão em 51%,
+[02:23] e o plano do Tesouro permite que vá,
+[02:28] no momento, até 53%.
+[02:32] Record histórico.
+[02:37] Aliás, perdão, eu tive um chefe que dizia, se é recorde, tem que ser histórico, não fala.
+[02:43] É um fato. É recorde.
+[02:49] Mas enquanto essa parte da dívida pública também é complexa,
+[02:53] a gente consegue explicar e consegue fazer vocês entenderem mais diretamente
+[02:58] porque que essa composição é problemática.
+[03:00] Então é mais fácil explicar isso.
+[03:03] Câmbio é outro departamento, é mais complicado,
+[03:05] sobretudo o assunto que a gente vai tratar aqui hoje, que não é só câmbio,
+[03:10] é também o tipo de mercado de câmbio sobre o qual a gente tem que pensar.
+[03:14] E mercados de câmbio não são únicos, há vários tipos de mercados de câmbio.
+[03:20] Há dois principais quando a gente pensa em informação de preços e vínculos
+[03:25] com a economia, e esses são o mercado à vista e o mercado futuro.
+[03:31] O mercado à vista, só para dar essa definição inicial, Zé Paulo,
+[03:34] para a gente depois poder pular para dentro da conversa,
+[03:37] o mercado à vista é aquele em que você tem uma demanda por dólares,
+[03:43] uma oferta de dólares,
+[03:45] essa oferta de dólares ela vem precisamente dos fluxos do
+[03:54] Lembrem, balanços de pagamentos são todas aquelas transações que o Brasil conduz
+[03:59] com o resto do mundo, transações tanto comerciais quanto de investimento,
+[04:04] então as transações financeiras e as transações comerciais são todas contabilizadas
+[04:09] no balanço de pagamentos.
+[04:10] E, no final das contas, se há um fluxo maior de dólares
+[04:14] ou de outras moedas estrangeiras entrando no país por meio do balanço de pagamento,
+[04:19] aquilo tem um efeito ou deveria ter um efeito no preço daquela moeda,
+[04:24] no preço do dólar O câmbio é
+[04:29] o preço do dólar em reais ou o preço dos reais em dólar.
+[04:34] Tanto faz você olhar de uma forma quanto da outra,
+[04:37] a única coisa que muda é dependendo de como você Define esse preço,
+[04:41] se é o dólar em reais ou os reais em dólar,
+[04:45] isso muda a maneira como você define oscilações do câmbio, desvalorizações,
+[04:50] apreciações e tal.
+[04:52] Mas isso é muito técnico para hoje, isso vai para o basicão de amanhã.
+[04:55] Hoje o que eu queria que vocês entendessem é que o mercado à vista é aquele
+[04:59] em que dólares físicos e reais físicos estão trocando de mãos.
+[05:04] Então tem um equilíbrio no mercado à vista entre demanda e oferta.
+[05:08] Em tese, esse equilíbrio entre demanda e oferta,
+[05:11] quando você estabelece o equilíbrio, portanto um preço de equilíbrio,
+[05:15] esse preço de equilíbrio deveria ser a taxa de câmbio.
+[05:19] Mas não é isso que acontece no Brasil, porque no Brasil O preço, o câmbio,
+[05:24] o preço do real em dólares ou do dólar em reais não é formado no mercado à vista.
+[05:30] Ele é formado no mercado futuro.
+[05:33] E o mercado futuro é um mercado de derivativos, de opções.
+[05:38] Opções de compra, opções de venda.
+[05:40] E contratos.
+[05:41] E contratos de dólar.
+[05:43] Não é em dólar, não é físico.
+[05:46] Ele todo operado em reais, não entra dólar nesse mercado, mas...
+[05:52] É, que era a ponte que eu ia fazer agora.
+[05:55] No mercado à vista, você tem entradas de dólares e você tem trocas de dólares
+[06:02] e de reais que acontecem em tempo real.
+[06:05] Você tem o fluxo das moedas em tempo real.
+[06:08] No mercado futuro não é isso que acontece.
+[06:10] No mercado futuro você tem contratos que fixam
+[06:14] um preço futuro para taxa entre real
+[06:18] e dólar e não há troca de mãos, não há troca de dólares nas mãos das pessoas.
+[06:23] Não é isso que acontece.
+[06:24] O mercado futuro funciona de outra maneira.
+[06:27] Então, o vínculo do mercado futuro com o balanço de pagamentos do país,
+[06:31] que é por onde você deveria ver os efeitos macroeconômicos da política cambial,
+[06:36] Esse vínculo é menos direto e menos forte entre o mercado futuro e o balanço
+[06:43] de pagamentos do que entre o mercado à vista e o balanço de pagamentos.
+[06:47] Isso é muito importante porque isso afeta a maneira como a gente A gente percebe
+[06:52] a transmissão das flutuações cambiais na macroeconomia brasileira.
+[06:59] Ela não é da forma como os livros-textos tipicamente ensinam para a gente.
+[07:03] Eu vou usar isso aqui para fazer só um parênteses, Paulo, e eu vou passar a bola para você.
+[07:08] Muitos de vocês frequentemente me pedem indicações de livros de macroeconomia
+[07:13] para vocês acompanharem os basicões.
+[07:15] Eu já disse e vou repetir, não vou dar indicações de livros,
+[07:19] textos de economia para vocês por uma razão,
+[07:21] porque essas jabuticabas que nós estamos cobrindo aqui, eu e o Zé Paulo,
+[07:25] nessas muitas semanas e hoje inclusive, São unicamente brasileiras e, portanto,
+[07:31] não constam desses livros-textos.
+[07:33] Quando a gente estuda um livro-texto clássico de macroeconomia,
+[07:37] ele está feito e está moldado para um funcionamento da macroeconomia
+[07:41] que não é exatamente como funciona no Brasil.
+[07:44] Então, por essa razão, essas indicações de leitura, eu acho que, por hora,
+[07:49] tem que ficar de fora.
+[07:50] Com isso tudo, bola está com você, Zé Paulo.
+[07:53] Bom, a primeira coisa que eu ia dizer é que tem um ditado,
+[07:59] Um provérbio antiquíssimo que diz o seguinte,
+[08:05] o exercício de prever o dólar,
+[08:08] prever a taxa de câmbio, foi inventado para humilhar os economistas,
+[08:14] porque é a coisa mais difícil
+[08:18] e normalmente os economistas,
+[08:22] os especialistas,
+[08:23] os financistas que tentam prever como é que o O câmbio,
+[08:29] como é que o dólar vai se comportar à frente costuma dar errado
+[08:35] porque as variáveis
+[08:37] que interferem nessa curva
+[08:40] e nas variações de preço,
+[08:45] nas cotações, são inúmeras.
+[08:49] É uma coisa multifatorial, complicadíssima, depende de cada momento.
+[08:54] Então, câmbio é um negócio de fato Tem
+[09:01] a famosa frase do Simonsen também,
+[09:04] que a inflação aleja e o câmbio mata, depois a gente chega nela.
+[09:12] A questão cambial é sempre muito importante em economia,
+[09:18] porque numa economia aberta, numa economia que se relaciona com outros países,
+[09:26] A taxa de câmbio, que é o nome,
+[09:29] a taxa de troca entre as moedas desses países,
+[09:36] é um preço fundamental da economia.
+[09:41] Como a taxa de juros,
+[09:42] como os preços dos produtos no mercado, nos mercados,
+[09:49] como a Monica falou,
+[09:50] o câmbio é um preço fundamental do funcionamento Quando ele tem
+[09:58] um funcionamento anômalo, não é certo, não é errado,
+[10:02] é diferente dos outros lugares,
+[10:06] a coisa fica ainda mais complicada.
+[10:10] Os especialistas não são muitos que estudam o mercado de câmbio futuro
+[10:18] e as suas relações com o resto da economia.
+[10:24] Tem uma expressão comum dizendo o seguinte, no Brasil,
+[10:29] o mercado de câmbio,
+[10:32] no mercado de câmbio, o rabo abana o cachorro.
+[10:37] Porque o natural e o que ocorre em todos os demais países,
+[10:43] não há nenhum outro caso semelhante ao brasileiro,
+[10:49] a taxa é formada No mercado à vista,
+[10:53] como a Mônica disse, aí,
+[10:57] simplificando bastante, é que nem banana na feira, tem mais procura,
+[11:02] tem menos oferta, preço sobe, tem mais oferta, que é o fim da feira, menos procura,
+[11:08] o preço cai.
+[11:09] Não é igual à banana, mas na origem, na essência, é.
+[11:15] É muito mais complicado, evidentemente.
+[11:17] E no caso do Brasil, O que acontece por questões variadas,
+[11:22] a gente vai tentar falar aqui sobre elas, inclusive, muito fortemente,
+[11:28] questões institucionais.
+[11:31] Esse mercado futuro de câmbio, de contrato de câmbio,
+[11:35] que é concentrado na Bolsa Brasileira, na B3,
+[11:39] é lá que esse negócio é negociado,
+[11:44] tem uma liquidez, tem um volume Assim,
+[11:49] absurdamente maior do que do mercado à vista.
+[11:53] Normalmente, o mercado futuro de câmbio brasileiro, da B3,
+[11:59] movimenta por dia entre 20 e, quando está muito forte,
+[12:07] 35 bilhões de dólares por dia.
+[12:10] O mercado à vista movimenta de 1 a 3 bilhões.
+[12:15] Então, quando o mercado futuro está quieto, está calmo,
+[12:21] é seis vezes mais que ele negocia
+[12:26] por dia do que no mercado à vista.
+[12:31] Não só isso, esse mercado deste tamanho, agora vocês sentem na cadeira,
+[12:37] porque vocês vão cair para trás.
+[12:39] Este mercado deste tamanho do Brasil, Numa economia que,
+[12:46] pelo tamanho dela e pelo país que é,
+[12:50] é entre a décima e a oitava do mundo,
+[12:54] mas per capita está lá atrás.
+[12:57] Então, um país pobre, com pouco dinheiro e tudo mais,
+[13:02] comparado com os grandes países, grandes economias.
+[13:07] Este mercado brasileiro, de 20 a 30 bi por dia,
+[13:11] é Um dos três maiores de todo o mundo.
+[13:18] Não é raro que ele movimente mais,
+[13:21] seja o campeão mundial de negociação.
+[13:25] Vocês já pensaram nisso?
+[13:27] Alguém já imaginou que o Brasil teria um mercado de câmbio,
+[13:33] que não é de câmbio,
+[13:35] é de contratos de câmbio, de dólar.
+[13:39] O maior do mundo Maior do que o americano?
+[13:43] Pois é, e aqui eu quero sublinhar isso que o Zé Paulo acabou de falar,
+[13:47] porque o mercado brasileiro futuro, o mercado futuro de câmbio no Brasil,
+[13:53] ter esse tamanho todo, principalmente quando você põe ele lado a lado
+[13:58] dos Estados Unidos, é estarrecedor, porque a moeda americana,
+[14:03] como vocês todos sabem, como eu já falei para vocês aqui em várias ocasiões,
+[14:07] O dólar é a moeda de reserva internacional,
+[14:11] é uma moeda que é negociada no mundo inteiro livremente,
+[14:16] é uma moeda perfeitamente conversível,
+[14:19] significa que ela tem a aceitação em todas as praças e de todas as formas,
+[14:24] que ela pode ser utilizada para fundamentação Fundamentar
+[14:28] e denominar contratos diversos, não há limitações.
+[14:32] Isso é uma moeda de reserva internacional.
+[14:34] E ainda assim, o mercado futuro de câmbio, por vezes em volume,
+[14:39] supera o que acontece com o mercado futuro de câmbio em outras partes do mundo,
+[14:43] principalmente nos Estados Unidos.
+[14:46] Só para botar mais uma... E para terminar, passar para você, Mônica.
+[14:51] Ou seja, o mundo inteiro, não é só os brasileiros que precisam
+[14:57] O mundo inteiro opera nesse mercado.
+[15:02] Exato.
+[15:03] O mundo inteiro.
+[15:05] O real é uma arma, via contrato de câmbio,
+[15:11] é uma moeda negociada por todo mundo.
+[15:15] E isso tem consequências aí.
+[15:18] Agora nós vamos começar a falar sobre isso, né, Moni?
+[15:22] Isso. Mas antes da gente entrar nas consequências,
+[15:25] só uma nota adicional sobre isso tudo que a gente acabou de dizer
+[15:27] para as pessoas terem isso em conta.
+[15:30] O mercado futuro de câmbio brasileiro tem essa importância toda sem que o real seja
+[15:36] uma moeda conversível, o que em si é uma anomalia.
+[15:40] Porque o que é uma moeda conversível?
+[15:43] Uma moeda conversível é uma moeda que é aceita em todas as praças do mundo,
+[15:48] todas as praças financeiras do mundo, para denominar todo e qualquer contrato.
+[15:53] O real não é uma moeda conversível, não é uma moeda aceita por todo o mundo,
+[15:59] em qualquer praça financeira do mundo, seja lá para o que for.
+[16:03] O real não é isso.
+[16:05] E ainda assim, o mercado futuro de dólar
+[16:08] do Brasil tem esse imenso destaque internacional.
+[16:13] Então isso por si já caracteriza a anomalia.
+[16:16] Isso era o que a gente queria começar dizendo a vocês,
+[16:19] para que vocês soubessem do que a gente está falando aqui efetivamente.
+[16:27] Uma consequência, um reflexo direto disso,
+[16:31] vocês percebem lendo os jornais.
+[16:37] Sempre que tem um movimento mais forte,
+[16:42] mais esquisito com o dólar,
+[16:45] o real está lá como personagem, como protagonista.
+[16:49] Quando o dólar cai muito, cai em todo o mundo,
+[16:56] Não, eu vou inverter.
+[16:58] Quando o dólar sobe muito, por alguma razão, sobe no mundo inteiro,
+[17:03] em todas as moedas, tem uma tendência,
+[17:06] tem um momento de trajetória ascendente do dólar,
+[17:11] o real aparece nos jornais o seguinte,
+[17:14] o real é a moeda que mais desvalorizou
+[17:18] no mundo no último mês de outubro. Tudo bem.
+[17:24] E aí, de novo, num outro movimento desse tipo, aparece.
+[17:29] Real é a moeda que mais desvaloriza.
+[17:32] A gente lê e eu aposto que muitos têm na cabeça que o real é aquela coitadinha
+[17:38] de uma moeda que vive desvalorizando, que não tem força nas pernas.
+[17:45] Bom, acontece que esse é um problema, eu sou jornalista,
+[17:50] é um problema do jornalismo, eu já pensei.
+[17:53] Sobre isso, a minha explicação é o seguinte,
+[17:56] jornalista confunde a regra básica
+[18:01] do critério fundamental para saber
+[18:05] o que é notícia.
+[18:07] Então é o seguinte, para o jornalista e para todo mundo, notícia é informação ruim.
+[18:14] Notícia é uma coisa ruim, que é uma informação de um negócio ruim, e aí vira notícia.
+[18:21] Isso não é verdade.
+[18:23] Notícia é uma informação diferente do que é comum.
+[18:27] Porque o que é comum não é notícia, é só uma informação.
+[18:32] Então, a informação comum é quando as coisas
+[18:37] que todo mundo usa,
+[18:40] é quando as coisas dão errado.
+[18:42] Vocês também leem, ouvem, que quando tem um problema com petróleo,
+[18:49] que Petrobras tem um problema, Aparece lá,
+[18:53] Petrobras perdeu um coaquilhão em valor de mercado.
+[18:58] Na hora que a Petrobras se recupera ou está numa fase boa, não tem, é raro, tem,
+[19:03] mas é raro, a notícia com a informação de que a Petrobras aumentou o seu valor
+[19:10] de mercado.
+[19:11] As ações subiram, a empresa está em bom momento, coisa e tal.
+[19:14] Com o câmbio, com o dólar, a mesma coisa.
+[19:17] Não só o real é a moeda
+[19:20] que mais desvaloriza quando o dólar sobe no mundo,
+[19:25] como também, olha só, é a moeda que mais valoriza
+[19:29] quando o dólar cai.
+[19:32] Só que isso não é
+[19:36] uma informação noticiada ou é raramente.
+[19:40] É difícil ver uma notícia com a informação que o real é
+[19:44] a moeda neste momento Mais valorizado em todo o mundo.
+[19:49] Às vezes não é nem só no mundo das moedas emergentes.
+[19:52] Não, é no mundo inteiro.
+[19:54] Eu vou até pegar o gancho disso que você acabou de dizer para falar uma coisa para as pessoas.
+[20:00] Se a gente voltar no tempo, lá para 2011, 2012, 2013, naquela altura dali,
+[20:04] depois da crise financeira de 2008,
+[20:13] O Banco Central americano tinha tomado medidas extraordinárias e completamente fora
+[20:19] do que era antes o padrão da política monetária global,
+[20:22] Para solucionar a crise financeira de 2008.
+[20:25] Então, a ação extraordinária que o Fed fez,
+[20:29] ela gerou uma perturbação generalizada nos mercados
+[20:34] de moeda mundo afora e acabou
+[20:36] que ocasionou sim uma perda de valor do dólar.
+[20:42] O dólar sofreu uma espécie de desvalorização naquele período.
+[20:48] Naquele período, que alguns de vocês talvez se lembrem,
+[20:51] foi o período em que o nosso então ministro da Fazenda Guido Mantega declarou
+[20:57] que havia uma guerra cambial no mundo,
+[20:59] essa ideia de guerra cambial veio precisamente da ideia de que naquela altura,
+[21:06] quando o dólar caía no mundo inteiro,
+[21:08] o real estava entre as moedas que mais se valorizou naquele período.
+[21:15] E essa valorização do real ocasionou problemas,
+[21:19] porque quando o real se valoriza de forma extraordinária
+[21:24] e por um tempo mais prolongado, isso torna as exportações,
+[21:28] os produtos que o Brasil vende para o exterior mais caros,
+[21:32] então isso prejudica as exportações brasileiras.
+[21:35] E toda a ideia de guerra cambial àquela altura era os Estados Unidos estão fazendo
+[21:40] uma política monetária fora do comum, Isso está tendo consequências no dólar,
+[21:45] está tendo consequências em moedas diversas e o real está sendo a moeda
+[21:49] que está sendo mais afetada.
+[21:51] Isso tem tudo a ver com essa história de mercado futuro que a gente vai contar aqui.
+[21:55] Antes da gente entrar no mecanismo do mercado futuro que estão até pedindo com razão
+[22:01] como é que esse negócio funciona, é preciso também,
+[22:07] eu acho que a gente deve lembrar que o dólar é um negócio um pouco fetiche,
+[22:13] E a gente tem uma compreensão intuitiva que é o seguinte,
+[22:18] quando a moeda local,
+[22:20] no nosso caso, o real, está valorizada em relação ao dólar,
+[22:27] a gente olha e diz o seguinte, opa, a economia brasileira está forte.
+[22:34] A gente entende como um sinal de economia funcionando legal, funcionando bem,
+[22:40] a ponto A moeda local está forte
+[22:45] em relação à moeda reserva internacional,
+[22:48] que é o dólar.
+[22:49] Isto é uma verdade de 10%, não mais que isso.
+[22:55] Porque muitas vezes isso é produzido
+[23:02] por esses movimentos Globais e tal,
+[23:07] que não tem, de fato, a ver com a economia, com a atividade, com o entrego,
+[23:12] nada disso.
+[23:13] E, de outro lado, isso,
+[23:18] de fato, aumenta o poder aquisitivo, de certa maneira,
+[23:23] você viaja para fora e diz assim, poxa, está barato, está barato,
+[23:30] porque nós pensamos em reais.
+[23:32] A gente converte e diz assim, opa, como o real está muito valorizado, está tudo barato.
+[23:37] Sinal legal.
+[23:38] Mas isso pode ser péssimo, como se fosse se prolongar por muito tempo,
+[23:44] como a Mônica falou, para nossas exportações, que é parte do funcionamento,
+[23:51] e no nosso caso, importante, da economia
+[23:54] e dos empregos.
+[23:56] Nessa hora, você está importando mais, porque fica mais barato,
+[24:02] Você importar e tem mais dificuldade para exportar.
+[24:08] Então a balança comercial e em seguida o balanço de pagamento vão sofrer.
+[24:14] E aí lá na frente vai ter problema
+[24:18] com esse real muito valorizado e não pode funcionar assim.
+[24:24] É uma coisa que distorce o funcionamento da economia.
+[24:28] Então obviamente o ideal é o equilíbrio
+[24:31] Da moeda local em relação à moeda externa,
+[24:36] especialmente o dólar, que é a moeda reserva internacional,
+[24:41] é uma coisa difícil de você alcançar, além de ser difícil de você identificar,
+[24:47] cada um faz um cálculo, enfim, diferente, qual é o câmbio de equilíbrio,
+[24:54] aquele que equilibra exportações, importações, o funcionamento da economia, mas,
+[25:00] de fato, Câmbio muito valorizado,
+[25:05] não é bom, gera inflação, inflação na veia,
+[25:09] um monte de outros problemas, é perda de poder creditivo, etc.
+[25:14] E câmbio muito valorizado, idem.
+[25:18] Também não é uma... parece que é muito legal, mas não é muito legal.
+[25:25] Então, isso também tem que ficar nesse nosso contexto antes da gente Falar como
+[25:31] que esse mecanismo funciona, não é, Monica?
+[25:34] Isso, exatamente.
+[25:35] Então, vamos explicar para o pessoal como é que o mercado futuro funciona,
+[25:38] porque eu acho que tem muita gente aqui que não sabe, e como você mesmo observou,
+[25:42] já apareceram várias perguntas aqui das pessoas querendo entender como é que é isso.
+[25:46] Então, a primeira coisa que eu acho importante que todo mundo tenha em mente
+[25:49] a seguinte, A existência de um mercado futuro de câmbio não é o problema, tá?
+[25:55] Mercado futuro de câmbio existe em todos os países.
+[25:58] Não é que, ai meu Deus, o Brasil tem mercado futuro de câmbio, olha a anomalia.
+[26:02] Não.
+[26:04] O mercado futuro de câmbio existe em toda e qualquer parte. Por quê?
+[26:08] Porque é no mercado futuro de câmbio que você consegue fazer de uma forma melhor
+[26:14] as operações que a gente conhece como RED ou operações de proteção cambial.
+[26:20] Então, é dizer o seguinte, para todas aquelas pessoas, pessoas e empresas,
+[26:26] pensem num exportador.
+[26:28] Um exportador, quando um exportador Se você está fechando um contrato de exportação,
+[26:35] um contrato de exportação não é um contrato que você fecha de um dia para o outro.
+[26:39] Você não vai fechar o contrato de exportação e entregar os bens no dia seguinte.
+[26:43] Não é assim.
+[26:44] Por exemplo, o Brasil exporta soja.
+[26:48] Quando o Brasil fecha um contrato de exportação de soja,
+[26:52] o Brasil não está fechando aquele contrato para exportar no dia seguinte,
+[26:55] o Brasil está fechando aquele contrato para exportar quando houver a safra,
+[26:59] então para dali a meses.
+[27:03] No mercado futuro, qual é o serviço que o mercado futuro entrega?
+[27:09] O mercado futuro entrega o seguinte serviço, se ele não existisse,
+[27:14] o exportador que está tentando fechar um contrato para entrega da sua produção,
+[27:19] dali há meses, Esse exportador e o comprador do outro lado,
+[27:25] o país que está comprando, de fato, essa soja do Brasil, tanto um quanto o outro,
+[27:30] enfrentariam, na ausência do mercado futuro,
+[27:34] uma incerteza em relação a qual será o preço do dólar ou o preço do real, tanto faz,
+[27:41] como vocês quiserem pensar na taxa de câmbio, dali a alguns meses.
+[27:45] Porque ninguém consegue prever, como falava o Zé Paulo aqui,
+[27:48] Câmbio é uma coisa que tem
+[27:50] um comportamento extremamente complexo e idiosincrático.
+[27:56] Prever câmbio é uma coisa extremamente difícil.
+[27:59] Então ninguém consegue prever aonde o câmbio estará daqui a, por exemplo, três meses.
+[28:05] Então quando não existe mercado futuro de câmbio, fica todo mundo na mão,
+[28:09] porque fica todo mundo diante dessa incerteza do que vai ser o câmbio lá na frente
+[28:14] para você poder fechar essa compra.
+[28:16] Ou essa venda, dependendo de que lado da transação você está olhando.
+[28:22] Agora, para que serve o mercado futuro?
+[28:25] O mercado futuro serve precisamente como aquele entorno em que contratos
+[28:32] de câmbio serão negociados para garantir um preço dali a três meses.
+[28:38] Então, para um exportador de soja no Brasil, o que esse exportador faz?
+[28:43] Ele vai ao mercado,
+[28:45] ele opera no mercado de câmbio futuro Com contratos
+[28:50] que estabeleçam o preço daquela soja que ele vai vender
+[28:56] para o comprador externo dali a três meses.
+[28:59] Esse preço é fixado na data em que as partes concordam.
+[29:04] Que as partes entram no acordo nesse contrato.
+[29:08] Mas o preço efetivo é o que vai valer dali a três meses.
+[29:12] Esse preço, esse câmbio, ele fica fixado nesses contratos de derivativos.
+[29:18] Então com isso o exportador tem uma garantia do preço ao qual ele vai vender
+[29:25] e o comprador tem uma garantia do preço ao qual ele vai comprar.
+[29:29] Então o mercado futuro ele estabelece um tipo de proteção e dá um tipo de certeza
+[29:36] a transações que se não tivessem esse grau de certeza provavelmente não ocorreriam
+[29:42] na magnitude em que ocorre.
+[29:43] Então esse é um serviço que o mercado futuro de câmbio provê.
+[29:49] Um outro serviço que o mercado futuro de câmbio provê é semelhante,
+[29:54] é um serviço de hedge e de proteção, que é mais ou menos a mesma coisa.
+[29:58] Se você não quiser ficar diante da incerteza em relação à flutuação do câmbio,
+[30:03] você fecha um contrato futuro.
+[30:04] E um terceiro serviço que o Mercado Futuro de Câmbio fornece é
+[30:27] Ele é um mercado de apostas, como todo e qualquer mercado, tá?
+[30:31] Todos os mercados têm apostas, assim, não é que, ai, o mercado futuro, olha só,
+[30:35] o Brasil é um grande cassino.
+[30:37] Não!
+[30:38] Todos os mercados têm um componente de aposta,
+[30:41] mas no mercado futuro isso existe e isso tem um grande volume.
+[30:45] Então você tem lá pessoas, fundos e tudo mais, fundos, bancos e tal,
+[30:50] que estão operando operações, que estão operando Então, são esses três serviços.
+[30:56] É uma redução de incerteza que oferece serviços muito valiosos para os exportadores.
+[31:24] É um mercado que oferece proteção e RED para exportadores
+[31:28] e para quem não é exportador e oferece essas oportunidades de investimento.
+[31:37] Então, esse é o serviço do mercado de câmbio.
+[31:41] E como eu disse a vocês, RED é proteção.
+[31:44] Não precisa ninguém ficar aqui no chat traduzindo para mim, não.
+[31:46] Eu já falei.
+[31:47] RED é proteção.
+[31:49] Então, quando vocês ouvem assim, o mercado fornece RED.
+[31:53] Head significa proteção, é a palavra inglesa que significa precisamente essa...
+[31:58] É que você faz uma posição contrária à
+[32:04] que você está exposta para se essa posição
+[32:09] na hora, porque é tudo futuro, né?
+[32:12] Na hora que ela se concretizar, você tomar na cabeça,
+[32:17] do outro lado você se protegeu com contratos
+[32:21] na direção contrária E ele funciona
+[32:25] dos dois lados exatamente para isso, por isso que ele é um mercado,
+[32:30] por isso que ele tem liquidez para isso.
+[32:33] Então você se protege
+[32:36] do que possa acontecer com a posição em que você está exposto.
+[32:41] Você está vendido em dólar e aí
+[32:45] o dólar sobe e aí você Vai perder,
+[32:51] porque você vai entregar dólar a um preço mais baixo, agora ele vale mais.
+[32:57] Do outro lado, você se protegeu comprado em dólar.
+[33:03] Os termos, desculpa, não são fáceis,
+[33:07] mas é o jargão desse mercado.
+[33:11] Então, você está numa ponta vendida,
+[33:15] Em dólar ou em qualquer coisa que um mercado futuro aceite negociar
+[33:21] e aceita negociar um monte de coisas,
+[33:24] vocês não imaginam exatamente nesse mecanismo
+[33:29] de reduzir incertezas
+[33:32] que a Mônica falou.
+[33:34] Então você está de um lado exposto com, digamos,
+[33:39] o dólar vendido e no outro você está
+[33:43] no mesmo tamanho Com dólar comprado.
+[33:47] Quando a coisa se concretiza,
+[33:51] uma coisa compensa a outra e você sai limpo do mercado.
+[33:58] Aí o custo de você fazer essa proteção é que vai te dizer se vale a pena ou não.
+[34:05] O risco da operação e o custo dela vai te dizer se você faz a operação ou não.
+[34:12] Sobre custo, a Monica vai falar mais pra frente um pouco.
+[34:16] Um dos problemas do nosso mercado de câmbio futuro é que o custo
+[34:22] de manter posições é baixíssimo.
+[34:25] É menor do que em todo lugar do mundo e menor do que talvez devesse ser.
+[34:33] Eu tenho que fazer uma denúncia aqui, desculpa gente, é muito desagradável isso,
+[34:37] mas tem uma pessoa aqui nesse chat,
+[34:41] cuja arroba eu vou colocar na tela,
+[34:44] arroba rosoligo, E essa pessoa está querendo se passar por mim porque criou
+[34:51] um perfil no Substack com o meu nome.
+[34:53] Então, eu acabei de denunciar essa pessoa.
+[34:55] Você que está aqui na live, pode sair.
+[34:58] Você acabou de ser denunciado para o Substack.
+[35:00] E todo mundo que está aqui deve entrar e denunciar esse perfil.
+[35:03] Está aqui, na tela, para todo mundo.
+[35:08] Isso é grave, tá?
+[35:10] Isso é grave e gravíssimo.
+[35:11] Isso não é coisa que se faça.
+[35:14] Então, é inacreditável.
+[35:16] Realmente inacreditável.
+[35:19] O tipo de coisa que acontece aqui.
+[35:20] Bem, voltando à nossa discussão.
+[35:23] Então, pega o fio aí, Zé Paulo.
+[35:26] Então, eu estou pedindo para você explicar
+[35:30] como é que são as operações, enfim,
+[35:33] qual é o custo de você fazer proteção,
+[35:37] apostas nesse mercado futuro.
+[35:43] Então, o mercado futuro, portanto, ele opera dessa forma.
+[35:48] Há várias maneiras de a gente pensar no custo, mas tem um problema básico aqui,
+[35:52] que eu acho que é importante que todo mundo reconheça, que é o seguinte,
+[35:55] como o mercado futuro é um mercado de proteção ou um mercado de apostas,
+[36:01] ele tem esses serviços diversos que eu apresentei para vocês,
+[36:04] e isso significa que não há necessariamente uma conexão entre aquilo
+[36:11] que está acontecendo no mercado futuro e aquilo que está acontecendo na economia,
+[36:17] Muitas vezes as sinalizações que vem do mercado futuro, por exemplo,
+[36:21] uma desvalorização muito forte do real que acontece no mercado futuro,
+[36:27] isso muitas vezes não quer dizer absolutamente nada sobre o estado
+[36:32] da economia brasileira.
+[36:33] Então para dar um exemplo para vocês de algo que ocorreu há não muito tempo.
+[36:38] Logo depois do segundo turno, naquela segunda-feira,
+[36:42] depois do resultado das eleições,
+[36:44] a gente viu um dia de caos tanto
+[36:49] na bolsa brasileira quanto nos mercados futuros
+[36:53] de câmbio.
+[36:55] Aquele dia foi um verdadeiro banho de sangue, assim, generalizado.
+[36:58] As pessoas perderam muito dinheiro.
+[37:01] Aquilo ali refletia algo sobre a economia brasileira? Não.
+[37:07] Aquilo ali aconteceu precisamente porque no mercado financeiro
+[37:12] as pessoas haviam montado posições tanto na Bolsa quanto no mercado futuro
+[37:18] de câmbio fazendo apostas em diferentes cenários eleitorais,
+[37:24] apostas essas que não vingaram.
+[37:28] Então naquela segunda-feira,
+[37:30] quando as apostas que não vingaram tiveram de ser desfeitas,
+[37:35] havia um posicionamento no mercado futuro de câmbio, por exemplo,
+[37:40] que não era compatível com a estabilidade da moeda.
+[37:44] Então o que acabou acontecendo naquele dia foi que o desmonte de posições
+[37:50] no mercado futuro de câmbio levou
+[37:53] a uma desvalorização súbita do real em um dia.
+[37:59] O Brasil não tinha conexão alguma com o que estava acontecendo
+[38:03] na economia brasileira, porque uma semana antes o Brasil tinha recebido
+[38:08] um fluxo extraordinário de dólares que tinha entrado via balanço de pagamentos.
+[38:13] Mas aí eu volto ao que eu disse a vocês no início,
+[38:16] o balanço de pagamentos não está necessariamente conectado com o mercado futuro
+[38:21] de câmbio. Coisas que acontecem no mercado futuro
+[38:24] de câmbio não tão necessariamente refletindo entradas e saídas de dólar do país, tá?
+[38:31] E sim refletindo muito mais apostas e posições do mercado financeiro
+[38:37] que foram tomadas por um ou outro motivo.
+[38:40] Então isso é algo muito importante vocês terem na cabeça porque como no Brasil
+[38:44] o câmbio é determinado no mercado futuro e não no mercado à vista
+[38:49] como costuma ocorrer em outros países,
+[38:52] A gente fica com essa visão distorcida a respeito do que de fato está acontecendo
+[38:57] com a economia quando o câmbio sofre uma oscilação muito forte.
+[39:02] Às vezes essas oscilações fortes têm conexão, sim, com a macroeconomia do país,
+[39:08] mas muitas vezes elas não têm.
+[39:10] Até eu diria que na maioria das vezes, sobretudo em tempos mais recentes,
+[39:14] elas não têm, né, Zé Paulo?
+[39:16] É verdade.
+[39:18] Tinha entrado uma montanha de dólares,
+[39:21] não fazia nenhum sentido ter uma...
+[39:27] a cotação explodir 10%,
+[39:30] porque isso significa que estava faltando dólar.
+[39:35] Tinha gente querendo comprar e não tinha dólar, o preço subiu.
+[39:39] O preço subiu, ué, mas tinha dólar.
+[39:43] Então foi uma distorção.
+[39:48] Uma anomalia que foi bem identificada, mas que não é incomum nesse mercado.
+[39:55] Como a Monica disse, tem vezes e muitas vezes
+[40:00] que a oscilação da taxa de câmbio tem
+[40:03] a ver com a economia.
+[40:05] Mas tem esse mecanismo,
+[40:08] tem esse mercado anômalo que é
+[40:14] do sentido B para A e não de A para B.
+[40:18] Que produz essas distorções.
+[40:20] E aí a gente precisa ver como é que faz com isso.
+[40:24] Pois é, agora vamos falar um pouquinho, Zé Paulo.
+[40:26] Eu acho importante porque teve muita gente que perguntou isso, não hoje ainda,
+[40:30] mas outro dia quando eu estava falando algo semelhante sobre o mercado futuro.
+[40:35] Teve muita gente perguntando por que o mercado futuro no Brasil tem o tamanho que tem.
+[40:39] E aí eu acho que vale a pena a gente voltar ao histórico e dar essa visão para as pessoas.
+[40:44] Então, Conta, Monica, você conhece, você está até lá.
+[40:50] Então, o mercado futuro brasileiro,
+[40:55] ele tem a importância que tem e ele tem o tamanho que ele tem também por causa
+[41:00] do nosso histórico de instabilidade macroeconômica, tá?
+[41:05] O mercado futuro, efetivamente, só foi criado no início dos anos 90.
+[41:11] Antes do início dos anos 90 não havia um mercado futuro propriamente estabelecido
+[41:15] na Bolsa, conforme a gente conhece hoje em dia.
+[41:19] E os contratos futuros também não estavam tão bem estabelecidos quanto eles são hoje em dia.
+[41:25] Porém, na década de 80, quando a gente viveu lá os anos de hiperinflação
+[41:30] e tudo mais, o que havia num ambiente hiperinflacionário,
+[41:34] e como vocês podem imaginar, num ambiente de altíssima instabilidade macroeconômica,
+[41:40] que é isso que é um ambiente hiperinflacionário por definição,
+[41:44] está todo mundo procurando proteção, está todo mundo buscando formas de se proteger.
+[41:50] Para além disso, quando você vive num ambiente hiperinflacionário,
+[41:55] você sabe que você não pode ter confiança na sua própria moeda.
+[41:58] A sua própria moeda perde valor muito rápido por conta da hiperinflação.
+[42:03] Então, muitas vezes, você além de criar os tais mecanismos de indexação que eu
+[42:08] e o Zé Paulo já discutimos aqui com vocês várias vezes e que nós fizemos
+[42:12] para que nós nos defendêssemos dessa situação de hiperinflação,
+[42:16] A gente também criou muitos outros mecanismos
+[42:21] de ou indexação direta
+[42:23] ou indexação parcial ou mesmo denominação de certos contratos em dólar.
+[42:29] O Brasil funcionava assim, a gente não usava dólar no Brasil,
+[42:32] a moeda de curso forçado sempre foi a moeda nacional corrente,
+[42:36] que naquela época não era o real, a gente teve o cruzeiro, a gente teve cruzado,
+[42:39] a gente teve cruzado novo, aí vai,
+[42:42] mas a moeda de curso forçado era a moeda emitida pelo Banco Central, no entanto,
+[42:47] a gente tinha muitas denominações contratuais de nome.
+[42:50] Só para dar um destaque,
+[42:55] Naquele tempo, nos jornais, a gente escrevia em dólar.
+[43:00] A gente escrevia em dólar, botava a moeda do momento,
+[43:07] entre parênteses, em dólar.
+[43:09] Mais para frente, a gente botou o dólar na frente e a moeda do momento, entre parênteses.
+[43:16] Se não me engano, não tenho certeza que teria que checar,
+[43:19] os balanços das empresas vinham com uma coluna em dólar.
+[43:24] Para vocês verem o que a hiperinflação produzia no país.
+[43:30] Você não podia negociar dólar na rua,
+[43:36] quer dizer, podia na rua,
+[43:38] mas não nas instâncias regulares.
+[43:46] Mas o dólar estava já dominando,
+[43:50] porque a nossa moeda não tinha nem Como a gente saber que o valor
+[43:55] que ela representava, nem a representação dela a gente conseguia capturar, captar.
+[44:02] Então, tinha isso.
+[44:04] Então, era preciso também,
+[44:07] do ponto de vista dos governos, da institucionalidade,
+[44:12] criar barreiras monumentais para evitar que fossem feitos negócios em dólar.
+[44:21] Porque aí seria como a Argentina, em vários momentos,
+[44:26] uma dolarização selvagem que não tem como ter uma política econômica
+[44:32] que você possa conduzir minimamente para algum lugar.
+[44:37] Então, aos poucos foram sendo criados mecanismos,
+[44:42] tributos, barreiras De todo tipo,
+[44:47] para impedir, evitar que as pessoas conseguissem negociar em dólar.
+[44:55] Aí isso ficou só para as coisas por baixo do pano.
+[45:01] Isso tinha muito mais por baixo do pano.
+[45:05] Era muitíssimo difícil, era quase impossível,
+[45:08] com as barreiras que foram sendo criadas,
+[45:11] você conseguir fazer Negócios com dólar.
+[45:18] O resultado disso é que o mercado de dólar físico foi ficando clandestino.
+[45:26] Ele foi perdendo tamanho
+[45:32] e importância dentro das instituições,
+[45:36] dentro das regras.
+[45:38] Era tudo com doleiro, aí tinha dólar a cabo, dólar não sei o quê, dólar não sei o quê lá.
+[45:45] Por causa disso.
+[45:46] E aí a solução que vai aparecer, qual é?
+[45:50] Ó, é um lugar que você negocia dólar na moeda local.
+[45:56] É, que é o mercado futuro.
+[45:58] E aí surge esse mercado.
+[46:01] Numa situação que isso vai se aprofundando, a confusão vai se acelerando,
+[46:08] esse mercado vai crescendo.
+[46:10] Ele vai ficando hipertrofiado.
+[46:14] Porque ele vai ficando o único lugar capaz
+[46:19] e quem precisa legalmente negociar
+[46:24] com dólar tem o lugar onde ele possa operar.
+[46:31] E aí vai indo, vai indo, vai indo e isso a Monica vai contar melhor
+[46:35] até o Banco Central começa a negociar nesse mercado.
+[46:42] A operar a política monetária, a política cambial especialmente,
+[46:49] que é parte da política monetária, dentro desse mercado futuro.
+[46:53] E aí Monica explica melhor, tem o FMI no meio, tem um monte de coisa.
+[46:58] Então isso tudo, a gente teve esse histórico de bagunça macroeconômica,
+[47:04] com esse histórico de bagunça macroeconômica a gente criou Uma porção
+[47:08] de entraves naquilo que poderia ter sido um mercado à vista
+[47:12] que funcionasse minimamente bem,
+[47:14] mas ele não funciona bem até hoje porque ele é cheio de entraves,
+[47:18] entraves regulatórios, entraves tributários e tudo mais,
+[47:21] então o mercado à vista no Brasil de dólares físicos, como falou o Zé Paulo,
+[47:26] É um mercado muito pouco profundo, é um mercado muito raso,
+[47:30] tem muito pouca liquidez e acaba que o grosso das transações é de fato feito
+[47:34] no mercado futuro e é no mercado futuro que os preços se formam.
+[47:39] Tudo isso foi ganhando corpo e ganhando magnitude ao longo dos anos 90.
+[47:44] Quando a gente chega em 2002, em 2002, vocês vão lembrar,
+[47:49] 2002 foi um ano em que o Brasil quase teve uma...
+[47:54] O Brasil teve uma crise, mas poderia ter sido muito pior,
+[47:56] porque naquela altura havia inclusive um questionamento a respeito da capacidade
+[48:01] do Brasil honrar e suas próprias obrigações,
+[48:04] então havia um questionamento a respeito da capacidade de solvência do Brasil,
+[48:08] havia dúvidas em relação ao fato de se o Brasil ia ou não declarar uma moratória
+[48:14] da dívida, a Argentina tinha declarado moratória em 2001,
+[48:17] então havia esse fantasma aí nos assustando.
+[48:20] Foi também o ano Da eleição do Lula para o primeiro mandato,
+[48:25] os mercados ficaram extremamente nervosos, não só com a perspectiva política,
+[48:29] mas também com essa perspectiva econômica que estava muito bagunçada naquela altura.
+[48:34] E o Brasil, em 2002,
+[48:38] fez um acordo com o FMI.
+[48:42] E isso eu me lembro muito bem,
+[48:44] porque a grande negociação desse acordo com o FMI na época No dia
+[48:50] em que a delegação brasileira estava aqui em Washington negociando com o FMI
+[48:57] os termos do novo programa, eu estava presente não na negociação do Brasil,
+[49:03] mas era um fim de semana e tinha só
+[49:07] a delegação do Brasil e as pessoas do FMI
+[49:11] que trabalhavam no Brasil, No prédio do FMI e no outro lado tinha a delegação
+[49:17] do Uruguai e as pessoas que trabalhavam no Uruguai, dentre elas eu,
+[49:22] nesse mesmo prédio, negociando programas paralelos.
+[49:26] Porque foi uma época em que, não só por conta da crise da Argentina,
+[49:30] mas por conta de uma porção de fatores que estavam afetando
+[49:32] a América Latina naquele momento, vários países estavam em dificuldades.
+[49:36] O Brasil e o Uruguai estavam em dificuldades ao mesmo tempo.
+[49:40] Então nós estávamos negociando esses acordos Simultaneamente.
+[49:44] O acordo que foi negociado com o Brasil, naquela altura,
+[49:47] o Brasil tinha um nível relativamente baixo de reservas internacionais,
+[49:51] quase não tinha, na realidade, reservas internacionais.
+[49:55] E uma das coisas que a gente sempre faz nos programas do fundo,
+[49:58] eu trabalhei bastante tempo no FMI e vivi isso várias vezes em diferentes programas.
+[50:03] Uma das coisas que a gente faz em programas do fundo é que a gente estabelece,
+[50:09] não exatamente metas, mas a gente estabelece limites
+[50:13] para as reservas internacionais.
+[50:15] A gente não permite que as reservas internacionais flutuem abaixo de um determinado piso.
+[50:20] Porque toda a ideia de um programa do FMI é precisamente para dar solidez
+[50:25] e estabilidade aos fluxos de balanço de pagamentos dos países em questão.
+[50:32] O mandato principal do FMI é precisamente ajudar países que estejam em vias de ter
+[50:39] ou tendo já crises de balanço de pagamentos,
+[50:42] que afetam diretamente as reservas internacionais.
+[50:45] Era esse o caso do Brasil em 2002 e era esse o caso do Uruguai também em 2002.
+[50:50] Então, essas salvaguardas para as reservas internacionais
+[50:54] que são introduzidas nos programas do fundo,
+[50:56] elas foram introduzidas no programa com o Brasil de uma forma bem rígida.
+[51:00] As reservas brasileiras não podiam cair.
+[51:03] Para evitar, portanto, que você queimasse reservas tentando defender
+[51:09] uma determinada paridade, um determinado nível para a taxa de câmbio,
+[51:13] O programa do FMI introduziu obstáculos para que o Brasil utilizasse reservas
+[51:20] para esse propósito.
+[51:21] E daí em diante, o Banco Central passou a fazer intervenções no mercado de câmbio,
+[51:27] a atuação do Banco Central no mercado de câmbio no Brasil passou a ser feito
+[51:32] com um instrumento chamado de swap cambial.
+[51:36] O swap cambial é um instrumento derivativo,
+[51:40] é um instrumento que funciona apenas no mercado futuro,
+[51:44] não envolve uma troca efetiva de dólares,
+[51:49] então ele no final das contas não leva
+[51:54] a uma perda de reservas necessariamente,
+[51:57] na maioria dos casos ele não leva a uma perda de reservas,
+[52:00] mas continua sendo uma forma do Banco Central intervir Para conter
+[52:07] a volatilidade excessiva da moeda em momentos de altíssima volatilidade.
+[52:12] E essa participação do Banco Central no mercado futuro de câmbio,
+[52:17] que veio no bojo desse programa com FMI de 2002,
+[52:23] Fez com que o mercado futuro de câmbio, que ali já tinha uma enorme importância,
+[52:28] ganhasse mais importância ainda, porque essa é a anomalia brasileira.
+[52:32] O Banco Central brasileiro, nas suas intervenções corriqueiras,
+[52:37] não são aquelas intervenções para conter crises,
+[52:40] nas intervenções corriqueiras que todo o Banco Central faz para manejar liquidez,
+[52:45] O Banco Central Brasileiro, em vez de fazer isso no mercado à vista,
+[52:48] que é muito pequeno e pouco líquido,
+[52:50] o Banco Central Brasileiro faz isso no mercado futuro.
+[52:58] O Banco Central faz intervenções no mercado à vista, sim, usando reservas.
+[53:06] Quando ele usa reservas,
+[53:08] ele opera para Posso reduzir
+[53:13] a volatilidade da taxa
+[53:15] de câmbio, num dado momento, usando reservas.
+[53:19] No swap, ele não usa reservas, ele usa os contratos.
+[53:24] E ele faz tudo isso.
+[53:25] Mas eu queria fazer um pequeno recreio para dizer o seguinte.
+[53:31] Testemunha ocular desse momento dramático de 2002,
+[53:38] A situação era tão grave, tão complexa, era tão aguda a crise,
+[53:46] que as negociações
+[53:48] com o Brasil foram conduzidas pela vice-presidente do FMI.
+[53:54] A Anne Kruger era uma americana.
+[53:58] Alemã.
+[53:59] Ela é alemã.
+[54:02] Um leão de chácara.
+[54:03] Eu entrevistei ela, conversei com ela, e foi assim que me chamou mais atenção,
+[54:09] nunca esqueci o seguinte, o Lula não tinha sido eleito, era candidato,
+[54:16] e a Anne Kruger negociou com o Lula,
+[54:19] não só com o governo
+[54:21] Fernando Henrique,
+[54:22] mas foi negociar com o Lula para que ele prometesse, garantisse, cumprir o acordo.
+[54:30] Antes dele se eleger, ele não estava eleito, estava nas pesquisas,
+[54:35] estava bem posicionado, etc.
+[54:39] Mas o FMI, você vê, o FMI,
+[54:42] aquele monumento do capitalismo internacional,
+[54:48] negociou com um candidato, um cara que não tinha nenhuma função,
+[54:55] nenhum poder estabelecido, regulado, Institucionalmente.
+[55:01] É uma situação complicada, realmente, e muito diferente.
+[55:06] E a Anne Krugert foi lá e disse assim, não importa,
+[55:09] eu vou conversar com esse cisadão aí, porque se ele ganhar a eleição,
+[55:14] como é que fica o acordo que foi assinado com outro presidente?
+[55:21] Então, o Lula garantiu Não sei se foi junto,
+[55:25] acho que foi depois já da nossa carta aos brasileiros.
+[55:30] Ele garantiu que cumpriu o acordo e cumpriu. E cumpriu.
+[55:34] O acordo foi cumprido. Isso.
+[55:36] Mas nessa história do Banco Central passar a atuar diretamente,
+[55:40] a fazer suas intervenções mais diretamente no mercado futuro e menos
+[55:45] no mercado à vista, também deu um novo impulso para o mercado futuro.
+[55:51] E todas essas coisas contribuíram para que hoje a gente tenha essa situação
+[55:56] que o Zé Paulo descreveu muito bem como o rabo que abana o cachorro.
+[56:00] O mercado futuro que deveria ser um apêndice dos mercados de câmbio,
+[56:06] na realidade passa a ter uma centralidade
+[56:11] que não é representada dessa forma
+[56:13] em outras economias.
+[56:14] Em outros países o mercado futuro tem lá sua importância,
+[56:18] mas não é o mesmo tipo de importância que tem no Brasil.
+[56:21] Inclusive, Outros bancos centrais que até utilizam o mercado futuro
+[56:27] para fazer intervenções no mercado de câmbio,
+[56:30] tipicamente fazem isso de maneira muito pontual.
+[56:33] Então, o Banco Central da Índia, o Reserve Bank of India,
+[56:37] Faz esse tipo de intervenção no mercado futuro.
+[56:40] O Banco Central da Indonésia também faz esse tipo de intervenção no mercado futuro.
+[56:45] O Banco Central do México, o Banxico, de vez em quando faz essas intervenções no mercado futuro.
+[56:50] Mas não é sempre, é de vez em quando.
+[56:53] No Brasil é sempre.
+[56:56] As intervenções do Banco Central tipicamente se dão no mercado futuro.
+[57:01] Então fica dessa forma.
+[57:03] Agora aqui tem uma coisa importante para dizer a vocês que é a seguinte.
+[57:07] Quando o Banco Central intervém,
+[57:09] e amanhã no Basicão eu vou explicar para vocês exatamente como isso funciona,
+[57:12] mas quando o Banco Central intervém no mercado futuro de câmbio via,
+[57:18] por meio desses contratos de swap cambial,
+[57:21] o que o Banco Central está fazendo é tomando para si o risco cambial
+[57:27] de uma operação.
+[57:28] É dizer o seguinte, na ponta de quem toma o risco do câmbio está o Banco Central.
+[57:34] E ao assumir esse risco do câmbio, das oscilações do câmbio para cima e para baixo,
+[57:40] o Banco Central está assumindo tanto possíveis ganhos com as oscilações do câmbio,
+[57:46] quanto possíveis perdas com a oscilação do câmbio.
+[57:50] Esses ganhos e essas perdas se refletem na dívida pública do Brasil.
+[57:59] Então essa é a conexão que vocês têm que ter na cabeça.
+[58:02] Parece que já teve época que 30%
+[58:06] da dívida bruta
+[58:12] era reflexo
+[58:16] do movimento das reservas.
+[58:19] Isso.
+[58:20] Então as reservas estão,
+[58:25] o custo das reservas De manter essas reservas
+[58:30] que a gente mantém estão incluídas
+[58:35] naqueles não sei quantos trilhões que dão 80
+[58:38] e poucos por cento do PIB da dívida bruta.
+[58:43] Não está na dívida líquida.
+[58:46] Na dívida bruta.
+[58:50] Então isso também é bem lembrado porque nossa dívida bruta desse tamanho,
+[58:55] o problema Que vai estourar, que os juros nunca vão baixar e etc.
+[59:02] Tem a ver também com a necessidade da manutenção de reservas.
+[59:07] Vejam que a situação de livre inflação,
+[59:12] as instabilidades da nossa economia,
+[59:14] o que elas produzem de herança e de legado.
+[59:22] O que eu vou dizer agora é o seguinte,
+[59:24] eu acho que precisa ter 350 bilhões ou até mais em reservas cambiais, ok?
+[59:30] Em reservas internacionais.
+[59:32] Bom, isso bem estabelecido, eu vou dizer o seguinte,
+[59:36] todos os estudos que já foram feitos
+[59:40] e que são feitos em relação ao tamanho ótimo
+[59:44] de reservas cambiais de países, no caso do Brasil,
+[59:49] todos apontam
+[59:51] que a O nosso seguro contra
+[59:54] crises externas está muito acima
+[59:58] do que seria necessário para você ter uma segurança
+[01:00:05] de que não ia cair numa crise cambial.
+[01:00:13] Mas nós precisamos, mais do que os outros, mais do que os estudos
+[01:00:22] A gente precisa de mais robustez,
+[01:00:27] de mais segurança do que outros países,
+[01:00:33] por causa da nossa herança, da nossa história.
+[01:00:36] É mais ou menos como eu ouvi uma vez na Alemanha,
+[01:00:40] visitando uma usina nuclear que era o modelo para o programa brasileiro,
+[01:00:47] já tem mais de 50 anos.
+[01:00:50] Eu estava lá com o Executivos e os técnicos alemães que queriam vender,
+[01:00:56] já tinham vendido, mas queriam mostrar
+[01:00:59] como era bacana as usinas nucleares deles,
+[01:01:05] passou um avião meio baixo,
+[01:01:08] eu olhei para cima e um executivo percebeu
+[01:01:13] e falou assim, não se preocupe,
+[01:01:17] o nosso sistema De segurança prevê cinto e suspensórios.
+[01:01:23] Então, as nossas reservas são cinto e suspensórios
+[01:01:29] para garantir segurança diante
+[01:01:32] de uma história de instabilidade muito, muito,
+[01:01:37] muito grave e poder profunda.
+[01:01:44] Então essa situação anômala que a gente tem
+[01:01:49] com o mercado futuro tendo esse tamanho todo que ele tem
+[01:01:52] e tendo essa importância toda que tem,
+[01:01:54] acaba criando alguns problemas para nós em termos de condução de política econômica.
+[01:02:00] Então para a própria condução da política de juros,
+[01:02:02] muitas vezes o tamanho desse mercado é problemático,
+[01:02:05] porque de um lado é ele que está estabelecendo um preço O câmbio
+[01:02:10] que não necessariamente está vinculado com as entradas e saídas de dólares do país,
+[01:02:15] o que gera um descompasso que fica difícil de avaliar o que fazer
+[01:02:19] com a política monetária em circunstâncias em que o câmbio está indo
+[01:02:23] em uma ou outra direção, mas isso não tem nada a ver com o que está entrando
+[01:02:26] e saindo de dólares do país efetivamente.
+[01:02:29] Vocês vão entender isso melhor amanhã quando eu explicar como é que o mercado
+[01:02:33] de câmbio funciona no basicão de amanhã de tarde.
+[01:02:36] Mas fiquem com isso na cabeça como um primeiro ponto.
+[01:02:39] Segundo ponto é que dessa forma como a gente operacionaliza
+[01:02:44] o mercado futuro brasileiro e precisamente porque o Banco Central conduz
+[01:02:49] as intervenções de câmbio no mercado futuro,
+[01:02:53] O Banco Central tem um papel na participação desse mercado que acaba tendo reflexos
+[01:02:59] na dívida pública brasileira,
+[01:03:01] porque essas perdas e ganhos cambiais que vão parar no balanço do Banco Central,
+[01:03:06] em última análise, afetam precisamente a dívida pública.
+[01:03:09] Então, você acaba criando um nó Entre política de juros,
+[01:03:13] política cambial e já tem o nó da política fiscal, vocês estão percebendo?
+[01:03:17] Fica tudo enrolado.
+[01:03:19] O Brasil não tem um mecanismo de transmissão limpo de um lado para outro,
+[01:03:24] como a gente vê em livros, textos.
+[01:03:27] No Brasil é tudo embolado, é como se você tivesse um novelo,
+[01:03:31] está tudo enrolado uma coisa na outra.
+[01:03:34] A política fiscal está enrolada com a monetária, que está enrolada com a cambial,
+[01:03:37] está tudo misturado ali.
+[01:03:39] Então essa é a dificuldade.
+[01:03:40] Teve gente perguntando aqui, Zé Paulo, o que fazer para solucionar esse problema?
+[01:03:45] E essa é a pergunta, porque não é fácil solucionar esse problema.
+[01:03:51] Por exemplo, a solução Digamos clássica, seria o seguinte,
+[01:03:57] abrir contas em dólar para quem quisesse ter.
+[01:04:02] Aí o mercado
+[01:04:05] de câmbio à vista ia dar um salto,
+[01:04:10] ia ficar talvez mais interessante que o mercado futuro,
+[01:04:15] embora no mercado à vista,
+[01:04:17] se você for bancar 100 dólares, você tem que ter 100 dólares.
+[01:04:23] No mercado futuro, isso acho que a gente precisa explicar também como funciona,
+[01:04:29] Monica, antes de ver como sair desse buraco.
+[01:04:34] No mercado à vista, para cada 100 dólares que você compra ou vende,
+[01:04:38] você tem que ter 100 dólares.
+[01:04:40] No mercado futuro, você não precisa ter nem 100 reais
+[01:04:48] Fazer um contrato de 100 dólares,
+[01:04:52] você vai dar uma margem, ela é baixíssima,
+[01:04:56] não sei nem se chega a 10%, e você bota esse dinheiro lá, se for subindo,
+[01:05:03] se no dia seguinte subir, você tem que aumentar essa margem,
+[01:05:08] mas nessa proporção muito baixa, e você pode entrar, inclusive,
+[01:05:13] com títulos públicos,
+[01:05:14] você não precisa entrar nem com Então,
+[01:05:20] é um mercado poroso.
+[01:05:23] Dá para entrar, sair com pouca grana,
+[01:05:28] pouco dinheiro, como diz,
+[01:05:34] aplicado diretamente,
+[01:05:37] o que facilita muito e estimula que as pessoas operem Acima
+[01:05:43] dos limites até de prudência, porque é muito fácil. Exatamente.
+[01:05:49] E é fácil entrar, é fácil sair, ele é gigante, ultralíquido,
+[01:05:53] você compra e vende na hora, não tem que esperar nada, não tem D1, D2, D3,
+[01:06:00] coisa nenhuma, é um negócio fabuloso.
+[01:06:03] Então, também tem um problema de desenho desse mercado.
+[01:06:10] Sim.
+[01:06:11] Um mercado que aos poucos foi sendo regulado
+[01:06:16] para facilitar as operações,
+[01:06:19] para evitar confusão nessa história.
+[01:06:23] Ou seja, ele foi desenhado para facilitar as operações com câmbio,
+[01:06:29] mas ao ser desenhado para facilitar as operações com câmbio,
+[01:06:33] ele não está necessariamente desenhado para facilitar a condução
+[01:06:38] da política macroeconômica.
+[01:06:39] Exatamente.
+[01:06:41] Então, essa é a dificuldade.
+[01:06:43] Que tal você explicar como é que é feita a operação?
+[01:06:46] Como é que o sujeito compra os contratos ou vende os contratos?
+[01:06:52] Os derivativos ou as linhas de swap do Banco Central? Os derivativos, né?
+[01:06:58] Não.
+[01:07:02] Os exportadores...
+[01:07:03] Não é o
+[01:07:06] Banco Central.
+[01:07:07] O Banco Central está lá fazendo política cambial.
+[01:07:10] Perfeito, perfeito.
+[01:07:12] Eu vou falar isso, mas antes eu quero reconhecer a presença de uma pessoa muito importante.
+[01:07:17] Está aqui conosco, eu acabei de ver ela entrar, a Maria Luíza Bibiano.
+[01:07:21] A Maria Luíza é uma estudante e eu tive muito contato recente com ela,
+[01:07:28] porque ela e um grupo de De alunas amigas delas, elas participam de debates,
+[01:07:34] elas estudam no Ceará numa escola e elas participam de debates e tal
+[01:07:40] e a Maria Luiza é super interessada em assuntos econômicos e eu tive o enorme prazer
+[01:07:44] De ajudá-las nesses debates,
+[01:07:47] elas fizeram um debate sobre se o Brasil deveria ou não retaliar,
+[01:07:51] as tarifas dos Estados Unidos,
+[01:07:54] elas participaram também de um debate sobre imposto sobre grandes fortunas,
+[01:07:59] imposto sobre patrimônio e tal.
+[01:08:01] Eu acho sensacional que ela está aqui, então eu queria dar as boas-vindas para ela,
+[01:08:04] porque para mim foi um imenso prazer ajudá-las.
+[01:08:07] Mas então, gente, mercado de câmbio.
+[01:08:11] O mercado é futuro.
+[01:08:12] Como é que é um contrato futuro?
+[01:08:14] Eu fiz recentemente com a ajuda do pessoal do Contraponto,
+[01:08:18] na verdade foram eles que fizeram a animação,
+[01:08:20] eu fiz a explicação e eles fizeram a animação.
+[01:08:23] Eu expliquei um contrato futuro de câmbio a partir de uma feira.
+[01:08:31] Imagina se fosse possível você combinar
+[01:08:35] com um feirante lá na sua feira do bairro,
+[01:08:41] no fim de semana, seja lá quando for que a feira acontece,
+[01:08:44] Imagina se fosse possível você combinar que você ia comprar
+[01:08:49] as bananas daquele feirante, pensando em banana, pode ser qualquer outra coisa,
+[01:08:54] mas que você vai comprar aquelas bananas dali a um mês e você
+[01:08:57] e o feirante entram num acordo a respeito do preço que você vai pagar
+[01:09:02] por aquelas bananas dali a um mês.
+[01:09:05] No momento que vocês entram nesse acordo, vocês fizeram um contrato futuro.
+[01:09:10] O que esse contrato futuro faz?
+[01:09:12] Ele fixa um preço para a banana dali
+[01:09:16] a 30 dias E você, como comprador,
+[01:09:19] se compromete a comprar as bananas por aquele preço, e o vendedor, o feirante,
+[01:09:25] se compromete a vender as bananas pra você por aquele preço.
+[01:09:28] Significa que, se no meio do caminho tiver inflação de bananas,
+[01:09:33] e o preço das bananas subir,
+[01:09:35] você vai continuar pagando o preço que você combinou com o feirante,
+[01:09:38] porque é isso que tá no contrato.
+[01:09:40] Então não importa, se acontecer a inflação de bananas e nesses próximos 30 dias
+[01:09:45] as bananas dobrarem de preço,
+[01:09:48] você vai continuar pagando o preço que você concordou com o feirante.
+[01:09:51] E o feirante do mesmo modo vai receber o que ele combinou com você.
+[01:09:57] Isso vale na outra ponta também,
+[01:09:59] então isso te dá uma espécie de certeza a respeito do que você vai pagar dali
+[01:10:03] a 30 dias.
+[01:10:04] Para o feirante, isso também dá a ele uma segurança a respeito daquilo que ele vai receber.
+[01:10:09] Sim, se houver inflação de bananas,
+[01:10:11] ele vai receber menos pelas bananas do que ele receberia se ele tivesse feito
+[01:10:16] o contrato no à vista, então no momento,
+[01:10:19] em vez de fazer um contrato Um contrato futuro como esse que eu acabei de descrever,
+[01:10:24] mas está valendo para ele porque ele se protegeu também de uma oscilação de preço.
+[01:10:29] Do mesmo modo que, nesse exemplo, o preço da banana subiu, o preço da banana poderia ter caído.
+[01:10:35] Então, em vez de inflação de banana, se poderia ter tido desinflação de banana.
+[01:10:40] e nesse caso você garantiu com o contrato futuro das bananas você garantiu o preço
+[01:10:45] para o feirante então o mercado futuro ele funciona desse jeito ele garante o preço
+[01:10:50] para as pontas para as partes desse contrato é assim
+[01:10:53] que esse contrato futuro funciona Claro que quando você leva tudo isso
+[01:10:58] para os ativos financeiros que de fato existem,
+[01:11:01] então para os derivativos de câmbio e tal,
+[01:11:03] os instrumentos são muito mais complexos do que isso que eu acabei de descrever.
+[01:11:07] Mas a ideia base é exatamente a mesma.
+[01:11:10] A ideia base é que você fixa um preço, nesse caso o preço é a taxa de câmbio,
+[01:11:16] e as partes que concordaram com aquele preço vão, portanto,
+[01:11:20] se articular Diante desse contrato. É assim.
+[01:11:25] É assim que funciona.
+[01:11:29] Para garantir que esse contrato vai ser cumprido,
+[01:11:35] o sujeito que comprou as bananas pelo preço X faz um depósito,
+[01:11:42] paga uma parte antecipada antes para o feirante.
+[01:11:50] Na verdade não é para o feirante, vai para uma calção, uma conta calção,
+[01:11:56] fica lá dizendo, ó, o cara não só se comprometeu com a palavra dele,
+[01:12:03] mas ele está botando algum dele aqui para confirmar
+[01:12:08] que ele vai cumprir esse contrato combinado.
+[01:12:14] Esse valor não é o valor cheio.
+[01:12:19] É uma margem que, inclusive,
+[01:12:25] ela é aumentada se o preço sobe no dia seguinte,
+[01:12:31] mas sempre numa proporção do que foi posto como margem,
+[01:12:36] para que o negócio continue sendo garantido.
+[01:12:41] Tenha mais certeza que ele vai ser cumprido.
+[01:12:45] E aí, o que você precisa botar de dinheiro para aplicar um monte
+[01:12:52] de contratos é muito pouco, é baixo.
+[01:12:55] O custo, o incentivo
+[01:12:59] a não fazer essa operação é muito reduzido.
+[01:13:04] Na minha opinião, é muito baixo.
+[01:13:06] Isso foi para facilitar exatamente a operação e permitir que essa história toda
+[01:13:12] Que tem a ver com a nossa história econômica pudesse funcionar.
+[01:13:17] E aí, quando chega a hora do finalmente,
+[01:13:22] aí tem um acerto, faz o ajuste, ganhou,
+[01:13:27] perdeu, ok, vamos em frente.
+[01:13:31] Então,
+[01:13:33] isso também é uma coisa que faz ficar muito grande, muito...
+[01:13:40] Muito volumoso e hipertrofiado esse mercado.
+[01:13:46] E é o mundo inteiro aplicando nisso aqui, fazendo, em muitos casos,
+[01:13:53] defesa de suas posições como participantes,
+[01:13:58] como empresários do mercado internacional, exportadores, importadores, etc.,
+[01:14:05] que negociam em várias moedas e também especuladores.
+[01:14:10] Investidores que estão ali só para ver se nas suas apostas conseguem ganhar
+[01:14:17] uma grana fácil ali.
+[01:14:19] E aqui é importante dizer que esse mercado futuro brasileiro,
+[01:14:23] da forma como ele opera, pelas razões que o Zé Paulo acabou de citar,
+[01:14:27] ele fica extremamente atraente para qualquer pessoa em qualquer parte do mundo.
+[01:14:31] Porque para além de tudo, além de você não precisar Você não precisa ter todos
+[01:14:35] os recursos, mostrar todos os recursos na frente, você só precisa colocar a margem.
+[01:14:42] Para além de todo o desenho do mercado que faz com que o custo
+[01:14:47] de você participar dele seja realmente bastante baixo, ainda tem o seguinte,
+[01:14:52] aquela pessoa estrangeira que resolve fazer uma operação de câmbio
+[01:14:58] e que quer escolher uma praça financeira no mundo para fazer isso,
+[01:15:02] acaba vindo para o Brasil por uma razão muito simples.
+[01:15:06] O Brasil oferece uma taxa de retorno
+[01:15:11] Que está vinculada precisamente à taxa de juros
+[01:15:14] que nós praticamos no Brasil,
+[01:15:16] que é muito mais generosa do que a taxa de juros em qualquer outra parte.
+[01:15:22] Então acaba que aquelas pessoas que já se sentiriam atraídas a aplicar seus recursos
+[01:15:28] no mercado futuro brasileiro por conta de todas essas coisas que o Zé Paulo falou,
+[01:15:34] Em cima de tudo isso, ainda tem o fato de que, para essa pessoa estrangeira,
+[01:15:40] o Brasil é particularmente atraente,
+[01:15:42] porque o Brasil oferece um retorno em qualquer aplicação financeira,
+[01:15:46] principalmente para essas aplicações de curtíssimo prazo,
+[01:15:49] E você não encontra em nenhuma outra parte do mundo,
+[01:15:52] porque as nossas taxas de juros são o que são.
+[01:15:54] Então o diferencial de juros,
+[01:15:57] que é a diferença entre a taxa de juros que vigora no Brasil e a taxa de juros
+[01:16:02] que vigora em outras praças financeiras,
+[01:16:05] Esse diferencial daí já garante um rendimento extraordinário para todo
+[01:16:11] e qualquer participante no mercado futuro de câmbio.
+[01:16:14] Então, é quase que, é como a gente fala, como eu diz a expressão em inglês,
+[01:16:19] é um no-brainer participar desse mercado de câmbio futuro no Brasil.
+[01:16:25] Agora, ele nos traz problemas, ele nos traz benefícios, tá?
+[01:16:29] A gente não pode dizer que não, ele nos traz benefícios, mas ele também nos traz problemas.
+[01:16:34] E aí para aqueles de vocês que estão perguntando como é que faz, como é que desata,
+[01:16:38] como é que você repensa esses mercados e tal, nada disso é simples, porque de novo,
+[01:16:45] esses mercados são muito líquidos, são muito grandes,
+[01:16:47] tem muito dinheiro que circula neles,
+[01:16:49] então não dá para você mudar a situação da noite para o dia,
+[01:16:53] você teria que introduzir uma série de medidas e fazer uma mudança ao longo
+[01:16:56] de um tempo prolongado, se esse fosse o caminho a perseguir,
+[01:17:00] e o que tem que ser feito na realidade é um redesenho,
+[01:17:04] Tanto do mercado futuro de câmbio,
+[01:17:06] então um redesenho de incentivos no mercado futuro de câmbio,
+[01:17:09] e um redesenho de incentivos no mercado à vista também,
+[01:17:12] para que você consiga transportar uma parte desses recursos
+[01:17:18] que hoje estão inteiramente no mercado futuro,
+[01:17:21] para que você consiga fazer o traslado desses recursos para o mercado à vista.
+[01:17:25] Mas para isso, você também precisa reformar o mercado à vista,
+[01:17:28] porque o nosso mercado à vista no Brasil, o mercado de dólar físico, Ele é,
+[01:17:33] como eu falava antes, cheio de entraves de todos os tipos, entraves tributárias,
+[01:17:37] entraves regulatórios, tem uma porção de regras, ele é super complexo,
+[01:17:41] exatamente por uma série de fatores que o Zé Paulo mencionou aqui a respeito
+[01:17:45] da moeda brasileira de custo forçado, que é o real.
+[01:17:50] Terreno complexo,
+[01:17:52] como é que se forma a taxa do dólar no mercado futuro
+[01:17:58] que vai influenciar o mercadalista?
+[01:18:02] Que vai ser a taxa de câmbio.
+[01:18:05] Vou tentar explicar.
+[01:18:07] É bem complicado.
+[01:18:09] É o seguinte, mas é
+[01:18:10] uma ação
+[01:18:16] conduzida pelo Banco Central.
+[01:18:19] Diariamente, o Banco Central consulta os seus dealers.
+[01:18:25] Dealers são corretores No caso de câmbio,
+[01:18:29] que operam em nome do Banco Central.
+[01:18:33] De tempos em tempos tem uma licitação e as instituições financeiras,
+[01:18:40] especialmente de corretagem e de distribuição de valores,
+[01:18:48] se apresentam,
+[01:18:51] oferecem seus preços pelo serviço, etc e tal,
+[01:18:54] e o Banco Central Ele cita esse troço e é uma licitação pública, obviamente,
+[01:19:02] e ele transforma a sua equipe de dealers que vão operar em seu nome.
+[01:19:07] Não é o Banco Central,
+[01:19:08] não é um carinha do Banco Central que está lá na mesa operando.
+[01:19:15] Ele está orientando o pessoal do Banco Central, os técnicos do Banco Central,
+[01:19:21] orientam os dealers na operação.
+[01:19:25] Durante a manhã, Entre dez, se não me engano, entre dez e uma e meia da tarde,
+[01:19:32] são quatro chamadas.
+[01:19:35] E os dealers dizem que preço que o dólar está no mercado à vista,
+[01:19:41] nas operações que estão lá.
+[01:19:44] E o Banco Central, inclusive,
+[01:19:47] que nem julgamento de competição olímpica,
+[01:19:53] certa competição olímpica,
+[01:19:54] que tem cinco juízes e entra a média da nota
+[01:20:00] dos três centrais, os extremos são excluídos, mesma coisa.
+[01:20:06] As cotações extremas, de alta ou de baixa,
+[01:20:11] Oferecidas, cantadas pelos dealers, são retiradas.
+[01:20:15] O Banco Central tira uma média e forma um negócio chamado Petax.
+[01:20:23] E essa Petax é que é
+[01:20:27] a taxa de câmbio que vai ser operada pelo Banco Central.
+[01:20:32] Assim que é formada a cotação.
+[01:20:35] Ou seja, ela é formada lá No mercado futuro,
+[01:20:41] ela vai dar o que a gente vê ao longo do dia,
+[01:20:47] quando termina o dia,
+[01:20:48] o dólar subiu 0,5%, fechou a 5,50%, o dólar caiu, fechou a 5,20%, é isso.
+[01:21:00] Então é essa anomalia,
+[01:21:03] não é diretamente nas operações no mercado à vista,
+[01:21:08] que é turista,
+[01:21:11] as coisas pequenas e outras operações
+[01:21:16] que são negociadas nesse mercado.
+[01:21:20] Você não pode confiar, o Banco Central não pode confiar,
+[01:21:22] ninguém pode confiar que o mercado de 3 bi seja mais informativo
+[01:21:30] Do que está acontecendo com a relação da moeda brasileira real com o dólar
+[01:21:39] do que num mercado que movimenta 20 e 30 bi
+[01:21:43] em operações que estão lá aportando o preço.
+[01:21:47] Estão pondo seus preços,
+[01:21:48] as suas apostas e as médias desses preços formam o câmbio.
+[01:21:54] Então o preço,
+[01:21:57] o dólar é formado assim Conduzido mais uma vez pelo Banco Central.
+[01:22:04] Então é um funcionamento completamente distinto daquele
+[01:22:08] que a gente costuma imaginar
+[01:22:12] e costuma achar até que é o que acontece no Brasil.
+[01:22:16] O que acontece no Brasil não é, ah,
+[01:22:18] se entrou mais dólar e tem menos demanda por dólar e mais demanda por real,
+[01:22:24] vou explicar tudo isso amanhã, tá gente?
+[01:22:26] No mercado à vista, quando entra mais dólar no país, digamos,
+[01:22:31] pelo balanço de pagamentos, e ao mesmo tempo a demanda por dólar não aumenta junto
+[01:22:38] com aquela oferta, isso daí vai gerar, no mercado à vista,
+[01:22:43] um movimento de queda do dólar, porque a oferta vai estar maior do que a demanda.
+[01:22:49] Você pode pensar no oposto.
+[01:22:51] Quando tem uma oferta insuficiente de dólares vis-à-vis a demanda existente
+[01:22:56] de dólares, isso gera uma alta do dólar.
+[01:23:00] Isso é como a gente pensa no mercado à vista.
+[01:23:03] O mercado à vista funciona dessa forma.
+[01:23:05] Não é assim que o câmbio é formado no Brasil.
+[01:23:09] O câmbio é formado no Brasil exatamente desse jeito que o Zé Paulo acabou de descrever.
+[01:23:14] Ele é formado por leilão, é uma espécie de leilão que ocorre E esse leilão
+[01:23:19] que acontece, que forma a chamada PETAX, que está aqui na tela,
+[01:23:22] que eu coloquei para vocês, é o que no final das contas vai determinar o câmbio.
+[01:23:26] Lembrem do seguinte, no mercado futuro de câmbio,
+[01:23:29] você tem contratos de câmbio sendo negociados em prazos múltiplos e distintos.
+[01:23:36] Você tem contrato de câmbio para dali a um mês,
+[01:23:38] você tem contrato de câmbio para dali a uma semana,
+[01:23:40] você tem contrato de câmbio para dali a três meses, para dali a seis meses,
+[01:23:43] para dali a um ano, para dali a nove meses,
+[01:23:45] você tem todo tipo de contrato de câmbio possível e imaginável.
+[01:23:48] Esses leilões para a formação da Petax,
+[01:23:51] eles acontecem nas maturidades no espectro mais curto de prazos do mercado
+[01:23:56] de câmbio, mas é um funcionamento altamente complexo e totalmente descolado
+[01:24:02] de qualquer ideia mais direta de oferta e demanda,
+[01:24:07] insuficiência de demanda e insuficiência de oferta,
+[01:24:10] que é como a gente costuma pensar em preços e como a gente acha ou tende a achar
+[01:24:15] que os preços se formam.
+[01:24:18] A mensagem, uma das mensagens de fundo que a gente queria deixar aqui
+[01:24:21] com vocês é essa, o câmbio no Brasil não é formado da mesma forma que acontece
+[01:24:28] em outras partes do mundo, é peculiar o jeito que o câmbio é formado no Brasil
+[01:24:33] e é peculiar de uma forma muito específica.
+[01:24:37] E que provoca, portanto, um certo nó, como eu dizia antes,
+[01:24:41] entre as políticas macroeconômicas de um modo geral.
+[01:24:44] Zé Paulo, eu não sei se você tem tempo para continuar, a gente já está uma hora e meia aqui.
+[01:24:49] Hoje estou tranquilo,
+[01:24:53] quando você quiser, a gente pode ir ou pode terminar.
+[01:24:58] Deixa eu ver se tem, tem muitas perguntas,
+[01:25:01] porque evidentemente esse assunto é difícil, não é um assunto fácil.
+[01:25:06] E eu acho que tem muitas pessoas que estão achando...
+[01:25:11] Bom, o Felipe está dizendo assim, mas não entendi.
+[01:25:14] Então, se tiver uma grande saída de dólar no mercado de capitais, como isso impacta o câmbio?
+[01:25:21] Boa pergunta, Felipe.
+[01:25:23] Se a gente for pensar pela lógica pura e simples do mercado à vista,
+[01:25:28] toda vez que tem uma grande saída de dólares do Brasil, tá?
+[01:25:34] E ao mesmo tempo, se tem uma saída de dólares do Brasil,
+[01:25:39] isso significa que a oferta de dólares dentro do Brasil está caindo.
+[01:25:45] O Brasil não tem capacidade de criar dólares, o Brasil não emite dólares,
+[01:25:49] o Brasil só emite reais.
+[01:25:50] Todo dólar que entra no Brasil entra por meio do balanço de pagamento,
+[01:25:54] são os fluxos que vêm para cá.
+[01:25:57] Então, quando o dólar sai, a oferta de dólares totais em circulação no Brasil mingua.
+[01:26:05] Se nada aconteceu com a demanda, se a demanda por dólar continua sendo a mesma,
+[01:26:09] mas a oferta encolheu, Deveria haver um fortalecimento
+[01:26:14] do dólar nessas circunstâncias.
+[01:26:16] Ou, dito de outro modo, uma desvalorização do real.
+[01:26:21] Lembrem, o câmbio é o preço dos dólares em reais.
+[01:26:26] Então, quando você fala que uma moeda está enfraquecendo,
+[01:26:29] necessariamente a outra está se fortalecendo.
+[01:26:32] Então, numa situação de saída de dólares, pela lógica do mercado à vista,
+[01:26:36] para a mesma demanda, há uma oferta menor de dólares, uma demanda que é a mesma,
+[01:26:43] o dólar, portanto, vai tender a se valorizar,
+[01:26:46] o que significa que o real vai tender a se desvalorizar.
+[01:26:51] Porém, isso no mercado à vista, porém, no caso brasileiro,
+[01:26:55] como você tem uma porção dessa, a formação de preço não vem do mercado à vista,
+[01:27:01] e sim vem do mercado futuro, no final das contas,
+[01:27:04] essa formação de preço decorrente de uma saída de dólares não é tão simples assim,
+[01:27:10] porque vai depender precisamente
+[01:27:12] de como as pessoas estão posicionadas nos seus contratos futuros de câmbio.
+[01:27:19] Mas de um jeito mais simples, quando tem uma saída de dólar,
+[01:27:26] ou quando tem uma entrada, mas vamos falar de uma saída, o que acontece?
+[01:27:32] Não se negocia em dólar no Brasil.
+[01:27:36] Quem está saindo com o dólar foi ao Banco Central,
+[01:27:41] trocou reais para comprar dólar.
+[01:27:47] Se vai comprar dólar, Está pressionando, está tendo demanda de dólar. Isso.
+[01:27:53] Está tendo demanda de dólar.
+[01:27:55] O que vai acontecer com a banana dólar?
+[01:27:58] Quando tem demanda maior?
+[01:28:01] Vai subir.
+[01:28:03] Vai subir o preço dele. É.
+[01:28:06] E a cotação vai subir do dólar. Isso.
+[01:28:10] O mecanismo que a Mônica mostrou é o mecanismo econômico mais completo,
+[01:28:16] mais confundo.
+[01:28:17] É a relação entre moedas.
+[01:28:19] Mas na feira de dólar, o que acontece é isso.
+[01:28:25] Está saindo dólar,
+[01:28:28] isso significa que tem gente comprando dólar para mandar embora.
+[01:28:33] E para comprar dólar, você demanda dólar no mercado.
+[01:28:40] Se tem dólar, o preço não aumenta demais.
+[01:28:44] Se não tem, ele vai subir muito.
+[01:28:49] O que aconteceu no dia 26, aquela anomalia é que tinha dólar bastante aqui.
+[01:28:56] Não era para subir daquele jeito.
+[01:28:59] Foi o outro mecanismo que funcionou.
+[01:29:03] Uma coisa que eu acho, Monica, que a gente precisa enfrentar, que não vai resolver,
+[01:29:08] é como é que melhora esse mercado, como é que resolve essa anomalia.
+[01:29:16] Você que foi Para o FMI,
+[01:29:19] encarna o FMI aí e diz que plano o FMI faria para...
+[01:29:25] Olha, o FMI, numa situação dessa, diria assim,
+[01:29:30] o melhor a se fazer é criar mecanismos
+[01:29:35] que facilitem o uso do mercado à vista.
+[01:29:39] Então, o primeiro passo seria vamos tentar remover esses entraves que impedem
+[01:29:44] que hoje o mercado à vista seja utilizado De forma mais ampla,
+[01:29:49] o que começaria a aprofundar esse mercado, que hoje é, como a gente falava,
+[01:29:54] muito raso, quase não tem liquidez e tal.
+[01:29:57] Então, a primeira coisa que você tem que fazer é criar uma alternativa.
+[01:29:59] Essa alternativa tem que ser o mercado à vista.
+[01:30:02] Então, o que você faz No mercado à vista, que tipo de...
+[01:30:07] Que regulações você pode retirar?
+[01:30:11] Que tipos de tributos você pode remover?
+[01:30:13] Tem muitos.
+[01:30:15] Como é que você faz isso para criar os incentivos para que as pessoas usem mais
+[01:30:20] o mercado à vista do que elas usam?
+[01:30:22] E, ao mesmo tempo, você tem que pegar o funcionamento complexo do mercado
+[01:30:26] de derivativos futuros de câmbio, o mercado futuro de câmbio,
+[01:30:31] E fazer a mesma coisa,
+[01:30:34] olhar ali se é um mercado cujo custo de operação é excessivamente baixo,
+[01:30:41] o que faz com que as pessoas aloquem a maior parte dos seus recursos lá e não
+[01:30:45] no mercado à vista, você tem que criar custos e mecanismos de custo
+[01:30:51] para precisamente sintonizar melhor A existência desse mercado frente à existência
+[01:30:57] do mercado à vista. Então, são reformas cambiais profundas essas.
+[01:31:01] Aí, eu vou bancar o Ministro da Fazenda
+[01:31:07] e vou chegar para a Anne Kruger Bolle,
+[01:31:10] vou dizer assim, mas vem cá, não tem, olha,
+[01:31:14] nós estamos com uma inflação que está subindo, a gente está com problema fiscal,
+[01:31:19] está com uma fragilidade fiscal aí grande.
+[01:31:23] O pessoal está assustado, está começando a achar que talvez
+[01:31:27] o Tesouro não consiga honrar os títulos, rolar os títulos.
+[01:31:34] Está difícil colocar título mais longo.
+[01:31:37] Você vê que está crescendo a colocação de LFT.
+[01:31:42] Se você fizer essas aberturas no mercado de
+[01:31:54] Você não vai estimular uma dolarização selvagem?
+[01:31:59] O pessoal não vai começar a querer abandonar o real
+[01:32:03] e ficar com dólar embaixo do colchão?
+[01:32:09] É uma possibilidade.
+[01:32:12] É por isso que o desenho desses mecanismos de como você ajusta o mercado à vista
+[01:32:17] e o mercado futuro de tal modo que eles operem melhor,
+[01:32:21] Há riscos diversos ao se fazer isso.
+[01:32:24] Um deles é esse que você acabou de falar.
+[01:32:26] O outro é que a gente, ao tentar mexer nessa sintonia,
+[01:32:32] que a gente perca reservas.
+[01:32:34] Que tenha uma certa fuga de capitais do país e tenha, portanto, perda de reservas.
+[01:32:39] Então, a maneira,
+[01:32:41] a forma de fazer isso é que é a grande questão, porque no final,
+[01:32:46] dependendo de como você faz, você pode ter consequências indesejadas, sim.
+[01:32:51] Uma delas é essa, dolarização na economia, uma dolarização pela porta dos fundos,
+[01:32:56] que é exatamente o que a gente não pode ter.
+[01:32:57] Mas, e os outros países, como é que eles conseguem?
+[01:33:01] Os países emergentes, estou falando países de moeda conversível,
+[01:33:08] como é que eles conseguem não ter esse rabo abandonando o cachorro?
+[01:33:14] Para início de conversa eles não deixaram,
+[01:33:16] esses mercados não cresceram nesses lugares da forma como eles cresceram no Brasil.
+[01:33:21] Então você ainda tem muitas operações que são conduzidas pura e simplesmente no mercado à vista.
+[01:33:27] A outra coisa é que a maior parte dos nossos pares emergentes,
+[01:33:31] na verdade todos eles, todos os nossos pares emergentes, o Banco Central,
+[01:33:35] a participação do Banco Central no mercado de câmbio,
+[01:33:38] ela se dá primordialmente no mercado à vista, não no mercado futuro.
+[01:33:42] O mercado futuro ele só é utilizado, eu estou pensando aqui de novo no México,
+[01:33:47] No México, o Banco Central usa
+[01:33:50] o mercado futuro apenas naquelas situações em que há
+[01:33:54] uma volatilidade excessiva da moeda por algum motivo, por um choque interno,
+[01:33:59] por um choque externo qualquer e tal, aí sim eles atuam no mercado futuro,
+[01:34:03] mas corriqueiramente Eles fazem as operações todas no mercado à vista,
+[01:34:07] eles não estão operando no mercado futuro.
+[01:34:09] Então, o problema nosso no Brasil é que a gente montou
+[01:34:13] o funcionamento
+[01:34:16] dos nossos mercados de câmbio de tal forma que hoje essa é a situação.
+[01:34:21] A situação está dada.
+[01:34:23] Para revertê-la é mais complicado.
+[01:34:26] Os outros países do nosso entorno não fizeram isso.
+[01:34:29] Os outros países do nosso entorno mantiveram um funcionamento do mercado à vista
+[01:34:34] que permitiu que ele crescesse,
+[01:34:37] A exceção, evidentemente, é a Argentina,
+[01:34:42] cuja operacionalização financeira é totalmente diferente.
+[01:34:46] E não, André, a Argentina não é um exemplo aqui.
+[01:34:48] Porque a Argentina tem outra situação.
+[01:34:50] A situação na Argentina é um país que tem um regime bimonetário.
+[01:34:55] Eles usam peso e dólar na economia. As duas coisas.
+[01:34:58] Eles não têm uma moeda de curso forçado como nós temos no Brasil.
+[01:35:02] Então é outra situação Não dá nem para comparar,
+[01:35:05] porque a maneira como a Argentina funciona é completamente diferente do resto.
+[01:35:09] Mas no final é isso, é uma situação extremamente complexa essa nossa,
+[01:35:14] é bem mais complexa do que a situação da dívida
+[01:35:16] pública, por exemplo.
+[01:35:18] Vi hoje uma notícia que a Argentina está
+[01:35:25] com a economia Desacelerando,
+[01:35:28] está em recessão técnica, isso é meio bobagem,
+[01:35:31] recessão técnica é dois períodos,
+[01:35:35] dois trimestres da economia
+[01:35:41] em modo negativo.
+[01:35:43] Mas se no primeiro dia depois do segundo dia,
+[01:35:52] Mas está em recessão técnica e a notícia falava em sinais
+[01:35:58] de que o dólar estava voltando a ter uma preferência maior.
+[01:36:04] As pessoas estavam começando demais de novo e...
+[01:36:10] Com mais força em tesourar dólar na Argentina
+[01:36:15] em sinal de crise brava pela frente,
+[01:36:19] se isso continua, entendeu?
+[01:36:21] Esse é o problema das moedas que não têm, dos países que não têm,
+[01:36:26] das economias dos países que não têm moeda compensível,
+[01:36:31] porque não é que não queiram,
+[01:36:34] já teve essa lida já Levantou, anos atrás,
+[01:36:39] algumas vezes, em algumas ocasiões,
+[01:36:42] debates por que não fazemos o real ser uma moeda conversível.
+[01:36:48] Isso não é exatamente bem para quem quer, mas para quem pode,
+[01:36:53] você tem que ter realmente reservas maiores
+[01:36:57] do que essas nossas e um funcionamento
+[01:37:00] da economia que te permita
+[01:37:05] Enfim, bancar, dar segurança à sua moeda com dólar.
+[01:37:11] Nós não conseguimos isso, está um pouco longe dessa possibilidade.
+[01:37:19] É uma coisa que tem a sua importância,
+[01:37:22] é um negócio de graduação de economias,
+[01:37:26] mas as economias emergentes,
+[01:37:29] dentro delas, No Brasil, tão longe dessa possibilidade.
+[01:37:33] Então, sem moeda conversível,
+[01:37:36] tudo isso é muito difícil e se você abre possibilidade
+[01:37:42] de contas em dólar,
+[01:37:46] que seja apenas com setores,
+[01:37:49] para algum tipo de pessoa, de investidor, coisa e tal,
+[01:37:56] isso aí precisa ser muito bem Desenhado e muito bem executado.
+[01:38:03] Operação de risco num país com o nosso e com a memória e com a história
+[01:38:10] que nós temos.
+[01:38:13] Mas, de certa maneira, o Banco Central poderia dar
+[01:38:18] o exemplo operando menos nesse mercado,
+[01:38:21] criando outros mecanismos para tentar estabelecer
+[01:38:25] A cotação média diária do dólar.
+[01:38:29] Enfim, é muito difícil porque a disparidade,
+[01:38:33] a discrepância do tamanho dos mercados é muito grande.
+[01:38:41] Você não tem substância no mercado à vista para formar preço.
+[01:38:46] Nem que você queira nesse momento.
+[01:38:48] É uma situação complicada.
+[01:38:51] Então, o que pode fazer um pouco é que nem Na questão da LFT,
+[01:38:55] mitigar esse negócio.
+[01:38:59] Conseguir estimular outros papéis lá
+[01:39:02] na dívida e reduzir,
+[01:39:07] botar mais margem,
+[01:39:09] fazer com que o custo seja mais alto, enfim,
+[01:39:13] para as operações no mercado futuro.
+[01:39:17] Mas é muito difícil.
+[01:39:18] Nós aqui,
+[01:39:24] Estamos numa situação meio confortável, a gente denuncia o problema, como soluciona,
+[01:39:30] a gente vai pensando junto, mas...
+[01:39:34] Mas é complicado.
+[01:39:35] A solução de governo,
+[01:39:40] de política econômica, é complicada.
+[01:39:44] Não acha, Mônica disse isso logo no começo dessa live de hoje,
+[01:39:49] não é fácil, não é fácil.
+[01:39:52] Nada, nenhuma solução para esse problema é fácil,
+[01:39:55] até porque é uma herança pesada que nós temos.
+[01:39:59] Exatamente. Exatamente.
+[01:40:01] Tem memória, tem milhões de coisas funcionando aí.
+[01:40:06] E aí, para a gente destrinchar um pouco mais esses assuntos todos,
+[01:40:11] eu amanhã vou fazer uma live basicão de economia aqui, Economia monetária,
+[01:40:17] ainda política monetária e política cambial, amanhã às cinco da tarde de vocês.
+[01:40:23] Então, para quem estiver interessado, venham,
+[01:40:25] porque aí eu vou explicar as minúcias do funcionamento desses dois mercados,
+[01:40:30] do mercado à vista e do mercado futuro,
+[01:40:32] para que vocês entendam essas relações com maior clareza
+[01:40:36] e que para vocês consigam fazer o vínculo
+[01:40:39] Por que essas
+[01:40:45] questões ficam tão complicadas?
+[01:40:47] Porque no fundo tudo passa por essa ideia de confiança na moeda.
+[01:40:52] Até que ponto o real tem
+[01:40:56] de fato a confiança que a gente acha que ele tem.
+[01:41:01] Isso daí você só consegue ver De verdade,
+[01:41:04] na hora em que você abandona muitos desses mecanismos que estão conosco até hoje.
+[01:41:11] Então, tem perguntas aqui cujas respostas são muito difíceis de dar
+[01:41:17] porque a gente não tem precedentes.
+[01:41:18] Não ter precedentes para nossa situação.
+[01:41:20] A gente estaria tateando no escuro para ver o que acontece.
+[01:41:24] Agora, não ter precedentes não é motivo para deixar tudo como está,
+[01:41:31] é muito complicado, não vamos fazer nada. Não!
+[01:41:34] A gente tem que começar a pensar em como solucionar esses problemas
+[01:41:37] porque agora Eles ficaram de tal envergadura que eles estão limitando em muito
+[01:41:43] a nossa capacidade de agir e a nossa capacidade de fazer política macroeconômica.
+[01:41:48] A gente fica nesse rolo de novelo aí que a gente não consegue desatar.
+[01:41:52] E uma dificuldade adicional é que boa parte
+[01:41:58] dos influenciadores de quem tem acesso
+[01:42:04] A mídia em economia não está querendo conversar sobre isso.
+[01:42:08] Não, não está.
+[01:42:09] Não tem nenhum interesse
+[01:42:11] em furar essas feridas
+[01:42:17] e expor esses problemas.
+[01:42:19] Então, fica ainda mais difícil, fica ainda mais difícil.
+[01:42:24] Esses dois debates que nós estamos tendo agora, que a gente aqui está Levantando,
+[01:42:31] eles têm mais de 30 anos no Brasil.
+[01:42:33] Sim, eles não são novos.
+[01:42:35] São varridos.
+[01:42:37] Muita gente já sabia dessas anomalias,
+[01:42:42] mas eles são varridos para debaixo do tapete,
+[01:42:46] ficam trancados numa caixa de Pandora.
+[01:42:50] De um lado, porque quando se abre a caixa de Pandora, sabe-se lá o que vai sair.
+[01:42:56] E de outro, que a caixa de Pandora fechada Garante
+[01:43:02] a rentabilidade dos seus negócios
+[01:43:05] e dos seus clientes.
+[01:43:09] E na chamada mídia, onde eles têm muita influência,
+[01:43:13] também é uma caixa de repercussão,
+[01:43:16] um pouco a crítica dessas coisas.
+[01:43:21] Não é à toa que a minha newsletter se chama, não é bem assim como eles dizem.
+[01:43:27] O que eles dizem são os economistas
+[01:43:31] que falam na mídia predominantemente.
+[01:43:36] E eu sou um crítico disso.
+[01:43:39] Eu sei, tenho experiência, eu sei que não é bem assim realmente como eles dizem.
+[01:43:46] Mas o que eles dizem é o que pega mais
+[01:43:51] do que... E tem um problema de fundo nisso tudo, né, Zé Paulo, que nós sabemos,
+[01:43:57] que é o seguinte, muitos dos, não é desmerecendo ninguém,
+[01:44:01] todo mundo tem o direito de falar o que pensa,
+[01:44:04] mas o que acontece muito no Brasil é
+[01:44:08] que aquelas pessoas que acabam tendo maior...
+[01:44:13] Um dos problemas que a gente tem no debate macroeconômico brasileiro é
+[01:44:18] que muitas vezes as pessoas estão falando a partir de uma posição que embute
+[01:44:23] uma espécie de conflito.
+[01:44:39] Porque aquelas pessoas que estão falando sobre o problema cambial brasileiro,
+[01:44:44] de certo modo, elas se beneficiam dessa situação tal qual ela existe.
+[01:44:49] E isso complica demais o debate macroeconômico no Brasil.
+[01:44:53] Isso é verdade tanto para câmbio, quanto para dívida pública,
+[01:44:56] quanto para essas questões relativas a ajuste fiscal.
+[01:44:59] É tudo mais ou menos a mesma coisa.
+[01:45:01] E isso faz com que os problemas não apareçam
+[01:45:05] com a clareza com a qual eles merecem aparecer.
+[01:45:09] Então, um dos motivos da gente estar aqui, né, Zé Paulo, falando...
+[01:45:15] É de tentar trazer pra vocês ou dar
+[01:45:19] a vocês uma clareza um pouco maior não
+[01:45:23] a respeito das possíveis soluções, porque isso a gente ainda não tem.
+[01:45:27] O que a gente está tentando fazer aqui com vocês é apresentar a vocês
+[01:45:31] a complexidade real dos problemas.
+[01:45:34] E por que que soluções do tipo, ah, é só fazer um ajuste fiscal, ah,
+[01:45:38] é só cortar os gastos, ah, é só fazer sei lá o que com juros, ah,
+[01:45:42] é só fazer sei lá o que com câmbio.
+[01:45:44] Ou é só aumentar a receita.
+[01:45:48] É, ou só aumentar a receita.
+[01:45:50] Essas não são soluções, entendeu?
+[01:45:52] Porque, na prática,
+[01:45:54] problemas com a complexidade que nós temos Precisam de soluções à altura.
+[01:46:01] E soluções à altura vão requerer muita reflexão, muito consenso,
+[01:46:07] muitas elaborações de distintas propostas,
+[01:46:09] porque não vai ser uma só que vai dar conta do recado.
+[01:46:12] Assim, a gente precisa realmente fazer um esforço grande e conjunto Para entender
+[01:46:18] os nossos próprios problemas de direito e assim poder, de certa forma, abordá-los.
+[01:46:24] Nosso papel aqui é produzir essa complexidade.
+[01:46:27] Fundamentalmente, um debate honesto, aberto e claro.
+[01:46:34] Um debate.
+[01:46:36] Sem debate não tem jeito.
+[01:46:38] Não.
+[01:46:39] Porque é muito complicado e ali é que vão sair
+[01:46:44] Os melhores diagnósticos e depois
+[01:46:48] as soluções para o problema diagnóstico.
+[01:46:53] Exatamente, exatamente.
+[01:46:55] Estamos na estrada, né, Monica?
+[01:46:58] Estamos na estrada e continuaremos na estrada.
+[01:47:00] Semana que vem estaremos aqui de novo falando desses problemas todos para vocês.
+[01:47:06] Talvez ajuste fiscal, né? É.
+[01:47:09] Que possa falar um pouco mais.
+[01:47:12] Está muito...
+[01:47:13] Polarizado esse negócio, está muito...
+[01:47:17] Pois é, o debate está muito ruim.
+[01:47:19] O debate está muito ruim.
+[01:47:21] Está péssimo.
+[01:47:22] E ele tem que melhorar porque tem um problema e precisa ver qual é
+[01:47:27] a solução menos custosa,
+[01:47:30] mais eficiente e mais benéfica para a maior parte
+[01:47:36] da população.
+[01:47:37] É isso. É isso aí.
+[01:47:40] Então é isso gente, estaremos aqui de novo na quinta-feira que vem,
+[01:47:43] às cinco e meia da tarde, podem anotar aí, para quem está perguntando,
+[01:47:47] todas essas lives ficam gravadas,
+[01:47:50] todo mundo tem acesso a essas lives por duas semanas,
+[01:47:52] depois elas entram para debaixo de um paywall,
+[01:47:56] mas durante duas semanas elas estão livremente abertas, qualquer um pode assistir.
+[01:48:01] Não essas lives, tem um canal no YouTube, toda semana eu falo isso,
+[01:48:06] tem um canal no YouTube que está reproduzindo indevidamente essas lives aqui,
+[01:48:11] eu não tenho canal no YouTube, então não assistam lá, por favor, venham para cá,
+[01:48:16] todo mundo pode assistir.
+[01:48:18] Tem umas pessoas legais que estão fazendo cortes, não é, Mônica?
+[01:48:25] Tem, o Vitor, que não está aqui com a gente hoje.
+[01:48:27] Não é o ideal, mas...
+[01:48:30] Ajuda a estimular o debate, né?
+[01:48:33] Tem dúvida.
+[01:48:35] Corte é corte, né, moçada? Não é o começo.
+[01:48:37] É, corte é um pedacinho, não é a explicação inteira, né?
+[01:48:41] É um pedacinho de tudo que a gente discutiu.
+[01:48:43] Então, tem esse pessoal do Contraponto que está fazendo um trabalho super bacana
+[01:48:48] de pegar, assim, cortes e falas nossas e montar uma animação e tal.
+[01:48:54] Isso acho que ajuda bastante.
+[01:48:56] Mas esses pequenos cortes são só cortes, tá, gente?
+[01:48:58] Se vocês querem entender o problema a fundo,
+[01:49:00] vocês têm que estar aqui uma hora e 49 minutos com a gente aqui,
+[01:49:05] ouvindo a explicação inteira,
+[01:49:08] porque senão o problema fica entendido só parcialmente
+[01:49:11] e problema complexo entendido parcialmente não está entendido.
+[01:49:17] Muito bem.
+[01:49:17] Então é isso. Então, super obrigada de novo, Zé Paulo.
+[01:49:21] Sempre um prazer estar aqui com você.
+[01:49:23] Pessoal, super obrigada a todos vocês.
+[01:49:25] Boa noite.
+[01:49:26] Fiquem todos bem.
+[01:49:27] Amanhã, como eu disse, vai ter basicão de câmbio
+[01:49:30] e de política monetária aqui às cinco da tarde, tá? Para vocês.
+[01:49:35] Então, quem quiser aprender economia, vem para cá amanhã.
+[01:49:38] Eu vou pegar alguns fios do que a gente falou aqui e vou explicar
+[01:49:43] de forma mais mastigadinha para vocês.
+[01:49:45] Então, até lá.
+[01:49:47] Obrigado. Até quinta.
+[01:49:49] Um abraço e até quinta que vem.
+[01:49:51] Um abraço. Tchau, tchau.
+[01:49:52] Tchau, tchau.
