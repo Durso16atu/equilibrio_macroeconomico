@@ -109,6 +109,14 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertFalse(res_out.dentro_do_escopo)
         self.assertEqual(len(res_out.citacoes), 0)
 
+        # Verifica integridade do widget JS (chamada correta a calculateMacroState e fundo sólido opaco)
+        with open(consultant_ui, encoding="utf-8") as f:
+            js_code = f.read()
+        self.assertIn("calculateMacroState", js_code)
+        self.assertNotIn("MacroEngine.calculate(", js_code)
+        self.assertNotIn("bg-slate-950/98", js_code)
+        self.assertIn("background-color:#1e293b", js_code)
+
 
 if __name__ == "__main__":
     unittest.main()
