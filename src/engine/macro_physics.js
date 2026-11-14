@@ -15,9 +15,9 @@ window.MacroEngine = (function () {
       icon: "📍",
       shortTitle: "Base Nov/2026",
       subtitle: "DBGG 82,9% | LFT 51,6%",
-      name: "Momento Atual: A Pia e a 'Água com Fermento' (Novembro de 2026)",
-      desc: "A Dívida Bruta chegou a 82,9% do PIB e as LFTs (pós-fixadas à Selic de 13,75%) saltaram de 38% (2022) para 51,6% da dívida! É a 'água laranja com fermento' dentro da pia: cresce sozinha (+5,7% a.a. acima do PIB) mesmo se fecharmos as torneiras do primário.",
-      historicalContext: "🎯 Desafio 2026–2030: Sair da briga estéril das torneiras e atuar na pia (composição de 51,6% em LFTs, juros e câmbio futuro).",
+      name: "Momento Atual: Tanque da Dívida & Expansão Endógena de LFTs (Novembro de 2026)",
+      desc: "A Dívida Bruta chegou a 82,9% do PIB e as LFTs (pós-fixadas à Selic de 13,75%) saltaram de 38% (2022) para 51,6% do estoque! Essa camada laranja tem expansão endógena (+5,7% a.a. acima do PIB), elevando o nível do tanque mesmo com as válvulas do primário fechadas.",
+      historicalContext: "🎯 Desafio de Engenharia 2026–2030: Atuar na composição estrutural do tanque (51,6% em LFTs pós-Selic, diferencial r − g e câmbio futuro).",
       externalWind: 0,
       renuncias: 50,
       cortes: 20,
@@ -31,8 +31,8 @@ window.MacroEngine = (function () {
       shortTitle: "Missão: Equilíbrio",
       subtitle: "CFMN + Swap LFT",
       name: "Solução Calibrada: Coordenação CFMN + Swap Gradual de LFTs + Revisão de Renúncias",
-      desc: "Você cortou R$ 225 bi de privilégios tributários, preservou o investimento social e ativou a Coordenação CFMN com troca gradual (swap) de LFTs. Na descida coordenada da Selic, a água com fermento recua de 51,6% rumo a ~35% e gera alívio imediato de ~4% do PIB!",
-      historicalContext: "✅ Resultado rumo a 2030: A pia deixa de transbordar sozinha, o diferencial r − g recua e o PIB (Y) cresce alargando o tanque!",
+      desc: "Você cortou R$ 225 bi de privilégios tributários, preservou o investimento social e ativou a Coordenação CFMN com troca gradual (swap) de LFTs. Na descida coordenada da Selic, a camada autoexpansiva recua de 51,6% rumo a ~35% e gera alívio imediato de ~4% do PIB!",
+      historicalContext: "✅ Resultado rumo a 2030: O tanque hidráulico estabiliza a pressão, o diferencial r − g recua e o PIB (Y) cresce alargando as paredes do reservatório!",
       externalWind: 0,
       renuncias: 225,
       cortes: 75,
@@ -44,10 +44,10 @@ window.MacroEngine = (function () {
       block: "atual",
       icon: "✂️",
       shortTitle: "Armadilha: Tesouraço",
-      subtitle: "Fechar torneira + Selic 14,25%",
-      name: "Extremo 1 ('Faria Lima'): Fechar a Torneira Social Ignorando a Água com Fermento",
-      desc: "Você fechou a torneira social (G), manteve R$ 600–800 bi de renúncias e subiu a Selic para 14,25%. Como 51,6% da dívida na pia é 'água com fermento' (LFTs pós-fixadas), o estoque continuou crescendo sozinho enquanto o PIB encolheu!",
-      historicalContext: "🚨 Lição (Basicão 13/11 & J’Accuse): Não adianta arrancar a torneira da parede quando 51,6% da água dentro da pia cresce sozinha à taxa Selic.",
+      subtitle: "Corte Social + Selic 14,25%",
+      name: "Extremo 1 ('Faria Lima'): Estrangular a Válvula Social Ignorando a Indexação Selic",
+      desc: "Você estrangulou o investimento e gasto social (G), manteve R$ 600–800 bi de renúncias e subiu a Selic para 14,25%. Como 51,6% do tanque é composto por LFTs pós-fixadas (camada autoexpansiva), o estoque continuou crescendo por inércia de juros enquanto o PIB encolheu!",
+      historicalContext: "🚨 Lição de Engenharia (Basicão 13/11 & J’Accuse): Fechar a válvula primária não estanca o tanque quando 51,6% do fluido expande endogenamente à taxa Selic.",
       externalWind: 0,
       renuncias: 25,
       cortes: 275,
@@ -60,9 +60,9 @@ window.MacroEngine = (function () {
       icon: "🙈",
       shortTitle: "Armadilha: Negacionismo",
       subtitle: "Gastar + Juro na marra",
-      name: "Extremo 2 ('Negacionismo Fiscal'): Ignorar a Pia e Baixar Juros na Marra",
-      desc: "Você negou o problema da pia e tentou derrubar a Selic na marra para 7,5% sem coordenação (equivalente a quebrar contrato). O mercado futuro de câmbio (US$ 20–35 bi/dia na B3) disparou a PTAX, gerou perdas nos swaps do BC e explodiu a caldeira!",
-      historicalContext: "💥 Lição (De Bolle & Kupfer): Juros são endógenos; negar a água com fermento na pia leva todo mundo para o ralo via câmbio e inflação.",
+      name: "Extremo 2 ('Negacionismo Fiscal'): Ignorar a Pressão do Tanque e Baixar Juros na Marra",
+      desc: "Você ignorou o desequilíbrio do tanque e tentou derrubar a Selic na marra para 7,5% sem coordenação institucional. O mercado futuro de câmbio (US$ 20–35 bi/dia na B3) disparou a PTAX, gerou perdas nos swaps do BC e explodiu a caldeira termodinâmica!",
+      historicalContext: "💥 Lição (De Bolle & Kupfer): Juros são endógenos; forçar a válvula sem desindexar o tanque provoca colapso via câmbio futuro e inflação.",
       externalWind: 0,
       renuncias: 0,
       cortes: -125,
@@ -231,25 +231,25 @@ window.MacroEngine = (function () {
 
     // 10. Determinação do Modo de Operação / Diagnóstico Teórico Integrado
     let mode = "ok";
-    let statusText = "✅ Pia Estabilizada: Coordenação CFMN & Swap Gradual de LFTs!";
-    let failureReason = "A revisão de privilégios (~R$ " + renuncias + " bi) somada à Coordenação CFMN e ao swap gradual reduziu a 'água com fermento' (LFTs recuando para " + lftShare.toFixed(1).replace(".", ",") + "% da dívida). Na descida coordenada da Selic, o gasto com juros caiu para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravou o PIB (Y).";
+    let statusText = "✅ Tanque Estabilizado: Coordenação CFMN & Swap Gradual de LFTs!";
+    let failureReason = "A revisão de privilégios (~R$ " + renuncias + " bi) somada à Coordenação CFMN e ao swap gradual reduziu a camada autoexpansiva (LFTs recuando para " + lftShare.toFixed(1).replace(".", ",") + "% da dívida). Na descida coordenada da Selic, o gasto com juros caiu para " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB e destravou o PIB (Y).";
 
     if (cortes >= 175) {
       mode = "collapse_social";
-      statusText = "🚨 GAME OVER: Colapso da Ponte por Tesouraço nas Torneiras!";
-      failureReason = "Ao cortar profundamente programas sociais e investimentos (G), a demanda agregada (Y = C+I+G+X-M) despencou. Fechar a torneira não impediu a 'água com fermento' (" + lftShare.toFixed(1).replace(".", ",") + "% em LFTs pós-fixadas) de crescer sozinha na pia!";
+      statusText = "🚨 GAME OVER: Colapso da Ponte por Estrangulamento da Válvula Social!";
+      failureReason = "Ao cortar profundamente programas sociais e investimentos (G), a demanda agregada (Y = C+I+G+X-M) despencou. Fechar a válvula primária não impediu a camada autoexpansiva (" + lftShare.toFixed(1).replace(".", ",") + "% em LFTs pós-fixadas) de elevar o nível do tanque sozinha!";
     } else if (hiatoJuros < -1.75 || primario < -1.2) {
       mode = "collapse_boiler";
       statusText = "💥 GAME OVER: Explosão da Caldeira (Câmbio Futuro & Juro na Marra)!";
       failureReason = "Baixar a Selic 'na marra' sem CFMN ou expandir déficit sem receita disparou apostas no mercado futuro de câmbio (US$ 20–35 bi/dia na B3 vs. US$ 1–3 bi à vista). O 'rabo abanou o cachorro': a PTAX saltou, os swaps do BC geraram perdas na DBGG e a caldeira explodiu.";
     } else if (selic >= 13.25 && primario >= 0.2 && dividaProj >= 83.5) {
       mode = "warning";
-      statusText = "⚠️ Armadilha da 'Água com Fermento' (LFT " + lftShare.toFixed(1).replace(".", ",") + "% | r − g = +5,7%)";
-      failureReason = "Você fechou as torneiras do primário, mas manteve a Selic em " + selic.toFixed(2).replace(".", ",") + "% com " + lftShare.toFixed(1).replace(".", ",") + "% da dívida em LFTs pós-fixadas (De Bolle 13/11 & J’Accuse). A 'água laranja com fermento' dentro da pia cresce sozinha e drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB!";
+      statusText = "⚠️ Expansão Endógena de LFTs (" + lftShare.toFixed(1).replace(".", ",") + "% | r − g = +5,7%)";
+      failureReason = "Você fechou as válvulas do primário, mas manteve a Selic em " + selic.toFixed(2).replace(".", ",") + "% com " + lftShare.toFixed(1).replace(".", ",") + "% da dívida em LFTs pós-fixadas (De Bolle 13/11 & J’Accuse). A camada autoexpansiva no tanque cresce por inércia de juros e drena " + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB!";
     } else if (dividaProj >= 85.5 || hp < 72) {
       mode = "warning";
-      statusText = "⚠️ Alerta na Pia: Água com Fermento (" + lftShare.toFixed(1).replace(".", ",") + "% LFT) & Drenagem de Juros";
-      failureReason = "O país não quebra porque emite dívida em Reais, mas os " + lftShare.toFixed(1).replace(".", ",") + "% de LFTs pós-fixadas ('água com fermento'), o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB) e as renúncias fiscais fazem a pia transbordar rumo a 86%–87% do PIB, provocando quebradeira e crise de crédito privado.";
+      statusText = "⚠️ Sobrecarga no Tanque: Indexação LFT (" + lftShare.toFixed(1).replace(".", ",") + "%) & Drenagem de Juros";
+      failureReason = "O país não quebra porque emite dívida em Reais, mas os " + lftShare.toFixed(1).replace(".", ",") + "% de LFTs pós-fixadas (expansão endógena à Selic), o serviço de juros (" + Math.abs(jurosFluxo).toFixed(1).replace(".", ",") + "% do PIB) e as renúncias fiscais sobrecarregam o tanque rumo a 86%–87% do PIB, provocando crise de crédito privado.";
     }
 
     return {

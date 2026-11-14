@@ -65,7 +65,7 @@ window.CanvasRenderer = (function () {
     }
 
     // =========================================================================
-    // ESTAÇÃO 1 (ESQUERDA): TANQUE HIDRÁULICO / PIA (DÍVIDA / PIB & LFT 51,6%)
+    // ESTAÇÃO 1 (ESQUERDA): TANQUE HIDRÁULICO (DÍVIDA / PIB & LFT 51,6%)
     // =========================================================================
     const tankCenterX = 165;
     const tankHalfW = Math.max(54, Math.min(96, 74 + state.pibGrowth * 6));
@@ -76,27 +76,27 @@ window.CanvasRenderer = (function () {
     ctx.fillStyle = fg;
     ctx.font = "700 12px 'Plus Jakarta Sans', sans-serif";
     ctx.textAlign = "center";
-    ctx.fillText("1. PIA DA DÍVIDA / PIB", tankCenterX, 26);
+    ctx.fillText("1. TANQUE DA DÍVIDA / PIB", tankCenterX, 26);
     ctx.fillStyle = muted;
     ctx.font = "11px 'Plus Jakarta Sans', sans-serif";
     ctx.fillText("Largura = PIB (Y) | Laranja = LFT Pós", tankCenterX, 42);
 
-    // Nível total de água proporcional à Dívida/PIB
+    // Nível total de fluido proporcional à Dívida/PIB
     const fillRatio = Math.max(0.2, Math.min(0.96, (state.dividaProj - 60) / 36));
     const totalWaterH = tankH * fillRatio;
     const waterY = tankBottom - totalWaterH;
 
-    // Divisão da água na pia (Basicão 13/11):
-    // Fundo Azul (Pré / IPCA) + Topo Laranja ("Água com Fermento" = LFTs Pós-fixadas, 51,6%)
+    // Divisão estrutural do tanque (Basicão 13/11):
+    // Base Azul (Pré / IPCA) + Camada Superior Laranja (Expansão Endógena = LFTs Pós-fixadas, 51,6%)
     const lftPct = (state.lftShare || 51.6) / 100.0;
     const orangeWaterH = totalWaterH * lftPct;
     const splitY = waterY + orangeWaterH;
 
-    // 1A. Camada Inferior: Água Azul/Ciano (Dívida Prefixada & IPCA — sem fermento)
+    // 1A. Camada Inferior: Fluido Azul/Ciano (Dívida Prefixada & IPCA)
     ctx.fillStyle = isLight ? "rgba(8, 145, 178, 0.38)" : "rgba(6, 182, 212, 0.35)";
     ctx.fillRect(tankCenterX - tankHalfW, splitY, tankHalfW * 2, tankBottom - splitY);
 
-    // 1B. Camada Superior: Água Laranja com Fermento (LFTs Pós-fixadas à Selic)
+    // 1B. Camada Superior: Camada Autoexpansiva Laranja (LFTs Pós-fixadas à Selic)
     let lftColor = "rgba(245, 158, 11, 0.68)";
     if (state.dividaProj >= 85.5) lftColor = "rgba(244, 63, 94, 0.72)";
     else if (state.pipeFlowMode === "alivio_cfmn") lftColor = "rgba(16, 185, 129, 0.62)";
@@ -112,7 +112,7 @@ window.CanvasRenderer = (function () {
     ctx.closePath();
     ctx.fill();
 
-    // Linha tracejada divisória entre Água Laranja (LFT) e Água Azul (Pré/IPCA)
+    // Linha tracejada divisória entre Camada LFT (Pós) e Camada Pré/IPCA
     ctx.strokeStyle = isLight ? "rgba(217, 119, 6, 0.75)" : "rgba(251, 191, 36, 0.75)";
     ctx.lineWidth = 1;
     ctx.setLineDash([3, 3]);
@@ -122,7 +122,7 @@ window.CanvasRenderer = (function () {
     ctx.stroke();
     ctx.setLineDash([]);
 
-    // Bolhas de "fermento" subindo na camada laranja das LFTs
+    // Partículas de pressão/indexação subindo na camada das LFTs
     ctx.fillStyle = isLight ? "rgba(255, 255, 255, 0.65)" : "rgba(254, 243, 199, 0.55)";
     for (let b = 0; b < 4; b++) {
       const bx = tankCenterX - tankHalfW * 0.65 + b * (tankHalfW * 0.44);

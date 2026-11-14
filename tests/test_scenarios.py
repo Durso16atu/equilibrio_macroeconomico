@@ -73,7 +73,7 @@ class TestBasicoEconomiaProject(unittest.TestCase):
 
         with open(self.renderer_path, encoding="utf-8") as f:
             renderer = f.read()
-        self.assertIn("1. PIA DA DÍVIDA / PIB", renderer)
+        self.assertIn("1. TANQUE DA DÍVIDA / PIB", renderer)
         self.assertIn("LFT Pós:", renderer)
 
 
