@@ -94,8 +94,8 @@ class TestBasicoEconomiaProject(unittest.TestCase):
 
         with open(index_json, encoding="utf-8") as f:
             data = json.load(f)
-        self.assertEqual(data["metadata"]["total_official_sources"], 7)
-        self.assertGreaterEqual(data["metadata"]["total_transcript_chunks"], 300)
+        self.assertEqual(data["metadata"]["total_official_sources"], 8)
+        self.assertGreaterEqual(data["metadata"]["total_transcript_chunks"], 350)
 
         # Pergunta dentro do escopo homologado (LFTs 51,6%)
         res_in = answer_query("Por que os 51,6% de LFTs geram expansão endógena no Tanque?", api_key="")
@@ -111,6 +111,17 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertIn("Y = C + I + G + (X − M)", res_pib.resposta_engenharia)
         self.assertNotIn("Falsa Racionalidade", res_pib.resposta_engenharia)
         self.assertEqual(res_pib.citacoes[0].fonte_id, "Fonte #1")
+
+        # Perguntas sobre a Fonte #8 (Forças do Brasil / Monica de Bolle 14/11/2026)
+        res_tab = answer_query("Meta de juros é tabelamento?", api_key="")
+        self.assertTrue(res_tab.dentro_do_escopo)
+        self.assertIn("Meta de Juros NÃO é Tabelamento", res_tab.resposta_engenharia)
+        self.assertEqual(res_tab.citacoes[0].fonte_id, "Fonte #8")
+
+        res_bola = answer_query("Por que juros altos aceleram a inflação no Brasil? (Bola de neve)", api_key="")
+        self.assertTrue(res_bola.dentro_do_escopo)
+        self.assertIn("Circuito Circular", res_bola.resposta_engenharia)
+        self.assertEqual(res_bola.citacoes[0].fonte_id, "Fonte #8")
 
         # Pergunta fora do escopo homologado deve ser recusada estritamente
         res_out = answer_query("Qual a receita de bolo de chocolate e o placar do jogo?", api_key="")

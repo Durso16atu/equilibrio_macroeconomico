@@ -97,7 +97,8 @@ DOMAIN_VOCAB = {
     "cfmn", "lara", "resende", "bolle", "monica", "kupfer", "orenstein", "jaccuse",
     "racionalidade", "phillips", "primario", "nominal", "dbgg", "dlsp", "estoque",
     "fluxo", "paeg", "cruzado", "real", "urv", "ortn", "indexacao", "simulador",
-    "estabilidade", "51,6%", "51.6%", "82,9%", "corte", "cortes", "reforma"
+    "estabilidade", "51,6%", "51.6%", "52%", "82,9%", "corte", "cortes", "reforma",
+    "tabelamento", "meta", "habito", "comportamental", "circular", "bola", "neve", "inacabada"
 }
 
 

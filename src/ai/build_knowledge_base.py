@@ -83,6 +83,14 @@ OFFICIAL_SOURCES: dict[str, dict[str, str]] = {
         "url": "https://bolle.substack.com/p/basicao-juros-divida-ajusteo-que",
         "file": "2026-11-13_basicao_juros_divida_ajuste.txt",
     },
+    "fonte_8": {
+        "id": "Fonte #8",
+        "title": "Forças do Brasil: A solução dos juros, com Monica de Bolle",
+        "author": "Monica de Bolle (entrevista a Mário Vitor Santos / TV 247)",
+        "date": "14/11/2026",
+        "url": "https://www.youtube.com/watch?v=FkaGD9Tig6M",
+        "file": "2026-11-14_solucao_juros_monica_de_bolle.txt",
+    },
 }
 
 # 12 Fichas Didáticas Granulares (Pensadas para quem não é economista)
@@ -352,6 +360,66 @@ CANONICAL_TOPICS: list[dict[str, Any]] = [
             "reintroduziu a indexação financeira diária no estoque da dívida.\n"
             "4️⃣ Crise 2015–16: Combinação de desonerações improdutivas com contração fiscal abrupta "
             "e Selic a 14,25%, provocando recessão de ~7% no PIB."
+        ),
+    },
+    {
+        "id": "canon_meta_vs_tabelamento",
+        "title": "Meta de Juros NÃO é Tabelamento: A Tarefa Inacabada do Plano Real",
+        "source_id": "Fonte #8",
+        "author": "Monica de Bolle (Forças do Brasil / TV 247, 14/11/2026)",
+        "url": "https://www.youtube.com/watch?v=FkaGD9Tig6M",
+        "timestamp": "09:11–17:58",
+        "primary_triggers": [
+            "tabelamento de juros", "tabelamento dos juros", "meta de juros", "meta nao e tabelamento",
+            "tarefa inacabada", "heranca hiperinflacionaria", "economia comportamental", "habito"
+        ],
+        "keywords": [
+            "tabelamento", "meta", "juros", "plano real", "tarefa", "inacabada",
+            "hiperinflacao", "comportamental", "habito", "confianca", "argentina"
+        ],
+        "synthesis": (
+            "1️⃣ Em linguagem simples (Meta ≠ Tabelamento): Como esclarece Monica de Bolle (Fonte #8 [09:11]), "
+            "propor uma meta ou banda para os juros NÃO é tabelar juros na marra. Da mesma forma que "
+            "ter 'meta de inflação' não significa tabelar preços no supermercado, uma meta de juros "
+            "reconhece que a taxa reage endogenamente às condições institucionais e de composição da dívida.\n\n"
+            "2️⃣ A Tarefa Inacabada do Plano Real ([10:43–17:58] e [36:00–38:20]): O Brasil foi o único país "
+            "com hiperinflação de 25 anos porque criou mecanismos de convívio e indexação. O Plano Real (URV) "
+            "foi uma obra-prima técnica e de economia comportamental (reconstruiu a confiança na nossa própria "
+            "moeda sem dolarizar como a Argentina), mas deixou duas anomalias pendentes: as LFTs pós-fixadas (~52% "
+            "da dívida) e a formação do câmbio no mercado futuro. Desindexar a dívida é concluir o Plano Real.\n\n"
+            "3️⃣ No Simulador 2D: É o Controle 4 (Coordenação CFMN / Desindexação de LFTs), que substitui o "
+            "'hábito' da indexação automática pela coordenação institucional entre Fazenda, BC e Congresso."
+        ),
+    },
+    {
+        "id": "canon_bola_de_neve_juros_inflacao",
+        "title": "Por que Juros Altos Aceleram a Inflação no Brasil? (O Circuito Circular de 52% em LFTs)",
+        "source_id": "Fonte #8",
+        "author": "Monica de Bolle (Forças do Brasil / TV 247, 14/11/2026)",
+        "url": "https://www.youtube.com/watch?v=FkaGD9Tig6M",
+        "timestamp": "51:15–53:50",
+        "primary_triggers": [
+            "juros altos aceleram a inflacao", "juros geram inflacao", "bola de neve",
+            "problema circular", "circuito circular", "solucao dos juros", "forcas do brasil"
+        ],
+        "keywords": [
+            "bola de neve", "circular", "acelera", "aceleradores", "premio de risco",
+            "desvalorizacao", "retroalimenta", "52%", "trajetoria contratada"
+        ],
+        "synthesis": (
+            "1️⃣ Em linguagem simples: Como demonstra Monica de Bolle (Fonte #8 [51:15–53:50]), você não "
+            "precisa concordar com teorias heterodoxas para ver nos dados por que a Selic alta retroalimenta "
+            "a inflação no Brasil.\n\n"
+            "2️⃣ O Circuito Circular (Passo a Passo):\n"
+            "• Passo 1: Com ~52% da dívida em LFTs pós-fixadas, subir a Selic gera um 'crescimento contratado' "
+            "da dívida pública (ela cresce sozinha, mesmo segurando gastos);\n"
+            "• Passo 2: Ao verem a dívida crescer sozinha, os credores exigem um PRÊMIO DE RISCO maior;\n"
+            "• Passo 3: O risco maior enfraquece o Real (desvalorização cambial), o que encarece produtos "
+            "e GERA MAIS INFLAÇÃO;\n"
+            "• Passo 4: Para conter o câmbio e a inflação, o BC sobe ainda mais os juros — fechando uma "
+            "bola de neve circular.\n\n"
+            "3️⃣ No Simulador 2D: Experimente subir a Válvula 3 (Selic) para 15%: você verá a camada laranja "
+            "de LFTs inflar o Tanque e derrubar a Estabilidade do Sistema, comprovando visualmente o efeito bola de neve."
         ),
     },
 ]
