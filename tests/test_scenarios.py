@@ -76,6 +76,39 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertIn("1. TANQUE DA DÍVIDA / PIB", renderer)
         self.assertIn("LFT Pós:", renderer)
 
+    def test_consultant_homologated_index_and_strict_scope(self):
+        import json
+        import sys
+
+        if self.root not in sys.path:
+            sys.path.insert(0, self.root)
+        from src.ai.consultant_cli import answer_query
+
+        index_json = os.path.join(self.root, "src", "data", "knowledge_index.json")
+        index_js = os.path.join(self.root, "src", "data", "knowledge_index.js")
+        consultant_ui = os.path.join(self.root, "src", "ui", "chat_consultant.js")
+
+        self.assertTrue(os.path.isfile(index_json))
+        self.assertTrue(os.path.isfile(index_js))
+        self.assertTrue(os.path.isfile(consultant_ui))
+
+        with open(index_json, encoding="utf-8") as f:
+            data = json.load(f)
+        self.assertEqual(data["metadata"]["total_official_sources"], 7)
+        self.assertGreaterEqual(data["metadata"]["total_transcript_chunks"], 300)
+
+        # Pergunta dentro do escopo homologado (LFTs 51,6%)
+        res_in = answer_query("Por que os 51,6% de LFTs geram expansão endógena no Tanque?", api_key="")
+        self.assertTrue(res_in.dentro_do_escopo)
+        self.assertIn("51,6%", res_in.resposta_engenharia)
+        self.assertGreaterEqual(len(res_in.citacoes), 1)
+        self.assertEqual(res_in.citacoes[0].fonte_id, "Fonte #7")
+
+        # Pergunta fora do escopo homologado deve ser recusada estritamente
+        res_out = answer_query("Qual a receita de bolo de chocolate e o placar do jogo?", api_key="")
+        self.assertFalse(res_out.dentro_do_escopo)
+        self.assertEqual(len(res_out.citacoes), 0)
+
 
 if __name__ == "__main__":
     unittest.main()
