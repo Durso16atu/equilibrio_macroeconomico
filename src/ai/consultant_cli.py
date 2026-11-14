@@ -119,12 +119,17 @@ def retrieve_homologated_context(query: str, top_k: int = 3) -> dict[str, Any]:
         haystack = normalize_text(
             item["title"] + " " + item["synthesis"] + " " + " ".join(item["keywords"])
         )
+        for trig in item.get("primary_triggers", []):
+            if normalize_text(trig) in norm_query:
+                score += 25.0
         for kw in item["keywords"]:
             if normalize_text(kw) in norm_query:
                 score += 6.0
         for tok in raw_tokens:
-            if tok in DOMAIN_VOCAB and tok in haystack:
-                score += 2.5
+            if tok in DOMAIN_VOCAB and tok in normalize_text(item["title"]):
+                score += 4.5
+            elif tok in DOMAIN_VOCAB and tok in haystack:
+                score += 1.5
         if score > 0:
             scored_canon.append((score, item))
 
@@ -152,7 +157,7 @@ def retrieve_homologated_context(query: str, top_k: int = 3) -> dict[str, Any]:
 
     return {
         "in_scope": in_scope,
-        "canonical_matches": [c[1] for c in scored_canon[:2]],
+        "canonical_matches": [c[1] for c in scored_canon[:1]],
         "chunk_matches": [c[1] for c in scored_chunks[:top_k]],
     }
 

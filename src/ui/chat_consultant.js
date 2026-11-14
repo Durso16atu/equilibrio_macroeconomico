@@ -104,12 +104,17 @@ window.ChangeMacroConsultant = (function () {
       const hay = normalize(
         topic.title + " " + topic.synthesis + " " + (topic.keywords || []).join(" ")
       );
+      (topic.primary_triggers || []).forEach((trig) => {
+        const nt = normalize(trig);
+        if (nt && normQ.includes(nt)) score += 25.0;
+      });
       (topic.keywords || []).forEach((kw) => {
         const nkw = normalize(kw);
-        if (nkw && normQ.includes(nkw)) score += 7.0;
+        if (nkw && normQ.includes(nkw)) score += 6.0;
       });
       tokens.forEach((tok) => {
-        if (tok.length >= 3 && hay.includes(tok)) score += 2.5;
+        if (tok.length >= 3 && normalize(topic.title).includes(tok)) score += 4.5;
+        else if (tok.length >= 3 && hay.includes(tok)) score += 1.5;
       });
       if (score > 0) scoredCanon.push({ score, topic });
     });
@@ -134,11 +139,24 @@ window.ChangeMacroConsultant = (function () {
       lastSuccessfulQuery = rawQuery;
     }
 
+    // Seleciona apenas o tópico principal (ou 2 se tiverem scores quase idênticos em pergunta composta)
+    let selectedCanonicals = [];
+    if (scoredCanon.length > 0) {
+      selectedCanonicals.push(scoredCanon[0].topic);
+      if (
+        scoredCanon.length > 1 &&
+        scoredCanon[1].score >= scoredCanon[0].score * 0.85 &&
+        normQ.split(" ").length >= 6
+      ) {
+        selectedCanonicals.push(scoredCanon[1].topic);
+      }
+    }
+
     return {
       inScope,
       isPanelDiag,
-      canonicals: scoredCanon.slice(0, 2).map((x) => x.topic),
-      chunks: scoredChunks.slice(0, 3).map((x) => x.chk)
+      canonicals: selectedCanonicals,
+      chunks: scoredChunks.slice(0, 2).map((x) => x.chk)
     };
   }
 
@@ -158,13 +176,13 @@ window.ChangeMacroConsultant = (function () {
 
     if (retrieval.isPanelDiag && liveState) {
       paragraphs.push(
-        `• Diagnóstico da Planta Atual: ${liveState.statusText}\n${liveState.failureReason}`
+        `🔍 Diagnóstico da Planta Atual:\n${liveState.statusText}\n\n${liveState.failureReason}`
       );
     }
 
     if (retrieval.canonicals.length > 0) {
       retrieval.canonicals.forEach((c) => {
-        paragraphs.push(`• ${c.title}:\n${c.synthesis}`);
+        paragraphs.push(`📌 ${c.title}\n\n${c.synthesis}`);
         citacoes.push({
           fonte_id: c.source_id,
           autor_titulo: `${c.author} — ${c.title}`,
@@ -175,7 +193,7 @@ window.ChangeMacroConsultant = (function () {
     } else if (retrieval.chunks.length > 0) {
       const top = retrieval.chunks[0];
       paragraphs.push(
-        `• Trecho Homologado (${top.source_id} [${top.timestamp}]):\n"${top.text.slice(0, 360)}..."`
+        `📌 Trecho Direto da Aula (${top.source_id} — ${top.author} [${top.timestamp}]):\n"${top.text.slice(0, 420)}..."`
       );
     }
 
@@ -190,8 +208,9 @@ window.ChangeMacroConsultant = (function () {
       }
     });
 
+    // Só exibe a caixa completa de telemetria quando for pergunta sobre o painel/planta
     let analisePainel = "";
-    if (liveState) {
+    if (liveState && retrieval.isPanelDiag) {
       analisePainel =
         `Tanque da Dívida: ${liveState.dividaProj.toFixed(1).replace(".", ",")}% do PIB ` +
         `(Camada Autoexpansiva LFT: ${liveState.lftShare.toFixed(1).replace(".", ",")}%) | ` +
@@ -204,7 +223,7 @@ window.ChangeMacroConsultant = (function () {
       dentro_do_escopo: true,
       resposta_engenharia: paragraphs.join("\n\n"),
       analise_painel_atual: analisePainel,
-      citacoes: citacoes.slice(0, 3)
+      citacoes: citacoes.slice(0, 2)
     };
   }
 
@@ -599,17 +618,17 @@ window.ChangeMacroConsultant = (function () {
 
         <!-- Botões Rápidos de Perguntas Homologadas -->
         <div style="padding:9px 12px;background-color:#172033;border-bottom:1px solid #334155;display:flex;flex-wrap:wrap;gap:6px;">
-          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Diagnosticar meu painel atual de engenharia')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#0e7490;color:#ffffff;border:1px solid #22d3ee;font-weight:700;cursor:pointer;">
-            ⚙️ Diagnosticar meu painel
+          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Como calcula o PIB?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#1e3a8a;color:#dbeafe;border:1px solid #60a5fa;font-weight:700;cursor:pointer;">
+            📊 Como calcula o PIB?
           </button>
           <button type="button" onclick="ChangeMacroConsultant.askQuestion('Por que os 51,6% de LFTs geram expansão endógena no Tanque?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#78350f;color:#fef3c7;border:1px solid #f59e0b;font-weight:700;cursor:pointer;">
-            🔗 LFTs 51,6% no Tanque
+            🔗 O que é LFT (51,6%)?
           </button>
           <button type="button" onclick="ChangeMacroConsultant.askQuestion('O que é a Falsa Racionalidade (r - g = +5,7%) de Lara Resende?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#064e3b;color:#d1fae5;border:1px solid #10b981;font-weight:700;cursor:pointer;">
             📐 Falsa Racionalidade (r−g)
           </button>
-          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Como o mercado futuro de câmbio e swaps afetam a PTAX e a dívida?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#334155;color:#f8fafc;border:1px solid #94a3b8;font-weight:700;cursor:pointer;">
-            💵 Câmbio Futuro &amp; Swaps
+          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Diagnosticar meu painel atual de engenharia')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#0e7490;color:#ffffff;border:1px solid #22d3ee;font-weight:700;cursor:pointer;">
+            ⚙️ Diagnosticar meu painel
           </button>
         </div>
 
@@ -618,7 +637,7 @@ window.ChangeMacroConsultant = (function () {
           <div style="border-radius:12px;padding:12px;font-size:12.5px;background-color:#0f172a;border:1px solid #38bdf8;color:#f1f5f9;">
             <div style="font-weight:800;color:#38bdf8;margin-bottom:4px;">👷 Olá! Sou o Consultor ChangeMacro.</div>
             <div style="line-height:1.5;">
-              Respondo <strong>exclusivamente</strong> com base nas <strong>7 fontes homologadas</strong> (Monica de Bolle, André Lara Resende e José Paulo Kupfer — 364 blocos minutados) e leio em tempo real os controles da sua planta 2D. Clique em um dos temas acima ou digite sua dúvida abaixo!
+              Respondo <strong>exclusivamente</strong> com base nas <strong>7 fontes homologadas</strong> (Monica de Bolle, André Lara Resende e José Paulo Kupfer — 10 guias didáticos + 364 blocos minutados) e leio em tempo real os controles da sua planta 2D. Clique em um dos temas acima ou digite sua dúvida abaixo!
             </div>
           </div>
         </div>
@@ -631,7 +650,7 @@ window.ChangeMacroConsultant = (function () {
           <input
             id="cm-chat-input"
             type="text"
-            placeholder="Ex: O que é LFT? Como funciona o câmbio futuro?"
+            placeholder="Ex: Como calcula o PIB? O que é LFT? Estoque vs fluxo?"
             style="flex:1;padding:9px 12px;border-radius:10px;background-color:#1e293b;border:1px solid #64748b;color:#ffffff;font-size:12.5px;outline:none;"
           />
           <button
@@ -666,6 +685,7 @@ window.ChangeMacroConsultant = (function () {
     toggleConfig,
     saveCredentials,
     askQuestion,
-    searchHomologatedIndex
+    searchHomologatedIndex,
+    buildLocalDeterministicAnswer
   };
 })();

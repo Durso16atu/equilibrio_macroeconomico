@@ -14,10 +14,10 @@ Gera:
 
 from __future__ import annotations
 
+from datetime import datetime, timezone
 import json
 import os
 import re
-from datetime import datetime, timezone
 from typing import Any
 
 ROOT_DIR = os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
@@ -85,29 +85,148 @@ OFFICIAL_SOURCES: dict[str, dict[str, str]] = {
     },
 }
 
-# Tópicos Canônicos de Engenharia Homologados (Sínteses de Alta Precisão)
+# 12 Fichas Didáticas Granulares (Pensadas para quem não é economista)
 CANONICAL_TOPICS: list[dict[str, Any]] = [
     {
+        "id": "canon_calculo_pib",
+        "title": "Como se Calcula o PIB (Y = C + I + G + X − M)",
+        "source_id": "Fonte #1",
+        "author": "Monica de Bolle (Basicão 2.0: Introdução, 30/10/2026)",
+        "url": "https://bolle.substack.com/",
+        "timestamp": "15:26–31:40",
+        "primary_triggers": [
+            "como calcula pib", "calcula o pib", "calculo do pib", "calcular o pib",
+            "o que e pib", "o que e o pib", "formula do pib", "equacao do pib",
+            "componentes do pib", "c + i + g", "bens finais", "dupla contagem"
+        ],
+        "keywords": [
+            "pib", "calcula", "calcular", "calculo", "formula", "produto interno bruto",
+            "bens finais", "consumo", "investimento", "exportacoes", "importacoes"
+        ],
+        "synthesis": (
+            "1️⃣ Em linguagem simples: O PIB (Produto Interno Bruto) é a soma de todos os bens e "
+            "serviços FINAIS produzidos no país durante um período (trimestre ou ano). Como explica "
+            "Monica de Bolle (Fonte #1 [15:26]), conta-se apenas o bem final (ex: o pão na padaria) "
+            "e não os insumos intermediários (trigo e farinha) para evitar dupla contagem.\n\n"
+            "2️⃣ A Fórmula pela Ótica da Demanda: Y = C + I + G + (X − M)\n"
+            "• C (Consumo das Famílias): ~63% a 65% do PIB no Brasil (alimentos, serviços, bens);\n"
+            "• I (Investimento / FBCF): máquinas, fábricas, obras e infraestrutura (~16% a 18% do PIB);\n"
+            "• G (Gasto e Investimento Público): saúde, educação, segurança e obras do Estado;\n"
+            "• X − M (Setor Externo): Exportações (X) menos Importações (M).\n\n"
+            "3️⃣ No Simulador 2D: O PIB (Y) é a LARGURA das paredes do Tanque Hidráulico (porque a "
+            "dívida é medida em % do PIB: Dívida ÷ PIB). Se você faz um corte brusco em G ou sobe "
+            "demais a Selic (travando C e I), o PIB encolhe, o tanque fica mais estreito e o nível "
+            "de Dívida/PIB sobe mesmo sem criar dívida nova!"
+        ),
+    },
+    {
+        "id": "canon_estoque_fluxo",
+        "title": "Diferença entre Estoque (Dívida) e Fluxo (Déficit / Superávit)",
+        "source_id": "Fonte #1",
+        "author": "Monica de Bolle (30/10/2026 & 13/11/2026)",
+        "url": "https://bolle.substack.com/",
+        "timestamp": "32:10–41:50",
+        "primary_triggers": [
+            "estoque e fluxo", "estoque vs fluxo", "diferenca entre divida e deficit",
+            "o que e deficit", "o que e superavit", "fluxo e estoque"
+        ],
+        "keywords": [
+            "estoque", "fluxo", "deficit", "déficit", "superavit", "superávit", "diferenca"
+        ],
+        "synthesis": (
+            "1️⃣ Em linguagem simples: Pense em uma caixa d'água. O FLUXO é a água que entra ou "
+            "sai pelas válvulas a cada ano (o déficit ou superávit anual do governo). O ESTOQUE é "
+            "o volume total acumulado dentro do reservatório ao longo de décadas (a Dívida Pública).\n\n"
+            "2️⃣ Por que confundem os dois no debate? Fechar a válvula do fluxo primário (zerar o "
+            "déficit do ano) impede que entre água nova pela tubulação fiscal, mas NÃO reduz "
+            "automaticamente o estoque acumulado se o fluido que já está dentro do tanque estiver "
+            "crescendo sozinho por causa dos juros (51,6% em LFTs indexadas à Selic).\n\n"
+            "3️⃣ No Simulador 2D: As Válvulas 1 e 2 controlam o Fluxo Primário (T − G), enquanto "
+            "o Tanque Hidráulico mostra o Estoque Total (DBGG em % do PIB)."
+        ),
+    },
+    {
+        "id": "canon_primario_nominal",
+        "title": "Resultado Primário vs. Nominal e Dívida Bruta (DBGG) vs. Líquida (DLSP)",
+        "source_id": "Fonte #4",
+        "author": "André Lara Resende (Set/2026) & Monica de Bolle (13/11/2026)",
+        "url": "https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar",
+        "timestamp": "09:15–15:50",
+        "primary_triggers": [
+            "primario e nominal", "primario vs nominal", "resultado primario", "resultado nominal",
+            "divida bruta", "divida liquida", "dbgg", "dlsp", "diferenca entre bruta e liquida"
+        ],
+        "keywords": [
+            "primario", "nominal", "dbgg", "dlsp", "bruta", "liquida", "1,15", "1,4"
+        ],
+        "synthesis": (
+            "1️⃣ Resultado Primário vs. Nominal:\n"
+            "• Resultado Primário (T − G): é a diferença entre o que o governo arrecada em impostos (T) "
+            "e o que gasta na máquina pública e programas sociais (G), SEM contar os juros. Hoje está "
+            "praticamente equilibrado (déficit < 0,6% do PIB).\n"
+            "• Resultado Nominal: é o Primário somado à conta de juros da dívida (que consome de "
+            "R$ 1,15 trilhão a R$ 1,4 trilhão/ano, ou 8,7% a 10,5% do PIB).\n\n"
+            "2️⃣ Dívida Líquida (DLSP — 69,1% do PIB) vs. Dívida Bruta (DBGG — 82,9% do PIB):\n"
+            "A Dívida Líquida desconta os ativos do país (como os US$ 350–360 bi de reservas "
+            "internacionais). Já a Dívida Bruta (DBGG) soma apenas os passivos, incluindo o custo "
+            "de carregamento das reservas e as perdas com swaps cambiais do Banco Central."
+        ),
+    },
+    {
         "id": "canon_tanque_lft",
-        "title": "Tanque Hidráulico da Dívida & Expansão Endógena das LFTs (51,6%)",
+        "title": "O que é LFT (Tesouro Selic) e por que 51,6% geram Expansão Endógena",
         "source_id": "Fonte #7",
         "author": "Monica de Bolle (13/11/2026) & André Lara Resende (Set/2026)",
         "url": "https://bolle.substack.com/p/basicao-juros-divida-ajusteo-que",
         "timestamp": "16:07–34:15",
+        "primary_triggers": [
+            "que e lft", "o que e lft", "o que sao lfts", "tesouro selic", "51,6%", "51.6%",
+            "expansao endogena", "camada autoexpansiva", "modalidades de titulos", "pre-fixado", "ipca+"
+        ],
         "keywords": [
-            "lft", "tesouro selic", "51,6", "51.6", "38%", "tanque", "divida", "dívida",
-            "estoque", "pos-fixada", "pós-fixada", "liquidez", "alongamento", "73,6",
-            "6 anos", "swap", "expansao endogena", "expansão endógena", "camada autoexpansiva"
+            "lft", "lfts", "tesouro selic", "51,6", "51.6", "38%", "tanque", "pos-fixada",
+            "liquidez", "alongamento", "73,6", "6 anos", "swap", "expansao", "endogena"
         ],
         "synthesis": (
-            "As Letras Financeiras do Tesouro (LFTs / Tesouro Selic) saltaram de 38% (2022) "
-            "para 51,6% da dívida pública em novembro de 2026. Embora o prazo contratual médio "
-            "seja de ~6 anos (73,6 meses), elas possuem liquidez diária sem marcação a mercado "
-            "(duration zero). No Tanque Hidráulico do simulador, essa fração de 51,6% compõe a "
-            "camada superior autoexpansiva: cada alta da Selic expande o estoque da dívida "
-            "automaticamente, mesmo com as válvulas do resultado primário fechadas. Em contrapartida, "
-            "uma redução coordenada da Selic combinada a swaps graduais de dívida gera alívio "
-            "imediato sobre o estoque."
+            "1️⃣ As 3 modalidades de títulos da dívida pública (Fonte #7 [16:07]):\n"
+            "• Pré-fixados: taxa travada na emissão;\n"
+            "• IPCA+ (NTN-B): inflação mais juro real;\n"
+            "• Pós-fixados (LFT / Tesouro Selic): rendem 100% da taxa Selic diária.\n\n"
+            "2️⃣ O problema estrutural (51,6% em LFTs): As LFTs saltaram de 38% (2022) para 51,6% "
+            "da dívida em novembro de 2026. Embora tenham vencimento formal de ~6 anos (73,6 meses), "
+            "possuem liquidez diária sem perda de valor (duration zero). Quando o BC sobe a Selic "
+            "para conter a inflação, 51,6% do estoque da dívida cresce automaticamente no mesmo dia.\n\n"
+            "3️⃣ No Simulador 2D: É a camada superior laranja do Tanque Hidráulico. Com a Coordenação "
+            "CFMN + Swap gradual de LFTs (Controle 4) e queda calibrada da Selic (Controle 3), essa "
+            "camada recua de 51,6% rumo a ~34%, gerando alívio imediato de ~4% do PIB."
+        ),
+    },
+    {
+        "id": "canon_transmissao_monetaria",
+        "title": "O que é a Taxa Selic e Como Funciona a Caldeira Monetária",
+        "source_id": "Fonte #2",
+        "author": "Monica de Bolle (Basicão: Política Monetária, 06/11/2026)",
+        "url": "https://bolle.substack.com/p/basicao-politica-monetaria",
+        "timestamp": "08:30–36:40",
+        "primary_triggers": [
+            "o que e selic", "que e selic", "para que serve a selic", "como funciona a selic",
+            "politica monetaria", "caldeira monetaria", "preco do dinheiro", "inflacao de demanda",
+            "inflacao de oferta"
+        ],
+        "keywords": [
+            "selic", "caldeira", "monetaria", "inflacao", "preco do dinheiro",
+            "custo de oportunidade", "credito", "oferta", "demanda"
+        ],
+        "synthesis": (
+            "1️⃣ Em linguagem simples: A Selic é o 'preço do dinheiro' na economia (Fonte #2 [08:30]). "
+            "Ela age de duas formas: é o custo do crédito (para quem toma empréstimo ou financia) e "
+            "o custo de oportunidade (quanto você ganha deixando o dinheiro parado em títulos públicos "
+            "em vez de consumir ou investir na produção).\n\n"
+            "2️⃣ Limite de eficácia (Demanda vs. Oferta): Subir a Selic encarece o crédito e esfria o "
+            "Consumo (C) e o Investimento (I). Isso funciona quando a inflação é de DEMANDA (economia "
+            "superaquecida), mas NÃO resolve choques de OFERTA (seca, alimentos, tarifa de energia) e "
+            "ainda sobrecarrega o Tanque da Dívida via LFTs.\n\n"
+            "3️⃣ No Simulador 2D: É a Estação 2 (Caldeira Monetária) e a Válvula 3."
         ),
     },
     {
@@ -117,42 +236,49 @@ CANONICAL_TOPICS: list[dict[str, Any]] = [
         "author": "André Lara Resende (Eu Acuso / J’Accuse & CEBRI)",
         "url": "https://andrelararesende.substack.com/p/eu-acuso-uma-proposta-para-eliminar",
         "timestamp": "Artigo Integral",
+        "primary_triggers": [
+            "falsa racionalidade", "r - g", "r-g", "eu acuso", "jaccuse", "j'accuse",
+            "lara resende", "curva de phillips", "cfmn", "5,7%"
+        ],
         "keywords": [
-            "falsa racionalidade", "lara resende", "eu acuso", "jaccuse", "j'accuse",
-            "r - g", "r-g", "12,7%", "7,0%", "5,7%", "aritmética", "aritmetica",
-            "dominancia", "dominância", "curva de phillips", "cfmn", "conselho"
+            "falsa racionalidade", "lara resende", "eu acuso", "jaccuse",
+            "12,7%", "7,0%", "5,7%", "aritmetica", "dominancia", "phillips", "cfmn"
         ],
         "synthesis": (
-            "André Lara Resende demonstra que o resultado primário brasileiro está próximo do "
-            "equilíbrio (déficit < 0,6% do PIB), mas o serviço de juros consome de R$ 1,15 trilhão "
-            "(8,7% do PIB na DLSP) a R$ 1,4 trilhão (10,5% do PIB na DBGG). Com os juros fazendo "
-            "a dívida crescer 12,7% a.a. contra 7,0% a.a. do PIB nominal, a razão Dívida/PIB "
-            "salta +5,7% ao ano por inércia financeira. Com a Curva de Phillips achatada, "
-            "elevar juros para conter choques de oferta é uma 'falsa racionalidade' que agrava "
-            "o risco fiscal e deprecia o câmbio. A saída estrutural é a criação do Conselho "
-            "Fiscal-Monetário Nacional (CFMN), bandas para a Selic e alongamento efetivo da dívida."
+            "1️⃣ O Conceito (André Lara Resende): É o erro de manter juros reais extremos achando que "
+            "isso protege a moeda, quando na verdade o próprio juro se tornou a fonte primária do "
+            "desequilíbrio fiscal (Dominância Financeira).\n\n"
+            "2️⃣ A Aritmética Explosiva (r − g = +5,7% a.a.): Os juros fazem a dívida bruta crescer "
+            "12,7% ao ano, enquanto o PIB nominal cresce 7,0% ao ano. Essa diferença (+5,7% a.a.) faz "
+            "a razão Dívida/PIB saltar sozinha todo ano.\n\n"
+            "3️⃣ A Solução Institucional (Controle 4): Criar o Conselho Fiscal-Monetário Nacional "
+            "(CFMN), estabelecer bandas para a Selic e substituir gradualmente as LFTs."
         ),
     },
     {
         "id": "canon_cambio_derivativos",
-        "title": "Mercado Futuro de Câmbio ('O Rabo Abana o Cachorro'), PTAX e Swaps",
+        "title": "Câmbio Futuro ('O Rabo Abana o Cachorro'), PTAX, Reservas e Swaps",
         "source_id": "Fonte #6",
         "author": "Monica de Bolle & José Paulo Kupfer (12/11/2026)",
         "url": "https://bolle.substack.com/p/cambio-e-juros-com-jose-paulo-kupfer",
         "timestamp": "11:40–31:20",
+        "primary_triggers": [
+            "cambio futuro", "ptax", "rabo abana o cachorro", "swap cambial", "swaps",
+            "reservas internacionais", "dolar", "derivativos"
+        ],
         "keywords": [
-            "cambio", "câmbio", "dolar", "dólar", "ptax", "futuro", "derivativos",
-            "rabo abana o cachorro", "kupfer", "swaps", "swap cambial", "reservas",
-            "350 bi", "fmi", "2002", "b3", "especulacao", "especulação"
+            "cambio", "dolar", "ptax", "futuro", "derivativos", "rabo", "cachorro",
+            "swaps", "reservas", "350 bi", "fmi", "2002"
         ],
         "synthesis": (
-            "No Brasil, a taxa de câmbio PTAX é formada no mercado futuro de derivativos da B3 "
-            "(que movimenta US$ 20 a US$ 35 bilhões/dia, liquidados em Reais sem entrega física) "
-            "e não no mercado à vista (apenas US$ 1 a US$ 3 bilhões/dia): 'o rabo abana o cachorro'. "
-            "Por isso, tentar reduzir a Selic 'na marra' sem coordenação dispara apostas especulativas "
-            "nos derivativos, pressiona a PTAX, gera prejuízos nos swaps cambiais do Banco Central "
-            "(criados no acordo com o FMI em 2002) e encarece o custo de carregamento das reservas "
-            "internacionais (~US$ 350–360 bi), inflando a Dívida Bruta (DBGG) e a Caldeira Monetária."
+            "1️⃣ A Jabuticaba do Câmbio no Brasil (Fonte #6 [11:40]): Diferente de outros países, "
+            "a taxa oficial de câmbio (PTAX) no Brasil nasce no mercado futuro da B3 (que gira "
+            "US$ 20 a US$ 35 bilhões/dia em contratos liquidados em Reais) e não no dólar à vista "
+            "(apenas US$ 1 a US$ 3 bilhões/dia). Ou seja: 'o rabo (derivativos) abana o cachorro (à vista)'.\n\n"
+            "2️⃣ Swaps Cambiais e Reservas: Se o governo tenta baixar a Selic 'na marra' sem coordenação, "
+            "o mercado futuro dispara apostas no dólar, pressiona a inflação na Caldeira e gera "
+            "prejuízos nos swaps cambiais do BC (criados no acordo com o FMI em 2002), que entram "
+            "direto na conta de juros da Dívida Bruta (DBGG)."
         ),
     },
     {
@@ -162,41 +288,22 @@ CANONICAL_TOPICS: list[dict[str, Any]] = [
         "author": "Monica de Bolle (30/10/2026) & Kupfer (05/11/2026)",
         "url": "https://bolle.substack.com/",
         "timestamp": "42:10–1:18:00",
+        "primary_triggers": [
+            "renuncias fiscais", "desoneracoes", "gastos tributarios", "tesouraco",
+            "600 bi", "800 bi", "corte social", "ponte de coesao"
+        ],
         "keywords": [
-            "renuncias", "renúncias", "desoneracoes", "desonerações", "gastos tributarios",
-            "gastos tributários", "600 bi", "800 bi", "tesouraco", "tesouraço", "corte",
-            "ponte", "coesao social", "coesão social", "pib", "demanda agregada", "privilegios"
+            "renuncias", "desoneracoes", "gastos tributarios", "600 bi", "800 bi",
+            "tesouraco", "ponte", "coesao", "privilegios"
         ],
         "synthesis": (
-            "O orçamento brasileiro carrega entre R$ 600 bilhões e R$ 800 bilhões/ano (~6% do PIB) "
-            "em gastos tributários (desonerações e privilégios fiscais sem contrapartida). "
-            "A 'Armadilha do Tesouraço' consiste em preservar esses privilégios e estrangular "
-            "investimentos públicos e proteção social (G). Na identidade Y = C + I + G + (X - M), "
-            "cortar G abruptamente contrai o denominador (PIB), reduz a arrecadação, rompe a "
-            "Ponte de Coesão Social e não estanca a expansão das LFTs no Tanque da Dívida. "
-            "O ajuste eficiente revisa desonerações improdutivas (Válvula 1) preservando o PIB."
-        ),
-    },
-    {
-        "id": "canon_transmissao_monetaria",
-        "title": "Caldeira Monetária: Juros como Preço do Dinheiro e Canal de Transmissão",
-        "source_id": "Fonte #2",
-        "author": "Monica de Bolle (06/11/2026)",
-        "url": "https://bolle.substack.com/p/basicao-politica-monetaria",
-        "timestamp": "08:30–36:40",
-        "keywords": [
-            "politica monetaria", "política monetária", "caldeira", "inflacao", "inflação",
-            "selic", "preco do dinheiro", "preço do dinheiro", "custo de oportunidade",
-            "credito", "crédito", "consumo", "investimento", "demanda", "oferta"
-        ],
-        "synthesis": (
-            "A taxa básica de juros (Selic) funciona sob duas óticas: custo de oportunidade "
-            "(para quem aplica em títulos) e preço do crédito (para famílias e empresas). "
-            "Quando o BC sobe a Selic (i ↑), encarece o crédito e incentiva a poupança financeira, "
-            "freando o Consumo (C) e o Investimento (I) para esfriar a Demanda Agregada. "
-            "Porém, esse mecanismo só é eficaz contra inflação de demanda; diante de choques "
-            "de oferta (alimentos, energia, clima) ou com 51,6% da dívida indexada à própria Selic, "
-            "juros extremos travam o investimento produtivo (Y ↓) e realimentam o custo fiscal."
+            "1️⃣ O que são Gastos Tributários (Válvula 1): São isenções, desonerações e benefícios "
+            "fiscais a setores específicos que somam de R$ 600 bi a R$ 800 bi por ano (~6% do PIB), "
+            "muitas vezes sem geração comprovada de emprego ou produtividade.\n\n"
+            "2️⃣ Por que o 'Tesouraço' falha (Válvula 2): Cortar investimentos públicos e proteção "
+            "social (G) mantendo os R$ 600–800 bi de privilégios derruba o PIB (Y), reduz a própria "
+            "arrecadação e colapsa a Ponte de Coesão Social, enquanto o Tanque continua subindo "
+            "pela Selic nas LFTs."
         ),
     },
     {
@@ -206,16 +313,19 @@ CANONICAL_TOPICS: list[dict[str, Any]] = [
         "author": "Monica de Bolle & José Paulo Kupfer (05/11/2026)",
         "url": "https://bolle.substack.com/p/juros-divida-publica-e-politica-fiscal",
         "timestamp": "15:00–48:00",
+        "primary_triggers": [
+            "conflito distributivo", "transferencia de renda", "rentismo", "imposto regressivo"
+        ],
         "keywords": [
-            "conflito distributivo", "regressivo", "rentismo", "transferencia", "transferência",
-            "impostos", "orcamento", "orçamento", "kupfer", "desigualdade", "distribuicao"
+            "conflito distributivo", "regressivo", "rentismo", "transferencia", "desigualdade"
         ],
         "synthesis": (
-            "O orçamento público reflete o conflito distributivo da sociedade. Quando o Estado "
-            "drena de 8,7% a 10,5% do PIB por ano para pagar juros nominais sobre a dívida "
-            "pública — financiado por um sistema tributário regressivo sobre o consumo —, "
-            "ocorre uma transferência contínua de renda da base produtiva e dos contribuintes "
-            "para os detentores de riqueza financeira líquida indexada ao overnight."
+            "1️⃣ Em linguagem simples: O orçamento público define quem paga impostos e quem recebe "
+            "recursos do Estado.\n\n"
+            "2️⃣ O mecanismo regressivo: Quando o Brasil destina de 8,7% a 10,5% do PIB por ano ao "
+            "pagamento de juros da dívida — financiado por tributos indiretos sobre o consumo da "
+            "população —, ocorre uma transferência contínua de renda do setor produtivo e dos "
+            "trabalhadores para os detentores de aplicações financeiras atreladas à Selic."
         ),
     },
     {
@@ -225,19 +335,23 @@ CANONICAL_TOPICS: list[dict[str, Any]] = [
         "author": "Monica de Bolle & André Lara Resende",
         "url": "https://bolle.substack.com/",
         "timestamp": "Bloco Histórico",
+        "primary_triggers": [
+            "paeg", "plano cruzado", "plano real", "urv", "ortn", "crise de 2015", "historia"
+        ],
         "keywords": [
             "paeg", "1964", "ortn", "cruzado", "1986", "congelamento", "plano real",
-            "urv", "1994", "1999", "2015", "historia", "história", "inercia", "inércia"
+            "urv", "1994", "1999", "2015", "historia", "inercia"
         ],
         "synthesis": (
-            "O Bloco 2 do simulador resgata 4 marcos estruturais: (1) PAEG 1964–67 (Roberto Campos "
-            "e Bulhões): criou o BC, o CMN e a correção monetária (ORTN), viabilizando o mercado "
-            "de títulos mas plantando a semente da indexação; (2) Plano Cruzado 1986: tentou "
-            "congelar preços no grito com expansão de demanda, gerando desabastecimento; "
-            "(3) Plano Real 1994 (Lara Resende, Persio Arida e equipe): usou a URV para alinhar "
-            "preços relativos e quebrar a inércia sem congelamento, mas a criação das LFTs na "
-            "crise de 1998–99 perpetuou a indexação no overnight; (4) Crise 2015–16: combinação "
-            "de desonerações sem retorno com choque recessivo e Selic a 14,25%."
+            "1️⃣ PAEG (1964–67): Criou o Banco Central, o CMN e a correção monetária (ORTN), "
+            "viabilizando a dívida pública, mas iniciando a cultura de indexação.\n"
+            "2️⃣ Plano Cruzado (1986): Tentou congelar preços por decreto com juros baixos na marra, "
+            "gerando explosão de demanda e desabastecimento.\n"
+            "3️⃣ Plano Real (1994): Usou a URV para coordenar expectativas e eliminar a hiperinflação "
+            "inercial sem congelamento; porém, na crise externa de 1998–99, a difusão das LFTs "
+            "reintroduziu a indexação financeira diária no estoque da dívida.\n"
+            "4️⃣ Crise 2015–16: Combinação de desonerações improdutivas com contração fiscal abrupta "
+            "e Selic a 14,25%, provocando recessão de ~7% no PIB."
         ),
     },
 ]

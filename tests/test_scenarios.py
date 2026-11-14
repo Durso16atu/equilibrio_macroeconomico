@@ -104,6 +104,14 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertGreaterEqual(len(res_in.citacoes), 1)
         self.assertEqual(res_in.citacoes[0].fonte_id, "Fonte #7")
 
+        # Pergunta conceitual de iniciante ("como calcula PIB?") deve retornar card focado e didático, sem empilhar outros temas
+        res_pib = answer_query("como calcula PIB?", api_key="")
+        self.assertTrue(res_pib.dentro_do_escopo)
+        self.assertIn("Como se Calcula o PIB", res_pib.resposta_engenharia)
+        self.assertIn("Y = C + I + G + (X − M)", res_pib.resposta_engenharia)
+        self.assertNotIn("Falsa Racionalidade", res_pib.resposta_engenharia)
+        self.assertEqual(res_pib.citacoes[0].fonte_id, "Fonte #1")
+
         # Pergunta fora do escopo homologado deve ser recusada estritamente
         res_out = answer_query("Qual a receita de bolo de chocolate e o placar do jogo?", api_key="")
         self.assertFalse(res_out.dentro_do_escopo)
