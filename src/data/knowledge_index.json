@@ -2,10 +2,10 @@
   "metadata": {
     "project": "ChangeMacro — Engenharia da Estabilidade (Basicão 2.0)",
     "author": "José Eduardo dos Santos • Holding Change (ChangeMacro)",
-    "generated_at": "2026-11-14T23:18:31.052028+00:00",
-    "total_official_sources": 8,
-    "total_canonical_topics": 12,
-    "total_transcript_chunks": 404,
+    "generated_at": "2026-11-16T23:17:54.915031+00:00",
+    "total_official_sources": 11,
+    "total_canonical_topics": 15,
+    "total_transcript_chunks": 488,
     "strict_scope_policy": "Responder exclusivamente com base nas 7 fontes homologadas no projeto e nos parâmetros físicos do Simulador 2D."
   },
   "sources": [
@@ -72,6 +72,30 @@
       "date": "14/11/2026",
       "url": "https://www.youtube.com/watch?v=FkaGD9Tig6M",
       "file": "2026-11-14_solucao_juros_monica_de_bolle.txt"
+    },
+    {
+      "id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "file": "2026-11-16_esboco_proposta_desindexar_divida_bolle.txt"
+    },
+    {
+      "id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "file": "2026-11-16_dificuldades_governo_politica_fiscal.txt"
+    },
+    {
+      "id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "file": "2026-11-16_nota_proposta_meta_juros_lara_resende.txt"
     }
   ],
   "canonical_topics": [
@@ -449,6 +473,111 @@
         "trajetoria contratada"
       ],
       "synthesis": "1️⃣ Em linguagem simples: Como demonstra Monica de Bolle (Fonte #8 [51:15–53:50]), você não precisa concordar com teorias heterodoxas para ver nos dados por que a Selic alta retroalimenta a inflação no Brasil.\n\n2️⃣ O Circuito Circular (Passo a Passo):\n• Passo 1: Com ~52% da dívida em LFTs pós-fixadas, subir a Selic gera um 'crescimento contratado' da dívida pública (ela cresce sozinha, mesmo segurando gastos);\n• Passo 2: Ao verem a dívida crescer sozinha, os credores exigem um PRÊMIO DE RISCO maior;\n• Passo 3: O risco maior enfraquece o Real (desvalorização cambial), o que encarece produtos e GERA MAIS INFLAÇÃO;\n• Passo 4: Para conter o câmbio e a inflação, o BC sobe ainda mais os juros — fechando uma bola de neve circular.\n\n3️⃣ No Simulador 2D: Experimente subir a Válvula 3 (Selic) para 15%: você verá a camada laranja de LFTs inflar o Tanque e derrubar a Estabilidade do Sistema, comprovando visualmente o efeito bola de neve."
+    },
+    {
+      "id": "canon_plano_desindexacao_bolle",
+      "title": "Plano de Desindexação Voluntária das LFTs em 4 Partes (Monica de Bolle, 16/11/2026)",
+      "source_id": "Fonte #9",
+      "author": "Monica de Bolle (Esboço para Desindexar a Dívida, 16/11/2026)",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "Artigo Integral [01:00–31:00]",
+      "primary_triggers": [
+        "esboco de uma proposta",
+        "proposta para desindexar",
+        "desindexar a divida",
+        "desindexacao da divida",
+        "plano da monica",
+        "proposta da monica",
+        "ima-b",
+        "irf-m",
+        "benchmark cdi",
+        "uruguai 2003",
+        "sweetener",
+        "titulo de transicao",
+        "22,5%"
+      ],
+      "keywords": [
+        "desindexar",
+        "desindexacao",
+        "voluntaria",
+        "cardapio",
+        "transicao",
+        "sweetener",
+        "uruguai",
+        "22,5%",
+        "isencao",
+        "irf-m",
+        "ima-b",
+        "anbima",
+        "extramercado",
+        "19%"
+      ],
+      "synthesis": "1️⃣ Em linguagem simples (Desindexação ≠ Reestruturação): Com a dívida em R$ 9,4 tri (~83% do PIB) e 51,6% em LFTs, Monica de Bolle (Fonte #9) propõe uma desindexação 100% VOLUNTÁRIA para o futuro, sem mexer nos contratos atuais.\n\n2️⃣ As 4 Partes Articuladas Simultaneamente:\n• Parte 1 (Meta de Inflação de 4,5% + Ajuste Fiscal): Mudança única e definitiva para 4,5% (patamar de 2005–2018), casada com ajuste fiscal para não desancorar expectativas;\n• Parte 2 (Trajetória da Selic ≤ 10% em 2 anos): Com autonomia do BC preservada;\n• Parte 3 (Swap voluntário em 4 rodadas anuais após o 1º corte da Selic): Cardápio com 3 opções (Prefixado 5–10 anos, IPCA+ para fundos de pensão, ou Título de Transição que paga Selic por 2 anos e vira prefixado);\n• Parte 4 (Incentivos Tributários e Regulatórios): IR de 22,5% para novas aplicações atreladas a Selic/CDI e ISENÇÃO (0%) para prefixados/IPCA+ > 5 anos; bancos deixam de usar LFT para regra de liquidez; e fundos trocam o benchmark CDI pelos índices IRF-M e IMA-B (como o CMN fez em 2012 nos fundos extramercado, reduzindo as LFTs de 30% para 19% em 2014).\n\n3️⃣ No Simulador 2D: É a engenharia detalhada por trás do Controle 4 (Swap de LFTs) combinada com o Controle 3 (Selic a 10%)."
+    },
+    {
+      "id": "canon_plp299_combinacao_convexa",
+      "title": "Política Fiscal, PLP 299 e a 'Combinação Convexa' (Monica de Bolle, 16/11/2026)",
+      "source_id": "Fonte #10",
+      "author": "Monica de Bolle (Live: As Dificuldades com a Política Fiscal, 16/11/2026)",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "05:38–32:10 e 52:55–53:42",
+      "primary_triggers": [
+        "pl 299",
+        "plp 299",
+        "dificuldades do governo",
+        "fogo amigo",
+        "combinacao convexa",
+        "teto de 53%",
+        "dilma 2012",
+        "19% da divida"
+      ],
+      "keywords": [
+        "299",
+        "arcabouco",
+        "fogo amigo",
+        "convexa",
+        "53%",
+        "19%",
+        "dilma",
+        "simultaneamente"
+      ],
+      "synthesis": "1️⃣ O que é o ajuste do PLP 299 ([05:38–09:45]): Ele não destrói pisos de saúde/educação nem programas sociais; apenas executa a meta já prevista no arcabouço fiscal desde 2023: sair de um déficit primário de -0,5% do PIB (2026) para superávit de +0,5% do PIB (2027) — um ajuste de 1 p.p. do PIB.\n\n2️⃣ Sem Ajuste Fiscal não há Desindexação ([25:09–32:10] e [53:15]): O Tesouro projeta um teto de até 53% da dívida em LFTs, o que é calamitoso (entre 2012 e 2014 o Brasil conseguiu baixar as LFTs para 19%, o menor nível da história). Porém, não existe mágica: mexer na meta de inflação ou fazer swap de LFTs exige ajuste fiscal simultâneo para garantir a trajetória de queda dos juros. A solução final será uma 'combinação convexa' das melhores propostas técnicas.\n\n3️⃣ No Simulador 2D: Comprova por que os 4 controles precisam atuar juntos (Válvulas Fiscais 1 e 2 + Selic 3 + Swap 4)."
+    },
+    {
+      "id": "canon_nota_meta_juros_lara_resende",
+      "title": "O BC Pauta a Curva Longa (Correlação 0,95) e o Custo na Economia Real (Lara Resende, 16/11/2026)",
+      "source_id": "Fonte #11",
+      "author": "André Lara Resende (Uma nota sobre a proposta de meta para os juros, 16/11/2026)",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "Artigo Integral [01:00–30:00]",
+      "primary_triggers": [
+        "nota sobre a proposta",
+        "proposta de meta para os juros",
+        "bc pauta a curva",
+        "banco central pauta a curva",
+        "correlacao de 0,95",
+        "recuperacao judicial",
+        "recuperacoes judiciais",
+        "ibovespa vs cdi",
+        "103 vezes",
+        "400 bilhoes",
+        "dejanir silva"
+      ],
+      "keywords": [
+        "intervalo",
+        "forward guidance",
+        "400 bilhoes",
+        "curva",
+        "0,95",
+        "0,85",
+        "recuperacao judicial",
+        "depreciacao",
+        "ibovespa",
+        "103",
+        "dejanir",
+        "purdue"
+      ],
+      "synthesis": "1️⃣ Intervalo-Meta (Forward Guidance) e Colchão de US$ 400 bi: André Lara Resende (Fonte #11) propõe um intervalo para a Selic entre a inflação (piso, evitando juro real negativo) e o crescimento do PIB nominal (teto, estabilizando Dívida/PIB) num horizonte de 2 a 4 anos. Somando as reservas do BC aos dólares de exportadores no exterior, o Brasil tem um colchão > US$ 400 bilhões para suavizar o câmbio.\n\n2️⃣ O BC pauta a curva longa (Correlação de 0,95): Dados do Tesouro (2011–2026) refutam a tese de que 'cortar a Selic empina a curva longa': a Selic tem correlação de 0,95 com o custo médio de emissão da dívida e de 0,85 com o título prefixado de 10 anos.\n\n3️⃣ O Custo Devastador do CDI na Economia Real:\n• Empresas: A despesa financeira consome 40% a 43% do lucro operacional no Brasil (vs. 16% nos EUA); o investimento caiu a 91% da depreciação (não repõe o desgaste) e as recuperações judiciais bateram recorde (2.466 empresas em 2025 e 1.099 no 1º sem/2026);\n• Famílias e Bolsa: Dívidas consomem 29% da renda mensal das famílias (recorde); e de 1994 a 2026 o CDI multiplicou-se por 103x contra apenas 40x do Ibovespa, matando o investimento produtivo."
     }
   ],
   "transcript_chunks": [
@@ -4491,6 +4620,846 @@
       "url": "https://www.youtube.com/watch?v=FkaGD9Tig6M",
       "timestamp": "53:25–54:06",
       "text": "Porque quando a dívida cresce, o prêmio de risco dispara, aí os juros sobem para segurar o câmbio e a inflação também sobe. Aí os juros têm que subir mais, você entra numa bola de neve. É um problema circular esse. Ele não se resolve, pelo contrário, ele se torna pior se você não o aborda. E como eu falei, ele é visível. Você não precisa de teoria macroeconômica para enxergar isso. É só olhar os dados. Muito bem, chegamos ao final da conversa com a Monica de Bolle. Muito obrigado, Monica. Muito obrigado a todos que nos assistiram. Foi fantástico. Muito obrigado mesmo. Foi uma honra e um grande abraço para você, Monica. Tudo de bom. Obrigada. Eu que agradeço. Super obrigada pelo convite. Tchau."
+    },
+    {
+      "id": "fonte_9_c1",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "01:00–02:00",
+      "text": "Disclaimer: No espírito desta Newsletter, intitulada “Pensando Alto\", ofereço as reflexões abaixo com o intuito de acrescentar algo ao debate brasileiro sobre dívida pública e política fiscal. Não é minha pretensão dar-lhes nada “pronto\", mas sim algo a partir do qual se possa pensar sobre as alternativas. O esboço a seguir dialoga transversalmente com as propostas recém-elaboradas por André Lara Resende, mas não parte de suas prescrições, nem faz a elas qualquer alusão. Críticas construtivas são muito bem-vindas, inclusive as que apontem erros e aprimoramentos a fim de contribuir para o debate. Reitero que não tenho interesse em discussões de “torcida” a favor de uns ou de outros, e menos ainda em engajar-me em ataques que não estejam embasados em argumentos sólidos. Argumentos sólidos de qualquer tipo são muito bem-vindos. A dívida pública federal está hoje em R$ 9,4 trilhões, o equivalente a cerca de 83% do PIB. O tamanho assusta, mas o principal problema é a composição da dívida. Atualmente, mais da metade do estoque está em LFTs, títulos com uma característica particular: seu rendimento é a taxa Selic, definida pelo Banco Central a cada 45 dias. Para os investidores, carregar LFTs é uma maravilha, pois esses títulos não têm risco de rendimento nem de liquidez. Quando os juros sobem, os rendimentos também sobem, e o investidor pode resgatar o título quando quiser. Para o governo, a situação é a pior possível, pois, a cada elevação da Selic pelo Banco Central, 51,6% da dívida—a parcela de LFTs—encarece de imediato. Antes de descrever a proposta, é importante esclarecer o que ela não contém. Em primeiro lugar, não há qualquer intenção de modificar os termos contratuais das LFTs já emitidas. Detentores de LFTs que não queiram trocá-las ficam com o que têm, até o vencimento, com a remuneração originalmente contratada. O que proponho a seguir é de natureza voluntária para o investidor e vale para o futuro, não retroativamente. É isso que distingue uma desindexação de uma reestruturação. O Brasil, que já teve experiências tanto de desindexação de contratos quanto de reestruturação de dívida, não pode confundir as duas."
+    },
+    {
+      "id": "fonte_9_c2",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "03:00–06:00",
+      "text": "A composição da dívida pública gera um ciclo vicioso: quando a inflação sobe, o Banco Central eleva a Selic, o que aumenta a dívida. O aumento da dívida gera desconfiança entre os investidores, que passam a exigir juros ainda mais altos para carregá-la. Além disso, a perda de confiança gera pressões de desvalorização cambial, o que, por sua vez, alimenta a inflação. Hoje, o Brasil gasta 9% do PIB apenas para pagar os juros da dívida pública, o que é insustentável. O problema é complexo e as soluções nada têm de simples. Contudo, dá para pensar em algumas alternativas, como a que delineio a seguir. O plano de desindexação tem quatro partes, que precisam ser articuladas simultaneamente. A primeira parte é uma meta de inflação compatível com a estrutura da dívida que temos. Com a meta em 3%, o Banco Central precisa de uma Selic de quase 14% para cumpri-la, e cada ponto dessa Selic incide sobre metade da dívida. Uma meta de 4,5%, a mesma que o Brasil manteve por mais de dez anos, entre 2005 e 2018, é o reconhecimento de que a meta de 3% está sendo perseguida com um instrumento que encarece a própria dívida que se quer estabilizar. A mudança seria única e definitiva, com o compromisso explícito de que não haverá revisões posteriores para aumentá-la novamente."
+    },
+    {
+      "id": "fonte_9_c3",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "07:00–08:00",
+      "text": "Com a meta em 4,5% e a inflação próxima desse patamar, o Banco Central teria margem para reduzir a Selic. O risco da mudança é o mercado passar a desconfiar de que o governo esteja alterando a meta de inflação para corroer a dívida. Desse modo, a mudança da meta não pode ser anunciada sozinha. Teria de vir acompanhada de medidas de ajuste das contas públicas e de um programa de swap—de troca de dívida—para que todos entendam que o objetivo é tirar o Brasil da armadilha das LFTs. A segunda parte seria a trajetória dos juros, indicando que, se a inflação se comportar conforme a nova meta permite, a Selic pode chegar a 10% ou menos em cerca de dois anos. Não se trata de o Tesouro ditar os juros ao Banco Central, nem de o Banco Central se comprometer com um nível específico de juros. Trata-se de o Banco Central fazer o que já faz, reagir à meta e dizer com clareza como pretende fazê-lo. A autonomia do Banco Central é condição fundamental do plano."
+    },
+    {
+      "id": "fonte_9_c4",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "09:00–13:00",
+      "text": "A parte seguinte do plano depende de todos acreditarem que a queda dos juros é sustentável. Portanto, a terceira parte é o swap de dívida, ou seja, a troca. O Tesouro ofereceria um cardápio de três opções aos detentores de LFT: · Um título prefixado de cinco a dez anos; · Um título corrigido pela inflação mais um rendimento fixo, o que favorece fundos de pensão que precisam proteger as aposentadorias das variações inflacionárias; · Um título de transição. Esse título pagaria a Selic, como fazem as LFTs, mas apenas por dois anos. Passado esse horizonte, o título passa a ser prefixado, eliminando uma mudança abrupta para aqueles investidores que prefiram uma certa suavização. Qual o incentivo para o investidor? Se o cenário de queda de juros for crível, isto é, se a Selic cair de 14% para algo próximo de 10% em 2 anos, as opções do cardápio se tornam mais atrativas. O swap, ou troca, não teria início hoje, com a curva de juros embutindo a Selic de 14% por anos a fio. Ele teria início apenas depois do primeiro corte, quando a curva já tiver cedido e o investidor tiver motivos para acreditar na queda contínua dos juros. Nesse momento, travar uma taxa abaixo da Selic atual por cinco a dez anos passa a ser um bom negócio para quem acredita que a queda da Selic é sustentável. O Tesouro já vende prefixados toda semana; o que muda é que a troca é oferecida quando o preço fizer sentido e em escala que permita ao detentor de LFT migrar para outro título sem consequências indesejáveis para o mercado. O Tesouro ainda pode oferecer um pequeno bônus, um “sweetener”, aos investidores que participarem da primeira rodada de swap. Seriam 4 rodadas de swap—uma a cada ano—e cada uma só é concluída se um volume mínimo de investidores aderir, evitando que o Tesouro pague bônus por trocas irrisórias."
+    },
+    {
+      "id": "fonte_9_c5",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "14:00–15:00",
+      "text": "A quarta parte do plano é a que faria o swap acontecer de fato, tomando emprestada a ideia utilizada na reestruturação da dívida uruguaia de 2003, da qual participei quando trabalhei no FMI. A semelhança está no desenho: um cardápio de opções, um prazo para aderir e um volume mínimo para que a troca avance e seja concluída. A diferença está no incentivo. No Uruguai, a alternativa à troca era o calote; por isso, o investidor aceitou a perda de valor. No Brasil, não há calote possível em dívidas em reais, e nenhuma perda é imposta a quem fica com a LFT. O incentivo seria tributário e regulatório, válido para o futuro, e o investidor que não aderir continua com o título que tem, nos termos atuais. No Brasil, os bancos e os fundos de investimento, principais detentores de LFT, as carregam tanto por escolha quanto por necessidade. Bancos usam a LFT para cumprir as normas regulatórias do Banco Central e vinculá-la aos CDBs que vendem aos clientes. Esses CDBs rendem um percentual do CDI, muito próximo da Selic. Fundos DI prometem ao cotista tanto o rendimento do CDI quanto liquidez, isto é, a possibilidade de resgate imediato. Para cumprir a promessa, tais fundos precisam carregar LFTs em seus ativos. Logo, para que o swap funcione, as regras precisam ser alteradas. Portanto, o plano prevê uma nova regulação que se tornaria mais restritiva a cada ano."
+    },
+    {
+      "id": "fonte_9_c6",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "16:00–16:00",
+      "text": "Hoje, quanto maior o tempo de aplicação dos recursos, menor o imposto pago em qualquer aplicação. O plano altera essa regra, e a mudança exige lei, pois alíquotas e isenções de imposto de renda são matéria legislativa. A nova regra valeria apenas para aplicações feitas a partir da vigência dessa lei e para os rendimentos a partir dessa data. Os papéis que rendem Selic ou CDI (LFTs, fundos DI, CDBs pós-fixados) passam a pagar a alíquota cheia de 22,5%, enquanto os títulos prefixados ou corrigidos pela inflação ficam isentos se tiverem vencimento superior a cinco anos e forem mantidos até o fim do prazo. O que já está aplicado segue as regras sob as quais foi aplicado. A mudança não penaliza ninguém retroativamente. E ela não discrimina investidores pelo critério de tamanho, mas os distingue pelo prazo e pelo risco assumido, que é o critério que qualquer tributação de renda fixa deveria adotar. O Brasil fez algo semelhante em 2006 para investidores estrangeiros e o mecanismo funcionou."
+    },
+    {
+      "id": "fonte_9_c7",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "17:00–18:00",
+      "text": "No caso dos bancos, o Banco Central deixaria de considerar as LFTs como ativo seguro para o cumprimento das regras de liquidez, passando a considerar os prefixados e os títulos vinculados à inflação para essa finalidade. Também haveria uma mudança na remuneração dos depósitos bancários no Banco Central, que hoje rendem a Selic. A regulação dos fundos também seria alterada. Fundos de investimento precisam de índices de comparação para que se avalie e, muitas vezes, para que se remunere o gestor. Quando o fundo rende mais do que o índice, o gestor é bem avaliado. Pois bem. No Brasil, o índice de referência de praticamente todas as aplicações de renda fixa é o CDI, a taxa de empréstimos de 1 dia no mercado interbancário que acompanha a Selic. Gestores avaliados pelo CDI têm um enorme incentivo a comprar LFT, pois, caso adquiram um prefixado e os juros subam, perderão para o índice. Quando o gestor compra LFT, ele empata o jogo com o CDI, o que assegura uma boa avaliação. Portanto, a indústria de fundos, por sua própria natureza, é incentivada a demandar LFTs."
+    },
+    {
+      "id": "fonte_9_c8",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "19:00–20:00",
+      "text": "Parte importante do plano passa por trocar esse índice de referência. O Brasil conta com índices que medem o desempenho de carteiras de títulos públicos prefixados e indexados à inflação, calculados pela Anbima, os chamados IRF-M e o IMA-B. Caso os fundos de renda fixa e de previdência passem a ser medidos por esses índices, em vez do CDI, o incentivo do gestor é outro. Em vez de carregar LFTs para acompanhar o índice, ele precisa carregar prefixados e NTN-Bs, pois a LFT passa a ser o ativo que o penaliza na comparação. É importante dizer que essa mudança na regulação não obriga ninguém a vender LFT. O que ela faz é alterar aquilo que o gestor é pago para fazer. A migração para os novos índices teria de ocorrer em etapas para evitar perdas concentradas e movimentos abruptos de preços. Adicionalmente, teríamos de alterar o que ocorre com os fundos de liquidez diária, ou seja, os fundos DI em que a pessoa aplica e resgata no mesmo dia. Para cumprir a promessa de resgate imediato, o fundo precisa ter ativos que possam ser vendidos a qualquer momento sem gerar perdas, e o único ativo que cumpre esse papel é a LFT. A proposta, portanto, é que esses fundos tenham um teto para a parcela de LFTs na carteira, e que essa parcela seja reduzida a cada ano, cobrando do cotista uma taxa pela liquidez imediata. Isso força o investidor a escolher entre sacar o dinheiro no mesmo dia e pagar uma taxa para tanto ou esperar um tempo para ter acesso a fundos com prefixados e títulos atrelados à inflação, cujo rendimento é maior no longo prazo. Atualmente, o investidor tem liquidez diária e recebe rendimento de um título de longo prazo sem custo, o que constitui uma anomalia. Títulos de taxa flutuante existem em outros países, mas em nenhum deles representam metade da dívida pública, e em nenhum deles o investidor de varejo tem liquidez diária com o rendimento de um título de longo prazo e sem custo. É essa combinação, e não o instrumento em si, que é a anomalia brasileira."
+    },
+    {
+      "id": "fonte_9_c9",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "21:00–22:00",
+      "text": "Há precedentes. Em 2012, o Conselho Monetário Nacional (CMN) determinou que os fundos extramercado—fundos em que órgãos e entidades do governo federal aplicam seus recursos—passassem a ser medidos por índices IMA que excluem títulos atrelados à Selic. Com a nova regulação, esses fundos tinham incentivo para trocar as LFTs que carregavam e o Tesouro aproveitou a ocasião para fazer um swap de LFTs por outros títulos. O resultado disso foi que a parcela de LFT na dívida pública caiu de 30% para 22% em um ano e, em 2014, para 19%, o nível mais baixo da história (ver o gráfico). Na época, a nova regulação se aplicou apenas aos fundos do próprio governo. O plano propõe aplicar a mesma lógica à indústria como um todo. O plano também precisa abarcar o Banco Central, pois a instituição tem uma dívida atrelada à Selic, as chamadas operações compromissadas, que não são títulos do Tesouro e cumprem função de política monetária, mas que, para o setor público consolidado, têm o mesmo custo de uma LFT: pagam a Selic e entram na dívida bruta. Uma desindexação que troque LFT por prefixado no Tesouro e seja compensada por mais compromissadas no Banco Central não desindexa nada; apenas muda o problema de balanço. A ideia é que o Tesouro e o Banco Central publiquem juntos uma meta para o total da dívida pública atrelada à Selic, com a liquidez do sistema administrada por depósitos voluntários remunerados, instrumento que já existe em lei. Nada disso funciona sem um ajuste crível das contas públicas."
+    },
+    {
+      "id": "fonte_9_c10",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "23:00–26:00",
+      "text": "Com tais peças, é possível reduzir a parcela de LFTs na dívida dos atuais 52% para cerca de 30%. A conta de juros do governo encolheria, assim como a dívida, que deixaria de ser, em sua maior parte, remunerada pela Selic. A inflação deixaria de inflar o estoque da dívida pelo mecanismo dos juros, tornando as políticas monetária e fiscal consistentes entre si. Riscos1. A desconfiança do mercado. Se a mudança da meta de inflação for interpretada como sinal de que o governo não tem compromisso com a inflação, o Banco Central não consegue iniciar um ciclo de cortes de juros. Sem os cortes, ninguém vai trocar LFT por outro título. 2. O swap pode não ter adesão. A proteção é a regra de volume mínimo, que cancela a rodada se a adesão for baixa e impede que o Tesouro pague bônus por uma troca irrisória. 3. A alteração na tributação dos fundos DI e dos CDBs requer respaldo jurídico e político e, portanto, o envolvimento do Congresso Nacional."
+    },
+    {
+      "id": "fonte_9_c11",
+      "source_id": "Fonte #9",
+      "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+      "timestamp": "27:00–31:00",
+      "text": "4. A ausência de ajustes nas contas públicas e de compromissos nesse sentido inviabilizaria o plano desde o início. 5. Choques externos, como elevações nos preços do petróleo, por exemplo, prejudicariam a queda dos juros, sem a qual o plano de swap não funcionaria. 6. O risco de sucesso. Se o swap funcionar, bancos e fundos terão uma parte considerável de seus recursos alocada em títulos prefixados de prazo mais longo. Há risco de que, quando os juros subirem, perdas volumosas se concretizem, como ocorreu em 2023 com bancos regionais nos EUA. Regras bancárias regulatórias precisariam ser ajustadas para mitigar esse problema. 7. O risco de má interpretação do que foi apresentado acima. A proposta será resumida a ‘elevar a meta de inflação’, e o restante será ignorado. A ordem em que as peças são apresentadas e a insistência de que nenhuma delas funciona sozinha são a defesa contra essa leitura. 12612CompartilharAnteriorPróximo"
+    },
+    {
+      "id": "fonte_10_c1",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "00:01–01:07",
+      "text": "Oi, gente, boa tarde e boa noite a vocês todos que estão aqui. Eu resolvi fazer essa live aqui hoje sobre os temas que a gente não para de falar aqui pelo Substack, mas acho importante porque eu estou vendo um certo esfacelamento complexo nesse momento para o governo. Mas antes de entrar no tema, eu queria dar alguns avisos a vocês de coisas que mudaram, tá? O primeiro aviso que agora eu vou passar a fazer em todas as lives é que Nenhum conteúdo do Substack, nenhum, nenhuma live, ninguém está autorizado a fazer corte para a rede social das lives aqui do Substack, tá? Todo material aqui do Substack é protegido por copyright e eu vou adotar as medidas legais cabíveis contra aqueles que estiverem infringindo os meus direitos de copyright. Eu estou dizendo isso da forma que eu estou dizendo que isso está acontecendo. Ontem eu vi pessoas que assinam essa newsletter,"
+    },
+    {
+      "id": "fonte_10_c2",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "01:11–02:03",
+      "text": "pessoas que assinam essa newsletter, fazendo cortes não autorizados da live de sexta-feira para postar no Instagram. Se isso continuar, eu vou parar com as lives, tá? Ou então eu vou fechar as lives só para os assinantes que pagam. Então isso tem que parar, isso não pode continuar a acontecer. Eu ainda não consegui derrubar o canal Pirata no YouTube, Eu não tenho canal no YouTube e nem pretendo ter canal no YouTube, tem um canal lá que está replicando as lives daqui. Então, esse tipo de coisa é inadmissível e eu não vou mais admitir isso, tá? E vou falar isso agora em todas as lives. O segundo anúncio e a segunda coisa que vocês têm que saber é que eu fechei os comentários aqui, porque alguns de vocês estão abusando do chat, Como eu já falei, eu sou a única pessoa que está fazendo moderação desses comentários aqui e eu não consigo falar com um fio"
+    },
+    {
+      "id": "fonte_10_c3",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "02:10–03:08",
+      "text": "de pensamento que tenha início, meio e fim se eu tenho que ficar toda hora monitorando o que está acontecendo no chat. Então, a partir de agora e até que eu mude de ideia, O chat vai funcionar apenas para aquelas pessoas que são assinantes pagantes dessa newsletter. Ninguém mais vai poder ficar comentando no chat até ordem contrária. Então, essa era a segunda coisa que eu queria que vocês todos soubessem e, portanto, que façam aquilo que eu já pedi. Se tiverem comentários, se tiverem observações, tudo isso é muito bem-vindo, mas não dá para ficar fazendo isso durante a live. Porque vira uma farofada aqui no chat, uma farra do boi aqui que eu não consigo controlar. Então, infelizmente, eu tive que adotar essa atitude também para que isso parasse. Então, feitas essas primeiras considerações, eu queria tratar de dois assuntos e hoje a live não vai ser de horas. É uma live curta, mas é apenas para não deixar vocês sem certas informações"
+    },
+    {
+      "id": "fonte_10_c4",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "03:15–04:15",
+      "text": "e sem dar continuidade ao que a gente começou a falar na sexta-feira. Uma coisa importante, eu vou ver ainda se eu vou continuar essas lives de segunda-feira, porque é muita live, não tenho tempo para isso, estou trabalhando também, então assim, quinta-feira sempre vai ter live aqui com o Zé Paulo e sexta-feira é o dia que eu vou fazer os Segunda-feira, ocasionalmente, hoje é uma dessas ocasiões, eu farei uma live aqui nesse horário. Mas aquela história de ter live toda segunda-feira, isso daí vai acabar, porque não dá pra ter live na sexta e na segunda, que aí paralisa tudo e eu não consigo fazer mais nada. Então, esse era o outro aviso que eu queria dar. Como eu falei, agora tem bem menos gente aqui, o que é ótimo, e como eu disse anteriormente, Não autorizo cortes de lives que não tenham antes sido falados e se referido a mim para autorizá-los."
+    },
+    {
+      "id": "fonte_10_c5",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "04:16–05:23",
+      "text": "Quem quer que esteja fazendo coisa não autorizada vai sofrer as consequências por isso, tá? Então vamos parar com essa história porque isso aí também não dá. Sobre os temas em questão, o tema principal é o Projeto de Lei 299, esse que é precisamente o plano de voo para alcançar as metas do arcabouço fiscal. Isso daí está dando um problema gravíssimo no Brasil nesse momento, um problema político gravíssimo e como vocês estão vendo, O que o governo está propondo está sendo atacado tanto pelo mercado financeiro e por pessoas ligadas ao mercado financeiro como uma proposta insuficiente, que ela não é, tá? Aliás, que ela é, mas que todas seriam. Até a proposta que não era proposta da Zélia e do Flávio, ela também não alcançaria nada por ela própria. Porque o problema de fundo, o diagnóstico de fundo é outro, como eu já disse aqui a vocês em outras ocasiões e na própria sexta-feira."
+    },
+    {
+      "id": "fonte_10_c6",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "05:28–06:34",
+      "text": "Então, uma parte dos ataques ao governo estão vindo exatamente de onde a gente esperaria que eles viessem, essa parte não é surpresa. A parte sim que me causa uma certa surpresa são os ataques do suposto fogo amigo e de pessoas que claramente não têm a menor compreensão do que está acontecendo no país nesse momento. Essa é a parte que me preocupa mais porque afinal de contas essa é a base do governo. E é uma base que já está atacando as políticas de um governo que acabou de se reeleger sem sequer se dar conta do que essa política de fato representa. Então, como eu disse a vocês aqui na sexta-feira, o arcabouço fiscal existia e estava sendo Articulado e cumprido antes das eleições. Havia metas estabelecidas para 2027 dentro do âmbito do arcabouço fiscal que existe desde 2023. Então assim, para essas pessoas que agora resolveram atacar, pessoas da base governista, que agora resolveram atacar o governo"
+    },
+    {
+      "id": "fonte_10_c7",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "06:40–07:39",
+      "text": "por estar fazendo algo que já ia fazer mesmo antes das eleições, é uma coisa completamente nonsense e que joga o país numa situação de incerteza e de falta de rumo que francamente não tem o menor sentido de ser. Então, embora, e como eu já falei para vocês, esse canal aqui, esse meu espaço no Substack é um espaço papo reto, não tem o lado ideológico aqui, nem defendo nenhum partido, nem outro partido, nem nada disso, tudo é bobagem. As discussões têm que ser o que elas são, as discussões têm que ser de acordo com a realidade tal qual ela é. E a realidade hoje é a seguinte, o que está vindo do mercado financeiro é exatamente o tipo de coisa que a gente espera. Agora, o que está vindo dessa suposta esquerda tonta brasileira não é admissível, porque isso enfraquece um governo que acabou de se reeleger por razão nenhuma. Porque não há nada no PL 299 que ponha em risco coisas que foram discutidas durante"
+    },
+    {
+      "id": "fonte_10_c8",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "07:46–08:41",
+      "text": "as eleições. Então essa história de que, ah, o PL 299 põe em risco programas sociais, não põe. O PL 299 põe em risco uma porção de outras coisas, ah, eu piso com a saúde, ah, eu piso com a educação, não põe. O PL 299 é estelionata eleitoral, não é, tá? Nada disso é verdade, nada. Então eu acho que aqui todo mundo tem que botar o pé no chão e pensar o seguinte, o governo tinha já um arcabouço fiscal, foi isso que foi apresentado à sociedade em 2023 e ao longo do tempo o que a gente tem visto são metas definidas dentro desse arcabouço fiscal que valem para o ano seguinte. As metas que foram definidas para 2027 já estavam dadas, o PL 299 não altera essas metas, elas são mais ou menos as mesmas metas. O que ele altera é o plano de voo para alcançar a meta. E lembrando, a meta é de um superávit primário de 0,5% do PIB em 2027,"
+    },
+    {
+      "id": "fonte_10_c9",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "08:49–09:50",
+      "text": "partindo de um déficit primário, que é onde a gente está agora, de 0,5% do PIB em 2026. Então, o tal do ajuste que está embutido, que não é novidade, nem deveria ser novidade, porque senão já estava no arca-bolso fiscal, É um ajuste de um ponto percentual do PIB, não vai matar ninguém, ninguém vai ficar mais pobre por causa disso, nem vai ter nenhum efeito do tipo do que esse povo dessa esquerda tonta brasileira está reclamando. Então isso daí só traz malefícios ao país, não traz nenhum benefício, zero. Inclusive porque esse arcabouço fiscal já havia sido aceito por essas mesmíssimas pessoas que agora resolveram reclamar. Então ninguém tem embasamento aqui para reclamar de absolutamente nada e é uma infelicidade que isso esteja acontecendo nesse momento, principalmente dessa parte aí da base do governo que deveria estar se aliando ao governo para fazer desse mandato agora um mandato de reais reformas que a gente precisa urgentemente na nossa economia."
+    },
+    {
+      "id": "fonte_10_c10",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "09:54–11:00",
+      "text": "Na sexta-feira eu falei longamente com vocês a respeito da dívida e da composição da dívida. A gente fez um basicão aqui em que eu expliquei para vocês o que são títulos da dívida pública, como é que é o estoque da dívida pública, como é que esse estoque se comporta, por que que hoje a composição desse estoque é problemática, por que que a questão das É sim um problema para o Brasil e hoje dificulta enormemente não só a condução da política fiscal, mas também a condução da política monetária. Expliquei tudo isso para vocês, expliquei para vocês como que essa dinâmica da dívida pública brasileira hoje, com esse montante de mais da metade da dívida composto por títulos atrelados à Selic e que sobem toda vez Eu publiquei agora há pouco, aqui no Substack, um texto em que eu exponho uma proposta Para como que nós devemos lidar, uma proposta a respeito de como nós devemos lidar com essa situação de composição"
+    },
+    {
+      "id": "fonte_10_c11",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "11:05–12:09",
+      "text": "de dívida que nós temos. Não é uma proposta finalizada, não é algo assim, pronto, já tem uma coisa aqui para fazer. Não, é uma contribuição para o debate para que a gente possa Debater com racionalidade o que está acontecendo no Brasil nesse momento, porque o que está acontecendo é grave, é sério, e mais grave e sério ainda por conta desse fogo político que resolveu recair em cima do governo por razão nenhuma. Então, eu queria colocar a coisa primeiramente nesses termos. Nesse artigo que eu escrevi e publiquei agora há pouco aqui no Substack, Tem lá um gráfico que mostra a evolução da composição de LFTs na dívida pública. E vocês vão ver, se vocês lerem o artigo, vocês vão ver que houve duas ocasiões no nosso passado mais ou menos recente, a primeira delas foi em 2004 para 2005, 2005 para 2006, ali naquele período, e a segunda vez foi entre 2012 e 2014,"
+    },
+    {
+      "id": "fonte_10_c12",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "12:13–13:13",
+      "text": "Em que a gente conseguiu fazer uma redução expressiva do estoque de LFTs na dívida pública. E isso muito nos ajudou nessas duas ocasiões. Então assim, eu por exemplo, que fui extremamente crítica do governo Dilma, escrevi inclusive um livro sobre isso, com as minhas críticas ao governo Dilma, eu devo dizer o seguinte, que teve uma coisa Pelo menos uma, outras também, mas teve uma coisa que o governo Dilma fez muito bem. O governo Dilma soube utilizar uma janela de oportunidade que se apresentou em 2012 para reduzir o estoque de LFTs na dívida pública para níveis que nós jamais tivemos na nossa história. Assim, a gente conseguiu reduzir o estoque de LFTs na dívida pública durante o governo Dilma, nesse período aí entre 2012 e 2014, Para 19% da dívida, foi o menor nível que nós já tivemos na nossa história. E se vocês olharem esse gráfico que eu publiquei nesse artigo,"
+    },
+    {
+      "id": "fonte_10_c13",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "13:17–14:19",
+      "text": "vocês veem muito claramente essa evolução, porque o início da série, que é em 2002, e é uma razão para isso, porque a definição de dívida pública federal começa a partir dali, A gente começa a série com a composição das LFTs, com o estoque de LFTs, a parcela, a participação das LFTs na dívida pública, Estava lá em mais de 46% da dívida. Isso caiu e subiu e oscilou ao longo do tempo, mas agora, nesse exato momento, a gente está no nível mais alto da série inteira, com 51,6% do estoque da dívida estando Estão em LFTs, denominados em LFTs, em títulos pós-fixados. E isso, para nós, traz um enorme problema. Agora, se a gente não consegue sequer discutir a vigência do arcabouço fiscal Que é algo com o qual nós já havíamos nos comprometido antes das eleições, se isso daí vai virar um problema até pra essa gente tonta que resolveu atacar"
+    },
+    {
+      "id": "fonte_10_c14",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "14:25–15:19",
+      "text": "o governo por conta disso, então algo que já era válido o pessoal resolveu atacar agora, Qual é a chance real da gente conseguir avançar no debate que realmente importa para o Brasil? Que é o debate a respeito da composição da dívida pública e do fato da gente ter essa parcela expressiva da dívida pública que cresce a taxa Selic e torna a dinâmica da dívida completamente insustentável. Como é que a gente vai dar conta desse debate se a gente tem uma parte É a parte do mercado que faz o que faz, mas a outra parte que supostamente deveria estar auxiliando o governo, se essa outra parte resolveu vestir o chapéu do negacionismo completo e absoluto. Não dá, né? Assim, o país não vai a lugar nenhum desse jeito. Aliás, vai, vai pro buraco, é isso que vai acontecer. E quem vai sofrer é todos vocês aqui. E todas as pessoas. Porque, no modo em que está, o Brasil provavelmente vai ter uma crise."
+    },
+    {
+      "id": "fonte_10_c15",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "15:23–16:28",
+      "text": "Porque essa dívida, do jeito que ela está crescendo, ela é insustentável. E ela está crescendo dessa maneira por conta desses títulos pós-fixados em grande medida. Então, a gente precisa solucionar isso. A Patrícia está dizendo que o áudio está ruim. Me avisa se o áudio melhorou, porque não tem muita coisa que eu possa fazer. Eu estou com o meu microfone aqui, vou botar ele mais para perto para ver se melhora. Bem, então, essas eram as colocações iniciais que eu queria fazer. Para além disso, entrando mais especificamente nessas diferentes propostas que têm surgido para dar conta desse problema da dívida pública, não sei se vocês viram, mas hoje o André Lara Rezende publicou um outro artigo, um artigo dando continuidade ao primeiro que ele publicou, continuando a dar forma à proposta que ele fez. Deixa eu deixar uma coisa muito clara com vocês. Embora eu concorde com o diagnóstico de fundo que o André não apresentou exatamente,"
+    },
+    {
+      "id": "fonte_10_c16",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "16:34–17:32",
+      "text": "mas eu sei que é o diagnóstico de fundo que ele tem, e que é esse, a respeito da composição da dívida pública, e embora eu tenha achado a proposta do André interessante do ponto de vista teórico, Eu acho que ela é excessivamente complicada para o que a gente precisa. Eu não sou porta-voz do André Lara Rezende. Eu apenas, quando a proposta dele apareceu, achei a proposta boa para instigar um debate necessário. Mas, por alguma razão, tem gente achando que eu sou porta-voz do André. Eu não sou porta-voz do André. O André tem a pesquisa dele. Eu tenho a minha. Não sou porta-voz de ninguém, converso com ele, trocamos ideias, não sei o quê, e só. Então, a proposta dele, boa, legal, deu um belo impulso ao debate, há outras maneiras de se pensar no problema. E uma dessas outras maneiras de se pensar no problema foi a que eu publiquei agora há pouco no Substack."
+    },
+    {
+      "id": "fonte_10_c17",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "17:35–18:33",
+      "text": "E essa outra maneira de se pensar o problema, ela também é meio intrincada e um tanto complexa, porque o problema é complexo. Problemas de composição de dívida não são problemas simples, porque quando a gente fala em mexer no estoque da dívida, mexer na composição da dívida pública, Isso traz à tona uma série de questões e uma série de questionamentos do que é possível, do que é viável, do que pode vir a espantar recursos do país, algo que a gente quer evitar. A gente não quer que nada do que a gente faça resulte em fuga de capitais. A gente também não quer forçar a mão de absolutamente nada. Não funciona reduzir juros na marra. Deixa eu explicar um negócio aqui para vocês. A taxa de juros, assim como a taxa de câmbio, é um preço. A taxa de juros é um preço. Eu já expliquei aqui para vocês que preço que a taxa de juros é."
+    },
+    {
+      "id": "fonte_10_c18",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "18:37–19:34",
+      "text": "Para quem esqueceu, volta lá no basicão de política monetária que a gente fez a Duas sextas-feiras atrás, então não a passada, a anterior. Naquela explicação eu delineei para vocês exatamente o que é, o que quer dizer a taxa de juros ser o preço do dinheiro. A taxa de juros de fato é um preço, é um preço importante na economia. A taxa de câmbio é outro preço, que também é importante na economia, assim como os demais preços. Quando as pessoas, algumas mal intencionadas, veem propostas para mexer na composição da dívida pública e já taxam logo na proposta o rótulo de isso aqui vai reduzir os juros na marra, isso aqui vai tabelar os juros, Essas pessoas estão partindo de um pressuposto que nenhum de nós partiria jamais, que é o seguinte, que é possível tabelar preço. Não é possível tabelar nenhum preço e eu acho que qualquer pessoa que viveu a década"
+    },
+    {
+      "id": "fonte_10_c19",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "19:38–20:27",
+      "text": "de 80 no Brasil, eu sou uma delas, qualquer pessoa que viveu a década de 80 ou mesmo o início dos anos 90, sabe que congelamento e tabelamento de preços nunca funciona. Isso foi o que nós fizemos em todos os planos de estabilização, salvo o confisco e o plano real. No confisco não houve tabelamento porque simplesmente o Collor confiscou o dinheiro de todo mundo. Mas nos planos anteriores, todos da década de 80, começando no plano cruzado e se estendendo até o final, até o plano verão em 89, tudo que veio entre um e outro, Em todos esses planos a gente tentou fazer tabelamento de preço, tabelamento de preço, a gente fixou câmbio, a gente tentou fixar juros, tudo isso a gente fez e tudo deu errado, nada disso deu certo. Assim, dava certo por um período muito curto de tempo e logo logo você tinha que abandonar e quando você abandonava o país entrava em crise e era"
+    },
+    {
+      "id": "fonte_10_c20",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "20:31–21:22",
+      "text": "um Deus nos acuda. Então, até pela nossa própria experiência passada, aqueles de nós que vivemos essas experiências e que estudamos a fundo essas experiências, Esse é um outro problema que eu vejo na discussão econômica no Brasil. Tem muita gente que quer participar de discussão macroeconômica, e eu acho isso legal, mas tem muita gente participando de discussão macroeconômica no Brasil sem saber lé com cré, sem ter nenhum embasamento e nenhuma sofisticação de pensamento macroeconômico. Lá no Instagram está cheio disso. Tem influenciador que não acaba mais criticando o André Lara Rezende. Tem influenciador que não acaba mais que resolveu me criticar também. Eu quero saber onde é que essas pessoas estudaram e qual é a experiência que elas têm. Porque estão falando do quê, exatamente? Estão falando a partir de que lugar? Com base em quê? O que é que elas sabem? Qual é a experiência que elas têm? Porque assim, é muito fácil falar, mas difícil é fazer."
+    },
+    {
+      "id": "fonte_10_c21",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "21:25–22:16",
+      "text": "Alguns de nós fizemos. E no que diz respeito à dívida, E a como você mexe em composição de dívida, eu por acaso tenho alguma experiência com isso, porque foi o que eu fiz quando eu trabalhei no FMI. Em casos extremamente difíceis, tá? No caso da Argentina, no caso do Uruguai, no caso do Líbano, inclusive, que não chegou a concluir uma reestruturação de dívida própria, mas que tinha problemas seríssimos de composição da sua própria dívida. Então assim, o lugar de fala, eu detesto essa expressão, Mas o lugar de fala importa. Então, uma coisa que eu vou dizer a vocês, antes de sair de vocês, não sei se vocês fazem isso, mas caso façam, ou se não fizerem, caso conheçam gente que faça, aquelas pessoas que ficam escutando, gente que fica de pipipi na internet, falando nananana no Instagram, ou sei lá o que, não sei aonde, em Rio de um minuto, Francamente,"
+    },
+    {
+      "id": "fonte_10_c22",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "22:20–23:05",
+      "text": "essas pessoas não sabem do que estão falando, porque se soubessem não estavam fazendo Rio de um minuto. Não dá pra explicar esse problema num Rio de um minuto, simplesmente não dá. É um problema demasiado complexo pra você sair tacando em Instagram. Não é problema pra rede social esse. Se você quiser postar um rio lá para chamar as pessoas para ouvirem uma explicação, é uma coisa. Isso é o que eu ando fazendo lá no Instagram. Outra coisa é você querer ficar dando explicação em pílulas de assuntos que são extremamente complexos e que não podem ser explicados assim. Inclusive, Muitos desses assuntos, esses macroeconômicos, de política fiscal, composição de dívida pública, como é que você mexe na composição de uma dívida, como é que você faz, isso necessita de anos e anos e anos e anos de estudo, gente. Isso não é um negócio que você faz numa graduação de economia, não é."
+    },
+    {
+      "id": "fonte_10_c23",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "23:09–24:16",
+      "text": "Isso exige aprofundamento no estudo, então não é só numa graduação que você vai ter condições de sequer ter um certo entendimento do problema. Nem de como resolver o problema. E, além disso, exige também experiência trabalhando com o assunto. Gente que botou a mão na massa e que sabe do que se trata. É isso que precisa ter na discussão. E é isso exatamente que falta na discussão. Porque a maior parte das pessoas que opina sobre isso e que opina sobre esses assuntos não tem nem a formação nem a experiência para falar. Algumas têm, mas nem todas. A maioria não tem, na realidade. Então eu acho que é muito importante dizer isso também porque a quantidade de ruído O que eu propus nesse artigo que eu acabei de escrever, e que, de novo, não é uma proposta pronta em absoluto, é um pontapé para a gente começar a pensar em alternativas. O André deu um pontapé, eu dei outro."
+    },
+    {
+      "id": "fonte_10_c24",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "24:19–25:19",
+      "text": "O meu pontapé é diferente do pontapé do André. Não é a mesma coisa. E o meu pontapé em particular trata de olhar para a composição da dívida pública estritamente e ver o que pode ser feito. Então tem ali um plano que está mais ou menos articulado, ele não está completamente depurado, ele precisa de mais detalhamento, sim. E eu sou a primeira pessoa a reconhecer isso, mas como o nome dessa newsletter aqui, que vocês acompanham e assinam, é Pensando Alto, o que eu fiz nesse artigo foi exatamente isso. Vamos pensar alto sobre o problema da composição da dívida pública brasileira e vamos, a partir daí, ver se a gente consegue achar outros caminhos para que a gente depois possa olhar o conjunto dessas alternativas e dessas propostas E dela tirar e extrair algo que possa realmente beneficiar o país. Não vai ser o plano do fulano A, nem do fulano B, nem da Monica, nem do André,"
+    },
+    {
+      "id": "fonte_10_c25",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "25:23–26:16",
+      "text": "nem do de sei lá quem. O que vai sair no final, se sair alguma coisa, vai ser algo que seja uma combinação convexa, de alguma maneira, Todas essas coisas que estão sendo apresentadas, ou pelo menos é isso que se esperaria, porque debate é isso, tá gente? Debate não é uma pessoa chegar lá com, olha só a minha proposta, olha só que bonita que ela é, olha, olha, olha o meu pilô, ele é tão bonito, eu fiz essa proposta aqui. Não é isso, tá? O que as pessoas apresentam quando o debate é maduro e sério, as pessoas dão suas contribuições e o que vai sair no final? É algo que mistura o que está bom em todos. Como é um problema complexo, como não é um problema simples, as soluções são complexas. E, sendo complexas, elas têm lados positivos e lados negativos. Elas têm pontos fortes e pontos fracos. O que se espera de um debate amplo, onde várias propostas são apresentadas,"
+    },
+    {
+      "id": "fonte_10_c26",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "26:22–27:17",
+      "text": "é que aquilo que sai ao final pegue o melhor de cada uma. E faça uma espécie de concatenação do que há de melhor das propostas que foram apresentadas. É assim que a gente deveria estar caminhando. Mas em vez disso, a gente está perdendo tempo batendo cabeça com essa história do PL 299, que nada mais é do que um mapa para cumprir o próprio arcabouço fiscal, que essa gente aí que agora está criticando O plano apresentado pelo governo apoiou. Então não faz nenhum sentido isso daí que está acontecendo e só gera prejuízos para o país. E além disso, a burrice é tanta, porque esse tipo de atitude tende a alimentar as próprias críticas que o mercado financeiro já está fazendo. Mercado financeiro sendo a parte mais interessada em manter a composição da dívida pública exatamente como ela é hoje. Então, é de uma infelicidade atroz que as coisas estejam acontecendo desse modo."
+    },
+    {
+      "id": "fonte_10_c27",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "27:22–28:22",
+      "text": "Mas é o Brasil, né? As coisas sempre acontecem assim no Brasil. Então, é um pouco irritante para quem está de fora observando e para quem está de dentro também, porque é uma frustração infinita essa discussão de política macroeconômica no Brasil. Então, o que eu fiz? O que eu apresentei? Eu apresentei um plano em quatro partes, todas elas têm que ser feitas simultaneamente. Nada vem primeiro ou segundo, nada é forçação de barra, nada. É tudo em cima de uma visão absolutamente voluntária de como fazer as coisas. E há ali uma proposta, eu não vou falar, Júlio, de desindexação de salário mínimo, a live não é sobre isso, tá? A live é sobre dívida pública, como eu já falei no outro dia, não postem comentários e perguntem sobre os assuntos que não são pertinentes à live, que isso atrapalha. Então não é sobre salário mínimo, não vou falar sobre salário mínimo, estou falando de desindexação da dívida,"
+    },
+    {
+      "id": "fonte_10_c28",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "28:23–29:15",
+      "text": "que esse é o nosso problema premente no momento. Se a gente não endereçá-lo, nós teremos sérios problemas no ano que vem. Bem sérios. Então é isso, é disso que se trata aqui. E como eu tô dizendo, eu tô tirando parte do meu dia e dos meus dias na semana pra trazer essas explicações aqui pra você. Não sou influenciadora, não sou aquela pessoa que vai ficar de papinho respondendo toda e qualquer pergunta, não. Então assim, quando o tema da live for salário mínimo, eu falo de indexação de salário mínimo. Hoje o tema da live é dívida pública, então é disso que eu vou falar. E em relação a esse plano, sim, nós teríamos que ter, de alguma forma, como qualquer plano para abordar o estoque de dívida pública, que é isso daí que eu estou sugerindo que se faça, como qualquer plano desse tipo precisa de uma coordenação muito forte entre a política monetária e a política fiscal,"
+    },
+    {
+      "id": "fonte_10_c29",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "29:20–30:20",
+      "text": "O plano passa sim por uma revisão da meta de inflação. E o mercado financeiro no Brasil muito provavelmente não vai gostar desse aspecto, embora todos reconheçam que a meta de inflação que nós temos agora, essa meta de inflação de 3% ao ano, Ela não é execuível da forma como ela está, porque ela vai nos forçar a manter essa taxa de juros excessivamente elevada por um tempo prolongado, gerando mais e mais instabilidade financeira para o país por conta da forma como a Selic afeta a dívida pública por meio dessa composição desequilibrada que nós temos com títulos pós-fixados da maneira como nós temos. Então a gente de fato precisa mexer em muitas coisas e uma dessas coisas que a gente precisa mexer é a meta de inflação sim e é bom que se tenha esse debate porque não se trata de mexer na meta de inflação para gerar a inflação mais alta não, não é esse o objetivo."
+    },
+    {
+      "id": "fonte_10_c30",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "30:24–31:23",
+      "text": "O objetivo é criar espaço para que você possa ter alguma possibilidade de reduzir um pouco as taxas de juros, porque sem essa possibilidade você não consegue mudar a composição da dívida pública. Se a Selic for mantida no patamar em que está e ou com perspectiva de elevação porque a gente tem uma meta de inflação que não é realista, a gente não consegue fazer nenhuma operação para abordar a composição da dívida pública que hoje é o nosso maior problema. Para que isso aconteça, a gente tem que ter alguma garantia de uma trajetória de juros que esteja em declínio, não em ascendência, não em ascensão. Então esse é o primeiro ponto. O primeiro ponto é que a gente precisa fazer uma revisão da meta de inflação e essa revisão da meta de inflação tem que ser acompanhada, sim, de um ajuste fiscal. Tem, senão não funciona. Então, de novo, Muito bacana vocês ficarem ouvindo, vocês eu não sei se ouvem,"
+    },
+    {
+      "id": "fonte_10_c31",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "31:28–32:23",
+      "text": "mas qualquer um, ficar ouvindo esse papinho mole de não, o Brasil não pode fazer ajustes, o Brasil não precisa de ajustes, não precisa fazer nada. Precisa! A política macroeconômica brasileira está completamente desalinhada. E não dá para mexer em meta de inflação sem mexer em ajuste, porque senão a gente desancora tudo na economia. E quem vai sentir os efeitos disso são todos vocês. Então, o ponto é, querem ter uma discussão séria? Querem encarar com realismo o que está acontecendo no Brasil? Encarar com realismo é assim. Sim, precisa mexer na meta de inflação. Sim, precisa de ajuste fiscal simultaneamente, porque senão você não garante trajetória de declínio para os juros. Simplesmente a economia não funciona com mágica, não tem mágica aqui, precisa fazer essas coisas. Mas o objetivo de fazer essas coisas é criar as condições para que você possa desindexar a dívida pública, que é o restante do artigo que eu escrevi,"
+    },
+    {
+      "id": "fonte_10_c32",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "32:26–33:24",
+      "text": "em cujas minúcias eu não vou entrar agora, deixa isso para frente, de repente para a discussão com o Zé Paulo na quinta-feira, porque tem ali algumas tecnicalidades que precisam ser explicadas primeiro. Então, o fato é esse. Se quiserem mexer em meta de inflação, tem que ter ajuste fiscal junto. E nada vai funcionar, eu acho, se a gente não fizer essas duas coisas. Porque se não fizer essas duas coisas, a gente não cria o espaço necessário para que você tenha uma perspectiva de redução da Selic ao longo do tempo. Simples assim, não tem caso contrário, isso daí não existe. Então eu acho que esse é que deveria ser o foco da discussão, mas infelizmente a gente fica mal parado nessa história de agora ataques ao governo, que na realidade são ataques ao arcabouço fiscal que essa gente toda aprovou, que essa gente toda achou legal, achou favorável e apoiou. Então, não dá para entender agora qual é a grita e o porquê da grita."
+    },
+    {
+      "id": "fonte_10_c33",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "33:29–34:26",
+      "text": "É completamente sem sentido. Deixa eu ver aqui se algum de vocês tem pergunta. Júlio, a sua coisa do salário mínimo eu já falei. Aula sobre a juiz fiscal, eu queria entender o raciocínio do mercado sobre isso. Eu não entendi essa pergunta. Se você puder elaborar a sua pergunta, talvez eu consiga responder. O Antônio diz assim, ouvi o seu artigo de hoje, embora não tenham sido citados, o uso do IOF e do IR em lucros estão no seu horizonte, qualquer plano tem que ser muito bem explicado para ser aceito pelo mercado. Alterar a meta já pode ser tocada junto com a juiz fiscal antes das demais medidas? Não, é tudo junto. Como eu falei, eu não vou discutir o que eu apresentei a pouco a fundo, porque eu quero que as pessoas tenham tempo para ler e digerir primeiro. Mas não, tem que fazer tudo simultaneamente. Tem que botar tudo em andamento simultaneamente."
+    },
+    {
+      "id": "fonte_10_c34",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "34:29–35:20",
+      "text": "Tem que ser como foi no plano real. No plano real, a gente criou certas condições para fazer o plano real enquanto nós estávamos fazendo o plano real simultaneamente. É a mesma coisa que a gente tem que fazer agora. É a mesma coisa. Só que a envergadura do todo é um pouco menor, a gente não está dando cabo de uma hiperinflação como a gente estava lá atrás no plano real, a gente está dando cabo de um problema de dívida pública com o qual a gente não consegue mais viver. Então a natureza do problema é diferente, mas a maneira de armar a possível solução ou um possível caminho Porque eu não pretendo que o que eu escrevi seja nada além disso. É um possível caminho entre muitos. A maneira de armar isso tem que combinar uma porção de coisas simultaneamente. Inclusive mudanças tributárias e mudanças regulatórias sem as quais você não consegue fazer alteração na composição da dívida pública."
+    },
+    {
+      "id": "fonte_10_c35",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "35:24–36:28",
+      "text": "Para que essa alteração, para que essa mudança de composição possa ocorrer, a gente precisa mudar. A tributação de certos ativos financeiros no Brasil e a gente precisa mudar a regulação de certos ativos financeiros no Brasil. E a gente também precisa mudar a forma como o Banco Central opera a política monetária em alguns casos e a gente precisa mudar outros mecanismos de participação de instituições públicas no mercado financeiro brasileiro para que a gente dê conta desse problema. Então, como eu disse, é um problema multipartes Ele tem partes múltiplas, ele é realmente multifacetado, é complexo, é difícil, não é de entendimento fácil, nem é de entendimento direto, nem é aquela coisa que qualquer um que fez, sei lá, dois, três anos de curso de economia consegue entender. Não, não é, tá? É uma coisa bem mais complicada do que isso. Ada, de novo, eu expliquei tudo isso na live de sexta-feira, eu fiquei duas horas com vocês aqui na sexta-feira, tá?"
+    },
+    {
+      "id": "fonte_10_c36",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "36:32–37:32",
+      "text": "Volta na live de sexta-feira e escuta ela outra vez. Tua pergunta tá respondida lá. Eu não vou me repetir, não, porque senão a gente não avança. É... Antônio, concordo que o Focus deveria também ser feito com gente de fora do mercado e ele é, tá? Tem algumas instituições não financeiras que participam do Focus. Quando eu tinha uma empresa, eu tive uma empresa de consultoria macroeconômica no Brasil entre 2005 e 2014 e a gente fazia parte, era minha empresa com Dionísio Dias Carneiro, depois virou minha depois que ele morreu. E a gente fazia parte do Focus, a gente dava as nossas projeções para o Focus. Então, o Focus tem cobertura maior do que só os participantes do mercado, mas os participantes do mercado são a grande maioria que fala ali. Então, dá para aprimorar? Dá, dá para aprimorar o Focus sim, dá para aprimorar o Focus sim. Andréia, não, o ajuste fiscal não deve se ater a nada,"
+    },
+    {
+      "id": "fonte_10_c37",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "37:35–38:32",
+      "text": "o ajuste fiscal tem que ser amplo e abrangente e deve fazer uma porção de coisas simultaneamente, esse é o tema da live de quinta-feira, não é o tema de agora. O Júlio está perguntando, é um surto do mercado não entender a excepcionalidade da situação e criticar um eventual aumento da meta de inflação, mas provavelmente é o que farão, sim, principalmente porque a meta não está sendo cumprida. Mas todos sabem que a meta de 3% não seria cumprida por princípio. Então, até essa crítica é meio vazia, mas vira aquela coisa de criticar por criticar, porque é isso que o povo acaba fazendo. Então, infelizmente, acaba sendo assim. O que mais que vocês têm aqui? Poliana pergunta assim, o que você apresenta é uma mudança estrutural, certo? Os extremos do Brasil deixariam isso acontecer? Os extremos não podem estar determinando nada, né? Porque a partir do momento que os extremos começam a determinar alguma coisa,"
+    },
+    {
+      "id": "fonte_10_c38",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "38:35–39:21",
+      "text": "a gente não vai a lugar nenhum. Esse é exatamente o problema que a gente está tendo agora, né? É exatamente isso. Os extremos querendo ditar. De um lado, o mercado querendo ditar um rumo, de outro, uma parte dessa esquerda tonta que a gente tem no Brasil querendo ditar outro. Não vai funcionar. Desse jeito não vai funcionar. Bem, Se vocês não tiverem mais comentários e perguntas, eu vou encerrar meio que por aqui, porque eu tô com o dia super ocupada, eu nem ia fazer live hoje, eu só tô fazendo o mesmo porque eu disse a vocês na sexta-feira que eu faria, então vou repetir o que eu disse aqui no início. O que eu disse aqui no início foi, primeiro, ninguém tá autorizado a fazer corte dessas lives pra postar Instagram, ninguém, tá? E se eu descobrir que alguém está fazendo isso, eu vou atrás. Fui, tive que fazer isso esse fim de semana, é super desagradável,"
+    },
+    {
+      "id": "fonte_10_c39",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "39:25–40:11",
+      "text": "não quero ter que ficar fazendo isso. Se continuar acontecendo, eu vou fechar essas lives aqui completamente, só para assinantes. E vou repensar se eu estou afim de continuar fazendo essas lives ou não. Então essa é a primeira coisa. Segunda coisa que eu falei é que eu fechei os comentários aqui na live, por enquanto, porque as pessoas não estavam sabendo se comportar nos comentários, então eu fechei. Pra que todo mundo possa tirar proveito dessas lives. Na quinta-feira a gente vai fazer a mesma coisa, tá? E aí eu vou ver. E vou reabrindo na medida do possível. Vou reabrir, se voltar a ficar a bagunça que tava na semana passada, eu fecho de novo. Então, é pra ver como é que as coisas prosseguem daqui pra frente. Vou pegar a pergunta do Fábio. Fábio fala assim, a causa raiz não é uma certa irresponsabilidade do Estado brasileiro, onde se gasta e gera imensa desconfiança no mercado pra"
+    },
+    {
+      "id": "fonte_10_c40",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "40:15–41:21",
+      "text": "se manter no poder? Em parte, sim. Sem isso, vamos viver em crise, não? Tem fundamento a sua pergunta, Fábio. Em parte, sim. Sim, a gente vive de gastança e de... No momento, nem é gastança. No momento, é gastar de forma ineficiente e mal na realidade. Então, dá para entender certas atitudes do mercado financeiro ou certa desconfiança? Dá. Dá para entender. Dá para entender. Agora, Ao mesmo tempo, o que deixa de ser razoável, eu acho, é esse comportamento em que só se fala em ajuste, ajuste, ajuste, ajuste e não se olha para o que está acontecendo Na verdade, assim, para o que está acontecendo estruturalmente com a economia brasileira. Esse é para mim o principal defeito e problema da maneira como pessoas do mercado financeiro se colocam nessa discussão. Quando eu falo pessoas do mercado financeiro, eu estou falando de gente que trabalha no mercado financeiro e de gente que não trabalha, mas é associada a instituições do mercado financeiro."
+    },
+    {
+      "id": "fonte_10_c41",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "41:25–42:31",
+      "text": "Todas essas pessoas têm um lugar de fala e esse lugar de fala reflete aquilo com que elas estão mais próximas. E se elas estão muito próximas precisamente dessa situação em que tem um monte de LFTE legal porque é uma coisa mais ou menos sem risco, pô, quem é que vai querer mudar isso? Só que esse é o problema agora no Brasil. Isso daí realmente precisa ser mudado. É muito importante. Antônio, sobre os cortes, eu não estou me referindo a cortes que o Substack faz sob meu comando, nem aos cortes que o Vitor se disponibilizou muito gentilmente a fazer e a circular no Substack. Não é desses cortes que eu estou falando. Eu estou falando de gente que veio para cá Inclusive, não é a maioria de vocês, porque são pessoas que vieram para cá mais recentemente, como vocês viram, a audiência das lives aqui aumentou absurdamente, então são pessoas que são recém-chegadas aqui e que acharam"
+    },
+    {
+      "id": "fonte_10_c42",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "42:34–43:34",
+      "text": "que podiam simplesmente pegar as lives aqui do Substack, sair cortando e postando na conta delas no Instagram. Foi isso que aconteceu. Eu ontem descobri pessoas que estavam fazendo isso. Pessoas que eram assinantes aqui da newsletter. Não são mais. Porque como eu escrevi e como eu disse a vocês já, tem um Terms of Use nessa newsletter. Tem termos de uso, termos do usuário. E nos termos do usuário está lá dito muito claramente Que cortes não autorizados por mim de lives aqui no Substack não serão tolerados e não serão mesmo, tá? Então é disso daí que eu tô falando, não é de outra coisa. O que você quiser compartilhar nas suas redes é por sua conta. Agora, alguém que vai lá e deliberadamente faz cortes do material que é meu pra postar sei lá onde na conta dela... Não, que nem teve outro dia, ela já não está mais aqui, porque foi de uma coisa completamente sem pé nem cabeça,"
+    },
+    {
+      "id": "fonte_10_c43",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "43:39–44:32",
+      "text": "a pessoa que apareceu aqui para me dizer que tinha feito um site, um website, com as minhas coisas no nome dela. E essa pessoa, ainda por cima, me ofereceu o acesso gratuito ao site que ela havia criado. Que tal isso? Esses são os níveis de absurdo em que se chega nessas coisas aqui. Eu, inclusive, vou ter que contratar um advogado para dar conta dessas situações. Então, só avisando isso, porque isso aqui não é brincadeira. Isso aqui é meu trabalho. Então, as pessoas que estão fazendo corte disso aqui para postar sei lá onde, elas estão roubando propriedade intelectual. Isso não é correto, tá? Bem, vamos lá. Então, o Fábio perguntou outra coisa, mas antes de você foi o Antônio. Rafael, o diagnóstico do problema da nossa dívida, segundo você e o André, tem base nessa teoria que John Cochrane apresentou recentemente? O meu, não. Não. Tem nada a ver com Cochrane."
+    },
+    {
+      "id": "fonte_10_c44",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "44:34–45:26",
+      "text": "O André é que resolveu utilizar as coisas do Cochrane para embasar o que ele acredita que deveria ser uma remodelação da teoria macroeconômica de um modo geral. Com o que eu não discordo, mas acho que não é isso que ajuda a gente a avançar no debate brasileiro. Então, o Cochrane acabou sendo metido nessa história toda pela porta dos fundos e o detalhe é o seguinte, o Cochrane é um excepcional economista, mas ele não entende nada de Brasil, inclusive por admissão própria. Quem viu o artigo que ele escreveu no Substack está dito lá, eu não entendo nada de Brasil. Então, o diagnóstico a respeito das LFTs é único e exclusivamente brasileiro e não tem gringo que dê conta disso, realmente não tem, porque eu estou fora do Brasil. E os meus colegas, eu tenho vários economistas de grande renome, que trabalham exatamente comigo, de igual pra igual, tá? E são ótimos, são pessoas maravilhosas e excepcionais economistas, mas que não têm,"
+    },
+    {
+      "id": "fonte_10_c45",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "45:31–46:48",
+      "text": "porque não viveram e não conhecem a fundo essa experiência hiperinflacionária brasileira, de onde resulta o uso das LFTs que nós temos. Então, a não ser que a pessoa tenha esse tipo de bagagem, é difícil de entender, porque o Brasil é um caso O diagnóstico não tem nada a ver com o que o John Cochrane pensa ou deixa de pensar. Ele é um diagnóstico observável na economia brasileira. A parte nova... Nessa discussão é o nível a que chegaram as LFTs como percentual da dívida pública. Esse mais da metade. Essa é a parte nova nessa discussão. Não é a presença em si das LFTs. Isso daí muitas pessoas entendem ser problemático. Inclusive, eu vou até dizer um negócio, eu não sei se o André entende isso como problemático ou não, tá? Eu sei que ele entende, obviamente, que a taxa de juros alta no Brasil, hoje, nos prejudica em termos da dinâmica da dívida pública."
+    },
+    {
+      "id": "fonte_10_c46",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "46:51–47:38",
+      "text": "Ele disse isso, ele escreveu isso, já está dizendo isso e escrevendo isso há anos. Agora, se o André identifica nas LFTs em particular o problema da dívida pública, eu sinceramente não sei, porque isso não está dito nos artigos dele e nas conversas que eu tive com ele, isso também a gente não chegou a falar. Então, não sei dizer isso. Como eu falei, eu não sou o porta-voz do André. O André que fale por ele, Fábio. Mas o problema estrutural brasileiro também não é incentivos ruins do Estado brasileiro gerando gastos ruins sem nunca endereçar o problema central de aumento da produtividade. Aumento da produtividade é outro papo, mas sim, de um modo geral, como eu falei na sexta-feira, o governo brasileiro gasta mal. Não, não tem, André. Vitor, que bom, porque eu já estou querendo pegar umas partes da live de hoje que eu achei ótimas. Pode pegar, Vitor, à vontade."
+    },
+    {
+      "id": "fonte_10_c47",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "47:40–48:39",
+      "text": "Está autorizado, como você sabe. Agnes, eu já falei sobre isso, eu não tenho canal no YouTube, o canal que está lá postando as minhas coisas é um canal pirata, tá? É um canal pirata e eu estou tentando ver quais são as medidas legais para adotar contra esse canal, porque eu já tentei derrubar e ainda não consegui. Então, por favor, não se inscrevam nesse canal. Se vocês se inscreverem nesse canal, eu vou parar de fazer as lives, porque o único jeito de fazer esse canal parar de funcionar é parar com as lives, por enquanto, tá? Então, esse canal não é autorizado, é uma outra pessoa que criou um canal com meu nome e está fazendo uma coisa que é ilegal, está infringindo direitos de propriedade intelectual. É isso que está acontecendo nesse momento. E vídeos avulsos também estão infringindo. Foi isso que eu estava falando no início da live. Tem uma porção de gente tirando coisa daqui e jogando para outros lugares."
+    },
+    {
+      "id": "fonte_10_c48",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "48:44–49:35",
+      "text": "Nada disso é autorizado. Tem uma pirataria generalizada rolando. Eu não tenho tempo para ficar correndo atrás disso, francamente. Realmente não tenho. Agora, se a coisa começar a sair muito de controle, o que eu controlo é o que eu falo. Porque, afinal de contas, a dona do meu pensamento sou eu. Então, no momento em que isso daí começar a se mostrar completamente fora de padrão, eu paro. Porque aí eles não vão ter o que publicar, tá? Então, quem quiser ajudar, ajude. Porque esse é o problema nesse momento. Gabriel. Boa noite, Monica. Há uns meses você comentou sobre o problema da linguagem na política econômica. Vejo em ajuste fiscal um exemplo cristalino. É framing. Após o primeiro turno, conversando com amigos mais à esquerda, indignados com certos assuntos. Você continua aqui embaixo. Não permeiam os bolsonaristas. Eu retruquei. Da mesma forma que a política fiscal não permeia vocês. Agora, com o PL, eles estão histéricos."
+    },
+    {
+      "id": "fonte_10_c49",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "49:37–50:37",
+      "text": "O que podemos fazer para tornar a política fiscal permeável? Gabriel, nessa questão específica do que diz respeito ao PL 299, Esse do arcabouço fiscal é muito fácil. É só você virar pra eles e dizer assim, olha só, o arcabouço fiscal existe desde 2023 e foi a própria base, essa do governo que agora tá cheando e reclamando, que aprovou o arcabouço fiscal. E esse PL 299 aí, tudo o que ele está fazendo e só o que ele está fazendo é tentando cumprir as metas do ano. Então não tem nada aqui que esteja sendo feito e nada que esteja na discussão que não já estivesse, entendeu? Não tem nada de estelionata eleitoral, não tem nada que o governo tenha proposto que isso aqui não, não foi isso, foi nisso que a gente Não é verdade. Isso não é verdade. O arcabouço fiscal já existia, nós já tínhamos essas metas definidas para 2027 antes das eleições,"
+    },
+    {
+      "id": "fonte_10_c50",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "50:42–51:37",
+      "text": "o que nós não tínhamos era um caminho para alcançá-las. E o que o PL 299 faz é traçar um caminho para alcançar essas metas. É isso. Quem resolveu reclamar disso, francamente, eu não sei do que está reclamando, porque são as mesmas coisas que concordaram em fazer antes. Então, não tem muita explicação aí, não. Realmente, eu acho que o jeito mais fácil é esse, Gabriel. Explica que o que o governo está fazendo agora é cumprindo aquilo que já tinha dito que ia cumprir antes das eleições. É isso que é. Eu concordo com você que esses enquadramentos, esses framings, a maneira como você faz framing, isso aqui é parte tudo de economia comportamental, o framing importa. E as pessoas reagem muitas vezes ao framing, muito mais do que é o conteúdo em si. E sim, tem um excesso de reatividade com a palavra ajuste. Então, não usa a palavra ajuste. Fala para essas pessoas isso."
+    },
+    {
+      "id": "fonte_10_c51",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "51:39–52:28",
+      "text": "Fala para elas que não é ajuste, é o cumprimento do arcabouço. É isso que é. A gente tem que cumprir uma coisa que a gente tinha feito já. É isso. Se trata disso. Acho que esse é o melhor jeito de frame essa questão. Ou de dar a... A arquitetura para que as pessoas entendam. Tira a palavra justa e fala e isso daí é simplesmente o cumprimento do arcabouço. PLO 299 é para cumprir um arcabouço e metas de arcabouço que já estavam colocadas antes das eleições. É isso daí. Fábio, o mercado não sabe que o problema é estrutural e para acalmar os credores precisaria de um plano que resolvesse o problema estrutural então? O mercado sabe, Fábio, mas lê o artigo que eu publiquei agora. Lê que você vai entender a fundo o que é o problema. O problema é que para parte do mercado é muito confortável poder aplicar nessas LFTs."
+    },
+    {
+      "id": "fonte_10_c52",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "52:34–53:31",
+      "text": "Eles têm demanda por essas LFTs porque elas são particularmente Essas são proveitosas, atraentes. E elas são assim por desenho, tá? É por desenho. Então, o mercado não quer abrir mão disso. As pessoas não querem abrir mão desses ganhos. É claro que não querem. Você já viu alguém querer abrir mão de ganho? Ninguém quer. Então, o problema é esse. Agora, há compreensão de que existe um problema aí? Há. Há compreensão generalizada? Não sei. Mas que há uma compreensão lá. Não é que as pessoas do mercado não entendam isso. Muitas entendem. Mas, no momento, é confortável continuar vivendo com LFT. Esse é que é o ponto. E o Tesouro Brasileiro não se ajudou. Porque o Tesouro Brasileiro vem, Os três anos fazendo emissão maciça de LFT. Inclusive, no próprio planejamento do Tesouro, eles estão estimando um teto de 53% da dívida pública de LFT. Isso não é razoável. Não é. É muito alto. Não pode."
+    },
+    {
+      "id": "fonte_10_c53",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "53:35–54:32",
+      "text": "Isso daí gera uma situação completamente calamitosa para a própria administração e manejo da dívida pública. Simplesmente não pode se sustentar assim. E isso daí foi um problema que em parte também foi criado pelo Tesouro, não foi só o mercado não, tá? Isso daí eu acho que a gente tem que colocar em questão, porque isso é muito importante. O Victor está fazendo uma observação sobre essa pirataria, está dizendo assim, o problema são essas pessoas estarem querendo fazer isso justamente com a intenção de prejudicar nós que estamos aqui querendo acompanhar de boa vontade. É mais do que isso, Vitor, porque atrapalha todo mundo, atrapalha quem está aqui querendo entender as questões, atrapalha a mim, porque afinal de contas isso é meu, essas reflexões são minhas, essas coisas que eu ando fazendo aqui são minhas, e tem gente fazendo uso disso, e pior, tem gente que está monetizando em cima disso. Então, Eu não queria ter que fazer isso,"
+    },
+    {
+      "id": "fonte_10_c54",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "54:34–55:33",
+      "text": "mas eu estou contratando um advogado nesse momento para tentar dar conta dessa solução, para encaminhar uma solução para isso. Raquel, a origem das LFTs e a hiperinflação, eu já falei bastante sobre isso. A origem das LFTs já foi falada aqui em várias lives, tá? Tem a ver com o processo hiperinflacionário e tal, eu já falei isso, não vou ficar repetindo porque aí fica cansativo, mas é só voltar e ver. A LFT tem um mecanismo de proteção nessa coisa de estar com juros atrelados, de ser atrelada à Selic. Então essa proteção embutida era o tipo da coisa que a gente fazia na época da hiperinflação e isso ficou. É daí que vem. E como a TT está observando, Vitor, em relação ao seu comentário, a pessoa que assina essa newsletter, todos vocês, Estão concordando implicitamente com as regras estabelecidas nessa newsletter. O problema é que tem gente que está assinando essa newsletter e fazendo pirataria,"
+    },
+    {
+      "id": "fonte_10_c55",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "55:39–57:02",
+      "text": "que foi o que eu descobri esse fim de semana. Então eu não duvido nada que esse canal pirata que está operando lá no YouTube e esses vídeos piratas que estão rolando na internet estão vindo exatamente daqui, de pessoas que acompanham essas lives aqui. Isso está acontecendo daqui de dentro, não está acontecendo de fora, ou alguém que chegou aqui, não, está vindo daqui. Essa parte é especialmente inadmissível, vocês entendem? E se isso continuar a acontecer, eu vou fechar totalmente para assinante e pagante, e se continuar a acontecer depois disso, eu vou parar de fazer. Então, o que vai ser prejudicial para todo mundo, mas é o que vai ter que ser para parar, porque está errado. Bem, eu sei disso, Agnes, não adianta me falar Eu tô sabendo. Estou dizendo, não é de gente que não conhece, porque inclusive... Agnes, eu vou te pedir uma coisa, não fica me contando isso,"
+    },
+    {
+      "id": "fonte_10_c56",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "57:06–57:50",
+      "text": "porque isso me deixa extremamente estressada e eu realmente não preciso saber. Eu já sei que tem pirataria rolando, eu não preciso saber onde nem quantas visualizações tem, nem nada disso. Eu não preciso saber desses detalhes, tá? Eu sei que está rolando, eu sei que tem visualização, eu sei de tudo isso, tá? E eu também sei que está vindo daqui de dentro. Eu também sei que a gente que está aqui como assinante, tem 25 mil assinantes nessa newsletter. Tem gente que está tirando daqui e passando para outras partes. Tem gente fazendo isso. Na medida em que eu vou descobrindo, eu vou bloqueando essas pessoas e vou jogando elas para fora. Mas o que isso eu não posso fazer? Então, para fazer melhor, eu vou precisar de um advogado e vou ter, e vou atrás. Vou atrás. Porque isso é inadmissível. Florice diz assim, professora, o mercado não só representa investidores grandes,"
+    },
+    {
+      "id": "fonte_10_c57",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "57:53–58:49",
+      "text": "mas também seres mortais como eu que faço minha aposentadoria investindo. Com isso eu fico muito constrangida diante dessa demonização do mercado. É, Florice, mas o problema é que tem uma parte do mercado financeiro, como eu dizia, que entende dos problemas. E sim, todos nós temos aplicações no mercado financeiro. Acho que não tem nenhuma pessoa aqui que não tenha. Todos nós temos. Não é esse o ponto. O ponto é, daquelas pessoas que de fato entendem a situação e que têm participação no debate público e que são representantes do mercado financeiro, Por que essas pessoas não estão contribuindo para o entendimento da situação tal qual ela é? Porque dinheiro no mercado financeiro todos nós temos, Florícia. Todos nós. Qualquer pessoa que tenha uma poupança, ou qualquer pessoa que tenha uma aplicação qualquer no banco, ou que tenha como você uma aposentadoria, ou tenha uma aplicação em um fundo de aposentadoria, todas essas pessoas,"
+    },
+    {
+      "id": "fonte_10_c58",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "58:52–59:49",
+      "text": "vocês todos aqui estão ganhando dinheiro com LFT também. Todos vocês. Então, cabe o entendimento generalizado dessa história. Então, quando você fala em demonização do mercado financeiro, não é só quem é gestor, é todo mundo. E não é demonização, é apontamento de erros. Assim, tem erros na condução desse debate e tem pessoas que estão conduzindo esse debate Em nome de seus próprios interesses, em vez de ser em nome dos interesses do país. Então, esse era o ponto que eu queria colocar. Uma hora de live, eu disse a vocês que eu ia encerrar em uma hora, então é isso que eu farei. O que eu vou fazer com essa live daqui? Essa live daqui vai ser publicada e vai ser imediatamente fechada. Ela não vai ficar disponível para todo mundo, vai ficar disponível para vocês aqui, que podem comentar, vocês que são assinantes pagantes, e de resto, ninguém mais. Eu vou fechar exatamente para acabar,"
+    },
+    {
+      "id": "fonte_10_c59",
+      "source_id": "Fonte #10",
+      "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+      "author": "Monica de Bolle",
+      "date": "16/11/2026",
+      "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+      "timestamp": "59:52–01:00:28",
+      "text": "para ver se isso altera um pouco esses incentivos de pirataria que estão rolando por aí afora, tá bom? Então, até quinta, boa noite, quinta-feira a gente volta com o Zé Paulo, vai ter mais discussão sobre essa história Do PL 299, eu sei que o Zé Paulo quer falar sobre isso, a não ser que surja um outro assunto, esse vai ser o nosso assunto na quinta-feira, tá? Então, boa noite para todos vocês, eu estou sim, bem estressada, porque eu estou bastante estressada com essa história de pirataria, eu não estou gostando nem um pouco disso. Então, é isso, gente, fiquem todos bem, até a próxima, até quinta-feira. tchau."
+    },
+    {
+      "id": "fonte_11_c1",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "01:00–02:00",
+      "text": "No final de setembro, aqui mesmo no Substack, publiquei uma proposta para escapar da armadilha dos juros extraordinariamente altos que afligem o Brasil. Um mês depois, com Luiz Orenstein e José Pio Borges, na sede do Cebri, no Rio de Janeiro, discutimos a proposta para uma plateia formada por juristas, diplomatas, homens públicos, economistas e gestores financeiros. O vídeo da conversa, Juros do Banco Central: falsa racionalidade?, também está disponível aqui no meu Substack. A repercussão alcançada pela proposta não deixa dúvida: tocou num nervo exposto do país. O Estado brasileiro tributa muito e gasta mal. Também tributa mal e gasta muito. Há uma longa e urgente agenda de racionalização fiscal a ser discutida e implementada no país, sem a qual é impossível escapar do atoleiro da baixa produtividade e do baixo crescimento. Mesmo depois de vencer a hiperinflação do início dos anos 1990, há mais de três décadas, crescemos muito abaixo do nosso potencial. Embora indissociável da questão dos juros, esse não foi o foco da proposta, por isso não me alonguei no tema."
+    },
+    {
+      "id": "fonte_11_c2",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "03:00–04:00",
+      "text": "Parto da observação de que o motor do crescimento da dívida pública é o serviço da dívida, não porque a dívida seja excepcionalmente alta, mas porque o seu custo, os juros, estes sim, são extraordinariamente altos. Excluído o serviço da dívida, o déficit fiscal brasileiro é relativamente pequeno. Em 2025, o déficit primário foi inferior ao de cerca de dois terços dos países acompanhados pelo FMI, bem abaixo da média dos emergentes (3,9% do PIB) e das economias avançadas (2,5% do PIB). É o déficit nominal, o que soma as despesas com o serviço da dívida ao déficit primário, que é muito alto. Não vou repetir os números, que estão no texto da proposta, mas o resultado é que, se nada for feito, o crescimento da relação dívida/PIB é insustentável. Para interromper a trajetória ascendente da relação dívida/PIB é preciso reduzir o crescimento da dívida e aumentar o crescimento do PIB. Uma afirmação que deveria ser o óbvio, mas o óbvio costuma não ser evidente. A alta taxa de juros reduz o crescimento do PIB e acelera o crescimento da dívida. Ou seja, agrava pelos dois lados — o da dívida e o do PIB — o problema da trajetória insustentável da relação dívida/PIB."
+    },
+    {
+      "id": "fonte_11_c3",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "05:00–06:00",
+      "text": "É imperativo acelerar o crescimento da economia e reduzir o aumento da dívida. Para crescer mais é necessário investir mais, mas com juros extraordinariamente altos, o setor privado não investe. O aumento significativo do investimento público, ao menos num primeiro momento, agravaria o déficit fiscal e a evolução da dívida. Inviável, portanto. Fazer cortes nos gastos públicos para conseguir um superávit primário expressivo, ao estilo do que fez o governo Milei na Argentina, reduziria efetivamente o crescimento da dívida, mas provocaria também uma recessão, que comprometeria o crescimento da renda. Além de ser uma opção economicamente questionável, confrontaria a decisão das urnas, que acabam de derrotar o candidato que defendeu essa agenda. Reduzir os juros é a única saída. Foi o que propus: um programa de coordenação entre as políticas fiscal e monetária, que são indissociáveis, para levar a taxa básica de juros a um nível que garanta a estabilização da dívida em relação ao PIB. Se a taxa de juros da dívida for inferior ao crescimento do PIB, com o déficit primário contido, a relação dívida/PIB se estabilizará."
+    },
+    {
+      "id": "fonte_11_c4",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "07:00–08:00",
+      "text": "O Banco Central anunciaria uma meta para a taxa Selic, definida pelo intervalo entre a inflação, o piso, e o crescimento nominal da renda, o teto do intervalo. O piso evita os juros reais negativos da repressão financeira; o teto garante que a relação dívida/PIB se estabilize. Só em condições extraordinárias, justificadas em carta aberta, a taxa básica ficaria fora desse intervalo. O intervalo final seria um objetivo a ser atingido num prazo a ser determinado pelas circunstâncias. Como sugestão, mera sugestão inicial, proponho que o prazo para atingir o intervalo meta seja algo entre dois e quatro anos. É evidente que não se trata de tabelamento de juros, uma expressão que tem conotações pejorativas, dadas as fracassadas experiências de tabelamento de todo tipo de preços. É uma meta, um intervalo indicativo, cujo propósito é balizar as expectativas, com a indicação do caminho a ser seguido para garantir a sustentabilidade fiscal. É uma política de “forward guidance”, como já fazem os bancos centrais desde o início deste século, com a novidade de explicitar a coordenação das políticas fiscal e monetária. Ao atingir o intervalo objetivo final dos juros, ainda que acrescido de um pequeno prêmio de risco, desde que o déficit primário não fugisse do controle, estaria garantida a sustentabilidade da dívida."
+    },
+    {
+      "id": "fonte_11_c5",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "09:00–11:00",
+      "text": "Riscos institucional e cambial A proposta não está isenta de riscos. Há o risco de falta de credibilidade institucional. As instituições brasileiras, especialmente o Judiciário e o Legislativo, estão desacreditadas. A baixa credibilidade das instituições precisa ser revertida o quanto antes, e não há saída fácil para isso. Mas juros que tornam a trajetória da dívida pública explosiva, inviabilizam o investimento, asfixiam as empresas e as famílias, só agravam o quadro de inconformidade e descrédito. Uma política coerente, de concomitante redução dos juros e de racionalização fiscal, facilitaria a aprovação de reformas institucionais. A falta de credibilidade é causa e consequência da combinação perversa de juros altos e elevada carga tributária, que ameaça paralisar o país. O risco de desvalorização cambial, com implicações perversas para o controle da inflação, foi o ponto mais frequentemente levantado contra a proposta. Os críticos sustentam que, ao se anunciar a redução dos juros, ainda que lenta e gradual, em direção a um intervalo que garanta a convergência da relação dívida/PIB, haveria risco de fuga de capitais e pressão sobre a taxa de câmbio."
+    },
+    {
+      "id": "fonte_11_c6",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "12:00–12:00",
+      "text": "Examinemos o argumento. A sustentabilidade fiscal está no âmago da confiança. Com a atual trajetória insustentável da dívida, por mais alta que seja a remuneração dos títulos públicos, em algum momento a confiança irá desaparecer. Como em toda crise financeira, o processo é inicialmente lento, depois explosivo. É neste momento de pânico que fica impossível evitar a fuga de capitais e sustentar o câmbio. Não me parece que estejamos perto do fim, mas melhor não pagar para ver. Por isso é hora de coordenar a redução dos juros, em direção a um intervalo que garanta a sustentabilidade fiscal, quando as condições ainda são favoráveis. Praticamente não temos dívida pública externa. Temos reservas cambiais expressivas. Além disso, os dólares de exportadores mantidos no exterior, que poderiam ser internalizados por simples revisão das normas do Conselho Monetário Nacional, elevam esse colchão para mais de US$ 400 bilhões. Foi por decisão regulatória, para evitar o custo de carregar reservas ainda maiores, que esses recursos ficaram fora do país. Há mais de uma década temos também um sólido superávit comercial. Nossa moeda não está, por nenhum critério, sobrevalorizada."
+    },
+    {
+      "id": "fonte_11_c7",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "13:00–14:00",
+      "text": "Temos toda condição de anunciar, em conjunto com a meta para os juros, até que ela seja atingida, uma política de suavização da flutuação cambial. Não se trata de defender uma paridade insustentável, um câmbio artificialmente sobrevalorizado. A história demonstra a futilidade desse tipo de política. O objetivo seria balizar e suavizar a flutuação da taxa de câmbio, em torno da meta de inflação, para reduzir o risco de pressão inflacionária vinda do câmbio. A combinação de metas anunciadas, forward guidance, para os juros e o câmbio, não é uma intervenção espúria no mercado, mas uma forma de coordenar expectativas em direção à sustentabilidade fiscal e monetária. Ao balizar a desvalorização do real pela meta de inflação, reduz-se a volatilidade do câmbio e o “carry-trade” — a arbitragem entre o juro interno e o internacional — se torna menos arriscado e mais atraente. A Argentina, do governo hiperliberal de Milei, faz exatamente isso, há dois anos, em condições muito mais adversas. Não tem as reservas de que dispomos, a desvalorização do peso tem sido sistematicamente inferior à inflação corrente e a sua moeda está sobrevalorizada. Exceto por um episódio de forte pressão sobre o peso nos meses que antecederam as eleições legislativas de outubro de 2025, contido com venda de reservas e o apoio do Tesouro americano, não houve corrida contra o peso argentino; ao contrário, o mercado financeiro e a grande maioria de seus analistas aplaudem a política econômica de Milei. Tanto para ancorar as expectativas quanto para aumentar o crescimento potencial da economia, seria oportuno simultaneamente dar início a um programa de desregulamentação e desburocratização, de simplificação regulatória e legislativa, ao estilo do que está em curso na Argentina, capitaneado por Federico Sturzenegger."
+    },
+    {
+      "id": "fonte_11_c8",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "15:00–17:00",
+      "text": "O Banco Central pauta a curva Outra objeção frequente à proposta é a de que o Banco Central controla apenas a taxa de um dia, a Selic, enquanto as taxas para os prazos mais longos, que são as que importam para o custo da dívida, seriam determinadas pelo mercado. Se o BC reduzisse “artificialmente” a taxa básica, as expectativas de inflação seriam desancoradas, “a curva” empinaria e os juros longos subiriam. O tiro sairia pela culatra: a tentativa de reduzir os juros terminaria por elevar o custo da dívida. Os fatos não confirmam essa tese. Os dados do próprio Tesouro Nacional, no Relatório Mensal da Dívida, mostram que, entre 2011 e 2022, o custo médio das novas emissões e do estoque da dívida pública acompanhou de perto a trajetória da Selic. Correlação não significa causalidade, mas neste caso não há dúvida sobre a direção: a Selic é o instrumento do BC, e o custo médio da dívida, que reflete as taxas para os diferentes prazos dos títulos, é a consequência."
+    },
+    {
+      "id": "fonte_11_c9",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "18:00–19:00",
+      "text": "Mesmo quando a redução da taxa básica foi vista pelo mercado como artificial, como entre agosto de 2011 e outubro de 2012, quando o BC reduziu a Selic de 12,5% para 7,25%, o custo médio das emissões acompanhou a queda. As taxas curtas caíram mais do que as longas, a curva ficou mais inclinada, mas na média as taxas e o custo da dívida caíram com a taxa básica. No longo ciclo de baixa iniciado no final de 2016, desta vez com a concordância do mercado, o custo das novas emissões caiu de mais de 14% para menos de 5% ao ano. Com a alta da Selic a partir do início de 2021, voltou a superar 12% ao ano no final de 2022. Os dados mais recentes confirmam o padrão. Entre dezembro de 2011 e setembro de 2026, o custo médio das emissões em oferta pública da dívida interna, acumulado em 12 meses, teve correlação de 0,95 com a Selic acumulada no mesmo período."
+    },
+    {
+      "id": "fonte_11_c10",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "20:00–21:00",
+      "text": "Fontes: Tesouro Nacional, Relatório Mensal da Dívida (série aproximada); Banco Central.O mesmo vale para a ponta longa da curva. Entre janeiro de 2011 e outubro de 2026, a taxa do título prefixado de dez anos do Tesouro acompanhou a trajetória da Selic, com correlação de 0,85 entre as taxas mensais. No ciclo de alta iniciado em 2021, que levou a Selic de 1,9% para 14,9% ao ano, a taxa de dez anos subiu de 7,5% para perto de 15%. Fontes: Tesouro Direto (NTN-F com vencimento mais próximo de 10 anos); Banco Central.O mercado acompanha o Banco Central. A credibilidade da política é importante, mas é o BC, com maior ou menor concordância do mercado, quem determina toda a estrutura a termo das taxas da dívida. Não é “a curva” que pauta o BC, mas o BC quem pauta, ou deveria pautar, o mercado. Por isso, causa espanto ouvir o presidente do Banco Central afirmar que “quem determina a taxa de juros é quem está te emprestando dinheiro, não é quem está tomando dinheiro emprestado”, além de defender que a taxa de juros fixada pelo Banco Central deve ser alta o suficiente, não apenas para garantir a rentabilidade dos especuladores internacionais, mas também para garantir que os rentistas brasileiros, que ganham e gastam em reais, tenham a mesma rentabilidade em dólares. Caso contrário, correriam para comprar dólares e fugir do país, estimulados, com certeza, pelo terrorismo da grande mídia, e até de ex-diretores do Banco Central que se tornaram gestores de recursos de brasileiros no exterior. É possível que pensem em fazê-lo, mas terminarão por regressar ao conforto dos juros internos atraentes, numa dívida sustentável de um país que cresce mais do que o seu endividamento."
+    },
+    {
+      "id": "fonte_11_c11",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "22:00–24:00",
+      "text": "O custo do seguro da rentabilidade em dólares As consequências perversas da política de oferecer alta rentabilidade garantida em dólares aos detentores da dívida brasileira não se resumem a tornar insustentável o crescimento da dívida. O endividamento das empresas e das famílias já atinge níveis críticos. Excluídas Petrobras, Vale e Eletrobras, as companhias abertas não financeiras brasileiras devem 4,6 vezes o seu lucro operacional, praticamente o mesmo que as empresas não financeiras americanas. A dívida é parecida, o custo não: cerca de 9% ao ano para as brasileiras, líquido do que recebem em aplicações, e 3,5% ao ano para as americanas. A despesa financeira líquida consome 40% do lucro operacional das companhias brasileiras e apenas 16% das americanas. Em quatro anos, enquanto o CDI passava de 4,4% para 14,3%, esse peso quase dobrou para a companhia típica, de 23% para 43% do lucro operacional. O resultado aparece no investimento. Em 2025, a companhia brasileira típica investiu o equivalente a 91% da sua depreciação, menos do que o necessário para repor o capital que se desgasta. Em 2021, com o CDI a 4,4%, investia 113%. Nos Estados Unidos, as empresas investem 149% da depreciação."
+    },
+    {
+      "id": "fonte_11_c12",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "25:00–26:00",
+      "text": "Aparece também nos tribunais. Em 2025, a Serasa Experian registrou 977 pedidos de recuperação judicial, o maior número desde 2016 e mais de 50% acima da média histórica, de 53 pedidos por mês. Os pedidos envolveram 2.466 empresas, recorde da série iniciada em 2012, quase o dobro da média histórica de 106 empresas por mês. O número de empresas em recuperação judicial cresceu 36% em 2023, 26% em 2024 e 13% em 2025. No primeiro semestre de 2026, foram mais 1.099 empresas, ritmo ainda cerca de 70% acima da média. O agronegócio, que respondia por 1,3% das empresas em recuperação judicial em 2012, chegou a 30% em 2025. O investidor em ações desapareceu e o mercado acionário encolheu. Em qualquer economia, quem compra ações espera uma rentabilidade superior à de quem aplica em renda fixa de curto prazo. É o prêmio de risco das ações. Como me chamou a atenção Marcelo Medeiros, no Brasil, ele desapareceu. Considerando cada mês de compra entre julho de 1994 e outubro de 2016, e a venda dez anos depois, o Ibovespa, com dividendos reinvestidos, superou o CDI em apenas 93 de 268 janelas, pouco mais de um terço. Nenhuma das 108 compras feitas entre 2004 e 2012 superou o CDI em dez anos. De julho de 1994 a outubro de 2026, o Ibovespa multiplicou-se por 40; o CDI, por 103. Nos Estados Unidos, na Europa e no Japão, as ações superaram a aplicação de curto prazo na grande maioria dos períodos de dez anos."
+    },
+    {
+      "id": "fonte_11_c13",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "27:00–28:00",
+      "text": "Fontes: Ibovespa e CDI; S&P 500 e Fed funds; MSCI Europa e EONIA/€STR; MSCI Japão e call rate japonês. Ações com dividendos, em moeda local.As famílias também pagam a conta. Em agosto de 2026, suas dívidas com o sistema financeiro chegaram a 50,1% da renda acumulada em doze meses, e o pagamento dessas dívidas consumia cerca de 29% da renda mensal, ambos recordes nas séries do Banco Central. Quando a dívida pública paga mais, com liquidez diária e sem risco, do que rende o capital produtivo, não há por que investir. Os juros que garantem a rentabilidade em dólares dos detentores da dívida têm um custo: empresas que não repõem o capital e recorrem à Justiça para sobreviver, famílias que entregam quase um terço da renda aos credores e um mercado de capitais que não financia o crescimento. Volto ao ponto que fundamenta a proposta para a redução dos juros: o custo da dívida, devido à insistência equivocada do Banco Central em fixar a Selic em níveis extraordinariamente altos, é o principal fator por trás do déficit público e do crescimento da dívida. Sem trazer os juros para níveis compatíveis com o crescimento da economia, não há saída: o déficit nominal continuará a alimentar a trajetória ascendente da relação dívida/PIB até que uma crise de confiança paralise a economia, com graves implicações recessivas e inflacionárias."
+    },
+    {
+      "id": "fonte_11_c14",
+      "source_id": "Fonte #11",
+      "title": "Uma nota sobre a proposta de meta para os juros",
+      "author": "André Lara Resende",
+      "date": "16/11/2026",
+      "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+      "timestamp": "29:00–30:00",
+      "text": "É sempre bom repetir: a redução do déficit nominal com a convergência do juro para níveis sustentáveis não pode ser usada para justificar uma política fiscal de demagogia populista. Ao contrário, deveria ser acompanhada por medidas inteligentes de reorganização fiscal, tanto pelo lado dos gastos quanto dos impostos.1 1Para quem se interessar por uma análise mais formal, Dejanir Silva, professor da Universidade Purdue, acaba de divulgar um estudo que avalia a proposta num modelo estimado com dados brasileiros (“Neo-Fisherian Adventures in the Tropics: Monetary Policy and Fiscal Inflation in Brazil”, novembro de 2026). O estudo conclui que um compromisso crível com uma Selic permanentemente mais baixa reduz a inflação no longo prazo, que o peso dos títulos pós-fixados na dívida limita a alta inicial da inflação e que uma venda temporária de reservas pode praticamente eliminá-la. Mostra também que gastar a economia com os juros comprometeria o resultado e que, para que a queda dos juros reais seja duradoura, é preciso reduzir o prêmio de risco cambial ou ajustar as contas públicas."
     }
   ]
 }

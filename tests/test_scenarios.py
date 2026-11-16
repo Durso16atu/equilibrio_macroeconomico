@@ -94,8 +94,8 @@ class TestBasicoEconomiaProject(unittest.TestCase):
 
         with open(index_json, encoding="utf-8") as f:
             data = json.load(f)
-        self.assertEqual(data["metadata"]["total_official_sources"], 8)
-        self.assertGreaterEqual(data["metadata"]["total_transcript_chunks"], 350)
+        self.assertEqual(data["metadata"]["total_official_sources"], 11)
+        self.assertGreaterEqual(data["metadata"]["total_transcript_chunks"], 450)
 
         # Pergunta dentro do escopo homologado (LFTs 51,6%)
         res_in = answer_query("Por que os 51,6% de LFTs geram expansão endógena no Tanque?", api_key="")
@@ -122,6 +122,24 @@ class TestBasicoEconomiaProject(unittest.TestCase):
         self.assertTrue(res_bola.dentro_do_escopo)
         self.assertIn("Circuito Circular", res_bola.resposta_engenharia)
         self.assertEqual(res_bola.citacoes[0].fonte_id, "Fonte #8")
+
+        # Perguntas sobre as Fontes #9, #10 e #11 (16/11/2026)
+        res_f9 = answer_query("Como funciona o plano para desindexar a dívida da Monica de Bolle?", api_key="")
+        self.assertTrue(res_f9.dentro_do_escopo)
+        self.assertIn("4 Partes", res_f9.resposta_engenharia)
+        self.assertIn("IMA-B", res_f9.resposta_engenharia)
+        self.assertEqual(res_f9.citacoes[0].fonte_id, "Fonte #9")
+
+        res_f10 = answer_query("O que é o PLP 299 e a combinação convexa?", api_key="")
+        self.assertTrue(res_f10.dentro_do_escopo)
+        self.assertIn("PLP 299", res_f10.resposta_engenharia)
+        self.assertEqual(res_f10.citacoes[0].fonte_id, "Fonte #10")
+
+        res_f11 = answer_query("O Banco Central pauta a curva longa? E qual o custo nas recuperações judiciais?", api_key="")
+        self.assertTrue(res_f11.dentro_do_escopo)
+        self.assertIn("0,95", res_f11.resposta_engenharia)
+        self.assertIn("103x", res_f11.resposta_engenharia)
+        self.assertEqual(res_f11.citacoes[0].fonte_id, "Fonte #11")
 
         # Pergunta fora do escopo homologado deve ser recusada estritamente
         res_out = answer_query("Qual a receita de bolo de chocolate e o placar do jogo?", api_key="")

@@ -98,7 +98,10 @@ DOMAIN_VOCAB = {
     "racionalidade", "phillips", "primario", "nominal", "dbgg", "dlsp", "estoque",
     "fluxo", "paeg", "cruzado", "real", "urv", "ortn", "indexacao", "simulador",
     "estabilidade", "51,6%", "51.6%", "52%", "82,9%", "corte", "cortes", "reforma",
-    "tabelamento", "meta", "habito", "comportamental", "circular", "bola", "neve", "inacabada"
+    "tabelamento", "meta", "habito", "comportamental", "circular", "bola", "neve", "inacabada",
+    "desindexar", "desindexacao", "ima-b", "irf-m", "anbima", "uruguai", "299", "plp",
+    "convexa", "curva", "ibovespa", "cdi", "recuperacao", "judicial", "depreciacao",
+    "dejanir", "purdue", "19%", "53%", "400"
 }
 
 

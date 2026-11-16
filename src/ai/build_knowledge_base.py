@@ -91,9 +91,33 @@ OFFICIAL_SOURCES: dict[str, dict[str, str]] = {
         "url": "https://www.youtube.com/watch?v=FkaGD9Tig6M",
         "file": "2026-11-14_solucao_juros_monica_de_bolle.txt",
     },
+    "fonte_9": {
+        "id": "Fonte #9",
+        "title": "Esboço de uma Proposta para Desindexar a Dívida Pública Federal",
+        "author": "Monica de Bolle",
+        "date": "16/11/2026",
+        "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+        "file": "2026-11-16_esboco_proposta_desindexar_divida_bolle.txt",
+    },
+    "fonte_10": {
+        "id": "Fonte #10",
+        "title": "As Dificuldades do Governo com a Política Fiscal (PLP 299 e Desindexação)",
+        "author": "Monica de Bolle",
+        "date": "16/11/2026",
+        "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+        "file": "2026-11-16_dificuldades_governo_politica_fiscal.txt",
+    },
+    "fonte_11": {
+        "id": "Fonte #11",
+        "title": "Uma nota sobre a proposta de meta para os juros",
+        "author": "André Lara Resende",
+        "date": "16/11/2026",
+        "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+        "file": "2026-11-16_nota_proposta_meta_juros_lara_resende.txt",
+    },
 }
 
-# 12 Fichas Didáticas Granulares (Pensadas para quem não é economista)
+# 15 Fichas Didáticas Granulares (Pensadas para quem não é economista)
 CANONICAL_TOPICS: list[dict[str, Any]] = [
     {
         "id": "canon_calculo_pib",
@@ -420,6 +444,96 @@ CANONICAL_TOPICS: list[dict[str, Any]] = [
             "bola de neve circular.\n\n"
             "3️⃣ No Simulador 2D: Experimente subir a Válvula 3 (Selic) para 15%: você verá a camada laranja "
             "de LFTs inflar o Tanque e derrubar a Estabilidade do Sistema, comprovando visualmente o efeito bola de neve."
+        ),
+    },
+    {
+        "id": "canon_plano_desindexacao_bolle",
+        "title": "Plano de Desindexação Voluntária das LFTs em 4 Partes (Monica de Bolle, 16/11/2026)",
+        "source_id": "Fonte #9",
+        "author": "Monica de Bolle (Esboço para Desindexar a Dívida, 16/11/2026)",
+        "url": "https://bolle.substack.com/p/esboco-de-uma-proposta-para-desindexar",
+        "timestamp": "Artigo Integral [01:00–31:00]",
+        "primary_triggers": [
+            "esboco de uma proposta", "proposta para desindexar", "desindexar a divida",
+            "desindexacao da divida", "plano da monica", "proposta da monica", "ima-b", "irf-m",
+            "benchmark cdi", "uruguai 2003", "sweetener", "titulo de transicao", "22,5%"
+        ],
+        "keywords": [
+            "desindexar", "desindexacao", "voluntaria", "cardapio", "transicao", "sweetener",
+            "uruguai", "22,5%", "isencao", "irf-m", "ima-b", "anbima", "extramercado", "19%"
+        ],
+        "synthesis": (
+            "1️⃣ Em linguagem simples (Desindexação ≠ Reestruturação): Com a dívida em R$ 9,4 tri (~83% do PIB) "
+            "e 51,6% em LFTs, Monica de Bolle (Fonte #9) propõe uma desindexação 100% VOLUNTÁRIA para o futuro, "
+            "sem mexer nos contratos atuais.\n\n"
+            "2️⃣ As 4 Partes Articuladas Simultaneamente:\n"
+            "• Parte 1 (Meta de Inflação de 4,5% + Ajuste Fiscal): Mudança única e definitiva para 4,5% "
+            "(patamar de 2005–2018), casada com ajuste fiscal para não desancorar expectativas;\n"
+            "• Parte 2 (Trajetória da Selic ≤ 10% em 2 anos): Com autonomia do BC preservada;\n"
+            "• Parte 3 (Swap voluntário em 4 rodadas anuais após o 1º corte da Selic): Cardápio com 3 opções "
+            "(Prefixado 5–10 anos, IPCA+ para fundos de pensão, ou Título de Transição que paga Selic por 2 anos e vira prefixado);\n"
+            "• Parte 4 (Incentivos Tributários e Regulatórios): IR de 22,5% para novas aplicações atreladas a Selic/CDI "
+            "e ISENÇÃO (0%) para prefixados/IPCA+ > 5 anos; bancos deixam de usar LFT para regra de liquidez; e fundos "
+            "trocam o benchmark CDI pelos índices IRF-M e IMA-B (como o CMN fez em 2012 nos fundos extramercado, reduzindo as LFTs de 30% para 19% em 2014).\n\n"
+            "3️⃣ No Simulador 2D: É a engenharia detalhada por trás do Controle 4 (Swap de LFTs) combinada com o Controle 3 (Selic a 10%)."
+        ),
+    },
+    {
+        "id": "canon_plp299_combinacao_convexa",
+        "title": "Política Fiscal, PLP 299 e a 'Combinação Convexa' (Monica de Bolle, 16/11/2026)",
+        "source_id": "Fonte #10",
+        "author": "Monica de Bolle (Live: As Dificuldades com a Política Fiscal, 16/11/2026)",
+        "url": "https://bolle.substack.com/p/as-dificuldades-do-governo-com-a",
+        "timestamp": "05:38–32:10 e 52:55–53:42",
+        "primary_triggers": [
+            "pl 299", "plp 299", "dificuldades do governo", "fogo amigo", "combinacao convexa",
+            "teto de 53%", "dilma 2012", "19% da divida"
+        ],
+        "keywords": [
+            "299", "arcabouco", "fogo amigo", "convexa", "53%", "19%", "dilma", "simultaneamente"
+        ],
+        "synthesis": (
+            "1️⃣ O que é o ajuste do PLP 299 ([05:38–09:45]): Ele não destrói pisos de saúde/educação nem programas "
+            "sociais; apenas executa a meta já prevista no arcabouço fiscal desde 2023: sair de um déficit primário "
+            "de -0,5% do PIB (2026) para superávit de +0,5% do PIB (2027) — um ajuste de 1 p.p. do PIB.\n\n"
+            "2️⃣ Sem Ajuste Fiscal não há Desindexação ([25:09–32:10] e [53:15]): O Tesouro projeta um teto de até "
+            "53% da dívida em LFTs, o que é calamitoso (entre 2012 e 2014 o Brasil conseguiu baixar as LFTs para 19%, "
+            "o menor nível da história). Porém, não existe mágica: mexer na meta de inflação ou fazer swap de LFTs "
+            "exige ajuste fiscal simultâneo para garantir a trajetória de queda dos juros. A solução final será uma "
+            "'combinação convexa' das melhores propostas técnicas.\n\n"
+            "3️⃣ No Simulador 2D: Comprova por que os 4 controles precisam atuar juntos (Válvulas Fiscais 1 e 2 + Selic 3 + Swap 4)."
+        ),
+    },
+    {
+        "id": "canon_nota_meta_juros_lara_resende",
+        "title": "O BC Pauta a Curva Longa (Correlação 0,95) e o Custo na Economia Real (Lara Resende, 16/11/2026)",
+        "source_id": "Fonte #11",
+        "author": "André Lara Resende (Uma nota sobre a proposta de meta para os juros, 16/11/2026)",
+        "url": "https://andrelararesende.substack.com/p/uma-nota-sobre-a-proposta-de-meta",
+        "timestamp": "Artigo Integral [01:00–30:00]",
+        "primary_triggers": [
+            "nota sobre a proposta", "proposta de meta para os juros", "bc pauta a curva",
+            "banco central pauta a curva", "correlacao de 0,95", "recuperacao judicial",
+            "recuperacoes judiciais", "ibovespa vs cdi", "103 vezes", "400 bilhoes", "dejanir silva"
+        ],
+        "keywords": [
+            "intervalo", "forward guidance", "400 bilhoes", "curva", "0,95", "0,85",
+            "recuperacao judicial", "depreciacao", "ibovespa", "103", "dejanir", "purdue"
+        ],
+        "synthesis": (
+            "1️⃣ Intervalo-Meta (Forward Guidance) e Colchão de US$ 400 bi: André Lara Resende (Fonte #11) propõe "
+            "um intervalo para a Selic entre a inflação (piso, evitando juro real negativo) e o crescimento do PIB "
+            "nominal (teto, estabilizando Dívida/PIB) num horizonte de 2 a 4 anos. Somando as reservas do BC aos "
+            "dólares de exportadores no exterior, o Brasil tem um colchão > US$ 400 bilhões para suavizar o câmbio.\n\n"
+            "2️⃣ O BC pauta a curva longa (Correlação de 0,95): Dados do Tesouro (2011–2026) refutam a tese de que "
+            "'cortar a Selic empina a curva longa': a Selic tem correlação de 0,95 com o custo médio de emissão da "
+            "dívida e de 0,85 com o título prefixado de 10 anos.\n\n"
+            "3️⃣ O Custo Devastador do CDI na Economia Real:\n"
+            "• Empresas: A despesa financeira consome 40% a 43% do lucro operacional no Brasil (vs. 16% nos EUA); "
+            "o investimento caiu a 91% da depreciação (não repõe o desgaste) e as recuperações judiciais bateram "
+            "recorde (2.466 empresas em 2025 e 1.099 no 1º sem/2026);\n"
+            "• Famílias e Bolsa: Dívidas consomem 29% da renda mensal das famílias (recorde); e de 1994 a 2026 o "
+            "CDI multiplicou-se por 103x contra apenas 40x do Ibovespa, matando o investimento produtivo."
         ),
     },
 ]

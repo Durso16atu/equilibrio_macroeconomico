@@ -31,7 +31,10 @@ window.ChangeMacroConsultant = (function () {
     "51.6", "52%", "38%", "82,9", "600", "800", "corte", "cortes", "social", "reforma", "equilibrio",
     "equilíbrio", "economia", "ajuste", "orcamento", "orçamento", "imposto", "tributario",
     "credito", "crédito", "preço", "preco", "planta", "hidraulico", "hidráulico", "tabelamento",
-    "meta", "habito", "hábito", "comportamental", "circular", "bola", "neve", "inacabada"
+    "meta", "habito", "hábito", "comportamental", "circular", "bola", "neve", "inacabada",
+    "desindexar", "desindexacao", "desindexação", "ima-b", "irf-m", "anbima", "uruguai",
+    "299", "plp", "convexa", "curva", "ibovespa", "cdi", "recuperacao", "recuperação",
+    "judicial", "depreciacao", "depreciação", "dejanir", "purdue", "19%", "53%", "400"
   ];
 
   // Comandos curtos de continuação de conversa
@@ -500,7 +503,7 @@ window.ChangeMacroConsultant = (function () {
       badge.style.color = "#6ee7b7";
       badge.style.borderColor = "#10b981";
     } else {
-      badge.textContent = "🟢 Índice Local (8 Fontes)";
+      badge.textContent = "🟢 Índice Local (11 Fontes)";
       badge.style.backgroundColor = "#164e63";
       badge.style.color = "#67e8f9";
       badge.style.borderColor = "#06b6d4";
@@ -544,10 +547,10 @@ window.ChangeMacroConsultant = (function () {
         type="button"
         onclick="ChangeMacroConsultant.toggleDrawer()"
         style="position:fixed;bottom:18px;right:18px;z-index:9990;background-color:#0f172a;color:#ffffff;border:2px solid #06b6d4;border-radius:9999px;padding:10px 18px;font-weight:800;font-size:13px;box-shadow:0 12px 32px rgba(0,0,0,0.85);display:flex;align-items:center;gap:8px;cursor:pointer;"
-        title="Abrir Consultor ChangeMacro (Treinado exclusivamente nas 7 fontes homologadas)"
+        title="Abrir Consultor ChangeMacro (Treinado exclusivamente nas 11 fontes homologadas)"
       >
         <span>💬 Consultor Change<span style="color:#22d3ee;">Macro</span></span>
-        <span style="font-size:10px;font-family:'JetBrains Mono',monospace;padding:2px 7px;border-radius:6px;background-color:#064e3b;color:#6ee7b7;border:1px solid #10b981;">7 Fontes</span>
+        <span style="font-size:10px;font-family:'JetBrains Mono',monospace;padding:2px 7px;border-radius:6px;background-color:#064e3b;color:#6ee7b7;border:1px solid #10b981;">11 Fontes</span>
       </button>
 
       <!-- Painel Sólido Opaco de Alto Contraste (Sem transparência sobre o fundo) -->
@@ -563,7 +566,7 @@ window.ChangeMacroConsultant = (function () {
             <div>
               <div style="display:flex;align-items:center;gap:6px;flex-wrap:wrap;">
                 <span style="font-size:14px;font-weight:800;color:#ffffff;">Consultor Change<span style="color:#22d3ee;">Macro</span></span>
-                <span id="cm-engine-status" style="font-size:10px;font-family:'JetBrains Mono',monospace;padding:2px 7px;border-radius:6px;background-color:#164e63;color:#67e8f9;border:1px solid #06b6d4;font-weight:700;">🟢 Índice Local (8 Fontes)</span>
+                <span id="cm-engine-status" style="font-size:10px;font-family:'JetBrains Mono',monospace;padding:2px 7px;border-radius:6px;background-color:#164e63;color:#67e8f9;border:1px solid #06b6d4;font-weight:700;">🟢 Índice Local (11 Fontes)</span>
               </div>
               <div style="font-size:11px;color:#cbd5e1;margin-top:2px;">
                 Escopo 100% restrito aos dados homologados no projeto
@@ -597,7 +600,7 @@ window.ChangeMacroConsultant = (function () {
             <a href="https://aistudio.google.com/app/apikey" target="_blank" rel="noopener noreferrer" style="font-size:11px;color:#34d399;text-decoration:underline;">Gerar Chave Gratuita ↗</a>
           </div>
           <p style="font-size:11px;color:#cbd5e1;line-height:1.45;margin-bottom:8px;">
-            Sem chave, o consultor responde na hora pelo <strong>Índice Local Homologado</strong>. Com chave do AI Studio, ativa a síntese generativa Gemini Flash restrita às 8 fontes.
+            Sem chave, o consultor responde na hora pelo <strong>Índice Local Homologado</strong>. Com chave do AI Studio, ativa a síntese generativa Gemini Flash restrita às 11 fontes.
           </p>
           <input
             id="cm-input-apikey"
@@ -622,11 +625,11 @@ window.ChangeMacroConsultant = (function () {
           <button type="button" onclick="ChangeMacroConsultant.askQuestion('Como calcula o PIB?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#1e3a8a;color:#dbeafe;border:1px solid #60a5fa;font-weight:700;cursor:pointer;">
             📊 Como calcula o PIB?
           </button>
-          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Por que os 51,6% de LFTs geram expansão endógena no Tanque?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#78350f;color:#fef3c7;border:1px solid #f59e0b;font-weight:700;cursor:pointer;">
-            🔗 O que é LFT (51,6%)?
+          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Como funciona o plano para desindexar a dívida da Monica de Bolle?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#78350f;color:#fef3c7;border:1px solid #f59e0b;font-weight:700;cursor:pointer;">
+            📋 Desindexar LFTs (4 partes)
           </button>
-          <button type="button" onclick="ChangeMacroConsultant.askQuestion('Por que juros altos aceleram a inflação no Brasil? (Bola de neve)')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#064e3b;color:#d1fae5;border:1px solid #10b981;font-weight:700;cursor:pointer;">
-            🔄 Juros Altos × Inflação
+          <button type="button" onclick="ChangeMacroConsultant.askQuestion('O Banco Central pauta a curva longa? E qual o custo nas recuperações judiciais?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#064e3b;color:#d1fae5;border:1px solid #10b981;font-weight:700;cursor:pointer;">
+            📉 BC Pauta a Curva (0,95)
           </button>
           <button type="button" onclick="ChangeMacroConsultant.askQuestion('Meta de juros é tabelamento?')" style="font-size:11px;padding:4px 9px;border-radius:8px;background-color:#3b0764;color:#f3e8ff;border:1px solid #c084fc;font-weight:700;cursor:pointer;">
             🎯 Meta ≠ Tabelamento
@@ -641,7 +644,7 @@ window.ChangeMacroConsultant = (function () {
           <div style="border-radius:12px;padding:12px;font-size:12.5px;background-color:#0f172a;border:1px solid #38bdf8;color:#f1f5f9;">
             <div style="font-weight:800;color:#38bdf8;margin-bottom:4px;">👷 Olá! Sou o Consultor ChangeMacro.</div>
             <div style="line-height:1.5;">
-              Respondo <strong>exclusivamente</strong> com base nas <strong>8 fontes homologadas</strong> (Monica de Bolle, André Lara Resende e José Paulo Kupfer — 12 guias didáticos + 402 blocos minutados) e leio em tempo real os controles da sua planta 2D. Clique em um dos temas acima ou digite sua dúvida abaixo!
+              Respondo <strong>exclusivamente</strong> com base nas <strong>11 fontes homologadas</strong> (Monica de Bolle, André Lara Resende e José Paulo Kupfer — 15 guias didáticos + blocos minutados) e leio em tempo real os controles da sua planta 2D. Clique em um dos temas acima ou digite sua dúvida abaixo!
             </div>
           </div>
         </div>
